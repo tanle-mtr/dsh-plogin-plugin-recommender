@@ -1,0 +1,13 @@
+{
+  "name": "dsh-plogin-plugin-recommender",
+  "version": "1.0.0",
+  "description": "AI-powered curated list of DeepSeek Harness (DSH) plugins. Automatically discovered, analyzed and categorized by AI every hour.",
+  "scripts": {
+    "fetch": "node scripts/fetch-plugins.js",
+    "categorize": "node scripts/categorize.js",
+    "update": "node scripts/update-readme.js",
+    "full": "node scripts/fetch-plugins.js && node scripts/categorize.js && node scripts/update-readme.js"
+  },
+  "keywords": ["dsh", "deepseek-harness", "plugin", "ai", "recommender"],
+  "license": "MIT"
+}
