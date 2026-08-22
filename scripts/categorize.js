@@ -1,7 +1,7 @@
 const https = require("https");
 const fs = require("fs");
 
-const AI_API_KEY = process.env.AI_API_KEY || "sk-f0jxwPbzxTKzjVhGTVlwwVmqgP9Ii2AnFOdQKUUOuikUpATB";
+const AI_API_KEY = process.env.AI_API_KEY;
 const AI_API_URL = process.env.AI_API_URL || "https://apihub.agnes-ai.com/v1";
 const AI_MODEL = process.env.AI_MODEL || "agnes-2.5-flash";
 
@@ -43,24 +43,22 @@ function apiCall(messages) {
 }
 
 async function categorizePlugins(repos) {
-  // Only use repos with stars >= 30 to reduce noise
-  const candidates = repos.filter((r) => r.stars >= 30).slice(0, 90);
-
   const chunkSize = 15;
   const chunks = [];
-  for (let i = 0; i < candidates.length; i += chunkSize) {
-    chunks.push(candidates.slice(i, i + chunkSize));
+  for (let i = 0; i < repos.length; i += chunkSize) {
+    chunks.push(repos.slice(i, i + chunkSize));
   }
 
   const allResults = [];
 
   for (let ci = 0; ci < chunks.length; ci++) {
     const chunk = chunks[ci];
+    const startIndex = ci * chunkSize + 1;
 
     const repoList = chunk
       .map(
         (r, idx) =>
-          `${ci * chunkSize + idx + 1}. "${r.name}" | stars:${r.stars} | lang:${r.language} | topics:[${(r.topics || []).join(",")}] | desc:"${r.desc.substring(0, 150)}"`
+          `${startIndex + idx}. "${r.name}" | stars:${r.stars} | lang:${r.language} | topics:[${(r.topics || []).join(",")}] | desc:"${r.desc.substring(0, 150)}"`
       )
       .join("\n");
 
@@ -179,6 +177,12 @@ Return JSON array:
 }
 
 async function main() {
+  if (!AI_API_KEY) {
+    console.error("Error: AI_API_KEY environment variable is required.");
+    console.error("Set it in your GitHub Actions secrets as AI_API_KEY.");
+    process.exit(1);
+  }
+
   const repos = JSON.parse(fs.readFileSync("plugins.json", "utf8"));
   console.log(`Loaded ${repos.length} plugins`);
 

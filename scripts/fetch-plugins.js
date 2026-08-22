@@ -2,7 +2,14 @@ const https = require("https");
 const fs = require("fs");
 const { execSync } = require("child_process");
 
-const token = process.env.GITHUB_TOKEN || execSync("gh auth token").toString().trim();
+let token = process.env.GITHUB_TOKEN;
+if (!token) {
+  try {
+    token = execSync("gh auth token").toString().trim();
+  } catch (e) {
+    console.warn("Warning: No GITHUB_TOKEN found. Using unauthenticated access (rate limited).");
+  }
+}
 
 const SEARCH_QUERIES = [
   "dsh-plugin",

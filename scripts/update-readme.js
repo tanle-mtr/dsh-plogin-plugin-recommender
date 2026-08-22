@@ -59,11 +59,8 @@ function generateREADME(categorized) {
 
   md += `## How It Works\n\n`;
   md += `1. **Discovery** — Searches GitHub for repos matching dsh-plogin, deepseek-harness, dsh-plugin, etc.\n`;
-  md += `2. **AI Analysis** — Uses agnes-2.5-flash to categorize and rank plugins by relevance and quality\n`;
+  md += `2. **AI Analysis** — Uses AI to categorize and rank plugins by relevance and quality\n`;
   md += `3. **Update** — GitHub Actions runs every hour to fetch new plugins and regenerate this list\n\n`;
-  md += `## API\n\n`;
-  md += `- **Model:** agnes-2.5-flash\n`;
-  md += `- **Endpoint:** \`https://apihub.agnes-ai.com/v1\`\n\n`;
   md += `## License\n\nMIT\n`;
 
   return md;
