@@ -8,33 +8,33 @@
 
 ## Plugins
 
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
 
-- **⭐ Stars:** 97
-- **Language:** JavaScript
-- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **Tags:** `mcp`, `skills`, `management`
-- **Why use it:** Manage skills and MCP servers directly from DSH Web UI.
-
----
-
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
-
-- **⭐ Stars:** 11
+- **⭐ Stars:** 3,556
 - **Language:** TypeScript
-- **Description:** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
-- **Tags:** `mcp`, `skills`
-- **Why use it:** Unified menu to manage MCP tool exposure levels and execution modes
+- **Description:** The World's First Unified Virtual Filesystem For AI Agents
+- **Tags:** `vfs`, `filesystem`, `tools`
+- **Why use it:** Unified virtual filesystem enabling persistent cross-session agent file ops.
 
 ---
 
-### [pazz11/Jnpz](https://github.com/pazz11/Jnpz)
+### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
 
-- **⭐ Stars:** 11
+- **⭐ Stars:** 21
 - **Language:** JavaScript
-- **Description:** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
-- **Tags:** `mcp-server`, `skill-management`
-- **Why use it:** Hot-reload MCP servers and skill management without config restarts
+- **Description:** One-tap Codex move-in to DSH: auto-import project chats, two-way Skills & MCP sync.
+- **Tags:** `codex`, `mcp`, `sync`, `import`
+- **Why use it:** One-tap Codex import with two-way Skills and MCP sync
+
+---
+
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+
+- **⭐ Stars:** 15
+- **Language:** TypeScript
+- **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器��
+- **Tags:** `mcp`, `skills-manager`, `web-ui`
+- **Why use it:** Web GUI plugin to manage skills and MCP servers in browser
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 2
 - **Language:** JavaScript
 - **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `ai-agents`, `chatgpt`, `oauth`, `subscription`
-- **Why use it:** OAuth bind ChatGPT account to chat with ChatGPT models inside DSH
+- **Tags:** `chatgpt`, `oauth`, `mcp`
+- **Why use it:** Bind ChatGPT account via OAuth to chat with models inside DSH.
 
 ---
 

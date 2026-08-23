@@ -8,33 +8,33 @@
 
 ## 插件列表
 
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
 
-- **⭐ 星标：** 97
-- **语言：** JavaScript
-- **描述：** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **标签：** `mcp`, `skills`, `management`
-- **推荐理由：** 在Web界面中管理技能和MCP服务器。
-
----
-
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
-
-- **⭐ 星标：** 11
+- **⭐ 星标：** 3,556
 - **语言：** TypeScript
-- **描述：** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
-- **标签：** `mcp`, `skills`
-- **推荐理由：** 统一管理MCP工具暴露级别与执行模式
+- **描述：** The World's First Unified Virtual Filesystem For AI Agents
+- **标签：** `vfs`, `filesystem`, `tools`
+- **推荐理由：** 统一虚拟文件系统，支持跨会话持久化文件操作。
 
 ---
 
-### [pazz11/Jnpz](https://github.com/pazz11/Jnpz)
+### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
 
-- **⭐ 星标：** 11
+- **⭐ 星标：** 21
 - **语言：** JavaScript
-- **描述：** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
-- **标签：** `mcp-server`, `skill-management`
-- **推荐理由：** 粘贴JSON即连MCP服务器，热加载免重启
+- **描述：** One-tap Codex move-in to DSH: auto-import project chats, two-way Skills & MCP sync.
+- **标签：** `codex`, `mcp`, `sync`, `import`
+- **推荐理由：** 一键迁移Codex数据，支持技能与MCP双向同步
+
+---
+
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+
+- **⭐ 星标：** 15
+- **语言：** TypeScript
+- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器��
+- **标签：** `mcp`, `skills-manager`, `web-ui`
+- **推荐理由：** Web端技能与MCP服务器管理插件
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 2
 - **语言：** JavaScript
 - **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `ai-agents`, `chatgpt`, `oauth`, `subscription`
-- **推荐理由：** OAuth绑定ChatGPT账号，在DSH内对话ChatGPT模型
+- **标签：** `chatgpt`, `oauth`, `mcp`
+- **推荐理由：** 通过OAuth绑定ChatGPT账号，在DSH内对话。
 
 ---
 
