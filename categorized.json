@@ -257,7 +257,7 @@
     "stars": 11556,
     "language": "Python",
     "description": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Curated DSH plugin discovery list",
     "tags": [
       "awesome-list",
@@ -724,7 +724,7 @@
     "stars": 975,
     "language": "Unknown",
     "description": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Curated DSH plugin ecosystem list",
     "tags": [
       "awesome-list",
@@ -750,7 +750,7 @@
     "stars": 838,
     "language": "Python",
     "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Curated DSH tools & infrastructure list",
     "tags": [
       "awesome-list",
@@ -1010,7 +1010,7 @@
     "stars": 205,
     "language": "TypeScript",
     "description": "DSH (DeepSeek Harness) 原理学习、插件市场与最佳实践 · Learn DSH principles, plugin marketplace & best practices",
-    "category": "Other",
+    "category": "Utilities & Infrastructure",
     "recommendation": "DSH principles, plugin marketplace guide & best practices",
     "tags": [
       "guide",
@@ -1052,7 +1052,7 @@
     "stars": 181,
     "language": "TypeScript",
     "description": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Curated DSH ecosystem resource list and plugin index",
     "tags": [
       "awesome-list",
@@ -1136,7 +1136,7 @@
     "stars": 162,
     "language": "TypeScript",
     "description": "DeepSeek Harness plugin store, marketplace and hub — 3,100+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，��费搜索 API。deepseek1024.com",
-    "category": "Other",
+    "category": "MCP Servers & Tools",
     "recommendation": "3,100+ plugin marketplace with search and public API access",
     "tags": [
       "marketplace",
@@ -1164,7 +1164,7 @@
     "stars": 161,
     "language": "HTML",
     "description": "DeepSeek-Harness-Plugins",
-    "category": "Other",
+    "category": "Utilities & Infrastructure",
     "recommendation": "Plugin marketplace and hub for DeepSeek Harness ecosystem",
     "tags": [
       "marketplace",
@@ -1178,7 +1178,7 @@
     "stars": 159,
     "language": "TypeScript",
     "description": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
-    "category": "Other",
+    "category": "Agent Skills & Workflows",
     "recommendation": "Search anime across sources with Bangumi ratings and magnet links",
     "tags": [
       "anime",
@@ -1331,7 +1331,7 @@
     "stars": 102,
     "language": "HTML",
     "description": "Awesome DeepSeek Harness (DSH) Plugin",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Curated awesome list of DSH plugins & resources",
     "tags": [
       "awesome-list",
@@ -1428,7 +1428,7 @@
     "stars": 76,
     "language": "Python",
     "description": "A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Curated directory of DSH plugins, tools & resources",
     "tags": [
       "awesome-list",
@@ -1441,7 +1441,7 @@
     "stars": 69,
     "language": "Python",
     "description": "🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH: a community-maintained catalog of DeepSeek Harness plugins, auto-synced from the dsh-plugin topic",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Auto-synced plugin community catalog & curated list",
     "tags": [
       "awesome-list",
@@ -1539,7 +1539,7 @@
     "stars": 41,
     "language": "JavaScript",
     "description": "Awesome DSH Cordis Plugins — the official, auto-generated list of DeepSeek Harness Cordis plugins, curated by cordis.run 由 cordis.run 精选维护的 DeepSeek Harness Cordis 插件官方自动生成列表。",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Official curated plugin directory by cordis.run",
     "tags": [
       "directory",
@@ -1899,7 +1899,7 @@
     "stars": 13,
     "language": "TypeScript",
     "description": "Awesome DSH Plugins: a public GitHub directory for DeepSeek Harness plugins, DSH plugins, install commands, and ecosystem discovery.",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Awesome list and plugin discovery directory for DSH",
     "tags": [
       "awesome-list",
@@ -1992,7 +1992,7 @@
     "stars": 12,
     "language": "Shell",
     "description": "A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Curated list of DSH plugins",
     "tags": [
       "awesome-list",
@@ -2168,7 +2168,7 @@
     "stars": 9,
     "language": "TypeScript",
     "description": "Unofficial community catalog for DeepSeek Harness plugins.",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Community-curated DSH plugin catalog",
     "tags": [
       "awesome-list",
@@ -2196,7 +2196,7 @@
     "stars": 6,
     "language": "Python",
     "description": "A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Curated plugin directory with permission-aware install guide",
     "tags": [
       "awesome-list",
@@ -2209,7 +2209,7 @@
     "stars": 5,
     "language": "JavaScript",
     "description": "Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles, and skills. ",
-    "category": "Other",
+    "category": "Utilities & Infrastructure",
     "recommendation": "Spam-filtered open-data plugin and skill registry",
     "tags": [
       "registry",
@@ -2222,7 +2222,7 @@
     "stars": 5,
     "language": "Unknown",
     "description": "Curated vertical list of stock/finance/quant plugins for DeepSeek Harness (dsh) — 24 verified entries, bilingual",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Curated stock/finance/quant plugin vertical list",
     "tags": [
       "finance",
@@ -2264,7 +2264,7 @@
     "stars": 4,
     "language": "Python",
     "description": "Curated list of DeepSeek Harness (DSH) plugins for 2026, with quality check.",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Curated DSH plugin list for 2026",
     "tags": [
       "awesome-list",
@@ -2290,7 +2290,7 @@
     "stars": 3,
     "language": "Unknown",
     "description": "好用的DeepSeek Harness插件集合",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Community curated DSH plugin collection",
     "tags": [
       "awesome-list",
@@ -2303,7 +2303,7 @@
     "stars": 3,
     "language": "Unknown",
     "description": "面向 DeepSeek Harness 用户的插件产品说明书与导航：按场景选插件，了解安装、权限、兼容性和风险",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Plugin navigator with install & risk guides",
     "tags": [
       "navigation",
@@ -2316,7 +2316,7 @@
     "stars": 3,
     "language": "JavaScript",
     "description": "Evidence-backed DeepSeek Harness plugin radar and 2Origin plugin lab",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Evidence-backed DSH plugin radar",
     "tags": [
       "radar",
@@ -2355,7 +2355,7 @@
     "stars": 2,
     "language": "Unknown",
     "description": "Moved → github.com/awesome-dsh-plugin/awesome-dsh-plugin",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Moved to awesome-dsh-plugin org",
     "tags": [
       "awesome-list",
@@ -2368,7 +2368,7 @@
     "stars": 2,
     "language": "Python",
     "description": "Verified, star-ranked community plugins for DeepSeek Harness (dsh).",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Star-ranked verified community plugins",
     "tags": [
       "verified",
@@ -2381,7 +2381,7 @@
     "stars": 2,
     "language": "TypeScript",
     "description": "Evidence-led bilingual directory of DeepSeek Harness plugins, reviewed at immutable commits.",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Evidence-led bilingual reviewed directory",
     "tags": [
       "bilingual",
@@ -2394,7 +2394,7 @@
     "stars": 2,
     "language": "Python",
     "description": "Awesome dsh plugin list — automated DeepSeek Harness plugin directory. Daily GitHub Actions crawl of topic:dsh-plugin / topic:deepseek-harness, bilingual README + machine-readable JSON/CSV",
-    "category": "Other",
+    "category": "Research & Analysis",
     "recommendation": "Auto-crawled bilingual DSH plugin directory",
     "tags": [
       "directory",

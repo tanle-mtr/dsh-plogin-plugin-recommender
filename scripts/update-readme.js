@@ -1,4 +1,4 @@
-﻿const fs = require("fs");
+const fs = require("fs");
 
 function generateREADME(categorized) {
   const now = new Date().toISOString();
@@ -97,6 +97,11 @@ function generateREADME(categorized) {
   md += "- **Twitter/X**: [Share](https://twitter.com/intent/tweet?text=Check%20out%20this%20amazing%20AI-curated%20DeepSeek%20Harness%20plugin%20list!&url=https://github.com/tanle-mtr/dsh-plogin-plugin-recommender)\n";
   md += "- **Reddit**: r/deepseek, r/localllama, r/Cline\n";
   md += "- **Discord**: DeepSeek community servers\n\n";
+  md += "---\n\n";
+  md += "## Sponsor\n\n";
+  md += "If this list helped you find great plugins, consider supporting the project:\n\n";
+  md += "- [🩷 **Sponsor on GitHub**](https://github.com/sponsors/tanle-mtr) — buy me a coffee or become a monthly supporter\n";
+  md += "- [📄 **More ways to help**](SPONSORS.md) — star, share, or contribute code\n\n";
   md += "---\n\n";
   md += "## License\n\n";
   md += "[MIT](LICENSE) — feel free to use, modify, and distribute.\n\n";
