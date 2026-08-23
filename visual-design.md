@@ -1,6 +1,6 @@
 # Visual & Design
 
-> 10 plugins in this category
+> 7 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,23 @@
 
 ## Plugins
 
-### [nexu-io/open-design](https://github.com/nexu-io/open-design)
+### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ Stars:** 90,510
-- **Language:** TypeScript
-- **Description:** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
-- **Tags:** `design-systems`, `ui-generator`, `dsh-plugin`
-- **Why use it:** Open-source Claude Design alternative with local-first desktop
+- **⭐ Stars:** 15,081
+- **Language:** HTML
+- **Description:** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+- **Tags:** `dsh-plugin`, `agent-skills`, `diagrams`
+- **Why use it:** Agent skill generating beautiful verifiable architecture and sequence diagrams
 
 ---
 
-### [tt-a1i/archify](https://github.com/tt-a1i/archify)
+### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ Stars:** 15,078
-- **Language:** HTML
-- **Description:** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **Tags:** `diagrams-as-code`, `agent-skills`, `dsh-plugin`
-- **Why use it:** Agent skill generating beautiful architecture and sequence diagrams
+- **⭐ Stars:** 12,322
+- **Language:** JavaScript
+- **Description:** Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+- **Tags:** `image-generation`, `prompt-engineering`, `skills`
+- **Why use it:** 20+ industrial prompt templates for GPT-Image2 generation
 
 ---
 
@@ -33,28 +33,18 @@
 - **⭐ Stars:** 5,581
 - **Language:** Rust
 - **Description:** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **Tags:** `design`, `vector`, `agent-team`
-- **Why use it:** AI-native vector design with Agent Teams
+- **Tags:** `design`, `vibecoding`, `mcp`, `flutter`
+- **Why use it:** AI-native vector design tool with concurrent agent teams
 
 ---
 
 ### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
 
-- **⭐ Stars:** 322
+- **⭐ Stars:** 324
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
 - **Tags:** `design`, `ppt`, `prototyping`
-- **Why use it:** AI-powered design studio with templates, PPT, and prototyping
-
----
-
-### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
-
-- **⭐ Stars:** 298
-- **Language:** TypeScript
-- **Description:** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
-- **Tags:** `genui`, `interactive`, `charts`
-- **Why use it:** Generates interactive UI components inline in chat responses
+- **Why use it:** AI-powered design studio with PPT, prototyping and template market
 
 ---
 
@@ -63,38 +53,18 @@
 - **⭐ Stars:** 147
 - **Language:** TypeScript
 - **Description:** The DeepSeek Harness plugin for OpenPencil — preview, inspect, and edit real .op documents inside a conversation.
-- **Tags:** `design`, `ui`, `openpencil`
-- **Why use it:** Preview and edit OpenPencil .op docs in-chat
+- **Tags:** `design`, `ui-design`, `openpencil`
+- **Why use it:** Preview, inspect and edit OpenPencil .op documents inside conversations
 
 ---
 
 ### [shanliuling/dsh-image-gen](https://github.com/shanliuling/dsh-image-gen)
 
-- **⭐ Stars:** 135
+- **⭐ Stars:** 138
 - **Language:** TypeScript
 - **Description:** Generate images directly in DeepSeek Harness chats
-- **Tags:** `image-generation`, `gemini`, `seedream`
-- **Why use it:** Generate AI images directly in DSH chats
-
----
-
-### [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization)
-
-- **⭐ Stars:** 40
-- **Language:** Python
-- **Description:** 把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴。Claude Skill / DeepSeek Harness 通用。
-- **Tags:** `visualization`, `legal`, `svg`, `timeline`
-- **Why use it:** 诉讼图重绘成可进材料的可视化时间轴
-
----
-
-### [zhaiyateng/dsh-design-skills](https://github.com/zhaiyateng/dsh-design-skills)
-
-- **⭐ Stars:** 16
-- **Language:** JavaScript
-- **Description:** Design aesthetics skill pack for DeepSeek Harness (DSH) - keeps vibe-coded websites away from the AI look. 6 styles: dark-saas, apple-minimal, neo-neumorphism, brutalism, glassmorphism, japanese-minimal.
-- **Tags:** `design`, `ui`, `styles`, `aesthetics`
-- **Why use it:** 6 design style presets to avoid generic AI-looking sites
+- **Tags:** `image-generation`, `ai-agent`, `dsh-plugin`
+- **Why use it:** Generate images directly in DSH chats via multiple AI models
 
 ---
 
@@ -103,8 +73,8 @@
 - **⭐ Stars:** 12
 - **Language:** JavaScript
 - **Description:** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- **Tags:** `ai-image`, `ai-video`
-- **Why use it:** AI video/image/audio skills with configurable model tools
+- **Tags:** `ai-image`, `ai-video`, `directorx`
+- **Why use it:** AI video/image/audio generation with storyboard and knowledge corpus
 
 ---
 
