@@ -69,3 +69,5 @@
 ---
 
 [← Back to all categories](README.md)
+
+[🇨🇳 中文版](coding-agents-harness-tools-zh.md) · [🇬🇧 English](coding-agents-harness-tools.md)

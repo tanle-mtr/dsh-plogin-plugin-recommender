@@ -24,7 +24,7 @@ for (const cat of categoryOrder) {
   if (plugins.length > 0) results[cat] = plugins;
 }
 
-// Chinese category names (display names only, filenames stay English)
+// Chinese category display names
 const zhCategoryNames = {
   "Coding Agents & Harness Tools": "编程 Agent 与 Harness 工具",
   "UI & Desktop Extensions": "UI 与桌面扩展",
@@ -40,6 +40,9 @@ const zhCategoryNames = {
   Other: "其他",
 };
 
+const rootDir = path.join(__dirname, "..");
+
+// ── Generate bilingual category docs ──────────────────────────
 let readmeNavEn = "";
 let readmeNavZh = "";
 
@@ -50,10 +53,10 @@ for (const [cat, plugins] of Object.entries(results)) {
     .toLowerCase();
   const enFile = slug + ".md";
   const zhFile = slug + "-zh.md";
-  const enPath = path.join(__dirname, "..", enFile);
-  const zhPath = path.join(__dirname, "..", zhFile);
+  const enPath = path.join(rootDir, enFile);
+  const zhPath = path.join(rootDir, zhFile);
 
-  // ── English version ──────────────────────────────────────────────
+  // ── English doc ──
   let mdEn = `# ${cat}\n\n`;
   mdEn += `> ${plugins.length} plugins in this category\n\n`;
   mdEn += `*Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*\n\n`;
@@ -71,16 +74,17 @@ for (const [cat, plugins] of Object.entries(results)) {
     mdEn += `\n---\n\n`;
   }
 
-  mdEn += `[← Back to all categories](README.md)\n`;
+  mdEn += `[← Back to all categories](README.md)\n\n`;
+  mdEn += `[🇨🇳 中文版](coding-agents-harness-tools-zh.md) · [🇬🇧 English](coding-agents-harness-tools.md)\n`;
   fs.writeFileSync(enPath, mdEn, "utf8");
   console.log(`Created ${enFile} (${plugins.length} plugins)`);
   readmeNavEn += `- [${cat}](${slug}) (${plugins.length})\n`;
 
-  // ── Chinese version ──────────────────────────────────────────────
+  // ── Chinese doc ──
   const zhCatName = zhCategoryNames[cat] || cat;
   let mdZh = `# ${zhCatName}\n\n`;
   mdZh += `> 本分类共 ${plugins.length} 个插件\n\n`;
-  mdZh += `*由 AI 自动生成，每小时更新 · 来源：[DSH Plugin Recommender](README.md)*\n\n`;
+  mdZh += `*由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*\n\n`;
   mdZh += `---\n\n`;
   mdZh += `## 插件列表\n\n`;
 
@@ -91,39 +95,66 @@ for (const [cat, plugins] of Object.entries(results)) {
     if (p.description) mdZh += `- **描述：** ${p.description}\n`;
     if (p.tags && p.tags.length > 0)
       mdZh += `- **标签：** ${p.tags.map((t) => `\`${t}\``).join(", ")}\n`;
-    if (p.recommendation) mdZh += `- **推荐理由：** ${p.recommendation_zh || p.recommendation}\n`;
+    if (p.recommendation_zh) mdZh += `- **推荐理由：** ${p.recommendation_zh}\n`;
+    else if (p.recommendation) mdZh += `- **推荐理由：** ${p.recommendation}\n`;
     mdZh += `\n---\n\n`;
   }
 
-  mdZh += `[← 返回所有分类](README.md)\n`;
+  mdZh += `[← 返回所有分类](README-zh.md)\n\n`;
+  mdZh += `[🇬🇧 English version](coding-agents-harness-tools.md) · [🇨🇳 中文版](coding-agents-harness-tools-zh.md)\n`;
   fs.writeFileSync(zhPath, mdZh, "utf8");
   console.log(`Created ${zhFile} (${plugins.length} plugins)`);
   readmeNavZh += `- [${zhCatName}](${slug}-zh) (${plugins.length})\n`;
 }
 
-// Update README: remove any existing Category Docs / Chinese navigation sections (from previous runs)
-const readmePath = path.join(__dirname, "..", "README.md");
-let readme = fs.readFileSync(readmePath, "utf8");
+// ── Update README.md — keep only EN category docs nav ─────────
+const readmeEnPath = path.join(rootDir, "README.md");
+let readmeEn = fs.readFileSync(readmeEnPath, "utf8");
 
-readme = readme.replace(/\n## 📂 Category Docs\r?\n[\s\S]*?^---$/m, "");
-readme = readme.replace(/\n## 📂 分类文档（中文）\r?\n[\s\S]*?^---$/m, "");
+// Remove any existing Category Docs blocks (both EN and ZH)
+readmeEn = readmeEn.replace(/\r?\n## 📂 Category Docs\r?\n[\s\S]*?^---$/m, "");
+readmeEn = readmeEn.replace(/\r?\n## 📂 分类文档（中文）\r?\n[\s\S]*?^---$/m, "");
 
-const navBlock = `\n## 📂 Category Docs\n\n${readmeNavEn}---\n\n## 📂 分类文档（中文）\n\n${readmeNavZh}---\n\n`;
+const navBlockEn = `\n## 📂 Category Docs\n\n${readmeNavEn}---\n\n`;
 
-const categoriesHeader = readme.indexOf("## Categories");
-if (categoriesHeader !== -1) {
-  // Find the next "---" after "## Categories" (handle \r\n or \n)
-  const afterHeader = readme.slice(categoriesHeader);
+let pos = readmeEn.indexOf("## Categories");
+if (pos !== -1) {
+  const afterHeader = readmeEn.slice(pos);
   const sepMatch = afterHeader.match(/\r?\n---\r?\n/);
   if (sepMatch) {
     const sepOffset = afterHeader.indexOf(sepMatch[0]);
-    readme =
-      readme.slice(0, categoriesHeader + sepOffset + sepMatch[0].length) +
-      navBlock +
-      readme.slice(categoriesHeader + sepOffset + sepMatch[0].length);
+    readmeEn =
+      readmeEn.slice(0, pos + sepOffset + sepMatch[0].length) +
+      navBlockEn +
+      readmeEn.slice(pos + sepOffset + sepMatch[0].length);
   }
 }
+fs.writeFileSync(readmeEnPath, readmeEn, "utf8");
+console.log("\nREADME.md updated with English category docs navigation");
 
-fs.writeFileSync(readmePath, readme, "utf8");
-console.log("\nREADME updated with bilingual category docs navigation");
-console.log(`Total: ${Object.keys(results).length} categories × 2 languages = ${Object.keys(results).length * 2} docs generated`);
+// ── Update README-zh.md — keep only ZH category docs nav ──────
+const readmeZhPath = path.join(rootDir, "README-zh.md");
+let readmeZh = fs.readFileSync(readmeZhPath, "utf8");
+
+readmeZh = readmeZh.replace(/\r?\n## 📂 Category Docs\r?\n[\s\S]*?^---$/m, "");
+readmeZh = readmeZh.replace(/\r?\n## 📂 分类文档（中文）\r?\n[\s\S]*?^---$/m, "");
+
+const navBlockZh = `\n## 📂 分类文档（中文）\n\n${readmeNavZh}---\n\n`;
+
+pos = readmeZh.indexOf("## 分类导航");
+if (pos === -1) pos = readmeZh.indexOf("## Categories");
+if (pos !== -1) {
+  const afterHeader = readmeZh.slice(pos);
+  const sepMatch = afterHeader.match(/\r?\n---\r?\n/);
+  if (sepMatch) {
+    const sepOffset = afterHeader.indexOf(sepMatch[0]);
+    readmeZh =
+      readmeZh.slice(0, pos + sepOffset + sepMatch[0].length) +
+      navBlockZh +
+      readmeZh.slice(pos + sepOffset + sepMatch[0].length);
+  }
+}
+fs.writeFileSync(readmeZhPath, readmeZh, "utf8");
+console.log("README-zh.md updated with Chinese category docs navigation");
+
+console.log(`\nTotal: ${Object.keys(results).length} categories × 2 languages = ${Object.keys(results).length * 2} category docs generated`);
