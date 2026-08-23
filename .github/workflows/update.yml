@@ -35,11 +35,14 @@ jobs:
       - name: Update README
         run: node scripts/update-readme.js
 
+      - name: Generate bilingual category docs
+        run: node scripts/generate-category-docs.js
+
       - name: Commit and push if changed
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
-          git add README.md plugins.json categorized.json
+          git add README.md plugins.json categorized.json *.md
           git diff --quiet && git diff --staged --quiet || (
             git commit -m "chore: update plugin recommendations [automated]" &&
             git push

@@ -79,7 +79,7 @@ async function categorizePlugins(repos) {
 
 Return ONLY valid JSON array. No markdown, no explanation.`;
 
-    const userPrompt = `Categorize these DSH ecosystem plugins. For each plugin assign it to the most appropriate category and provide a brief recommendation reason (max 40 chars).
+    const userPrompt = `Categorize these DSH ecosystem plugins. For each plugin assign it to the most appropriate category and provide a brief recommendation reason in both English and Chinese (max 40 chars each).
 
 Plugins to categorize:
 ${repoList}
@@ -91,7 +91,8 @@ Return JSON array:
     "stars": 123,
     "language": "TypeScript",
     "category": "Category Name",
-    "recommendation": "Why this plugin is good (max 40 chars)",
+    "recommendation": "Why this plugin is good (English, max 40 chars)",
+    "recommendation_zh": "推荐原因（中文，最多40字）",
     "tags": ["tag1","tag2"]
   }
 ]`;
@@ -119,6 +120,7 @@ Return JSON array:
             language: r.lang,
             category: "Other",
             recommendation: r.desc.substring(0, 40),
+            recommendation_zh: r.desc.substring(0, 40),
             tags: r.topics || [],
           })
         );
@@ -132,6 +134,7 @@ Return JSON array:
           language: r.lang,
           category: "Other",
           recommendation: r.desc.substring(0, 40),
+          recommendation_zh: r.desc.substring(0, 40),
           tags: r.topics || [],
         })
       );
@@ -157,6 +160,7 @@ Return JSON array:
         description: repo.desc,
         category: cat.category,
         recommendation: cat.recommendation,
+        recommendation_zh: cat.recommendation_zh || cat.recommendation,
         tags: cat.tags,
       });
     } else {
@@ -168,6 +172,7 @@ Return JSON array:
         description: repo.desc,
         category: "Other",
         recommendation: repo.desc.substring(0, 80),
+        recommendation_zh: repo.desc.substring(0, 80),
         tags: repo.topics || [],
       });
     }

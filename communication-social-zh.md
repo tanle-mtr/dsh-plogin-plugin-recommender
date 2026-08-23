@@ -1,0 +1,21 @@
+# 通信与社交
+
+> 本分类共 1 个插件
+
+*由 AI 自动生成，每小时更新 · 来源：[DSH Plugin Recommender](README.md)*
+
+---
+
+## 插件列表
+
+### [SenmuuuuW/dsh-group-photo](https://github.com/SenmuuuuW/dsh-group-photo)
+
+- **⭐ 星标：** 17
+- **语言：** HTML
+- **描述：** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
+- **标签：** `social`, `photo`, `community`
+- **推荐理由：** DSH beta group photo wall with GitHub OAuth login
+
+---
+
+[← 返回所有分类](README.md)

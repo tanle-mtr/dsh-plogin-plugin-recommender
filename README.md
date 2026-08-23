@@ -47,6 +47,43 @@
 
 ---
 
+## 📂 Category Docs
+
+- [Coding Agents & Harness Tools](coding-agents-harness-tools) (42)
+- [UI & Desktop Extensions](ui-desktop-extensions) (21)
+- [Memory & Knowledge (RAG)](memory-knowledge-rag) (9)
+- [Agent Skills & Workflows](agent-skills-workflows) (39)
+- [Visual & Design](visual-design) (10)
+- [Browser & Web Automation](browser-web-automation) (5)
+- [Communication & Social](communication-social) (1)
+- [Utilities & Infrastructure](utilities-infrastructure) (25)
+- [Themes & Skins](themes-skins) (6)
+- [Research & Analysis](research-analysis) (15)
+- [Other](other) (18)
+---
+
+## 📂 分类文档（中文）
+
+- [编程 Agent 与 Harness 工具](coding-agents-harness-tools-zh) (42)
+- [UI 与桌面扩展](ui-desktop-extensions-zh) (21)
+- [记忆与知识（RAG）](memory-knowledge-rag-zh) (9)
+- [Agent 技能与工作流](agent-skills-workflows-zh) (39)
+- [视觉与设计](visual-design-zh) (10)
+- [浏览器与 Web 自动化](browser-web-automation-zh) (5)
+- [通信与社交](communication-social-zh) (1)
+- [实用工具与基础设施](utilities-infrastructure-zh) (25)
+- [主题与皮肤](themes-skins-zh) (6)
+- [研究与分析](research-analysis-zh) (15)
+- [其他](other-zh) (18)
+---
+
+
+
+
+
+
+
+
 ## Coding Agents & Harness Tools
 
 ### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)

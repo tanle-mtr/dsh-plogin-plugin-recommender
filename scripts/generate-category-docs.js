@@ -24,60 +24,106 @@ for (const cat of categoryOrder) {
   if (plugins.length > 0) results[cat] = plugins;
 }
 
-let readmeNav = "";
+// Chinese category names (display names only, filenames stay English)
+const zhCategoryNames = {
+  "Coding Agents & Harness Tools": "编程 Agent 与 Harness 工具",
+  "UI & Desktop Extensions": "UI 与桌面扩展",
+  "Memory & Knowledge (RAG)": "记忆与知识（RAG）",
+  "Agent Skills & Workflows": "Agent 技能与工作流",
+  "MCP Servers & Tools": "MCP 服务器与工具",
+  "Visual & Design": "视觉与设计",
+  "Browser & Web Automation": "浏览器与 Web 自动化",
+  "Communication & Social": "通信与社交",
+  "Utilities & Infrastructure": "实用工具与基础设施",
+  "Themes & Skins": "主题与皮肤",
+  "Research & Analysis": "研究与分析",
+  Other: "其他",
+};
+
+let readmeNavEn = "";
+let readmeNavZh = "";
+
 for (const [cat, plugins] of Object.entries(results)) {
-  const filename = cat
+  const slug = cat
     .replace(/[^a-zA-Z0-9\s-]/g, "")
     .replace(/\s+/g, "-")
-    .toLowerCase() + ".md";
-  const filepath = path.join(__dirname, "..", filename);
+    .toLowerCase();
+  const enFile = slug + ".md";
+  const zhFile = slug + "-zh.md";
+  const enPath = path.join(__dirname, "..", enFile);
+  const zhPath = path.join(__dirname, "..", zhFile);
 
-  let md = `# ${cat}\n\n`;
-  md += `> ${plugins.length} plugins in this category\n\n`;
-  md += `*Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*\n\n`;
-  md += `---\n\n`;
-  md += `## Plugins\n\n`;
+  // ── English version ──────────────────────────────────────────────
+  let mdEn = `# ${cat}\n\n`;
+  mdEn += `> ${plugins.length} plugins in this category\n\n`;
+  mdEn += `*Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*\n\n`;
+  mdEn += `---\n\n`;
+  mdEn += `## Plugins\n\n`;
 
   for (const p of plugins) {
-    md += `### [${p.name}](${p.url})\n\n`;
-    md += `- **⭐ Stars:** ${p.stars.toLocaleString()}\n`;
-    md += `- **Language:** ${p.language}\n`;
-    if (p.description) md += `- **Description:** ${p.description}\n`;
+    mdEn += `### [${p.name}](${p.url})\n\n`;
+    mdEn += `- **⭐ Stars:** ${p.stars.toLocaleString()}\n`;
+    mdEn += `- **Language:** ${p.language}\n`;
+    if (p.description) mdEn += `- **Description:** ${p.description}\n`;
     if (p.tags && p.tags.length > 0)
-      md += `- **Tags:** ${p.tags.map((t) => `\`${t}\``).join(", ")}\n`;
-    if (p.recommendation) md += `- **Why use it:** ${p.recommendation}\n`;
-    md += `\n---\n\n`;
+      mdEn += `- **Tags:** ${p.tags.map((t) => `\`${t}\``).join(", ")}\n`;
+    if (p.recommendation) mdEn += `- **Why use it:** ${p.recommendation}\n`;
+    mdEn += `\n---\n\n`;
   }
 
-  md += `[← Back to all categories](README.md)\n`;
-  fs.writeFileSync(filepath, md, "utf8");
-  console.log(`Created ${filename} (${plugins.length} plugins)`);
-  readmeNav += `- [${cat}](${filename.replace(".md", "")}) (${plugins.length})\n`;
+  mdEn += `[← Back to all categories](README.md)\n`;
+  fs.writeFileSync(enPath, mdEn, "utf8");
+  console.log(`Created ${enFile} (${plugins.length} plugins)`);
+  readmeNavEn += `- [${cat}](${slug}) (${plugins.length})\n`;
+
+  // ── Chinese version ──────────────────────────────────────────────
+  const zhCatName = zhCategoryNames[cat] || cat;
+  let mdZh = `# ${zhCatName}\n\n`;
+  mdZh += `> 本分类共 ${plugins.length} 个插件\n\n`;
+  mdZh += `*由 AI 自动生成，每小时更新 · 来源：[DSH Plugin Recommender](README.md)*\n\n`;
+  mdZh += `---\n\n`;
+  mdZh += `## 插件列表\n\n`;
+
+  for (const p of plugins) {
+    mdZh += `### [${p.name}](${p.url})\n\n`;
+    mdZh += `- **⭐ 星标：** ${p.stars.toLocaleString()}\n`;
+    mdZh += `- **语言：** ${p.language}\n`;
+    if (p.description) mdZh += `- **描述：** ${p.description}\n`;
+    if (p.tags && p.tags.length > 0)
+      mdZh += `- **标签：** ${p.tags.map((t) => `\`${t}\``).join(", ")}\n`;
+    if (p.recommendation) mdZh += `- **推荐理由：** ${p.recommendation_zh || p.recommendation}\n`;
+    mdZh += `\n---\n\n`;
+  }
+
+  mdZh += `[← 返回所有分类](README.md)\n`;
+  fs.writeFileSync(zhPath, mdZh, "utf8");
+  console.log(`Created ${zhFile} (${plugins.length} plugins)`);
+  readmeNavZh += `- [${zhCatName}](${slug}-zh) (${plugins.length})\n`;
 }
 
-// Update README: remove any existing Category Docs section (from previous runs), then insert fresh one
+// Update README: remove any existing Category Docs / Chinese navigation sections (from previous runs)
 const readmePath = path.join(__dirname, "..", "README.md");
 let readme = fs.readFileSync(readmePath, "utf8");
 
-// Only remove the exact "## 📂 Category Docs" block and its content up to the next "---"
-const categoryDocsRegex = /\n## 📂 Category Docs\n[\s\S]*?^---$/m;
-readme = readme.replace(categoryDocsRegex, "");
+readme = readme.replace(/\n## 📂 Category Docs\r?\n[\s\S]*?^---$/m, "");
+readme = readme.replace(/\n## 📂 分类文档（中文）\r?\n[\s\S]*?^---$/m, "");
 
-const navBlock = `\n## 📂 Category Docs\n\n${readmeNav}---\n\n`;
+const navBlock = `\n## 📂 Category Docs\n\n${readmeNavEn}---\n\n## 📂 分类文档（中文）\n\n${readmeNavZh}---\n\n`;
 
-// Find the "## Categories" section and insert after the list
 const categoriesHeader = readme.indexOf("## Categories");
 if (categoriesHeader !== -1) {
-  // Find the next "---" after "## Categories"
-  const nextSeparator = readme.indexOf("\n---\n", categoriesHeader);
-  if (nextSeparator !== -1) {
+  // Find the next "---" after "## Categories" (handle \r\n or \n)
+  const afterHeader = readme.slice(categoriesHeader);
+  const sepMatch = afterHeader.match(/\r?\n---\r?\n/);
+  if (sepMatch) {
+    const sepOffset = afterHeader.indexOf(sepMatch[0]);
     readme =
-      readme.slice(0, nextSeparator + 5) +
+      readme.slice(0, categoriesHeader + sepOffset + sepMatch[0].length) +
       navBlock +
-      readme.slice(nextSeparator + 5);
+      readme.slice(categoriesHeader + sepOffset + sepMatch[0].length);
   }
 }
 
 fs.writeFileSync(readmePath, readme, "utf8");
-console.log("\nREADME updated with category docs navigation");
-console.log(`Total: ${Object.keys(results).length} category docs generated`);
+console.log("\nREADME updated with bilingual category docs navigation");
+console.log(`Total: ${Object.keys(results).length} categories × 2 languages = ${Object.keys(results).length * 2} docs generated`);
