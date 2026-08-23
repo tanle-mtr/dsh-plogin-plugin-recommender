@@ -39,7 +39,7 @@ for (const [cat, plugins] of Object.entries(results)) {
 
   let md = `# ${cat}\n\n`;
   md += `> ${plugins.length} plugins in this category\n\n`;
-  md += `*Auto-generated from [DSH Plugin Recommender](../README.md) — updated hourly by AI*\n\n`;
+  md += `*Auto-generated from [DSH Plugin Recommender](https://github.com/tanle-mtr/dsh-plogin-plugin-recommender/blob/main/README.md) — updated hourly by AI*\n\n`;
   md += `---\n\n`;
   md += `## Plugins\n\n`;
 
@@ -54,7 +54,7 @@ for (const [cat, plugins] of Object.entries(results)) {
     md += `\n---\n\n`;
   }
 
-  md += `[← Back to all categories](../README.md)\n`;
+  md += `[← Back to all categories](https://github.com/tanle-mtr/dsh-plogin-plugin-recommender/blob/main/README.md)\n`;
   fs.writeFileSync(filepath, md, "utf8");
   console.log(`Created docs/${filename} (${plugins.length} plugins)`);
   // Add docs/ prefix for README link
