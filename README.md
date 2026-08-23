@@ -49,18 +49,18 @@
 
 ## 📂 Category Docs
 
-- [Coding Agents & Harness Tools](coding-agents-harness-tools) (30)
-- [UI & Desktop Extensions](ui-desktop-extensions) (20)
-- [Memory & Knowledge (RAG)](memory-knowledge-rag) (12)
-- [Agent Skills & Workflows](agent-skills-workflows) (46)
-- [MCP Servers & Tools](mcp-servers-tools) (3)
-- [Visual & Design](visual-design) (10)
-- [Browser & Web Automation](browser-web-automation) (4)
-- [Communication & Social](communication-social) (1)
-- [Utilities & Infrastructure](utilities-infrastructure) (20)
-- [Themes & Skins](themes-skins) (7)
-- [Research & Analysis](research-analysis) (21)
-- [Other](other) (17)
+- [Coding Agents & Harness Tools](docs/coding-agents-harness-tools) (30)
+- [UI & Desktop Extensions](docs/ui-desktop-extensions) (20)
+- [Memory & Knowledge (RAG)](docs/memory-knowledge-rag) (12)
+- [Agent Skills & Workflows](docs/agent-skills-workflows) (46)
+- [MCP Servers & Tools](docs/mcp-servers-tools) (3)
+- [Visual & Design](docs/visual-design) (10)
+- [Browser & Web Automation](docs/browser-web-automation) (4)
+- [Communication & Social](docs/communication-social) (1)
+- [Utilities & Infrastructure](docs/utilities-infrastructure) (20)
+- [Themes & Skins](docs/themes-skins) (7)
+- [Research & Analysis](docs/research-analysis) (21)
+- [Other](docs/other) (17)
 ---
 
 

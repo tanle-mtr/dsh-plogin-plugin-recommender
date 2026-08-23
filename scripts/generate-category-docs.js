@@ -57,7 +57,8 @@ for (const [cat, plugins] of Object.entries(results)) {
   md += `[← Back to all categories](../README.md)\n`;
   fs.writeFileSync(filepath, md, "utf8");
   console.log(`Created docs/${filename} (${plugins.length} plugins)`);
-  readmeNav += `- [${cat}](${filename.replace(".md", "")}) (${plugins.length})\n`;
+  // Add docs/ prefix for README link
+  readmeNav += `- [${cat}](docs/${filename.replace(".md", "")}) (${plugins.length})\n`;
 }
 
 // Update README: remove any existing Category Docs section (from previous runs), then insert fresh one
