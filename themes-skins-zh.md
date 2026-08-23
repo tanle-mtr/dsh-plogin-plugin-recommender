@@ -10,11 +10,11 @@
 
 ### [crafter-station/petdex](https://github.com/crafter-station/petdex)
 
-- **⭐ 星标：** 3,956
+- **⭐ 星标：** 3,957
 - **语言：** TypeScript
 - **描述：** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **标签：** `mascot`, `pixel-art`, `sprites`
-- **推荐理由：** Codex、Claude、DSH等工具的可动画宠物画廊
+- **标签：** `pet`, `pixel-art`, `mascot`
+- **推荐理由：** 多平台支持的像素风动画宠物画廊。
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 1,630
 - **语言：** TypeScript
 - **描述：** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- **标签：** `theme`, `skin`, `dsh-plugin`
-- **推荐理由：** 鲸鱼娘系列主题皮肤，美化DeepSeek Harness界面
+- **标签：** `dsh-plugin`, `dsh`
+- **推荐理由：** 鲸鱼娘系列皮肤，个性化DSH界面外观
 
 ---
 
@@ -32,9 +32,9 @@
 
 - **⭐ 星标：** 371
 - **语言：** JavaScript
-- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调��。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **标签：** `theme`, `ui`, `glass-effect`
-- **推荐理由：** 高度自由的磨砂玻璃主题，支持自定义模糊度和背景
+- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶��、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **标签：** `theme`, `ui`, `dsh-plugin`
+- **推荐理由：** 磨砂玻璃主题，支持高度自定义界面风格
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 187
 - **语言：** JavaScript
 - **描述：** WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.
-- **标签：** `theme`, `ocean-skin`, `webgpu`
-- **推荐理由：** WebGPU海洋主题视觉皮肤，界面美观独特
+- **标签：** `theme`, `chrome-extension`, `webgpu`
+- **推荐理由：** WebGPU海洋主题皮肤，Three.js渲染视觉效果出色
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ 星标：** 13
 - **语言：** JavaScript
 - **描述：** 🎨 看腻了 DSH 默认皮肤？34 款 opencode 经典配色一键换上——tokyonight、dracula、gruvbox、matrix、rose-pine……即点即换，重启不丢。34 opencode themes for DeepSeek Harness, one click, persisted. More by @FeatherHunter: ⚡ dsh-prompt · 🧠 dsh-mattpocock-skills-deck
-- **标签：** `theme`, `skins`, `ui`
-- **推荐理由：** 34款经典配色一键切换，重启不丢失。
+- **标签：** `theme`, `skins`, `dark-mode`, `opencode`
+- **推荐理由：** 34款经典opencode配色一键切换，重启不丢
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ 星标：** 5
 - **语言：** JavaScript
 - **描述：** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
-- **标签：** `background`, `theme`, `customization`
-- **推荐理由：** 支持自定义背景图片与预设氛围，实时预览保存。
+- **标签：** `theme`, `background`, `ui-customization`
+- **推荐理由：** 自定义 DSH Web 背景和图片主题
 
 ---
 
