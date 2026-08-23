@@ -2,7 +2,7 @@
 
 > 17 plugins in this category
 
-*Auto-generated from [DSH Plugin Recommender](https://github.com/tanle-mtr/dsh-plogin-plugin-recommender/blob/main/README.md) — updated hourly by AI*
+*Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
 ---
 
@@ -178,4 +178,4 @@
 
 ---
 
-[← Back to all categories](https://github.com/tanle-mtr/dsh-plogin-plugin-recommender/blob/main/README.md)
+[← Back to all categories](README.md)
