@@ -8,33 +8,33 @@
 
 ## 插件列表
 
-### [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins)
+### [liustack/modlens](https://github.com/liustack/modlens)
 
-- **⭐ 星标：** 167
-- **语言：** JavaScript
-- **描述：** 帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins
-- **标签：** `plugin-discovery`, `skill`
-- **推荐理由：** 自动搜索安装验证DSH插件的Skill
-
----
-
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
-
-- **⭐ 星标：** 97
-- **语言：** JavaScript
-- **描述：** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **标签：** `mcp`, `skills`, `deepseek-harness`
-- **推荐理由：** 在Web界面直接管理技能和MCP服务器。
-
----
-
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
-
-- **⭐ 星标：** 10
+- **⭐ 星标：** 3,541
 - **语言：** TypeScript
-- **描述：** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
-- **标签：** `mcp`, `security`, `exposure`
-- **推荐理由：** 统一管理MCP工具暴露级别和执行模式的统一菜单
+- **描述：** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
+- **标签：** `vision`, `ocr`, `multimodal`, `image-to-text`
+- **推荐理由：** 首款视觉插件，将图片转为结构化JSON证据
+
+---
+
+### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
+
+- **⭐ 星标：** 20
+- **语言：** JavaScript
+- **描述：** One-tap Codex move-in to DSH: auto-import project chats, two-way Skills & MCP sync.
+- **标签：** `codex`, `mcp`, `sync`
+- **推荐理由：** 一键Codex导入，双向同步Skills与MCP配置。
+
+---
+
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+
+- **⭐ 星标：** 15
+- **语言：** TypeScript
+- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
+- **标签：** `mcp`, `skills-manager`, `web-ui`
+- **推荐理由：** Web GUI插件，在浏览器设置中管理技能与MCP服务器。
 
 ---
 
