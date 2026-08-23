@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 9 个插件
+> 本分类共 13 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,11 +10,11 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 32,463
+- **⭐ 星标：** 32,470
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `rag`, `dsh-plugin`
-- **推荐理由：** 自进化上下文数据库，统一记忆与RAG
+- **标签：** `agent-memory`, `agentic-rag`, `dsh-plugin`
+- **推荐理由：** 自进化上下文数据库，统一代理记忆与RAG。
 
 ---
 
@@ -24,27 +24,27 @@
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - **标签：** `rag`, `knowledge-base`, `dsh-plugin`
-- **推荐理由：** LLM知识平台，支持RAG与自维护维基
+- **推荐理由：** 将文档转化为可查询RAG与自维护Wiki。
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,367
+- **⭐ 星标：** 12,370
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `memory`, `rag`, `long-term-memory`
-- **推荐理由：** 本地优先的可移植记忆层，支持跨Agent持久化。
+- **标签：** `agent-memory`, `rag`, `long-term-memory`
+- **推荐理由：** 本地优先的跨AI Agent通用记忆层
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 10,939
+- **⭐ 星标：** 10,941
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `rag`, `token-savings`
-- **推荐理由：** 自演化混合检索记忆系统，节省35% Token。
+- **标签：** `memory-management`, `rag`, `token-savings`
+- **推荐理由：** 混合检索记忆系统，节省35% Token且支持技能复用
 
 ---
 
@@ -53,8 +53,38 @@
 - **⭐ 星标：** 1,198
 - **语言：** TypeScript
 - **描述：** Unlimited memory for OpenClaw
-- **标签：** `dsh-plugin`, `memory`, `rag`
-- **推荐理由：** 为OpenClaw提供无限记忆能力
+- **标签：** `memory`, `rag`, `dsh-plugin`
+- **推荐理由：** 为AI代理提供无限持久化记忆存储
+
+---
+
+### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
+
+- **⭐ 星标：** 232
+- **语言：** TypeScript
+- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
+- **标签：** `knowledge-base`, `mcp`, `rag`, `dsh-plugin`
+- **推荐理由：** AI技能百科，涵盖MCP、RAG及学习路线。
+
+---
+
+### [zhaoolee/notes](https://github.com/zhaoolee/notes)
+
+- **⭐ 星标：** 150
+- **语言：** TypeScript
+- **描述：** 开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片
+- **标签：** `notes`, `knowledge`, `productivity`
+- **推荐理由：** 开源锤子便签复刻版，支持Docker部署和技能调用
+
+---
+
+### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
+
+- **⭐ 星标：** 124
+- **语言：** Python
+- **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
+- **标签：** `rag`, `embedding`, `semantic-search`
+- **推荐理由：** 将SKILL.md转为可检索的知识库
 
 ---
 
@@ -63,18 +93,28 @@
 - **⭐ 星标：** 123
 - **语言：** TypeScript
 - **描述：** Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- **标签：** `memory`, `mcp`, `long-term-memory`
-- **推荐理由：** 持久可查的长期记忆与召回工具。
+- **标签：** `memory`, `long-term`, `mcp`
+- **推荐理由：** 持久的长期代理记忆与召回
 
 ---
 
-### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
+### [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide)
 
-- **⭐ 星标：** 123
+- **⭐ 星标：** 28
+- **语言：** TypeScript
+- **描述：** Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.
+- **标签：** `agent-skill`, `knowledge-base`, `plugin-development`, `cordis`
+- **推荐理由：** 官方DSH插件开发文档知识库（中英双语）
+
+---
+
+### [WeirdSky924/agent-handoff-skill](https://github.com/WeirdSky924/agent-handoff-skill)
+
+- **⭐ 星标：** 26
 - **语言：** Python
-- **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skill`, `retrieval`, `rag`
-- **推荐理由：** 将SKILL.md组织为可检索技能库。
+- **描述：** Use this cross-platform skill in Codex or Claude Code to establish repository-local continuity memory so a future agent can recover objective, status, decisions, validation, risks, and next actions without relying on previous chat history.
+- **标签：** `agent-handoff`, `session-memory`, `continuity`
+- **推荐理由：** 跨Agent会话记忆，保证任务连续性
 
 ---
 
@@ -83,8 +123,8 @@
 - **⭐ 星标：** 11
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness plugin that connects to a PowerContext Server over HTTP for recall, memory, handoff, experience, and skills.
-- **标签：** `memory`, `powercontext`, `handoff`
-- **推荐理由：** 连接 PowerContext 实现记忆和经验召回
+- **标签：** `memory`, `recall`, `handoff`
+- **推荐理由：** 通过PowerContext服务器实现记忆、回忆与任务交接
 
 ---
 
@@ -94,7 +134,7 @@
 - **语言：** TypeScript
 - **描述：** Bridge Claude Code memory, skills, and config into DeepSeek Harness
 - **标签：** `claude-code`, `memory`, `bridge`
-- **推荐理由：** 桥接 Claude Code 记忆和技能到 DSH
+- **推荐理由：** 将Claude Code的记忆和技能桥接到DSH
 
 ---
 
