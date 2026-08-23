@@ -1,35 +1,21 @@
-﻿# Support / Sponsor
+# 赞助 / Support
 
-Thanks for using DSH Plugin Recommender! If this project saved you time or helped you discover great plugins, consider supporting it. 💙
+如果觉得这个项目对你有帮助，欢迎打赏支持！💙
 
-## GitHub Sponsors
+## 微信赞助
 
-The easiest way to support this project is through [GitHub Sponsors](https://github.com/sponsors/tanle-mtr):
+![微信收款码](assets/收款码.png)
 
-- **One-time sponsorship**: Buy me a coffee ☕
-- **Monthly sponsorship**: Keep the project running and updated
+扫码转账即可支持本项目继续维护和更新。
 
-Every sponsor gets their name featured in this file and on the README.
+---
 
-## Other Ways to Support
+## 其他方式支持
 
-- ⭐ **Star this repo** — helps others discover it (free and most impactful!)
-- 📢 **Share the link** with anyone who uses DeepSeek Harness
-- 🐛 **Report bugs** or suggest plugins via [Issues](https://github.com/tanle-mtr/dsh-plogin-plugin-recommender/issues)
-- 🔧 **Submit a PR** to fix miscategorized plugins or add new categories
-
-## Current Supporters
-
-_No supporters yet — be the first!_ 🎉
-
-<!--
-To enable GitHub Sponsors:
-1. Go to https://github.com/settings/sponsors
-2. Turn on "Allow sponsors"
-3. Set up your tier and payment info
-
-Once enabled, sponsors will automatically appear above.
--->
+- ⭐ **Star 本仓库** — 帮助更多人发现它（免费且最有力！）
+- 📢 **分享链接** — 发给用 DeepSeek Harness 的朋友
+- 🐛 **提交 Issue** — 报告错分插件或建议新增插件
+- 🔧 **提交 PR** — 修复分类或添加新功能
 
 ---
 

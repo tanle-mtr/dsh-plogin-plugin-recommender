@@ -16,7 +16,7 @@
 | **Plugins tracked** | 191 |
 | **Total community stars** | 834,975 ⭐ |
 | **Categories** | 12 |
-| **Last updated** | 2026-08-23 04:43:20 UTC |
+| **Last updated** | 2026-08-23 04:54:48 UTC |
 | **AI Model** | agnes-2.5-flash |
 
 ---
@@ -2013,9 +2013,10 @@ If this list helped you find a great plugin, please share it:
 
 ## Sponsor
 
-If this list helped you find great plugins, consider supporting the project:
+如果觉得这个项目对你有帮助，欢迎打赏支持我继续维护！
 
-- [🩷 **Sponsor on GitHub**](https://github.com/sponsors/tanle-mtr) — buy me a coffee or become a monthly supporter
+![微信赞助](assets/收款码.png)
+
 - [📄 **More ways to help**](SPONSORS.md) — star, share, or contribute code
 
 ---

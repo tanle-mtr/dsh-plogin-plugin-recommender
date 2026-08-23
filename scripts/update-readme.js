@@ -99,8 +99,8 @@ function generateREADME(categorized) {
   md += "- **Discord**: DeepSeek community servers\n\n";
   md += "---\n\n";
   md += "## Sponsor\n\n";
-  md += "If this list helped you find great plugins, consider supporting the project:\n\n";
-  md += "- [🩷 **Sponsor on GitHub**](https://github.com/sponsors/tanle-mtr) — buy me a coffee or become a monthly supporter\n";
+  md += "如果觉得这个项目对你有帮助，欢迎打赏支持我继续维护！\n\n";
+  md += "![微信赞助](assets/收款码.png)\n\n";
   md += "- [📄 **More ways to help**](SPONSORS.md) — star, share, or contribute code\n\n";
   md += "---\n\n";
   md += "## License\n\n";
