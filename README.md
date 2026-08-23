@@ -17,7 +17,6 @@
 | **Total community stars** | 834,975 ⭐ |
 | **Categories** | 12 |
 | **Last updated** | 2026-08-23 04:54:48 UTC |
-| **AI Model** | agnes-2.5-flash |
 
 ---
 
@@ -47,6 +46,23 @@
 - [Other](#other) — 17 plugins
 
 ---
+
+## 📂 Category Docs
+
+- [Coding Agents & Harness Tools](coding-agents-harness-tools) (30)
+- [UI & Desktop Extensions](ui-desktop-extensions) (20)
+- [Memory & Knowledge (RAG)](memory-knowledge-rag) (12)
+- [Agent Skills & Workflows](agent-skills-workflows) (46)
+- [MCP Servers & Tools](mcp-servers-tools) (3)
+- [Visual & Design](visual-design) (10)
+- [Browser & Web Automation](browser-web-automation) (4)
+- [Communication & Social](communication-social) (1)
+- [Utilities & Infrastructure](utilities-infrastructure) (20)
+- [Themes & Skins](themes-skins) (7)
+- [Research & Analysis](research-analysis) (21)
+- [Other](other) (17)
+---
+
 
 ## Coding Agents & Harness Tools
 
