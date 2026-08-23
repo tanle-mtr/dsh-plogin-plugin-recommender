@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [cocofhu/anime-find](https://github.com/cocofhu/anime-find)
+### [SenmuuuuW/dsh-group-photo](https://github.com/SenmuuuuW/dsh-group-photo)
 
-- **⭐ Stars:** 159
-- **Language:** TypeScript
-- **Description:** DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。
-- **Tags:** `anime`, `search`, `entertainment`
-- **Why use it:** Multi-source anime search with Bangumi ratings and magnet support.
+- **⭐ Stars:** 17
+- **Language:** HTML
+- **Description:** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
+- **Tags:** `social`, `community`, `oauth`
+- **Why use it:** GitHub OAuth photo wall for DSH community memories
 
 ---
 

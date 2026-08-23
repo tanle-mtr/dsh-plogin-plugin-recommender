@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [cocofhu/anime-find](https://github.com/cocofhu/anime-find)
+### [SenmuuuuW/dsh-group-photo](https://github.com/SenmuuuuW/dsh-group-photo)
 
-- **⭐ 星标：** 159
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。
-- **标签：** `anime`, `search`, `entertainment`
-- **推荐理由：** 多源番剧搜索，支持Bangumi评分和磁力链接。
+- **⭐ 星标：** 17
+- **语言：** HTML
+- **描述：** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
+- **标签：** `social`, `community`, `oauth`
+- **推荐理由：** GitHub OAuth合影墙，记录DSH社区时光
 
 ---
 

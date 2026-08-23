@@ -1,6 +1,6 @@
 # Visual & Design
 
-> 9 plugins in this category
+> 12 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,53 +8,53 @@
 
 ## Plugins
 
-### [nexu-io/open-design](https://github.com/nexu-io/open-design)
-
-- **⭐ Stars:** 90,693
-- **Language:** TypeScript
-- **Description:** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
-- **Tags:** `design`, `ui`, `figma-alternative`
-- **Why use it:** Open-source design alternative to Claude Design with local-first desktop
-
----
-
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ Stars:** 15,139
+- **⭐ Stars:** 15,141
 - **Language:** HTML
 - **Description:** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **Tags:** `diagram`, `architecture`, `mermaid`
-- **Why use it:** Agent skill generating beautiful verifiable architecture and workflow diagrams
+- **Tags:** `agent-skills`, `diagram-as-code`, `dsh-plugin`, `code-visualization`
+- **Why use it:** Generate beautiful architecture and workflow diagrams from code
 
 ---
 
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ Stars:** 12,614
+- **⭐ Stars:** 12,624
 - **Language:** JavaScript
 - **Description:** Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- **Tags:** `image-generation`, `prompt-engineering`, `skills`
+- **Tags:** `image-generation`, `prompt-engineering`, `visual`
 - **Why use it:** 470+ reverse-engineered image prompts with 20+ industrial templates
 
 ---
 
 ### [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
 
-- **⭐ Stars:** 5,593
+- **⭐ Stars:** 5,594
 - **Language:** Rust
 - **Description:** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **Tags:** `vibedesign`, `ui`, `agent-team`
+- **Tags:** `design`, `vector`, `vibecoding`
 - **Why use it:** Open-source AI-native vector design tool with concurrent Agent Teams
+
+---
+
+### [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director)
+
+- **⭐ Stars:** 1,497
+- **Language:** Python
+- **Description:** Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.
+- **Tags:** `video-generation`, `tts`, `ffmpeg`
+- **Why use it:** End-to-end Vox-style paper-collage explainer video generation via agent + ffmpeg.
 
 ---
 
 ### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
 
-- **⭐ Stars:** 349
+- **⭐ Stars:** 351
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **Tags:** `design`, `ppt`, `prototyping`, `dsh-plugin`
-- **Why use it:** AI-powered design studio with templates, PPT generation, and visual prototyping
+- **Tags:** `design`, `ppt`, `prototyping`, `visual-editor`
+- **Why use it:** AI-powered design studio with PPT, prototyping and visual editing
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ Stars:** 154
 - **Language:** TypeScript
 - **Description:** Generate images directly in DeepSeek Harness chats
-- **Tags:** `image-generation`, `ai-art`, `multimodal`
-- **Why use it:** Generate images directly in DSH chats via Seedream/OpenAI/Gemini.
+- **Tags:** `image-generation`, `visual`, `design`
+- **Why use it:** Generate images directly in DeepSeek Harness using Seedream and Gemini
 
 ---
 
@@ -73,8 +73,38 @@
 - **⭐ Stars:** 149
 - **Language:** TypeScript
 - **Description:** The DeepSeek Harness plugin for OpenPencil — preview, inspect, and edit real .op documents inside a conversation.
-- **Tags:** `design`, `ui-design`, `openpencil`
-- **Why use it:** Edit .op design docs directly in DSH conversation
+- **Tags:** `design`, `ui`, `openpencil`
+- **Why use it:** Preview and edit .op design documents directly in conversation.
+
+---
+
+### [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization)
+
+- **⭐ Stars:** 40
+- **Language:** Python
+- **Description:** 把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴。Claude Skill / DeepSeek Harness 通用。
+- **Tags:** `legal-tech`, `visualization`, `diagram`
+- **Why use it:** Redraw messy litigation diagrams into court-ready timelines and SVGs.
+
+---
+
+### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+
+- **⭐ Stars:** 33
+- **Language:** JavaScript
+- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
+- **Tags:** `image-reading`, `ocr`, `vision`
+- **Why use it:** Pixel-to-text OCR and image analysis tools for text-only AI models.
+
+---
+
+### [MJorgin/dsh-media-skills](https://github.com/MJorgin/dsh-media-skills)
+
+- **⭐ Stars:** 16
+- **Language:** Python
+- **Description:** Free image reading & generation for DeepSeek Harness (rc.7/rc.8/v0.1.1-rc.1) — paste-image reading, DeepSeek-V4-Flash-Vision-Exp / GLM-4V-Flash / SenseNova / Gemini failover, Kolors generation. No keys in repo.
+- **Tags:** `image`, `vision`, `media`
+- **Why use it:** Free image reading and generation skills for DSH agents
 
 ---
 
@@ -83,8 +113,8 @@
 - **⭐ Stars:** 16
 - **Language:** JavaScript
 - **Description:** Design aesthetics skill pack for DeepSeek Harness (DSH) - keeps vibe-coded websites away from the AI look. 6 styles: dark-saas, apple-minimal, neo-neumorphism, brutalism, glassmorphism, japanese-minimal.
-- **Tags:** `design`, `visual`, `aesthetics`
-- **Why use it:** Design aesthetics skill pack to avoid generic AI look
+- **Tags:** `design`, `vibe-coding`, `web-design`
+- **Why use it:** 6 design style packs to avoid generic AI-generated looks
 
 ---
 
@@ -94,7 +124,7 @@
 - **Language:** JavaScript
 - **Description:** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
 - **Tags:** `ai-video`, `ai-image`, `directorx`
-- **Why use it:** AI video/image/audio generation and editing plugin with configurable model tools integration.
+- **Why use it:** AI video/image/audio generation with configurable models, storyboarding, and knowledge corpus.
 
 ---
 
