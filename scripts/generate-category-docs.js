@@ -60,12 +60,13 @@ for (const [cat, plugins] of Object.entries(results)) {
   readmeNav += `- [${cat}](${filename.replace(".md", "")}) (${plugins.length})\n`;
 }
 
-// Update README: remove any existing Category Docs section, then insert fresh one
+// Update README: remove any existing Category Docs section (from previous runs), then insert fresh one
 const readmePath = path.join(__dirname, "..", "README.md");
 let readme = fs.readFileSync(readmePath, "utf8");
 
-// Remove any existing "## 📂 Category Docs" section (from previous runs)
-readme = readme.replace(/\n## 📂 Category Docs\n[\s\S]*?(?=\n---\n\n## )/, "");
+// Only remove the exact "## 📂 Category Docs" block and its content up to the next "---"
+const categoryDocsRegex = /\n## 📂 Category Docs\n[\s\S]*?^---$/m;
+readme = readme.replace(categoryDocsRegex, "");
 
 const navBlock = `\n## 📂 Category Docs\n\n${readmeNav}---\n\n`;
 
