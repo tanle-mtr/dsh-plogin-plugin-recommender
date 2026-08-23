@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+### [SenmuuuuW/dsh-group-photo](https://github.com/SenmuuuuW/dsh-group-photo)
 
-- **⭐ Stars:** 2
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `subscription`
-- **Why use it:** OAuth ChatGPT binding for in-app model access
+- **⭐ Stars:** 17
+- **Language:** HTML
+- **Description:** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
+- **Tags:** `community`, `social`, `oauth`
+- **Why use it:** DSH beta member group photo wall with GitHub OAuth zero-permission login
 
 ---
 
