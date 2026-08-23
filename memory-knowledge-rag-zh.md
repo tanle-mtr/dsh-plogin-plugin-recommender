@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 10 个插件
+> 本分类共 11 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,31 +10,31 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 32,335
+- **⭐ 星标：** 32,356
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `agentic-rag`, `dsh-plugin`
-- **推荐理由：** 自演化上下文数据库，统一记忆与知识
+- **标签：** `agent-memory`, `agentic-rag`, `context-database`
+- **推荐理由：** 自进化上下文数据库，统一记忆与RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 20,413
+- **⭐ 星标：** 20,417
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `vector-search`, `knowledge-base`, `dsh-plugin`
-- **推荐理由：** LLM知识库平台，RAG+语义搜索+自维护Wiki
+- **标签：** `rag`, `knowledge-base`, `multi-tenant`
+- **推荐理由：** LLM知识平台，含RAG、推理Agent和自动维基
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,356
+- **⭐ 星标：** 12,358
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `memory`, `rag`, `llm`, `long-term-memory`
-- **推荐理由：** 本地优先的Markdown持久化记忆层，跨应用自演化
+- **标签：** `agent-memory`, `rag`, `long-term-memory`, `dsh-plugin`
+- **推荐理由：** 本地优先的可移植记忆层，跨应用自进化。
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 10,936
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `rag`, `self-evolving`, `token-savings`
-- **推荐理由：** 混合检索智能记忆系统，节省35%Token且跨任务复用
+- **标签：** `agent-memory`, `rag`, `token-savings`, `dsh-plugin`
+- **推荐理由：** 自进化记忆系统，混合检索节省35%Token。
 
 ---
 
@@ -53,8 +53,18 @@
 - **⭐ 星标：** 1,197
 - **语言：** TypeScript
 - **描述：** Unlimited memory for OpenClaw
-- **标签：** `dsh-plugin`, `memory`, `context`
-- **推荐理由：** 为DSH提供无限上下文记忆能力
+- **标签：** `memory`, `dsh-plugin`
+- **推荐理由：** 为AI智能体提供无限持久化记忆存储
+
+---
+
+### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
+
+- **⭐ 星标：** 933
+- **语言：** TypeScript
+- **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
+- **标签：** `context`, `dashboard`, `management`
+- **推荐理由：** 上下文仪表盘和统计管理工具
 
 ---
 
@@ -63,8 +73,8 @@
 - **⭐ 星标：** 232
 - **语言：** TypeScript
 - **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `knowledge-base`, `ai-resources`, `educational`
-- **推荐理由：** AI知识百科，涵盖Agent、RAG、MLOps与学习路线
+- **标签：** `knowledge-base`, `rag`, `encyclopedia`
+- **推荐理由：** 全维度AI知识库，涵盖RAG、MCP、技能与学习路线
 
 ---
 
@@ -73,8 +83,8 @@
 - **⭐ 星标：** 122
 - **语言：** TypeScript
 - **描述：** Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- **标签：** `memory`, `long-term-memory`, `mcp`
-- **推荐理由：** 持久化长期记忆，带回忆工具和可检查设置
+- **标签：** `memory`, `mcp`, `agent-memory`
+- **推荐理由：** 持久化长期记忆插件，支持检索和设置页面。
 
 ---
 
@@ -83,8 +93,8 @@
 - **⭐ 星标：** 119
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `embeddings`, `skill-routing`, `vector-search`
-- **推荐理由：** 将SKILL.md文件转为可检索的agent技能库
+- **标签：** `rag`, `skill`, `embeddings`, `retrieval`
+- **推荐理由：** 将SKILL.md文件转化为可检索评估的知识库。
 
 ---
 
@@ -93,8 +103,8 @@
 - **⭐ 星标：** 11
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness plugin that connects to a PowerContext Server over HTTP for recall, memory, handoff, experience, and skills.
-- **标签：** `deepseek-harness`, `dsh-plugin`, `memory`, `skills`
-- **推荐理由：** 连接PowerContext服务器，实现记忆召回与技能交接。
+- **标签：** `deepseek-harness`, `memory`
+- **推荐理由：** 连接PowerContext服务器实现记忆召回与交接
 
 ---
 
@@ -103,8 +113,8 @@
 - **⭐ 星标：** 9
 - **语言：** TypeScript
 - **描述：** Bridge Claude Code memory, skills, and config into DeepSeek Harness
-- **标签：** `deepseek-harness`, `dsh-plugin`, `claude-code`, `memory`, `skills`
-- **推荐理由：** 将Claude Code的记忆、技能和配置桥接到DSH。
+- **标签：** `claude-code`, `memory`
+- **推荐理由：** 将Claude Code记忆与技能桥接到DSH
 
 ---
 
