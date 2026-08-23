@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 4 个插件
+> 本分类共 9 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,11 +10,21 @@
 
 ### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
 
-- **⭐ 星标：** 19,803
+- **⭐ 星标：** 19,805
 - **语言：** TypeScript
 - **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。
 - **标签：** `browser-extension`, `chat-management`, `prompt-manager`
-- **推荐理由：** AI聊天增强浏览器扩展+提示词管理。
+- **推荐理由：** 跨浏览器AI聊天增强套件，支持提示词管理。
+
+---
+
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+
+- **⭐ 星标：** 2,997
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（���持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `bilibili`, `ai-agent`, `dsh-plugin`
+- **推荐理由：** 本地优先的跨平台AI内容发现Agent，支持B站、YouTube等。
 
 ---
 
@@ -23,8 +33,18 @@
 - **⭐ 星标：** 1,278
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser`, `automation`, `agent`
-- **推荐理由：** 让AI Agent使用你真实登录的浏览器，无中断自动化
+- **标签：** `browser-automation`, `cli`, `dsh-plugin`
+- **推荐理由：** 让AI代理使用你的真实登录浏览器进行跨平台自动化。
+
+---
+
+### [urzeye/ophel](https://github.com/urzeye/ophel)
+
+- **⭐ 星标：** 978
+- **语言：** TypeScript
+- **描述：** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
+- **标签：** `browser-extension`, `productivity`
+- **推荐理由：** 浏览器扩展，将AI对话转化为可复用工作流。
 
 ---
 
@@ -33,8 +53,38 @@
 - **⭐ 星标：** 405
 - **语言：** TypeScript
 - **描述：** dsh plugin: Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。
-- **标签：** `browser-automation`, `chrome-extension`, `coding-agent`
-- **推荐理由：** 无需视觉能力直接操控浏览器，Chrome侧边栏实用性强。
+- **标签：** `browser-automation`, `chrome-extension`, `dsh-plugin`
+- **推荐理由：** Chrome侧边栏直控浏览器，无需视觉能力
+
+---
+
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ 星标：** 235
+- **语言：** TypeScript
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `web-search`, `agent-skills`, `dsh-plugin`
+- **推荐理由：** 最强免费网页搜索桥接，零注册全模型可用
+
+---
+
+### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
+
+- **⭐ 星标：** 217
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
+- **标签：** `ios`, `automation`, `mcp`, `dsh-plugin`
+- **推荐理由：** 对话内实时控制iOS模拟器与真机，22个自动化工具
+
+---
+
+### [cocofhu/anime-find](https://github.com/cocofhu/anime-find)
+
+- **⭐ 星标：** 159
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。
+- **标签：** `anime`, `search`, `bangumi`, `torrent`
+- **推荐理由：** 对话内多源搜番，支持Bangumi评分与磁力链接。
 
 ---
 
@@ -43,8 +93,8 @@
 - **⭐ 星标：** 96
 - **语言：** JavaScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser`, `playwright`, `automation`
-- **推荐理由：** 基于Playwright的浏览器自动化插件
+- **标签：** `browser-automation`, `playwright`, `browser-use`
+- **推荐理由：** Tabbit浏览器插件，Playwright驱动的浏览器自动化
 
 ---
 

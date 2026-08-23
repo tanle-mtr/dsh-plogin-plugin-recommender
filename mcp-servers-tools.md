@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 4 plugins in this category
+> 1 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,43 +8,13 @@
 
 ## Plugins
 
-### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
 
-- **⭐ Stars:** 3,556
-- **Language:** TypeScript
-- **Description:** The World's First Unified Virtual Filesystem For AI Agents
-- **Tags:** `vfs`, `filesystem`, `tools`
-- **Why use it:** Unified virtual filesystem enabling persistent cross-session agent file ops.
-
----
-
-### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
-
-- **⭐ Stars:** 21
+- **⭐ Stars:** 97
 - **Language:** JavaScript
-- **Description:** One-tap Codex move-in to DSH: auto-import project chats, two-way Skills & MCP sync.
-- **Tags:** `codex`, `mcp`, `sync`, `import`
-- **Why use it:** One-tap Codex import with two-way Skills and MCP sync
-
----
-
-### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
-
-- **⭐ Stars:** 15
-- **Language:** TypeScript
-- **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器��
-- **Tags:** `mcp`, `skills-manager`, `web-ui`
-- **Why use it:** Web GUI plugin to manage skills and MCP servers in browser
-
----
-
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
-
-- **⭐ Stars:** 2
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `mcp`
-- **Why use it:** Bind ChatGPT account via OAuth to chat with models inside DSH.
+- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
+- **Tags:** `mcp`, `skills`, `web-ui`
+- **Why use it:** Web UI panel for managing DSH skills and MCP tools in one centralized interface
 
 ---
 

@@ -13,8 +13,8 @@
 - **⭐ 星标：** 17
 - **语言：** HTML
 - **描述：** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
-- **标签：** `social`, `photo`, `community`
-- **推荐理由：** GitHub OAuth零权限登录的DSH内测合影墙。
+- **标签：** `community`, `oauth`, `photo-wall`, `social`
+- **推荐理由：** DSH内测合影墙，GitHub OAuth零权限，社区社交功能
 
 ---
 
