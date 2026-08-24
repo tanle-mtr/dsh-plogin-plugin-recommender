@@ -8,23 +8,23 @@
 
 ## Plugins
 
+### [cocofhu/anime-find](https://github.com/cocofhu/anime-find)
+
+- **⭐ Stars:** 160
+- **Language:** TypeScript
+- **Description:** DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。
+- **Tags:** `anime`, `bangumi`, `torrent`
+- **Why use it:** Anime search plugin with Bangumi ratings and magnet link support in chat.
+
+---
+
 ### [SenmuuuuW/dsh-group-photo](https://github.com/SenmuuuuW/dsh-group-photo)
 
 - **⭐ Stars:** 17
 - **Language:** HTML
 - **Description:** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
-- **Tags:** `photo`, `social`, `community`
-- **Why use it:** DSH beta group photo wall with GitHub OAuth and polaroid-style sharing
-
----
-
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
-
-- **⭐ Stars:** 3
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `subscription`
-- **Why use it:** Connect ChatGPT accounts via OAuth for use inside DSH
+- **Tags:** `deepseek-harness`, `social`
+- **Why use it:** DSH内测合影墙，GitHub OAuth零权限登录拍立得风格合影。
 
 ---
 

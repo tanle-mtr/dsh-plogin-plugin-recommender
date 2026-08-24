@@ -10,31 +10,31 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 32,951
+- **⭐ 星标：** 32,960
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `rag`, `dsh-plugin`
-- **推荐理由：** 自进化上下文数据库，统一智能体记忆与RAG。
+- **标签：** `agent-memory`, `agentic-rag`, `context-database`
+- **推荐理由：** 自进化上下文数据库，统一记忆与RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 20,527
+- **⭐ 星标：** 20,529
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `dsh-plugin`
-- **推荐理由：** 开源LLM知识平台，支持RAG和自维护Wiki。
+- **标签：** `rag`, `vector-search`, `knowledge-base`
+- **推荐理由：** LLM知识平台，文档转RAG与自维护Wiki
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,396
+- **⭐ 星标：** 12,397
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `rag`, `long-term-memory`
-- **推荐理由：** 本地优先的持久记忆层，Markdown原生，跨工具自演进。
+- **标签：** `agent-memory`, `long-term-memory`, `rag`
+- **推荐理由：** 可移植的本地优先记忆层，支持跨应用自我进化记忆。
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 10,952
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory-management`, `rag`, `self-evolving`
-- **推荐理由：** 自演进记忆系统，混合检索，节省35%以上token消耗。
+- **标签：** `agent-memory`, `self-evolving`, `token-savings`
+- **推荐理由：** 超持久记忆OS，混合检索，节省35% Token。
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ 星标：** 3,340
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `agent`, `memory`, `rag`, `reme`
-- **推荐理由：** 专为Agent设计的记忆管理套件，支持RAG持久化上下文。
+- **标签：** `memory`, `rag`, `agent`
+- **推荐理由：** 专为AI代理设计的记忆管理工具，支持RAG。
 
 ---
 
@@ -64,7 +64,7 @@
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.
 - **标签：** `memory`, `milvus`, `rag`, `semantic-search`
-- **推荐理由：** 基于Milvus向量数据库的持久统一Agent记忆层。
+- **推荐理由：** 持久统一记忆层，由Markdown和Milvus向量库驱动。
 
 ---
 
@@ -73,8 +73,8 @@
 - **⭐ 星标：** 1,198
 - **语言：** TypeScript
 - **描述：** Unlimited memory for OpenClaw
-- **标签：** `memory`, `rag`, `agent`
-- **推荐理由：** 无限记忆系统，支持长期存储与检索
+- **标签：** `memory`, `RAG`
+- **推荐理由：** 为AI提供无限持久记忆，支持跨会话知识
 
 ---
 
@@ -83,8 +83,8 @@
 - **⭐ 星标：** 252
 - **语言：** TypeScript
 - **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `knowledge-base`, `rag`
-- **推荐理由：** 全维度AI技能知识库，支持RAG检索增强。
+- **标签：** `rag`, `knowledge-base`
+- **推荐理由：** 覆盖MCP、RAG、多模态的AI资源百科与学习路线导航。
 
 ---
 
@@ -93,8 +93,8 @@
 - **⭐ 星标：** 155
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `rag`, `embeddings`, `skill-retrieval`
-- **推荐理由：** 将SKILL.md转化为可检索的agent技能知识库
+- **标签：** `embeddings`, `vector-search`, `reranking`
+- **推荐理由：** 将分散技能文件转化为可检索的Agent知识库。
 
 ---
 
@@ -103,18 +103,18 @@
 - **⭐ 星标：** 125
 - **语言：** TypeScript
 - **描述：** Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- **标签：** `memory`, `rag`, `long-term`
-- **推荐理由：** 持久可 inspected 长期记忆，支持回忆工具
+- **标签：** `memory`, `long-term-memory`, `mcp`
+- **推荐理由：** 持久化长期记忆，支持回忆工具与配置管理
 
 ---
 
-### [knqiufan/powercontext-dsh](https://github.com/knqiufan/powercontext-dsh)
+### [WeirdSky924/agent-handoff-skill](https://github.com/WeirdSky924/agent-handoff-skill)
 
-- **⭐ 星标：** 11
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness plugin that connects to a PowerContext Server over HTTP for recall, memory, handoff, experience, and skills.
-- **标签：** `deepseek-harness`, `memory`, `recall`, `handoff`
-- **推荐理由：** 连接PowerContext实现记忆召回与知识传递。
+- **⭐ 星标：** 26
+- **语言：** Python
+- **描述：** Use this cross-platform skill in Codex or Claude Code to establish repository-local continuity memory so a future agent can recover objective, status, decisions, validation, risks, and next actions without relying on previous chat history.
+- **标签：** `session-memory`, `agent-skills`
+- **推荐理由：** 跨会话记忆保持，Agent可恢复上下文状态。
 
 ---
 

@@ -1,6 +1,6 @@
 # Visual & Design
 
-> 10 plugins in this category
+> 9 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,13 @@
 
 ## Plugins
 
-### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-- **⭐ Stars:** 15,408
-- **Language:** JavaScript
-- **Description:** Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- **Tags:** `ai-image-generation`, `skills`, `dsh-plugin`
-- **Why use it:** 530+ GPT-Image2 prompts reverse-engineered into reusable skills.
-
----
-
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ Stars:** 15,326
+- **⭐ Stars:** 15,329
 - **Language:** HTML
 - **Description:** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **Tags:** `architecture-diagram`, `mermaid-alternative`, `code-visualization`
-- **Why use it:** Generates beautiful animated architecture and sequence diagrams from text prompts.
+- **Tags:** `agent-skills`, `architecture-diagram`, `mermaid-alternative`
+- **Why use it:** Generates beautiful architecture, sequence, and data-flow diagrams via agent prompts.
 
 ---
 
@@ -33,38 +23,28 @@
 - **⭐ Stars:** 5,625
 - **Language:** Rust
 - **Description:** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **Tags:** `figma`, `vibedesign`, `design-as-code`
-- **Why use it:** AI-native vector design tool with concurrent agent teams and design-as-code workflow.
+- **Tags:** `design-tool`, `vector-design`, `agent-team`
+- **Why use it:** AI-native vector design tool with concurrent agent teams, designs code via prompts.
 
 ---
 
-### [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director)
+### [crafter-station/petdex](https://github.com/crafter-station/petdex)
 
-- **⭐ Stars:** 1,534
-- **Language:** Python
-- **Description:** Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.
-- **Tags:** `video-generation`, `ffmpeg`, `tts`, `motion-graphics`
-- **Why use it:** End-to-end automated Vox-style paper-collage video generation from a single topic.
+- **⭐ Stars:** 3,968
+- **Language:** TypeScript
+- **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
+- **Tags:** `mascot`, `pixel-art`, `visual`
+- **Why use it:** Public animated pet mascot gallery for coders — adds personality to any agent UI.
 
 ---
 
 ### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
 
-- **⭐ Stars:** 404
+- **⭐ Stars:** 406
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **Tags:** `design`, `ppt`, `visual-editor`, `templates`
-- **Why use it:** AI-generated editable design system with template market and PPT
-
----
-
-### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
-
-- **⭐ Stars:** 323
-- **Language:** TypeScript
-- **Description:** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
-- **Tags:** `ui`, `visual`
-- **Why use it:** Interactive UI components (charts, forms, quizzes) inline in replies.
+- **Tags:** `design`, `visual`
+- **Why use it:** AI design studio with visual editor, templates and PPT generation
 
 ---
 
@@ -74,7 +54,7 @@
 - **Language:** TypeScript
 - **Description:** Generate images directly in DeepSeek Harness chats
 - **Tags:** `image-generation`, `gemini`, `openai`
-- **Why use it:** Generate AI images directly within DSH conversations
+- **Why use it:** Generates AI images directly within DeepSeek Harness chat conversations.
 
 ---
 
@@ -83,8 +63,8 @@
 - **⭐ Stars:** 153
 - **Language:** TypeScript
 - **Description:** The DeepSeek Harness plugin for OpenPencil — preview, inspect, and edit real .op documents inside a conversation.
-- **Tags:** `design`, `ui`, `openpencil`
-- **Why use it:** Preview, inspect and edit OpenPencil .op docs in-chat
+- **Tags:** `design`, `ui-design`, `openpencil`
+- **Why use it:** Preview, inspect, and edit OpenPencil design documents directly in conversation.
 
 ---
 
@@ -93,8 +73,18 @@
 - **⭐ Stars:** 18
 - **Language:** JavaScript
 - **Description:** Design aesthetics skill pack for DeepSeek Harness (DSH) - keeps vibe-coded websites away from the AI look. 6 styles: dark-saas, apple-minimal, neo-neumorphism, brutalism, glassmorphism, japanese-minimal.
-- **Tags:** `design-skills`, `ui`
-- **Why use it:** Design aesthetics skill pack with 6 styles
+- **Tags:** `design`, `ui`, `vibe-coding`
+- **Why use it:** 6 design styles keeping vibe-coded sites away from generic AI aesthetics.
+
+---
+
+### [MJorgin/dsh-media-skills](https://github.com/MJorgin/dsh-media-skills)
+
+- **⭐ Stars:** 16
+- **Language:** Python
+- **Description:** Free image reading & generation for DeepSeek Harness (rc.7 / rc.8 / v0.1.1-rc.1 / rc.2) — paste-image reading with auto vision transcription, DeepSeek-V4-Flash-Vision-Exp / GLM-4V-Flash / SenseNova / Gemini failover, Kolors + U1 Fast generation. No keys in repo.
+- **Tags:** `image-generation`, `vision`, `media`
+- **Why use it:** Free image reading & generation for DSH
 
 ---
 
@@ -103,8 +93,8 @@
 - **⭐ Stars:** 13
 - **Language:** JavaScript
 - **Description:** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- **Tags:** `ai-video`, `ai-image`, `storyboard`
-- **Why use it:** AI video, image and audio creation with storyboard and knowledge corpus
+- **Tags:** `ai-video`, `ai-image`, `directorx`, `multimedia`
+- **Why use it:** AI video/image/audio generation & editing
 
 ---
 
