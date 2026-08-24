@@ -8,23 +8,23 @@
 
 ## Plugins
 
-### [pazz11/Jnpz](https://github.com/pazz11/Jnpz)
+### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
 
-- **⭐ Stars:** 12
-- **Language:** JavaScript
-- **Description:** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
-- **Tags:** `mcp`, `mcp-server`, `skill-management`, `hot-reload`
-- **Why use it:** Hot-load MCP servers and manage skills without restarts via JSON config
+- **⭐ Stars:** 3,562
+- **Language:** TypeScript
+- **Description:** The World's First Unified Virtual Filesystem For AI Agents
+- **Tags:** `vfs`, `virtual-filesystem`, `agent-tools`, `abstraction`
+- **Why use it:** Unified virtual filesystem abstraction layer providing persistent storage for AI agents
 
 ---
 
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
 
-- **⭐ Stars:** 3
+- **⭐ Stars:** 101
 - **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `oauth`, `chatgpt`, `subscription`
-- **Why use it:** OAuth integration to use ChatGPT Plus models inside DSH
+- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
+- **Tags:** `mcp`, `skills`, `webui`
+- **Why use it:** Web UI panel for managing skills and MCP tools in DSH
 
 ---
 
