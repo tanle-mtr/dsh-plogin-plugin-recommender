@@ -13,18 +13,18 @@
 - **⭐ Stars:** 3,557
 - **Language:** TypeScript
 - **Description:** The World's First Unified Virtual Filesystem For AI Agents
-- **Tags:** `vfs`, `sandbox`, `abstraction`
-- **Why use it:** Unified virtual filesystem abstraction for AI agents across platforms.
+- **Tags:** `vfs`, `virtual-filesystem`, `tool`
+- **Why use it:** Unified virtual filesystem abstraction enabling cross-platform agent data access
 
 ---
 
-### [liustack/modlens](https://github.com/liustack/modlens)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ Stars:** 3,557
+- **⭐ Stars:** 236
 - **Language:** TypeScript
-- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `ocr`, `multimodal`
-- **Why use it:** First vision plugin enabling text-only agents to process images.
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `web-search`, `mcp`, `dsh-plugin`
+- **Why use it:** Strongest free web search plugin bridging all models to web access.
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 97
 - **Language:** JavaScript
 - **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **Tags:** `mcp`, `skills`, `ui`
-- **Why use it:** Web UI panel for managing skills and MCP connections.
+- **Tags:** `mcp`, `skills`, `webui`
+- **Why use it:** Web UI panel for managing skills and MCP tools directly in DSH interface.
 
 ---
 
@@ -43,18 +43,18 @@
 - **⭐ Stars:** 22
 - **Language:** JavaScript
 - **Description:** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
-- **Tags:** `codex`, `sync`, `mcp`
-- **Why use it:** Bidirectional sync bridge between OpenAI Codex and DSH
+- **Tags:** `mcp`, `codex`, `dsh-plugin`, `sync`
+- **Why use it:** Bidirectional bridge between Codex and DSH with MCP mirroring
 
 ---
 
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
 
-- **⭐ Stars:** 14
+- **⭐ Stars:** 15
 - **Language:** TypeScript
-- **Description:** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
-- **Tags:** `dsh-plugin`, `mcp`, `tool-management`
-- **Why use it:** Unified menu to manage MCP tool exposure levels and execution modes
+- **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
+- **Tags:** `mcp`, `skills-manager`, `dsh-plugin`, `ui`
+- **Why use it:** Web GUI plugin to manage skills and MCP servers in browser
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ Stars:** 11
 - **Language:** JavaScript
 - **Description:** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
-- **Tags:** `mcp-server`, `skill-management`, `hot-reload`
-- **Why use it:** Hot-load MCP servers via settings page, auto-recognize .skill files
+- **Tags:** `mcp`, `hot-reload`, `skill-management`
+- **Why use it:** Hot-reload MCP servers and manage skills from settings page
 
 ---
 
