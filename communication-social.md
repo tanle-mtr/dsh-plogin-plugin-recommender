@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [SenmuuuuW/dsh-group-photo](https://github.com/SenmuuuuW/dsh-group-photo)
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
 
-- **⭐ Stars:** 17
-- **Language:** HTML
-- **Description:** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
-- **Tags:** `social`, `oauth`, `photo`, `event`
-- **Why use it:** OAuth zero-permission group photo wall for community events
+- **⭐ Stars:** 4
+- **Language:** JavaScript
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `subscription`
+- **Why use it:** OAuth ChatGPT binding to chat with GPT models inside DSH
 
 ---
 
@@ -24,7 +24,7 @@
 - **Language:** TypeScript
 - **Description:** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
 - **Tags:** `dingtalk`, `chat-bot`, `dsh-plugin`
-- **Why use it:** DingTalk IM integration with agent chat capabilities
+- **Why use it:** DingTalk IM channel turning chats into tool-capable agents
 
 ---
 
