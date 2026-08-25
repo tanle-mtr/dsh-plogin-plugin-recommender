@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 3 个插件
+> 本分类共 5 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,33 +8,53 @@
 
 ## 插件列表
 
-### [liustack/modlens](https://github.com/liustack/modlens)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ 星标：** 3,632
+- **⭐ 星标：** 265
 - **语言：** TypeScript
-- **描述：** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **标签：** `vision`, `ocr`, `mcp`
-- **推荐理由：** 首个视觉插件，将图片转为结构化JSON。
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `deepseek-harness`, `dsh`, `dsh-plugin`, `web-search`
+- **推荐理由：** 免费网页搜索桥接插件，无需注册或API密钥，适配所有模型
 
 ---
 
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
 
-- **⭐ 星标：** 103
+- **⭐ 星标：** 23
 - **语言：** JavaScript
-- **描述：** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **标签：** `mcp`, `skills`, `webui`, `management`
-- **推荐理由：** Web界面统一管理服务skills与MCP服务器，集中化扩展管理
+- **描述：** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
+- **标签：** `codex`, `bridge`, `sync`, `mcp-mirror`
+- **推荐理由：** OpenAI Codex与DSH双向桥接：聊天同步+技能挂载+MCP镜像
 
 ---
 
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
 
-- **⭐ 星标：** 35
+- **⭐ 星标：** 21
+- **语言：** TypeScript
+- **描述：** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
+- **标签：** `mcp-management`, `capability`, `exposure`
+- **推荐理由：** 统一管理MCP工具暴露级别和执行模式可见性
+
+---
+
+### [klarkxy/zhihu-search](https://github.com/klarkxy/zhihu-search)
+
+- **⭐ 星标：** 15
+- **语言：** Python
+- **描述：** DeepSeek Harness plugin, Skill, CLI and MCP for Zhihu search, Zhida ask, and official open-platform APIs
+- **标签：** `mcp`, `zhihu`, `search`
+- **推荐理由：** 知乎搜索问答的MCP服务器实现
+
+---
+
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+
+- **⭐ 星标：** 4
 - **语言：** JavaScript
-- **描述：** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **标签：** `image-reading`, `ocr`, `vision`, `dsh-plugin`
-- **推荐理由：** 为纯文本模型提供OCR图像识别工具
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `codex`, `oauth`, `subscription`
+- **推荐理由：** OAuth绑定ChatGPT账号使用模型。
 
 ---
 

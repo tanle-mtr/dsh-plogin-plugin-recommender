@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 3 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,53 @@
 
 ## Plugins
 
-### [liustack/modlens](https://github.com/liustack/modlens)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ Stars:** 3,632
+- **⭐ Stars:** 265
 - **Language:** TypeScript
-- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `ocr`, `mcp`
-- **Why use it:** First vision plugin bridging images to structured JSON for agents.
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `deepseek-harness`, `dsh`, `dsh-plugin`, `web-search`
+- **Why use it:** Free web search bridge for all DSH models without native web access — no signup or API keys required.
 
 ---
 
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
 
-- **⭐ Stars:** 103
+- **⭐ Stars:** 23
 - **Language:** JavaScript
-- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **Tags:** `mcp`, `skills`, `webui`, `management`
-- **Why use it:** Web UI panel for managing skills and MCP servers — centralized control for DSH extensions
+- **Description:** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
+- **Tags:** `codex`, `bridge`, `sync`, `mcp-mirror`
+- **Why use it:** Bidirectional bridge: Codex↔DSH chat sync, skill mount, MCP auto-mirror
 
 ---
 
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
 
-- **⭐ Stars:** 35
+- **⭐ Stars:** 21
+- **Language:** TypeScript
+- **Description:** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
+- **Tags:** `mcp-management`, `capability`, `exposure`
+- **Why use it:** Unified menu to manage MCP tool exposure level and execution mode visibility
+
+---
+
+### [klarkxy/zhihu-search](https://github.com/klarkxy/zhihu-search)
+
+- **⭐ Stars:** 15
+- **Language:** Python
+- **Description:** DeepSeek Harness plugin, Skill, CLI and MCP for Zhihu search, Zhida ask, and official open-platform APIs
+- **Tags:** `mcp`, `zhihu`, `search`
+- **Why use it:** Zhihu search and Zhida Q&A via official open-platform APIs as MCP server
+
+---
+
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+
+- **⭐ Stars:** 4
 - **Language:** JavaScript
-- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **Tags:** `image-reading`, `ocr`, `vision`, `dsh-plugin`
-- **Why use it:** Pixel-to-text image reading via OCR and vision tools for text-only models
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `codex`, `oauth`, `subscription`
+- **Why use it:** Bind ChatGPT account via OAuth for in-DSH model access.
 
 ---
 
