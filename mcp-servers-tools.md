@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
 
-- **⭐ Stars:** 16
-- **Language:** TypeScript
-- **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **Tags:** `mcp`, `skill-management`, `web-ui`
-- **Why use it:** Manage skills and MCP servers directly from the DSH Web GUI settings.
+- **⭐ Stars:** 104
+- **Language:** JavaScript
+- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
+- **Tags:** `mcp`, `skills`
+- **Why use it:** Web UI panel for managing skills and MCP servers
 
 ---
 
@@ -23,18 +23,18 @@
 - **⭐ Stars:** 15
 - **Language:** Python
 - **Description:** DeepSeek Harness plugin, Skill, CLI and MCP for Zhihu search, Zhida ask, and official open-platform APIs
-- **Tags:** `mcp`, `zhihu`, `search`
-- **Why use it:** MCP server and skill for Zhihu search and Zhida API integration.
+- **Tags:** `mcp`, `zhihu`, `search`, `cli`
+- **Why use it:** Zhihu search, Zhida Q&A, and open API via MCP
 
 ---
 
-### [pazz11/Jnpz](https://github.com/pazz11/Jnpz)
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
 
-- **⭐ Stars:** 14
+- **⭐ Stars:** 4
 - **Language:** JavaScript
-- **Description:** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
-- **Tags:** `mcp`, `hot-reload`, `skill-management`
-- **Why use it:** Paste JSON to connect MCP servers with hot-reload, no restart needed.
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `integration`
+- **Why use it:** OAuth integration to use ChatGPT models within DSH.
 
 ---
 
