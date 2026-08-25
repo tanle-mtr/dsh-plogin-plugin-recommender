@@ -1,6 +1,6 @@
 # 视觉与设计
 
-> 本分类共 12 个插件
+> 本分类共 13 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,41 +10,21 @@
 
 ### [nexu-io/open-design](https://github.com/nexu-io/open-design)
 
-- **⭐ 星标：** 91,441
+- **⭐ 星标：** 91,447
 - **语言：** TypeScript
 - **描述：** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
-- **标签：** `design-systems`, `desktop-app`, `figma-alternative`
-- **推荐理由：** 开源设计插件，本地优先桌面应用，媲美Claude Design。
+- **标签：** `design-systems`, `dsh-plugin`, `figma-alternative`
+- **推荐理由：** 开源设计插件，本地优先桌面应用。
 
 ---
 
-### [tt-a1i/archify](https://github.com/tt-a1i/archify)
+### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ 星标：** 16,145
-- **语言：** HTML
-- **描述：** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **标签：** `agent-skills`, `diagrams-as-code`, `architecture`
-- **推荐理由：** 自包含动效架构图表，视觉清晰精美
-
----
-
-### [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
-
-- **⭐ 星标：** 5,647
-- **语言：** Rust
-- **描述：** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **标签：** `design`, `vector`, `ui`, `agent-team`
-- **推荐理由：** 开源AI原生矢量设计，支持并发团队
-
----
-
-### [crafter-station/petdex](https://github.com/crafter-station/petdex)
-
-- **⭐ 星标：** 3,973
-- **语言：** TypeScript
-- **描述：** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **标签：** `pixel-art`, `sprites`, `ui`, `gallery`
-- **推荐理由：** 动画宠物精灵公共画廊，丰富AI代理体验
+- **⭐ 星标：** 17,473
+- **语言：** JavaScript
+- **描述：** Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
+- **标签：** `image-generation`, `skills`, `dsh-plugin`
+- **推荐理由：** 530+提示词案例，提炼为图像生成技能。
 
 ---
 
@@ -53,28 +33,28 @@
 - **⭐ 星标：** 1,558
 - **语言：** Python
 - **描述：** Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.
-- **标签：** `video-generation`, `ffmpeg`, `tts`, `ai-video`
-- **推荐理由：** 一键生成Vox风格纸拼贴解说视频。
-
----
-
-### [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)
-
-- **⭐ 星标：** 825
-- **语言：** TypeScript
-- **描述：** [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.
-- **标签：** `vision`, `ocr`, `dsh-plugin`
-- **推荐理由：** 为纯文本模型提供视觉工具箱，支持OCR和图片问答
+- **标签：** `video`, `generative-ai`, `ffmpeg`, `tts`
+- **推荐理由：** 一键生成Vox风格拼贴解释视频，全自动流程。
 
 ---
 
 ### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
 
-- **⭐ 星标：** 450
+- **⭐ 星标：** 452
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **标签：** `design`, `ppt`, `visual-editor`
-- **推荐理由：** AI驱动设计工作室，支持PPT生成和可视化编辑
+- **标签：** `design`, `ppt`, `visual-editor`, `prototyping`
+- **推荐理由：** AI生成可编辑设计系统含模板市场与PPT工作室
+
+---
+
+### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
+
+- **⭐ 星标：** 335
+- **语言：** TypeScript
+- **描述：** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
+- **标签：** `ui`, `interactive`, `visual`
+- **推荐理由：** 在回复中内联渲染交互式UI组件，支持图表和表单
 
 ---
 
@@ -83,8 +63,18 @@
 - **⭐ 星标：** 193
 - **语言：** TypeScript
 - **描述：** Generate images directly in DeepSeek Harness chats
-- **标签：** `image-generation`, `deepseek-harness`, `ai-agent`
-- **推荐理由：** 在DSH聊天中直接生成AI图像，便捷高效。
+- **标签：** `image-generation`, `gemini`, `seedream`
+- **推荐理由：** 在DeepSeek Harness聊天中直接生成图像
+
+---
+
+### [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil)
+
+- **⭐ 星标：** 153
+- **语言：** TypeScript
+- **描述：** The DeepSeek Harness plugin for OpenPencil — preview, inspect, and edit real .op documents inside a conversation.
+- **标签：** `design`, `ui-design`, `openpencil`
+- **推荐理由：** 对话内预览编辑OpenPencil设计稿。
 
 ---
 
@@ -93,18 +83,28 @@
 - **⭐ 星标：** 43
 - **语言：** Python
 - **描述：** 把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴。Claude Skill / DeepSeek Harness 通用。
-- **标签：** `agent-skills`, `claude-code`, `diagram`, `dsh-plugin`, `legal`, `svg`, `timeline`, `visualization`
-- **推荐理由：** 诉讼可视化工具集，自动生成时间轴与法律图表。
+- **标签：** `legal`, `visualization`, `diagram`, `timeline`
+- **推荐理由：** 法律诉讼可视化工具，生成时间轴和图表
 
 ---
 
-### [zhaiyateng/dsh-design-skills](https://github.com/zhaiyateng/dsh-design-skills)
+### [FTShare-Lab/dsh_kline](https://github.com/FTShare-Lab/dsh_kline)
 
-- **⭐ 星标：** 18
-- **语言：** JavaScript
-- **描述：** Design aesthetics skill pack for DeepSeek Harness (DSH) - keeps vibe-coded websites away from the AI look. 6 styles: dark-saas, apple-minimal, neo-neumorphism, brutalism, glassmorphism, japanese-minimal.
-- **标签：** `design-skills`, `ui`, `vibe-coding`
-- **推荐理由：** 多种精美风格，告别千篇一律的AI模板感
+- **⭐ 星标：** 22
+- **语言：** HTML
+- **描述：** 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。
+- **标签：** `kline`, `chart`, `technical-analysis`, `dashboard`
+- **推荐理由：** 交互式K线分析插件，侧栏直显技术指标。
+
+---
+
+### [MJorgin/dsh-media-skills](https://github.com/MJorgin/dsh-media-skills)
+
+- **⭐ 星标：** 17
+- **语言：** Python
+- **描述：** Free image reading & generation for DeepSeek Harness (rc.7 / rc.8 / v0.1.1-rc.1 / rc.2) — paste-image reading with auto vision transcription, DeepSeek-V4-Flash-Vision-Exp / GLM-4V-Flash / SenseNova / Gemini failover, Kolors + U1 Fast generation. No keys in repo.
+- **标签：** `image-generation`, `vision`, `media`, `skill`
+- **推荐理由：** 支持图片读取、生成和视觉转录的多媒体能力
 
 ---
 
@@ -113,18 +113,28 @@
 - **⭐ 星标：** 15
 - **语言：** JavaScript
 - **描述：** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- **标签：** `ai-video`, `ai-image`, `directorx`
-- **推荐理由：** AI视频/图像/音频技能，支持知识库与多模型配置
+- **标签：** `ai-video`, `image-generation`, `directorx`, `multimodal`
+- **推荐理由：** 含分镜的AI视频/图像/音频多模态创作管线
 
 ---
 
-### [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin)
+### [weshopai/weshop-dsh-plugin](https://github.com/weshopai/weshop-dsh-plugin)
 
-- **⭐ 星标：** 5
+- **⭐ 星标：** 12
 - **语言：** JavaScript
-- **描述：** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所��即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
-- **标签：** `background`, `visual`, `customization`
-- **推荐理由：** 自定义背景上传与实时预览
+- **描述：** Native WeShop Cordis plugin for DeepSeek Harness. Allow you to use infinite canvas with infinite creative skills.
+- **标签：** `canvas`, `creative`, `weShop`
+- **推荐理由：** 原生WeShop插件，支持��限画布和创意代理技能
+
+---
+
+### [Max-Samson/dsh-usage-chart](https://github.com/Max-Samson/dsh-usage-chart)
+
+- **⭐ 星标：** 11
+- **语言：** TypeScript
+- **描述：** A DeepSeek Harness Web plugin for real-time Token usage, cost estimates, per-round charts, and DeepSeek API balance.
+- **标签：** `dashboard`, `token-tracking`, `cost`
+- **推荐理由：** 实时Token使用仪表板，含成本估算和API余额追踪
 
 ---
 

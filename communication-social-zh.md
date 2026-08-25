@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+### [SenmuuuuW/dsh-group-photo](https://github.com/SenmuuuuW/dsh-group-photo)
 
-- **⭐ 星标：** 4
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `integration`
-- **推荐理由：** OAuth接入ChatGPT模型
+- **⭐ 星标：** 17
+- **语言：** HTML
+- **描述：** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
+- **标签：** `social`, `oauth`, `photo`, `event`
+- **推荐理由：** 零权限GitHub OAuth合影墙，适合内测社区活动
 
 ---
 
@@ -24,7 +24,7 @@
 - **语言：** TypeScript
 - **描述：** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
 - **标签：** `dingtalk`, `chat-bot`, `dsh-plugin`
-- **推荐理由：** 钉钉IM渠道，将聊天转为具备工具能力的Agent
+- **推荐理由：** 钉钉IM集成，支持Agent聊天能力
 
 ---
 
