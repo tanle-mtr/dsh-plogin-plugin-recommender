@@ -10,21 +10,21 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 33,216
+- **⭐ Stars:** 33,227
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `agentic-rag`, `self-evolving`
-- **Why use it:** Self-evolving context database unifying memory, RAG, and skills.
+- **Tags:** `agent-memory`, `agentic-rag`, `dsh-plugin`
+- **Why use it:** Self-evolving context database unifying memory and RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 20,604
+- **⭐ Stars:** 20,605
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `knowledge-base`, `vector-search`
-- **Why use it:** LLM knowledge platform with RAG, agent reasoning, and self-maintaining wiki.
+- **Tags:** `rag`, `knowledge-base`, `dsh-plugin`
+- **Why use it:** Open-source LLM knowledge platform with RAG and self-maintaining wiki
 
 ---
 
@@ -34,17 +34,17 @@
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
 - **Tags:** `agent-memory`, `rag`, `long-term-memory`
-- **Why use it:** Local-first portable memory layer for all AI agents
+- **Why use it:** Local-first, user-owned Markdown memory layer with self-evolving RAG.
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 10,974
+- **⭐ Stars:** 10,976
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `long-term-memory`, `rag`, `self-evolving`
-- **Why use it:** Self-evolving hybrid-retrieval memory with token savings
+- **Tags:** `memory-management`, `rag`, `token-savings`
+- **Why use it:** Ultra-persistent memory with hybrid retrieval, 35% token savings.
 
 ---
 
@@ -54,7 +54,7 @@
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - **Tags:** `memory`, `rag`, `agent`
-- **Why use it:** Essential memory management kit for persistent agent recall
+- **Why use it:** Essential memory management kit for agents with RAG support.
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ Stars:** 2,509
 - **Language:** Python
 - **Description:** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **Tags:** `memory`, `rag`, `milvus`
-- **Why use it:** Persistent unified memory layer backed by Milvus and Markdown
+- **Tags:** `memory`, `milvus`, `rag`
+- **Why use it:** Persistent unified memory layer backed by Milvus vector DB.
 
 ---
 
@@ -74,27 +74,27 @@
 - **Language:** TypeScript
 - **Description:** Unlimited memory for OpenClaw
 - **Tags:** `memory`, `rag`
-- **Why use it:** Unlimited memory module for persistent AI conversation context
+- **Why use it:** Provides unlimited memory for AI agents, persistent knowledge storage.
 
 ---
 
-### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
+### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
 
-- **⭐ Stars:** 261
+- **⭐ Stars:** 1,029
 - **Language:** TypeScript
-- **Description:** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **Tags:** `dsh-plugin`, `mcp`, `rag`
-- **Why use it:** Comprehensive AI encyclopedia covering skills, MCP, RAG, multimodal tools, and learning roadmaps.
+- **Description:** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
+- **Tags:** `context`, `management`
+- **Why use it:** Deep context insight, dashboard, and statistics for better agent management.
 
 ---
 
 ### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ Stars:** 178
+- **⭐ Stars:** 180
 - **Language:** Python
 - **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `rag`, `skill-retrieval`, `embeddings`, `vector-search`
-- **Why use it:** Transforms SKILL.md files into retrieval-ready agent knowledge base
+- **Tags:** `embeddings`, `retrieval`, `semantic-search`
+- **Why use it:** Turn SKILL.md files into retrieval-ready agent corpora
 
 ---
 
@@ -103,18 +103,18 @@
 - **⭐ Stars:** 126
 - **Language:** TypeScript
 - **Description:** Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- **Tags:** `memory`, `mcp`, `long-term-memory`
-- **Why use it:** Durable long-term agent memory with inspectable storage and recall tools.
+- **Tags:** `memory`, `long-term-memory`, `rag`
+- **Why use it:** Durable long-term agent memory with recall tools and settings page.
 
 ---
 
-### [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide)
+### [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor)
 
-- **⭐ Stars:** 31
+- **⭐ Stars:** 20
 - **Language:** TypeScript
-- **Description:** Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.
-- **Tags:** `agent-skill`, `knowledge-base`, `cordis`
-- **Why use it:** Official DSH docs knowledge base as on-demand agent skill
+- **Description:** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
+- **Tags:** `context`, `audit`, `ui`
+- **Why use it:** Context injection audit: token costs, duplicates and conflicts with web UI
 
 ---
 
