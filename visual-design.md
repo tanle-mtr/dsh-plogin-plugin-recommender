@@ -1,6 +1,6 @@
 # Visual & Design
 
-> 11 plugins in this category
+> 12 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,31 +10,21 @@
 
 ### [nexu-io/open-design](https://github.com/nexu-io/open-design)
 
-- **⭐ Stars:** 91,431
+- **⭐ Stars:** 91,441
 - **Language:** TypeScript
 - **Description:** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
-- **Tags:** `design-systems`, `desktop-app`, `ui-generator`
-- **Why use it:** Open-source design tool with local-first desktop app and UI generation
-
----
-
-### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-- **⭐ Stars:** 17,387
-- **Language:** JavaScript
-- **Description:** Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中
-- **Tags:** `ai-image-generation`, `prompt-engineering`, `workflow-automation`
-- **Why use it:** Industrial-grade GPT-Image2 prompt engine with 530+ reverse-engineered templates
+- **Tags:** `design-systems`, `desktop-app`, `figma-alternative`
+- **Why use it:** Open-source design alternative to Claude Design with local-first desktop app.
 
 ---
 
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ Stars:** 16,115
+- **⭐ Stars:** 16,145
 - **Language:** HTML
 - **Description:** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **Tags:** `diagram-as-code`, `architecture-diagram`, `mermaid-alternative`
-- **Why use it:** Generate beautiful architecture and workflow diagrams from text prompts.
+- **Tags:** `agent-skills`, `diagrams-as-code`, `architecture`
+- **Why use it:** Self-contained architecture diagrams with motion and crisp visuals
 
 ---
 
@@ -43,8 +33,18 @@
 - **⭐ Stars:** 5,647
 - **Language:** Rust
 - **Description:** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **Tags:** `design`, `vector`, `ui`, `vibedesign`
-- **Why use it:** AI-native vector design tool with concurrent agent teams for UI generation.
+- **Tags:** `design`, `vector`, `ui`, `agent-team`
+- **Why use it:** Open-source AI-native vector design with concurrent teams
+
+---
+
+### [crafter-station/petdex](https://github.com/crafter-station/petdex)
+
+- **⭐ Stars:** 3,973
+- **Language:** TypeScript
+- **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
+- **Tags:** `pixel-art`, `sprites`, `ui`, `gallery`
+- **Why use it:** Public gallery of animated pet sprites for AI agents
 
 ---
 
@@ -53,28 +53,28 @@
 - **⭐ Stars:** 1,558
 - **Language:** Python
 - **Description:** Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.
-- **Tags:** `video-generation`, `ai-video`, `ffmpeg`
-- **Why use it:** End-to-end Vox-style explainer video generation from one topic
+- **Tags:** `video-generation`, `ffmpeg`, `tts`, `ai-video`
+- **Why use it:** End-to-end automated Vox-style paper-collage explainer video generation from a single topic.
+
+---
+
+### [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)
+
+- **⭐ Stars:** 825
+- **Language:** TypeScript
+- **Description:** [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.
+- **Tags:** `vision`, `ocr`, `dsh-plugin`
+- **Why use it:** Powerful vision toolkit for text-only LLMs with OCR and image Q&A
 
 ---
 
 ### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
 
-- **⭐ Stars:** 448
+- **⭐ Stars:** 450
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **Tags:** `design`, `ppt`, `prototyping`
-- **Why use it:** AI-native design studio with visual editor, templates, and PPT generation.
-
----
-
-### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
-
-- **⭐ Stars:** 335
-- **Language:** TypeScript
-- **Description:** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
-- **Tags:** `ui`, `genui`, `visualization`
-- **Why use it:** Renders interactive UI components like charts, forms, and layouts inline in replies.
+- **Tags:** `design`, `ppt`, `visual-editor`
+- **Why use it:** AI-powered design studio with PPT generation and visual editing
 
 ---
 
@@ -83,18 +83,8 @@
 - **⭐ Stars:** 193
 - **Language:** TypeScript
 - **Description:** Generate images directly in DeepSeek Harness chats
-- **Tags:** `image-generation`, `gemini`, `seedream`
-- **Why use it:** Generate images directly in DSH chats
-
----
-
-### [ZSeven-W/dsh-openpencil](https://github.com/ZSeven-W/dsh-openpencil)
-
-- **⭐ Stars:** 153
-- **Language:** TypeScript
-- **Description:** The DeepSeek Harness plugin for OpenPencil — preview, inspect, and edit real .op documents inside a conversation.
-- **Tags:** `design`, `ui-design`, `openpencil`
-- **Why use it:** Preview, inspect, and edit OpenPencil UI prototypes directly in chat.
+- **Tags:** `image-generation`, `deepseek-harness`, `ai-agent`
+- **Why use it:** Generate AI images directly inside DeepSeek Harness chat interface.
 
 ---
 
@@ -103,8 +93,18 @@
 - **⭐ Stars:** 43
 - **Language:** Python
 - **Description:** 把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴。Claude Skill / DeepSeek Harness 通用。
-- **Tags:** `agent-skills`, `claude-code`, `claude-skills`, `codex`, `deepseek-harness`, `diagram`, `dsh-plugin`, `legal`, `legal-tech`, `litigation`, `python`, `svg`, `visualization`, `zero-dependency`
-- **Why use it:** Legal litigation visualization tool: redraw case diagrams and generate timelines in SVG
+- **Tags:** `agent-skills`, `claude-code`, `diagram`, `dsh-plugin`, `legal`, `svg`, `timeline`, `visualization`
+- **Why use it:** Litigation visualization toolkit: timelines and legal diagrams as SVG.
+
+---
+
+### [zhaiyateng/dsh-design-skills](https://github.com/zhaiyateng/dsh-design-skills)
+
+- **⭐ Stars:** 18
+- **Language:** JavaScript
+- **Description:** Design aesthetics skill pack for DeepSeek Harness (DSH) - keeps vibe-coded websites away from the AI look. 6 styles: dark-saas, apple-minimal, neo-neumorphism, brutalism, glassmorphism, japanese-minimal.
+- **Tags:** `design-skills`, `ui`, `vibe-coding`
+- **Why use it:** Polished design styles to escape generic AI-generated aesthetics
 
 ---
 
@@ -113,8 +113,18 @@
 - **⭐ Stars:** 15
 - **Language:** JavaScript
 - **Description:** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- **Tags:** `video`, `audio`, `image`, `directorx`
-- **Why use it:** AI video/image/audio skills with DirectorX integration
+- **Tags:** `ai-video`, `ai-image`, `directorx`
+- **Why use it:** AI video/image/audio skills with configurable model tools and knowledge corpus
+
+---
+
+### [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin)
+
+- **⭐ Stars:** 5
+- **Language:** JavaScript
+- **Description:** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所��即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
+- **Tags:** `background`, `visual`, `customization`
+- **Why use it:** Upload custom backgrounds with real-time preview and fine-tuning
 
 ---
 
