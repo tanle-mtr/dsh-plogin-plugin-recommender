@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 12 个插件
+> 本分类共 13 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,53 +8,43 @@
 
 ## 插件列表
 
-### [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)
-
-- **⭐ 星标：** 46,668
-- **语言：** Python
-- **描述：** Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
-- **标签：** `dsh-plugin`, `multi-agent`, `skills`
-- **推荐理由：** 自进化AI助手，支持记忆与知识管理
-
----
-
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 33,145
+- **⭐ 星标：** 33,160
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `dsh-plugin`, `agent-memory`, `agentic-rag`
-- **推荐理由：** 自进化上下文数据库，统一Agent记忆与RAG
+- **标签：** `agent-memory`, `rag`, `self-evolving`
+- **推荐理由：** 自进化上下文数据库，整合记忆与RAG。
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 20,587
+- **⭐ 星标：** 20,591
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `dsh-plugin`, `rag`, `knowledge-base`
-- **推荐理由：** LLM知识平台，支持RAG与自维护Wiki
+- **标签：** `rag`, `semantic-search`, `knowledge-base`
+- **推荐理由：** 具备RAG、语义搜索和Wiki的LLM知识平台。
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,410
+- **⭐ 星标：** 12,411
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `memory`, `RAG`, `local-first`
-- **推荐理由：** 可移植长期记忆层，本地优先且用户自有
+- **标签：** `memory`, `local-first`, `RAG`, `markdown`
+- **推荐理由：** 可移植的本地优先记忆层，Markdown原生，跨应用同步
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 10,967
+- **⭐ 星标：** 10,968
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `token-savings`, `hybrid-retrieval`
-- **推荐理由：** 自进化记忆系统，混合检索节省35% Token
+- **标签：** `memory`, `RAG`, `token-optimization`, `self-evolving`
+- **推荐理由：** 自进化记忆系统，混合检索+节省35% Token
 
 ---
 
@@ -64,17 +54,17 @@
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - **标签：** `agent`, `memory`, `rag`, `reme`
-- **推荐理由：** 专注Agent记忆管理的RAG知识库套件，功能明确
+- **推荐理由：** 专为Agent设计的记忆管理套件，支持RAG，适合持久化记忆需求。
 
 ---
 
 ### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
 
-- **⭐ 星标：** 2,503
+- **⭐ 星标：** 2,504
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `agent-memory`, `milvus`, `embeddings`, `rag`, `long-term-memory`
-- **推荐理由：** 基于Milvus向量库的持久化统一Agent记忆层
+- **标签：** `agent-memory`, `milvus`, `rag`, `embeddings`
+- **推荐理由：** 基于Milvus和Markdown的持久统一记忆层，专业级Agent记忆方案。
 
 ---
 
@@ -83,18 +73,18 @@
 - **⭐ 星标：** 1,199
 - **语言：** TypeScript
 - **描述：** Unlimited memory for OpenClaw
-- **标签：** `memory`, `rag`, `knowledge`
-- **推荐理由：** 为AI代理提供无限记忆能力
+- **标签：** `dsh-plugin`, `memory`, `rag`
+- **推荐理由：** 为AI代理提供无限持久化记忆存储能力。
 
 ---
 
 ### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
 
-- **⭐ 星标：** 259
+- **⭐ 星标：** 260
 - **语言：** TypeScript
 - **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `knowledge`, `r&d`, `dsh-plugin`
-- **推荐理由：** AI技能百科大全，覆盖Agent/RAG/MLOps。
+- **标签：** `knowledge`, `encyclopedia`, `rag`
+- **推荐理由：** 全面AI知识百科，涵盖技能、RAG和学习路线。
 
 ---
 
@@ -103,8 +93,18 @@
 - **⭐ 星标：** 169
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `agent-memory`, `skill-rag`, `semantic-search`
-- **推荐理由：** 将零散SKILL.md文件整理为可检索的智能体技能库。
+- **标签：** `rag`, `skill-retrieval`, `embeddings`
+- **推荐理由：** 将SKILL.md文件转化为支持检索的Agent技能知识库。
+
+---
+
+### [Totoro-qaq/dsh-plugin-bridge](https://github.com/Totoro-qaq/dsh-plugin-bridge)
+
+- **⭐ 星标：** 131
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness plugin for previewable cross-preset session migration. Fixed-schema handoffs preserve state, source-model intent, and unresolved images; the original session stays untouched.
+- **标签：** `memory`, `migration`, `session`
+- **推荐理由：** 保留跨预设会话状态和源模型意图
 
 ---
 
@@ -113,8 +113,18 @@
 - **⭐ 星标：** 125
 - **语言：** TypeScript
 - **描述：** Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- **标签：** `agent-memory`, `long-term-memory`, `mcp`
-- **推荐理由：** 持久化长期记忆插件，含检索工具和设置面板
+- **标签：** `memory`, `mcp`, `agent`
+- **推荐理由：** 持久的代理长期记忆，支持检索工具
+
+---
+
+### [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide)
+
+- **⭐ 星标：** 30
+- **语言：** TypeScript
+- **描述：** Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.
+- **标签：** `knowledge-base`, `plugin-development`, `agent-skill`
+- **推荐理由：** 官方DSH中英文文档知识库，插件开发参考必备
 
 ---
 
@@ -123,8 +133,8 @@
 - **⭐ 星标：** 11
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness plugin that connects to a PowerContext Server over HTTP for recall, memory, handoff, experience, and skills.
-- **标签：** `memory`, `recall`, `handoff`
-- **推荐理由：** 通过HTTP连接实现记忆、回忆和经验交接
+- **标签：** `memory`, `recall`, `handoff`, `mcp`
+- **推荐理由：** 通过HTTP连接PowerContext实现记忆召回
 
 ---
 
