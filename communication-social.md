@@ -13,8 +13,8 @@
 - **⭐ Stars:** 2
 - **Language:** TypeScript
 - **Description:** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
-- **Tags:** `dingtalk`, `chat-bot`, `ai-agent`
-- **Why use it:** DingTalk IM channel turning chat into tool-capable agent sessions.
+- **Tags:** `dingtalk`, `chat-bot`, `dsh-plugin`
+- **Why use it:** DingTalk IM channel enabling tool-capable agents via chat.
 
 ---
 
