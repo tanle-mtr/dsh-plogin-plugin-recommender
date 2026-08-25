@@ -10,41 +10,41 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 33,099
+- **⭐ 星标：** 33,114
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `rag`, `dsh-plugin`
-- **推荐理由：** 自进化上下文数据库，统一Agent记忆与RAG
+- **标签：** `agent-memory`, `rag`
+- **推荐理由：** 智能体自进化上下文数据库
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 20,572
+- **⭐ 星标：** 20,578
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `dsh-plugin`
-- **推荐理由：** 开源LLM知识平台，支持RAG与自维护Wiki
+- **标签：** `rag`, `knowledge-base`
+- **推荐理由：** LLM知识库平台含RAG和Wiki
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,405
+- **⭐ 星标：** 12,407
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `RAG`, `long-term-memory`, `local-first`
-- **推荐理由：** 便携式本地优先的AI代理记忆层
+- **标签：** `agent-memory`, `rag`, `long-term-memory`, `mcp`
+- **推荐理由：** 本地优先的跨应用记忆层，Markdown原生持久化
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 10,961
+- **⭐ 星标：** 10,966
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory-management`, `RAG`, `token-savings`, `self-evolving`
-- **推荐理由：** 自进化记忆系统，节省35%令牌
+- **标签：** `agent-memory`, `rag`, `self-evolving`, `token-savings`
+- **推荐理由：** 自进化记忆系统，节省35% Token，混合检索高效
 
 ---
 
@@ -54,17 +54,17 @@
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - **标签：** `agent`, `memory`, `rag`
-- **推荐理由：** 支持RAG的Agent记忆管理工具，持久化知识检索。
+- **推荐理由：** 优秀的Agent记忆管理套件，支持RAG检索增强。
 
 ---
 
 ### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
 
-- **⭐ 星标：** 2,502
+- **⭐ 星标：** 2,503
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `milvus`, `semantic-search`, `rag`
-- **推荐理由：** 基于Markdown和Milvus语义搜索的持久统一记忆层。
+- **标签：** `agent-memory`, `rag`, `milvus`
+- **推荐理由：** 基于Milvus的持久化统一Agent记忆层，支持混合搜索。
 
 ---
 
@@ -73,28 +73,28 @@
 - **⭐ 星标：** 1,199
 - **语言：** TypeScript
 - **描述：** Unlimited memory for OpenClaw
-- **标签：** `memory`, `rag`, `agent`
-- **推荐理由：** 为AI智能体提供无限记忆存储能力。
+- **标签：** `memory`, `rag`, `dsh-plugin`
+- **推荐理由：** OpenClaw无限持久化记忆，跨会话知识检索与召回
 
 ---
 
 ### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
 
-- **⭐ 星标：** 256
+- **⭐ 星标：** 258
 - **语言：** TypeScript
 - **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `dsh`, `dsh-plugin`, `dsh-skill`
-- **推荐理由：** AI全维度知识库百科，涵盖Agent、RAG、MCP与学习路线
+- **标签：** `knowledge`, `wiki`, `rag`
+- **推荐理由：** 全面AI知识百科，大模型智能体RAG一站式
 
 ---
 
 ### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ 星标：** 166
+- **⭐ 星标：** 169
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `agent-memory`, `embeddings`, `skill-routing`
-- **推荐理由：** SKILL.md文件转可检索技能知识库
+- **标签：** `rag`, `skill-retrieval`, `embeddings`, `memory`
+- **推荐理由：** 将SKILL.md文件整理为可检索的技能语料库
 
 ---
 
@@ -103,8 +103,8 @@
 - **⭐ 星标：** 125
 - **语言：** TypeScript
 - **描述：** Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- **标签：** `memory`, `rag`, `agent`
-- **推荐理由：** 持久化长期记忆，支持检索和可观测存储
+- **标签：** `memory`, `long-term`, `mcp`
+- **推荐理由：** 持久化agent记忆，支持检索召回
 
 ---
 
@@ -113,8 +113,8 @@
 - **⭐ 星标：** 11
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness plugin that connects to a PowerContext Server over HTTP for recall, memory, handoff, experience, and skills.
-- **标签：** `memory`, `deepseek-harness`, `mcp`
-- **推荐理由：** 通过HTTP连接实现记忆、回忆与交接系统
+- **标签：** `memory`, `recall`, `handoff`
+- **推荐理由：** HTTP连接的记忆、回忆和技能交接服务器
 
 ---
 
