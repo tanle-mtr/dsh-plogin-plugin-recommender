@@ -8,13 +8,23 @@
 
 ## 插件列表
 
+### [crafter-station/petdex](https://github.com/crafter-station/petdex)
+
+- **⭐ 星标：** 3,974
+- **语言：** TypeScript
+- **描述：** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
+- **标签：** `pets`, `mascot`, `theming`
+- **推荐理由：** 动画宠物画廊，为编码代理增添个性化体验
+
+---
+
 ### [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
 
 - **⭐ 星标：** 1,699
 - **语言：** TypeScript
 - **描述：** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- **标签：** `theme`, `skin`, `customization`
-- **推荐理由：** DeepSeek Harness鲸鱼娘系列主题皮肤
+- **标签：** `theme`, `skin`, `deepseek-harness`
+- **推荐理由：** 鲸鱼娘系列主题皮肤，个性化定制DSH界面
 
 ---
 
@@ -22,19 +32,19 @@
 
 - **⭐ 星标：** 384
 - **语言：** JavaScript
-- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **标签：** `theme`, `ui`, `customization`
-- **推荐理由：** 磨砂玻璃质感主题，支持毛玻璃模糊度和背景高度自定义
+- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度���磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **标签：** `theme`, `ui`, `dsh-plugin`
+- **推荐理由：** 磨砂玻璃主题，高度可定制，不改源码。
 
 ---
 
 ### [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin)
 
-- **⭐ 星标：** 190
+- **⭐ 星标：** 191
 - **语言：** JavaScript
 - **描述：** WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.
-- **标签：** `theme`, `chrome-extension`, `webgpu`
-- **推荐理由：** 精美 WebGPU 海洋主题扩展
+- **标签：** `chrome-extension`, `theme`, `webgpu`
+- **推荐理由：** 基于WebGPU的深海主题视觉皮肤，炫酷美观。
 
 ---
 
@@ -44,17 +54,7 @@
 - **语言：** JavaScript
 - **描述：** 🎨 看腻了 DSH 默认皮肤？34 款 opencode 经典配色一键换上——tokyonight、dracula、gruvbox、matrix、rose-pine……即点即换，重启不丢。34 opencode themes for DeepSeek Harness, one click, persisted. More by @FeatherHunter: ⚡ dsh-prompt · 🧠 dsh-mattpocock-skills-deck
 - **标签：** `theme`, `skins`, `ui`
-- **推荐理由：** 34款opencode经典配色一键切换，重启不丢。
-
----
-
-### [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin)
-
-- **⭐ 星标：** 5
-- **语言：** JavaScript
-- **描述：** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
-- **标签：** `theme`, `webui`, `customization`
-- **推荐理由：** 支持自定义图片上传和预设主题的UI背景
+- **推荐理由：** 34款经典主题一键切换，重启不丢，即装即用
 
 ---
 
