@@ -10,41 +10,41 @@
 
 ### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
 
-- **⭐ 星标：** 19,835
+- **⭐ 星标：** 19,836
 - **语言：** TypeScript
 - **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。
-- **标签：** `browser-extension`, `chat-management`, `dsh-plugin`
-- **推荐理由：** 主流AI网页工具增强套件与提示词管理器
+- **标签：** `browser-extension`, `chat-management`, `prompt-manager`
+- **推荐理由：** 跨浏览器扩展套件，增强多AI平台体验
 
 ---
 
 ### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ 星标：** 3,038
+- **⭐ 星标：** 3,039
 - **语言：** Python
 - **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **标签：** `bilibili`, `content-discovery`, `privacy`
-- **推荐理由：** 本地优先的跨平台内容发现Agent，注重隐私。
+- **标签：** `content-discovery`, `web-automation`, `chinese-platforms`
+- **推荐理由：** 跨平台AI内容发现Agent，覆盖B站、小红书等
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 1,319
+- **⭐ 星标：** 1,320
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `agent`
-- **推荐理由：** AI代理使用真实已登录浏览器，无缝自动化。
+- **标签：** `browser-use`, `agent`, `automation`
+- **推荐理由：** AI代理操控真实登录浏览器，CLI+扩展双驱动。
 
 ---
 
-### [urzeye/ophel](https://github.com/urzeye/ophel)
+### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
 
-- **⭐ 星标：** 980
+- **⭐ 星标：** 253
 - **语言：** TypeScript
-- **描述：** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
-- **标签：** `browser-extension`, `workflow`
-- **推荐理由：** 浏览器扩展，将AI对话转为可复用工作流。
+- **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
+- **标签：** `ios`, `mobile`, `automation`, `simulator`
+- **推荐理由：** 对话内运行iOS模拟器及真机，含22个自动化工具。
 
 ---
 
