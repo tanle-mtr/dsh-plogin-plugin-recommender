@@ -1,6 +1,6 @@
 # Memory & Knowledge (RAG)
 
-> 11 plugins in this category
+> 12 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,41 +10,41 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 33,463
+- **⭐ Stars:** 33,472
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `rag`, `context-database`
+- **Tags:** `memory`, `rag`, `context`, `database`
 - **Why use it:** Self-evolving context database unifying agent memory and RAG.
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 20,675
+- **⭐ Stars:** 20,683
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `knowledge-base`, `wiki`
-- **Why use it:** Open-source LLM knowledge platform with RAG and wiki features.
+- **Tags:** `rag`, `knowledge`, `wiki`, `vector`
+- **Why use it:** LLM knowledge platform turning docs into queryable RAG.
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ Stars:** 12,440
+- **⭐ Stars:** 12,441
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `memory`, `rag`, `local-first`, `portable`, `agent-memory`
-- **Why use it:** Portable local-first memory layer for AI agents with RAG support
+- **Tags:** `long-term-memory`, `rag`, `local-first`
+- **Why use it:** Portable local-first memory layer with Markdown-native long-term storage
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 11,001
+- **⭐ Stars:** 11,003
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory`, `self-evolving`, `token-savings`, `hybrid-retrieval`
-- **Why use it:** Self-evolving memory OS with 35.24% token savings and hybrid retrieval
+- **Tags:** `memory-management`, `token-savings`, `rag`
+- **Why use it:** Self-evolving memory OS with hybrid retrieval and 35% token savings
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ Stars:** 3,356
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **Tags:** `memory`, `rag`, `agent`
-- **Why use it:** Dedicated memory management for AI agents with RAG support
+- **Tags:** `agent`, `memory`, `rag`, `reme`
+- **Why use it:** Dedicated memory management kit designed specifically for AI agents.
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ Stars:** 2,515
 - **Language:** Python
 - **Description:** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **Tags:** `memory`, `rag`, `milvus`, `semantic-search`
-- **Why use it:** Persistent unified memory layer backed by Markdown and Milvus vector search
+- **Tags:** `memory`, `milvus`, `semantic-search`, `rag`
+- **Why use it:** Persistent unified memory layer for AI agents backed by Markdown and Milvus.
 
 ---
 
@@ -73,28 +73,28 @@
 - **⭐ Stars:** 1,200
 - **Language:** TypeScript
 - **Description:** Unlimited memory for OpenClaw
-- **Tags:** `memory`, `rag`, `persistent`
-- **Why use it:** Unlimited memory solution for long-running agent sessions
+- **Tags:** `memory`, `rag`, `dsh-plugin`
+- **Why use it:** Unlimited memory storage for AI agents via OpenClaw integration
 
 ---
 
-### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
+### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
 
-- **⭐ Stars:** 1,047
+- **⭐ Stars:** 267
 - **Language:** TypeScript
-- **Description:** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
-- **Tags:** `context`, `management`, `dashboard`
-- **Why use it:** Best context insight dashboard and management tool
+- **Description:** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更��前沿 AI 开源项目，开发者一站式 AI 导航库
+- **Tags:** `rag`, `mcp`, `dsh-plugin`
+- **Why use it:** Comprehensive AI skills encyclopedia covering RAG, MCP, multimodal, and learning paths.
 
 ---
 
 ### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ Stars:** 204
+- **⭐ Stars:** 207
 - **Language:** Python
 - **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `agent-memory`, `embeddings`, `skill-md`
-- **Why use it:** Turns SKILL.md files into curated retrieval-ready skill corpora
+- **Tags:** `skill-md`, `vector-search`, `reranking`, `embeddings`
+- **Why use it:** Builds curated skill corpora with semantic retrieval and evaluation
 
 ---
 
@@ -103,18 +103,28 @@
 - **⭐ Stars:** 126
 - **Language:** TypeScript
 - **Description:** Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- **Tags:** `memory`, `mcp`, `long-term-memory`
-- **Why use it:** Durable long-term agent memory with inspectable storage, recall tools, and settings page
+- **Tags:** `agent-memory`, `long-term-memory`, `mcp`
+- **Why use it:** Long-term durable agent memory with recall tools and inspectable storage
 
 ---
 
-### [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide)
+### [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor)
 
-- **⭐ Stars:** 32
+- **⭐ Stars:** 20
 - **Language:** TypeScript
-- **Description:** Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.
-- **Tags:** `knowledge`, `docs`
-- **Why use it:** Official DSH docs knowledge base as on-demand agent skill.
+- **Description:** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
+- **Tags:** `context`, `deepseek-harness`, `dsh-plugin`
+- **Why use it:** Audits AGENTS.md tokens, detects conflicts; essential context hygiene tool.
+
+---
+
+### [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge)
+
+- **⭐ Stars:** 18
+- **Language:** TypeScript
+- **Description:** OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek Harness support.
+- **Tags:** `evaluation`, `rag-evaluation`, `deepseek-harness`, `dsh-plugin`
+- **Why use it:** Evidence-backed evaluation framework for prompts, RAG, skills, and agents.
 
 ---
 
