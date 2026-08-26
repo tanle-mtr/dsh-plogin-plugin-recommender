@@ -1,6 +1,6 @@
 # Memory & Knowledge (RAG)
 
-> 12 plugins in this category
+> 10 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,41 +10,41 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 33,472
+- **⭐ Stars:** 33,481
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `memory`, `rag`, `context`, `database`
-- **Why use it:** Self-evolving context database unifying agent memory and RAG.
+- **Tags:** `agent-memory`, `agentic-rag`, `knowledge-database`
+- **Why use it:** Self-evolving context database unifying memory and RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 20,683
+- **⭐ Stars:** 20,688
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `knowledge`, `wiki`, `vector`
-- **Why use it:** LLM knowledge platform turning docs into queryable RAG.
+- **Tags:** `rag`, `knowledge-base`, `vector-search`
+- **Why use it:** Open-source RAG knowledge platform with reasoning agent
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ Stars:** 12,441
+- **⭐ Stars:** 12,443
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `long-term-memory`, `rag`, `local-first`
-- **Why use it:** Portable local-first memory layer with Markdown-native long-term storage
+- **Tags:** `agent-memory`, `rag`, `long-term-memory`
+- **Why use it:** Portable local-first memory layer for all AI agents
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 11,003
+- **⭐ Stars:** 11,007
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory-management`, `token-savings`, `rag`
-- **Why use it:** Self-evolving memory OS with hybrid retrieval and 35% token savings
+- **Tags:** `long-term-memory`, `token-savings`, `memory-management`
+- **Why use it:** Self-evolving memory OS with 35% token savings
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ Stars:** 3,356
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **Tags:** `agent`, `memory`, `rag`, `reme`
-- **Why use it:** Dedicated memory management kit designed specifically for AI agents.
+- **Tags:** `memory`, `rag`, `agent`
+- **Why use it:** Essential memory management kit for agents with RAG support.
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ Stars:** 2,515
 - **Language:** Python
 - **Description:** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **Tags:** `memory`, `milvus`, `semantic-search`, `rag`
-- **Why use it:** Persistent unified memory layer for AI agents backed by Markdown and Milvus.
+- **Tags:** `memory`, `milvus`, `rag`, `semantic-search`
+- **Why use it:** Persistent unified memory layer for AI agents backed by Milvus and embeddings.
 
 ---
 
@@ -73,8 +73,8 @@
 - **⭐ Stars:** 1,200
 - **Language:** TypeScript
 - **Description:** Unlimited memory for OpenClaw
-- **Tags:** `memory`, `rag`, `dsh-plugin`
-- **Why use it:** Unlimited memory storage for AI agents via OpenClaw integration
+- **Tags:** `memory`, `rag`
+- **Why use it:** Provides unlimited memory for AI agents via OpenClaw integration
 
 ---
 
@@ -82,19 +82,19 @@
 
 - **⭐ Stars:** 267
 - **Language:** TypeScript
-- **Description:** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更��前沿 AI 开源项目，开发者一站式 AI 导航库
-- **Tags:** `rag`, `mcp`, `dsh-plugin`
-- **Why use it:** Comprehensive AI skills encyclopedia covering RAG, MCP, multimodal, and learning paths.
+- **Description:** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
+- **Tags:** `knowledge-base`, `rag`, `dsh-plugin`
+- **Why use it:** Comprehensive AI knowledge encyclopedia with MCP and RAG resources.
 
 ---
 
 ### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ Stars:** 207
+- **⭐ Stars:** 208
 - **Language:** Python
 - **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `skill-md`, `vector-search`, `reranking`, `embeddings`
-- **Why use it:** Builds curated skill corpora with semantic retrieval and evaluation
+- **Tags:** `agent-memory`, `skill-routing`, `vector-search`
+- **Why use it:** Turns SKILL.md files into retrieval-ready agent skill corpora
 
 ---
 
@@ -104,27 +104,7 @@
 - **Language:** TypeScript
 - **Description:** Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
 - **Tags:** `agent-memory`, `long-term-memory`, `mcp`
-- **Why use it:** Long-term durable agent memory with recall tools and inspectable storage
-
----
-
-### [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor)
-
-- **⭐ Stars:** 20
-- **Language:** TypeScript
-- **Description:** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
-- **Tags:** `context`, `deepseek-harness`, `dsh-plugin`
-- **Why use it:** Audits AGENTS.md tokens, detects conflicts; essential context hygiene tool.
-
----
-
-### [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge)
-
-- **⭐ Stars:** 18
-- **Language:** TypeScript
-- **Description:** OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek Harness support.
-- **Tags:** `evaluation`, `rag-evaluation`, `deepseek-harness`, `dsh-plugin`
-- **Why use it:** Evidence-backed evaluation framework for prompts, RAG, skills, and agents.
+- **Why use it:** Durable long-term agent memory with recall tools and inspectable storage.
 
 ---
 
