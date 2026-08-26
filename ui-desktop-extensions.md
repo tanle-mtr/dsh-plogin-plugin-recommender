@@ -1,6 +1,6 @@
 # UI & Desktop Extensions
 
-> 20 plugins in this category
+> 16 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,73 @@
 
 ## Plugins
 
+### [nexu-io/open-design](https://github.com/nexu-io/open-design)
+
+- **⭐ Stars:** 91,486
+- **Language:** TypeScript
+- **Description:** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
+- **Tags:** `design-systems`, `ui-generator`, `desktop-app`
+- **Why use it:** Open-source design system and desktop UI generator.
+
+---
+
+### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
+
+- **⭐ Stars:** 27,044
+- **Language:** TypeScript
+- **Description:** :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+- **Tags:** `electron`, `image-uploader`, `cloud-storage`
+- **Why use it:** Ultimate cross-platform image uploader with 60+ hosting services.
+
+---
+
+### [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)
+
+- **⭐ Stars:** 20,217
+- **Language:** TypeScript
+- **Description:** 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+- **Tags:** `desktop`, `dsh-plugin`, `cordis`
+- **Why use it:** Modern desktop client for DeepSeek Harness plugin ecosystem.
+
+---
+
 ### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
 
-- **⭐ Stars:** 6,051
+- **⭐ Stars:** 6,058
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发
-- **Tags:** `dsh-web`, `web-ui`, `plugin-hub`, `distribution`
-- **Why use it:** Web-based DSH plugin hub and creative workshop distribution platform
+- **Tags:** `dsh-web`, `web-ui`, `plugin-aggregator`
+- **Why use it:** Web plugin aggregator with creative workshop distribution model
 
 ---
 
 ### [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)
 
-- **⭐ Stars:** 2,899
+- **⭐ Stars:** 2,904
 - **Language:** TypeScript
 - **Description:** 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.
-- **Tags:** `sidebar`, `dsh-plugin`, `ui-extension`
-- **Why use it:** Extensible sidebar with file editor, terminal, chat, Git, and sub-agent pages built in.
+- **Tags:** `sidebar`, `ui`, `extension`
+- **Why use it:** Extensible sidebar with file editor, terminal, chat, and sub-agent pages
 
 ---
 
 ### [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
 
-- **⭐ Stars:** 2,543
+- **⭐ Stars:** 2,547
 - **Language:** TypeScript
 - **Description:** DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
-- **Tags:** `tui`, `claude-code`, `terminal`
-- **Why use it:** Claude Code-style TUI with whale header, streaming thoughts, and context progress.
+- **Tags:** `tui`, `terminal`, `ui`
+- **Why use it:** Claude Code-style terminal UI with whale header and streaming status
+
+---
+
+### [GCWing/BitFun](https://github.com/GCWing/BitFun)
+
+- **⭐ Stars:** 1,817
+- **Language:** Rust
+- **Description:** BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
+- **Tags:** `desktop`, `agent-runtime`, `rust`
+- **Why use it:** High-performance Rust agent runtime paired with a polished desktop app
 
 ---
 
@@ -43,8 +83,8 @@
 - **⭐ Stars:** 1,177
 - **Language:** Rust
 - **Description:** DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.
-- **Tags:** `desktop`, `tauri`
-- **Why use it:** Lightweight Tauri desktop with preset plugins, zero setup
+- **Tags:** `desktop`, `tauri`, `cross-platform`
+- **Why use it:** 5MB Tauri desktop app with zero environment setup
 
 ---
 
@@ -53,18 +93,18 @@
 - **⭐ Stars:** 1,119
 - **Language:** TypeScript
 - **Description:** Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.
-- **Tags:** `desktop`, `pet`
-- **Why use it:** Animated desktop companion with plugin SDK integration
+- **Tags:** `desktop`, `pet`, `electron`, `sdk`
+- **Why use it:** Desktop companion with animated pets and plugin SDK
 
 ---
 
 ### [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)
 
-- **⭐ Stars:** 996
+- **⭐ Stars:** 998
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
-- **Tags:** `widget`, `desktop`
-- **Why use it:** Floating whale widget tracks DeepSeek balance in DSH
+- **Tags:** `widget`, `balance`, `ui`
+- **Why use it:** Cute floating whale widget monitoring DeepSeek balance
 
 ---
 
@@ -73,48 +113,8 @@
 - **⭐ Stars:** 632
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.
-- **Tags:** `desktop`, `workspace`
-- **Why use it:** Local-first desktop workspace for DSH sessions and files
-
----
-
-### [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork)
-
-- **⭐ Stars:** 349
-- **Language:** TypeScript
-- **Description:** Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress
-- **Tags:** `desktop`, `agent`, `multi-model`, `privacy`
-- **Why use it:** Local-first multi-model desktop app with self-evolving skills and privacy focus
-
----
-
-### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
-
-- **⭐ Stars:** 335
-- **Language:** TypeScript
-- **Description:** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
-- **Tags:** `ui`, `genui`, `interactive`
-- **Why use it:** Renders interactive UI components like charts, forms, and quizzes inline in responses
-
----
-
-### [op7418/pilot-harness](https://github.com/op7418/pilot-harness)
-
-- **⭐ Stars:** 257
-- **Language:** TypeScript
-- **Description:** Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.
-- **Tags:** `desktop`, `electron`, `client`, `cross-platform`
-- **Why use it:** CodePilot-inspired cross-platform desktop client with plugin suite for macOS/Linux/Windows
-
----
-
-### [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)
-
-- **⭐ Stars:** 227
-- **Language:** JavaScript
-- **Description:** A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.
-- **Tags:** `canvas`, `ui`, `conversation`, `branching`
-- **Why use it:** Visual non-linear canvas workspace enabling branching conversations and session exploration
+- **Tags:** `desktop`, `electron`, `workspace`
+- **Why use it:** Local-first Electron desktop workspace for DSH sessions
 
 ---
 
@@ -123,18 +123,8 @@
 - **⭐ Stars:** 190
 - **Language:** TypeScript
 - **Description:** Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.
-- **Tags:** `desktop`, `gui`, `electron`, `ssh`
-- **Why use it:** Full-featured Windows desktop GUI with SSH, skills, and mobile remote access
-
----
-
-### [ZSeven-W/dsh-android](https://github.com/ZSeven-W/dsh-android)
-
-- **⭐ Stars:** 116
-- **Language:** TypeScript
-- **Description:** DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb.
-- **Tags:** `android`, `emulator`, `mobile`
-- **Why use it:** Build and interact with live Android emulators directly inside conversations.
+- **Tags:** `desktop-app`, `electron`, `dsh-plugin`
+- **Why use it:** Windows desktop GUI for DSH with SSH and mobile access.
 
 ---
 
@@ -143,48 +133,18 @@
 - **⭐ Stars:** 53
 - **Language:** TypeScript
 - **Description:** DSH Desktop Hub — DeepSeek Harness 桌面管理控制台（Electron + TypeScript）。多 Tab 管理 Harness / Plugin / MCP / Skills，双击即用。
-- **Tags:** `deepseek-harness`, `desktop-app`, `dsh`, `dsh-plugin`, `dsh-plugins`, `electron`, `typescript`
-- **Why use it:** Electron-based desktop console for managing DSH plugins, MCPs and skills.
+- **Tags:** `desktop`, `electron`, `ui`, `management`
+- **Why use it:** Electron desktop console for managing Harness/Plugin/MCP/Skills — multi-tab, double-click to run.
 
 ---
 
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+### [songoao25/dsh-bottom-info-bar](https://github.com/songoao25/dsh-bottom-info-bar)
 
-- **⭐ Stars:** 26
-- **Language:** TypeScript
-- **Description:** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
-- **Tags:** `mcp`, `capability-menu`, `ui`
-- **Why use it:** Unified menu to control MCP tool/skill exposure level and execution mode
-
----
-
-### [a735624258/dsh-skill-picker](https://github.com/a735624258/dsh-skill-picker)
-
-- **⭐ Stars:** 25
+- **⭐ Stars:** 16
 - **Language:** JavaScript
-- **Description:** DSH 实现 workbuddy 同款选择 skill 功能 | WorkBuddy-style skill picker for DeepSeek Harness: pick a skill in the composer, insert the official /skill-name gesture, and DSH loads it with your message.
-- **Tags:** `skill-picker`, `ui`, `composer`
-- **Why use it:** WorkBuddy-style skill picker with composer integration for DSH
-
----
-
-### [weshopai/weshop-dsh-plugin](https://github.com/weshopai/weshop-dsh-plugin)
-
-- **⭐ Stars:** 12
-- **Language:** JavaScript
-- **Description:** Native WeShop Cordis plugin for DeepSeek Harness. Allow you to use infinite canvas with infinite creative skills.
-- **Tags:** `canvas`, `creative`
-- **Why use it:** Infinite canvas with creative skills in native DSH plugin
-
----
-
-### [Max-Samson/dsh-usage-chart](https://github.com/Max-Samson/dsh-usage-chart)
-
-- **⭐ Stars:** 11
-- **Language:** TypeScript
-- **Description:** A DeepSeek Harness Web plugin for real-time Token usage, cost estimates, per-round charts, and DeepSeek API balance.
-- **Tags:** `visualization`, `token-usage`
-- **Why use it:** Real-time token usage and cost charts via web plugin
+- **Description:** Bottom Info Bar — an information bar plugin for DeepSeek Harness: provider/model, live balance, peak/off-peak pricing with countdown, and real persisted per-session spend in a single line.
+- **Tags:** `ui`, `usage-tracking`, `web`
+- **Why use it:** Persistent bottom bar showing provider, model, balance, and pricing
 
 ---
 
@@ -193,8 +153,8 @@
 - **⭐ Stars:** 9
 - **Language:** Rust
 - **Description:** StarHub 是一款跨平台桌面应用（Tauri 2 + Rust 主进程 + DeepSeek Harness React 工作台 + Go Sidecar），把开发运维日常高频工具整合到同一个窗口 —— 数据库、SSH/SFTP、Docker 面板与 AI 助手。目标是减少在 Navicat、Xshell、Portainer、文件管理器和 AI 对话窗口之间来回切换的成本。  前端架构：基于 DeepSeek Harness 原生 React 工作台（/starhub-react 路由）。资产、设置、SSH 终端、SFTP、数据库
-- **Tags:** `desktop`, `tauri`
-- **Why use it:** All-in-one Tauri desktop with DB, SSH, Docker and AI assistant
+- **Tags:** `desktop`, `tauri`, `docker`, `ssh`
+- **Why use it:** All-in-one Tauri desktop: DB, SSH, Docker + AI assistant.
 
 ---
 
@@ -203,8 +163,8 @@
 - **⭐ Stars:** 6
 - **Language:** JavaScript
 - **Description:** 桌面版 DeepSeek Harness：Electron 壳 + 自托管 dsh web 服务，集成 dsh-better-sidebar / dsh-web-ui / ModLens / awesome-dsh-plugin / dshmarket
-- **Tags:** `desktop`, `electron`
-- **Why use it:** Electron desktop wrapper integrating DSH web UI and tools
+- **Tags:** `electron`, `desktop`, `web-ui`
+- **Why use it:** Electron shell wrapping DSH web UI with sidebars and integrations.
 
 ---
 
