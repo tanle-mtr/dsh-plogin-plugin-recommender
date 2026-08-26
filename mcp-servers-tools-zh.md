@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 5 个插件
+> 本分类共 4 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -13,18 +13,18 @@
 - **⭐ 星标：** 105
 - **语言：** JavaScript
 - **描述：** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **标签：** `mcp`, `skills`, `webui`
-- **推荐理由：** Web界面skill/MCP管理工具，DSH内一站式配置维护。
+- **标签：** `mcp`, `skills`, `management`
+- **推荐理由：** Web界面管理skill和MCP
 
 ---
 
-### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ 星标：** 24
-- **语言：** JavaScript
-- **描述：** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
-- **标签：** `codex`, `sync`, `mcp`
-- **推荐理由：** Codex与DSH双向同步聊天、技能和MCP
+- **⭐ 星标：** 57
+- **语言：** TypeScript
+- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **标签：** `ai-agents`, `alipay`, `api-documentation`, `chinese-api`, `claude-code`, `cursor`, `deepseek-harness`, `dingtalk`, `dsh-plugin`
+- **推荐理由：** 搜索20个中国开放平台6.5万+API文档。
 
 ---
 
@@ -33,18 +33,8 @@
 - **⭐ 星标：** 16
 - **语言：** TypeScript
 - **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **标签：** `mcp`, `dsh-plugin`, `skills`
-- **推荐理由：** 在浏览器中直接管理技能与MCP服务器的Web UI卡片。
-
----
-
-### [klarkxy/zhihu-search](https://github.com/klarkxy/zhihu-search)
-
-- **⭐ 星标：** 15
-- **语言：** Python
-- **描述：** DeepSeek Harness plugin, Skill, CLI and MCP for Zhihu search, Zhida ask, and official open-platform APIs
-- **标签：** `mcp`, `zhihu`, `dsh-plugin`
-- **推荐理由：** 知乎搜索与知达问答，支持MCP/Skill/CLI三种方式。
+- **标签：** `mcp`, `skills`, `manager`, `gui`
+- **推荐理由：** 从设置页直接管理技能与MCP服务器
 
 ---
 
@@ -53,8 +43,8 @@
 - **⭐ 星标：** 14
 - **语言：** JavaScript
 - **描述：** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
-- **标签：** `mcp-server`, `skill-management`, `hot-reload`
-- **推荐理由：** 热加载MCP连接，无需重启，粘贴JSON即可使用。
+- **标签：** `mcp`, `hot-reload`, `skills`
+- **推荐理由：** 粘贴JSON即连MCP服务器，热加载免重启
 
 ---
 

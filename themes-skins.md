@@ -1,6 +1,6 @@
 # Themes & Skins
 
-> 4 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,11 +10,11 @@
 
 ### [crafter-station/petdex](https://github.com/crafter-station/petdex)
 
-- **⭐ Stars:** 3,977
+- **⭐ Stars:** 3,978
 - **Language:** TypeScript
 - **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **Tags:** `mascot`, `pixel-art`, `dsh-plugin`
-- **Why use it:** Animated pet mascot gallery enhancing coding agent desktop experience
+- **Tags:** `pixel-art`, `mascot`, `themes`, `gallery`
+- **Why use it:** Public gallery of animated pixel-art pets to personalize your agent experience
 
 ---
 
@@ -23,8 +23,18 @@
 - **⭐ Stars:** 1,731
 - **Language:** TypeScript
 - **Description:** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- **Tags:** `dsh-plugin`, `themes`
-- **Why use it:** Whale girl themed visual skins for DeepSeek Harness UI.
+- **Tags:** `dsh-plugin`, `theme`, `skin`
+- **Why use it:** Whale girl themed skins for DeepSeek Harness customization.
+
+---
+
+### [WYH66666666/DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
+
+- **⭐ Stars:** 387
+- **Language:** JavaScript
+- **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **Tags:** `theme`, `ui`, `dsh-plugin`
+- **Why use it:** Frosted glass theme with full customization for DSH web UI
 
 ---
 
@@ -33,8 +43,8 @@
 - **⭐ Stars:** 192
 - **Language:** JavaScript
 - **Description:** WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.
-- **Tags:** `theme`, `webgpu`, `threejs`
-- **Why use it:** Stunning WebGPU ocean-themed visual skin for DSH UI.
+- **Tags:** `theme`, `webgpu`, `chrome-extension`
+- **Why use it:** WebGPU-powered ocean-themed skin for DSH via Chrome/Edge extension
 
 ---
 
@@ -43,8 +53,8 @@
 - **⭐ Stars:** 16
 - **Language:** JavaScript
 - **Description:** 🎨 看腻了 DSH 默认皮肤？34 款 opencode 经典配色一键换上——tokyonight、dracula、gruvbox、matrix、rose-pine……即点即换，重启不丢。34 opencode themes for DeepSeek Harness, one click, persisted. More by @FeatherHunter: ⚡ dsh-prompt · 🧠 dsh-mattpocock-skills-deck
-- **Tags:** `theme`, `skins`, `color-scheme`, `dsh-plugin`
-- **Why use it:** 34 opencode themes one-click applied, persists across restarts.
+- **Tags:** `theme`, `skin`, `palette`, `opencode`
+- **Why use it:** 34 classic opencode themes one-click switch with persistence
 
 ---
 
