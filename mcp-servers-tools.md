@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 4 plugins in this category
+> 6 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,43 @@
 
 ## Plugins
 
-### [liustack/modlens](https://github.com/liustack/modlens)
+### [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)
 
-- **⭐ Stars:** 3,692
+- **⭐ Stars:** 2,500
 - **Language:** TypeScript
-- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `ocr`, `multimodal`, `dsh-plugin`
-- **Why use it:** First vision plugin enabling OCR and image-to-structured-JSON for text-only agents
+- **Description:** The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
+- **Tags:** `marketplace`, `plugin`, `install`
+- **Why use it:** Plugin marketplace for browsing and one-click install
 
 ---
 
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
 
-- **⭐ Stars:** 57
+- **⭐ Stars:** 107
+- **Language:** JavaScript
+- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
+- **Tags:** `mcp`, `skills`, `web-ui`
+- **Why use it:** Web UI panel for managing DSH skills and MCP servers in one interface.
+
+---
+
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+
+- **⭐ Stars:** 17
 - **Language:** TypeScript
-- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `api-documentation`, `tools`
-- **Why use it:** Search 65,600+ Chinese platform API docs directly in DSH/Cursor
+- **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
+- **Tags:** `deepseek-harness`, `dsh`, `mcp`
+- **Why use it:** Manages skills and MCP servers in DSH Web GUI
+
+---
+
+### [klarkxy/zhihu-search](https://github.com/klarkxy/zhihu-search)
+
+- **⭐ Stars:** 15
+- **Language:** Python
+- **Description:** DeepSeek Harness plugin, Skill, CLI and MCP for Zhihu search, Zhida ask, and official open-platform APIs
+- **Tags:** `deepseek-harness`, `mcp`, `zhihu`
+- **Why use it:** MCP and CLI tools for Zhihu search and open-platform APIs
 
 ---
 
@@ -33,8 +53,8 @@
 - **⭐ Stars:** 14
 - **Language:** JavaScript
 - **Description:** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
-- **Tags:** `mcp`, `skill-management`, `hot-reload`
-- **Why use it:** Hot-reload MCP config without restart, seamless skill management
+- **Tags:** `mcp`, `hot-reload`, `skill-management`
+- **Why use it:** Hot-reload MCP config without restart, auto-creates skills from skill files.
 
 ---
 
@@ -44,7 +64,7 @@
 - **Language:** JavaScript
 - **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
 - **Tags:** `chatgpt`, `oauth`, `subscription`
-- **Why use it:** Bind ChatGPT account via OAuth to chat with ChatGPT models inside DSH
+- **Why use it:** OAuth integration to use ChatGPT models inside DSH via subscription.
 
 ---
 
