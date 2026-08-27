@@ -10,41 +10,41 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 33,560
+- **⭐ 星标：** 33,639
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - **标签：** `agent-memory`, `agentic-rag`, `self-evolving`
-- **推荐理由：** 自演进上下文数据库，统一记忆与知识RAG能力。
+- **推荐理由：** 自进化上下文数据库，整合记忆与RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 20,701
+- **⭐ 星标：** 20,719
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `vector-search`, `semantic-search`
-- **推荐理由：** 知识平台将文档转化为可查询RAG、智能体与Wiki。
+- **标签：** `rag`, `vector-search`, `knowledge-base`
+- **推荐理由：** 开源RAG平台，支持语义搜索与维基
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,451
+- **⭐ 星标：** 12,455
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `rag`, `dsh-plugin`
-- **推荐理由：** 本地优先的可移植记忆层，支持跨Agent持久记忆。
+- **标签：** `agent-memory`, `rag`, `long-term-memory`
+- **推荐理由：** 本地优先的可移植AI代理记忆层
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 11,012
+- **⭐ 星标：** 11,019
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `long-term-memory`, `rag`, `dsh-plugin`
-- **推荐理由：** 自演进记忆系统，混合检索，节省大量Token。
+- **标签：** `long-term-memory`, `rag`, `memory-management`
+- **推荐理由：** 自演化记忆OS，混合检索节省35% token
 
 ---
 
@@ -54,7 +54,7 @@
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - **标签：** `agent`, `memory`, `rag`
-- **推荐理由：** 优秀的AI代理记忆管理工具，支持RAG。
+- **推荐理由：** 优秀的Agent记忆管理工具，支持RAG检索增强。
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ 星标：** 2,515
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `milvus`, `rag`, `semantic-search`
-- **推荐理由：** 基于Milvus的持久统一记忆层，支持所有AI代理。
+- **标签：** `memory`, `milvus`, `semantic-search`
+- **推荐理由：** 基于Milvus的持久化Agent记忆层，支持语义检索。
 
 ---
 
@@ -73,28 +73,28 @@
 - **⭐ 星标：** 1,201
 - **语言：** TypeScript
 - **描述：** Unlimited memory for OpenClaw
-- **标签：** `memory`, `rag`
-- **推荐理由：** 为AI代理提供无限记忆能力
+- **标签：** `memory`, `rag`, `knowledge`
+- **推荐理由：** AI代理无限长期记忆，无缝集成
 
 ---
 
-### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
+### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ 星标：** 268
-- **语言：** TypeScript
-- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `knowledge-base`, `mcp`, `rag`, `skills`
-- **推荐理由：** AI技能大全与知识库百科导航
+- **⭐ 星标：** 222
+- **语言：** Python
+- **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
+- **标签：** `agent-memory`, `skill-md`, `vector-search`
+- **推荐理由：** 将散落的技能文档转为可检索的Agent知识库
 
 ---
 
-### [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge)
+### [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema)
 
-- **⭐ 星标：** 18
+- **⭐ 星标：** 126
 - **语言：** TypeScript
-- **描述：** OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek Harness support.
-- **标签：** `evaluation`, `rag`, `prompt-testing`, `benchmark`
-- **推荐理由：** 基于证据的提示词/RAG/Agent评估与可观测框架
+- **描述：** Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
+- **标签：** `memory`, `long-term-memory`, `mcp`
+- **推荐理由：** 持久可检查的Agent长期记忆，带召回工具和设置页面。
 
 ---
 

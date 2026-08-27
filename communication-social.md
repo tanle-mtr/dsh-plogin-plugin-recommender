@@ -1,6 +1,6 @@
 # Communication & Social
 
-> 2 plugins in this category
+> 1 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -13,18 +13,8 @@
 - **⭐ Stars:** 17
 - **Language:** HTML
 - **Description:** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
-- **Tags:** `social`, `community`, `oauth`, `photo`
-- **Why use it:** DSH beta finale group photo wall with GitHub OAuth and polaroid style.
-
----
-
-### [ttmouse/dsh-dingtalk-channel](https://github.com/ttmouse/dsh-dingtalk-channel)
-
-- **⭐ Stars:** 2
-- **Language:** TypeScript
-- **Description:** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
-- **Tags:** `chat-bot`, `dingtalk`, `communication`
-- **Why use it:** DingTalk IM channel turning chats into agent tools
+- **Tags:** `social`, `oauth`, `dsh-plugin`
+- **Why use it:** Zero-permission GitHub OAuth photo wall for DSH community milestone celebration.
 
 ---
 
