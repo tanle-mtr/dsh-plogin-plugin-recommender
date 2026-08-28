@@ -8,23 +8,23 @@
 
 ## 插件列表
 
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
-
-- **⭐ 星标：** 58
-- **语言：** TypeScript
-- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **标签：** `api-documentation`, `chinese-api`, `mcp`
-- **推荐理由：** 零���置搜索20个中国开放平台6.5万+API文档。
-
----
-
 ### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
 
 - **⭐ 星标：** 19
 - **语言：** TypeScript
 - **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **标签：** `mcp`, `manager`, `web-ui`
-- **推荐理由：** 在DSH Web GUI设置页直接管理技能和MCP服务器
+- **标签：** `mcp`, `skills`, `manager`
+- **推荐理由：** 通过Web UI卡片管理技能和MCP服务器
+
+---
+
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+
+- **⭐ 星标：** 3
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `oauth`, `model-integration`, `subscription`
+- **推荐理由：** 通过OAuth绑定ChatGPT账号，在DSH内直接使用ChatGPT模型
 
 ---
 
