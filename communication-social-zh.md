@@ -13,8 +13,8 @@
 - **⭐ 星标：** 2
 - **语言：** TypeScript
 - **描述：** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
-- **标签：** `dingtalk`, `chat-bot`, `im`
-- **推荐理由：** 钉钉IM通道，聊天变智能体工具
+- **标签：** `chat-bot`, `dingtalk`
+- **推荐理由：** 钉钉IM通道，聊天即Agent工具调用
 
 ---
 
