@@ -1,6 +1,6 @@
 # 通信与社交
 
-> 本分类共 1 个插件
+> 本分类共 2 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,13 +8,23 @@
 
 ## 插件列表
 
+### [SenmuuuuW/dsh-group-photo](https://github.com/SenmuuuuW/dsh-group-photo)
+
+- **⭐ 星标：** 17
+- **语言：** HTML
+- **描述：** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
+- **标签：** `deepseek-harness`, `dsh`, `dsh-plugin`
+- **推荐理由：** GitHub OAuth 零权限合影墙，内测社区趣味功能。
+
+---
+
 ### [ttmouse/dsh-dingtalk-channel](https://github.com/ttmouse/dsh-dingtalk-channel)
 
 - **⭐ 星标：** 2
 - **语言：** TypeScript
 - **描述：** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
-- **标签：** `ai-agent`, `dingtalk`, `dsh-plugin`, `chat-bot`
-- **推荐理由：** 将智能体工具带入聊天机器人的钉钉IM渠道。
+- **标签：** `ai-agent`, `dingtalk`, `chat-bot`, `dsh-plugin`
+- **推荐理由：** 钉钉IM通道实现工具型Agent对话
 
 ---
 
