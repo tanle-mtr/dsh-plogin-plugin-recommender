@@ -8,13 +8,23 @@
 
 ## Plugins
 
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ Stars:** 319
+- **Language:** TypeScript
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `web-search`, `mcp`, `browser`
+- **Why use it:** Free web search bridge for all models without native web access, no signup
+
+---
+
 ### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
 
 - **⭐ Stars:** 19
 - **Language:** TypeScript
 - **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **Tags:** `mcp`, `skills`, `manager`
-- **Why use it:** Manage skills and MCP servers directly from the DSH Web GUI settings panel
+- **Tags:** `mcp`, `skills`, `web-gui`, `deepseek-harness`
+- **Why use it:** Web GUI plugin for managing skills and MCP servers directly in browser
 
 ---
 
@@ -23,18 +33,8 @@
 - **⭐ Stars:** 14
 - **Language:** JavaScript
 - **Description:** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
-- **Tags:** `mcp`, `hot-reload`, `skill-management`
-- **Why use it:** Hot-reload MCP server management via JSON paste, eliminating config restarts.
-
----
-
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
-
-- **⭐ Stars:** 3
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `integration`
-- **Why use it:** OAuth-integrated ChatGPT plugin enabling model access inside DSH via subscription
+- **Tags:** `mcp`, `hot-reload`, `skill-management`, `deepseek-harness`
+- **Why use it:** Hot-reload MCP server config via JSON paste, no restart needed.
 
 ---
 
