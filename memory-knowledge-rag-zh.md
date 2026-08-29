@@ -10,41 +10,41 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 34,143
+- **⭐ 星标：** 34,179
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `rag`, `self-evolving`
-- **推荐理由：** 自我进化的Agent记忆与RAG统一数据库。
+- **标签：** `agent-memory`, `rag`, `dsh-plugin`
+- **推荐理由：** 自进化上下文数据库，统一记忆与RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 20,861
+- **⭐ 星标：** 20,875
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `semantic-search`
-- **推荐理由：** LLM知识库平台，集成RAG与语义搜索。
+- **标签：** `rag`, `knowledge-base`, `dsh-plugin`
+- **推荐理由：** 开源RAG知识平台，支持自维护Wiki
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,518
+- **⭐ 星标：** 12,524
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `memory`, `rag`, `long-term-memory`, `mcp`
-- **推荐理由：** 可移植自进化记忆层，Markdown原生本地优先存储。
+- **标签：** `memory`, `rag`, `agent-memory`
+- **推荐理由：** 本地优先的可移植记忆层，支持自演进存储。
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 11,068
+- **⭐ 星标：** 11,071
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `rag`, `self-evolving`, `token-savings`
-- **推荐理由：** 超持久混合检索记忆系统，显著节省Token消耗。
+- **标签：** `memory`, `rag`, `token-savings`
+- **推荐理由：** 自演进记忆系统，混合检索节省35%代币。
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ 星标：** 3,366
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `agent`
-- **推荐理由：** Agent内存管理核心工具，支持RAG检索
+- **标签：** `agent`, `memory`, `rag`, `reme`
+- **推荐理由：** Agent内存管理与RAG核心工具，功能强大
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ 星标：** 2,528
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `milvus`, `persistent`
-- **推荐理由：** 持久化统一记忆层，基于Milvus存储
+- **标签：** `memory`, `rag`, `milvus`, `embeddings`
+- **推荐理由：** 基于Milvus的持久化AI Agent记忆层
 
 ---
 
@@ -73,38 +73,38 @@
 - **⭐ 星标：** 1,202
 - **语言：** TypeScript
 - **描述：** Unlimited memory for OpenClaw
-- **标签：** `memory`, `rag`, `persistent`
-- **推荐理由：** 为OpenClaw提供无限持久记忆与跨会话上下文。
+- **标签：** `dsh-plugin`, `memory`, `openclaw`
+- **推荐理由：** 为OpenClaw提供无限记忆能力的插件
 
 ---
 
 ### [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent)
 
-- **⭐ 星标：** 1,183
+- **⭐ 星标：** 1,186
 - **语言：** TypeScript
 - **描述：** 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.
-- **标签：** `memory`, `local-first`, `multi-agent`
-- **推荐理由：** 本地记忆中枢，为所有AI智能体提供共享持久记忆。
+- **标签：** `memory`, `agent`, `mcp`, `personal-ai`
+- **推荐理由：** 个人AI代理本地记忆中枢，共享持久上下文
 
 ---
 
 ### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ 星标：** 285
+- **⭐ 星标：** 299
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `rAG`, `skill-management`, `dsh-plugin`
-- **推荐理由：** 将SKILL.md文件转化为可检索的技能语料库。
+- **标签：** `memory`, `rag`, `skills`, `embeddings`
+- **推荐理由：** SKILL.md文件转检索就绪的智能体技能语料库
 
 ---
 
-### [ZSeven-W/dsh-noema](https://github.com/ZSeven-W/dsh-noema)
+### [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide)
 
-- **⭐ 星标：** 127
+- **⭐ 星标：** 32
 - **语言：** TypeScript
-- **描述：** Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.
-- **标签：** `agent-memory`, `long-term-memory`, `mcp`
-- **推荐理由：** 持久化Agent长期记忆，支持回忆工具。
+- **描述：** Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.
+- **标签：** `knowledge-base`, `docs`
+- **推荐理由：** 官方DSH插件开发知识库，含EN/ZH文档存档
 
 ---
 
@@ -113,8 +113,8 @@
 - **⭐ 星标：** 18
 - **语言：** TypeScript
 - **描述：** OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek Harness support.
-- **标签：** `evaluation`, `RAG`, `benchmark`
-- **推荐理由：** 提示词、RAG和代理的证据驱动评估
+- **标签：** `evaluation`, `rag`, `benchmark`
+- **推荐理由：** 面向提示词、RAG、技能的证据驱动评估框架
 
 ---
 

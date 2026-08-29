@@ -13,8 +13,8 @@
 - **⭐ Stars:** 17
 - **Language:** HTML
 - **Description:** DSH 内测收官合影墙：GitHub OAuth 零权限登录 + 冻结白名单校验的拍立得合影站（含 DSH Skill 包装）
-- **Tags:** `photo`, `social`, `oauth`
-- **Why use it:** Group photo wall with GitHub OAuth and whitelist validation
+- **Tags:** `photo`, `community`, `social`
+- **Why use it:** GitHub OAuth photos wall for DSH beta testing community events
 
 ---
 
@@ -23,7 +23,7 @@
 - **⭐ Stars:** 2
 - **Language:** TypeScript
 - **Description:** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
-- **Tags:** `ai-agent`, `dingtalk`, `chat-bot`
+- **Tags:** `dingtalk`, `chat-bot`, `ai-agent`
 - **Why use it:** DingTalk IM channel turning chats into tool-capable agents
 
 ---
