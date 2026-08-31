@@ -10,41 +10,41 @@
 
 ### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
 
-- **⭐ 星标：** 19,903
+- **⭐ 星标：** 19,907
 - **语言：** TypeScript
 - **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。
-- **标签：** `browser-extension`, `chat-management`, `chrome-extension`
-- **推荐理由：** AI聊天平台增强套件，含提示词管理器
+- **标签：** `browser-extension`, `chat-management`, `dsh-plugin`
+- **推荐理由：** 主流AI聊天平台的跨浏览器增强套件
 
 ---
 
 ### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ 星标：** 3,116
+- **⭐ 星标：** 3,120
 - **语言：** Python
 - **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **标签：** `content-discovery`, `agent`, `web`
-- **推荐理由：** 跨平台AI内容发现Agent，自动抓取多平台内容。
+- **标签：** `browser`, `content-discovery`, `privacy`
+- **推荐理由：** 本地私有跨平台内容发现 Agent，支持 8+ 平台
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 1,560
+- **⭐ 星标：** 1,572
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `agent`, `browser-use`, `dsh-plugin`
-- **推荐理由：** 让AI代理安全使用真实浏览器进行自动化操作。
+- **标签：** `browser`, `automation`, `tencent`
+- **推荐理由：** 让 Agent 在不打断你的情况下使用已登录的真实浏览器
 
 ---
 
 ### [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)
 
 - **⭐ 星标：** 98
-- **语言：** JavaScript
+- **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser-automation`, `playwright`, `browser-use`
-- **推荐理由：** Tabbit浏览器自动化插件，支持Playwright。
+- **标签：** `browser`, `playwright`, `automation`
+- **推荐理由：** Tabbit浏览器集成，强化Web自动化能力。
 
 ---
 
