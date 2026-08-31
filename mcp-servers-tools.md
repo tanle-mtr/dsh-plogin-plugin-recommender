@@ -8,33 +8,33 @@
 
 ## Plugins
 
-### [weijiafu14/pi2dsh](https://github.com/weijiafu14/pi2dsh)
-
-- **⭐ Stars:** 175
-- **Language:** TypeScript
-- **Description:** Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。
-- **Tags:** `compatibility-layer`, `migration`, `pi-agent`
-- **Why use it:** Bridges Pi ecosystem to DSH — run Pi extensions natively.
-
----
-
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
-
-- **⭐ Stars:** 111
-- **Language:** JavaScript
-- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **Tags:** `mcp`, `skills`, `dsh-plugin`
-- **Why use it:** Web UI tool for managing skills and MCP configurations easily.
-
----
-
 ### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
 - **⭐ Stars:** 58
 - **Language:** TypeScript
 - **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `api-documentation`, `chinese-api`, `dsh-plugin`
-- **Why use it:** Search 65,600+ API docs across 20 Chinese platforms directly in your agent
+- **Tags:** `api`, `documentation`, `tools`
+- **Why use it:** Search 65,600+ Chinese platform API docs directly in your agent.
+
+---
+
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+
+- **⭐ Stars:** 28
+- **Language:** TypeScript
+- **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **Tags:** `mcp`, `config-sync`, `agent-config`
+- **Why use it:** One-click MCP/Skills config sync across 7+ agent tools
+
+---
+
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+
+- **⭐ Stars:** 20
+- **Language:** TypeScript
+- **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
+- **Tags:** `mcp`, `skills`, `manager`
+- **Why use it:** Manage skills and MCP servers directly from DSH web UI
 
 ---
 
@@ -42,9 +42,9 @@
 
 - **⭐ Stars:** 14
 - **Language:** JavaScript
-- **Description:** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件���技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
+- **Description:** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
 - **Tags:** `mcp`, `hot-reload`, `skill-management`
-- **Why use it:** Hot-reload MCP server config via UI, auto-detects skills from zip/SKILL.md.
+- **Why use it:** Hot-reload MCP config with UI; no restart needed to connect
 
 ---
 

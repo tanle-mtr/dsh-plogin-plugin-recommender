@@ -2,7 +2,7 @@
   {
     "name": "deepseek-ai/deepseek-harness",
     "desc": "DeepSeek Harness: Everything is a Plugin.",
-    "stars": 204747,
+    "stars": 205521,
     "url": "https://github.com/deepseek-ai/deepseek-harness",
     "lang": "TypeScript",
     "topics": [
@@ -16,7 +16,7 @@
   {
     "name": "nexu-io/open-design",
     "desc": "🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.",
-    "stars": 92839,
+    "stars": 92927,
     "url": "https://github.com/nexu-io/open-design",
     "lang": "Unknown",
     "topics": [
@@ -46,7 +46,7 @@
   {
     "name": "ruvnet/ruflo",
     "desc": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-    "stars": 69853,
+    "stars": 69893,
     "url": "https://github.com/ruvnet/ruflo",
     "lang": "TypeScript",
     "topics": [
@@ -76,7 +76,7 @@
   {
     "name": "zhayujie/CowAgent",
     "desc": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
-    "stars": 46729,
+    "stars": 46734,
     "url": "https://github.com/zhayujie/CowAgent",
     "lang": "Python",
     "topics": [
@@ -102,7 +102,7 @@
   {
     "name": "amruthpillai/reactive-resume",
     "desc": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
-    "stars": 41972,
+    "stars": 41987,
     "url": "https://github.com/amruthpillai/reactive-resume",
     "lang": "TypeScript",
     "topics": [
@@ -120,37 +120,9 @@
     "owner": "amruthpillai"
   },
   {
-    "name": "esengine/DeepSeek-Reasonix",
-    "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-    "stars": 35275,
-    "url": "https://github.com/esengine/DeepSeek-Reasonix",
-    "lang": "Go",
-    "topics": [
-      "agent",
-      "agent-framework",
-      "ai-agent",
-      "ai-coding",
-      "cli",
-      "coding-agent",
-      "deepseek",
-      "developer-tools",
-      "dsh",
-      "dsh-plugin",
-      "ink",
-      "llm",
-      "prompt-caching",
-      "r1",
-      "terminal",
-      "tool-use",
-      "tui",
-      "typescript"
-    ],
-    "owner": "esengine"
-  },
-  {
     "name": "tt-a1i/archify",
     "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-    "stars": 34642,
+    "stars": 36239,
     "url": "https://github.com/tt-a1i/archify",
     "lang": "JavaScript",
     "topics": [
@@ -178,9 +150,37 @@
     "owner": "tt-a1i"
   },
   {
+    "name": "esengine/DeepSeek-Reasonix",
+    "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+    "stars": 35285,
+    "url": "https://github.com/esengine/DeepSeek-Reasonix",
+    "lang": "Go",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "ai-agent",
+      "ai-coding",
+      "cli",
+      "coding-agent",
+      "deepseek",
+      "developer-tools",
+      "dsh",
+      "dsh-plugin",
+      "ink",
+      "llm",
+      "prompt-caching",
+      "r1",
+      "terminal",
+      "tool-use",
+      "tui",
+      "typescript"
+    ],
+    "owner": "esengine"
+  },
+  {
     "name": "volcengine/OpenViking",
     "desc": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-    "stars": 34503,
+    "stars": 34570,
     "url": "https://github.com/volcengine/OpenViking",
     "lang": "Python",
     "topics": [
@@ -196,7 +196,7 @@
   {
     "name": "Molunerfinn/PicGo",
     "desc": ":rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.",
-    "stars": 27093,
+    "stars": 27095,
     "url": "https://github.com/Molunerfinn/PicGo",
     "lang": "TypeScript",
     "topics": [
@@ -223,8 +223,8 @@
   },
   {
     "name": "freestylefly/awesome-gpt-image-2",
-    "desc": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-    "stars": 25669,
+    "desc": "Prompt as Code | GPT-Image2 工业级提示词引��与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+    "stars": 26008,
     "url": "https://github.com/freestylefly/awesome-gpt-image-2",
     "lang": "JavaScript",
     "topics": [
@@ -244,7 +244,7 @@
   {
     "name": "titanwings/distilly",
     "desc": "Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.",
-    "stars": 24171,
+    "stars": 24193,
     "url": "https://github.com/titanwings/distilly",
     "lang": "Python",
     "topics": [
@@ -273,7 +273,7 @@
   {
     "name": "nocobase/nocobase",
     "desc": "NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.",
-    "stars": 23943,
+    "stars": 23953,
     "url": "https://github.com/nocobase/nocobase",
     "lang": "TypeScript",
     "topics": [
@@ -302,7 +302,7 @@
   {
     "name": "anywhere-labs/dsh-desktop",
     "desc": "为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。",
-    "stars": 22096,
+    "stars": 22270,
     "url": "https://github.com/anywhere-labs/dsh-desktop",
     "lang": "TypeScript",
     "topics": [
@@ -320,7 +320,7 @@
   {
     "name": "Tencent/WeKnora",
     "desc": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
-    "stars": 20966,
+    "stars": 21026,
     "url": "https://github.com/Tencent/WeKnora",
     "lang": "Go",
     "topics": [
@@ -350,7 +350,7 @@
   {
     "name": "Nagi-ovo/voyager",
     "desc": "Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。",
-    "stars": 19897,
+    "stars": 19903,
     "url": "https://github.com/Nagi-ovo/voyager",
     "lang": "TypeScript",
     "topics": [
@@ -372,8 +372,8 @@
   },
   {
     "name": "liyupi/ai-guide",
-    "desc": "程���员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
-    "stars": 19313,
+    "desc": "程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站",
+    "stars": 19332,
     "url": "https://github.com/liyupi/ai-guide",
     "lang": "JavaScript",
     "topics": [
@@ -403,7 +403,7 @@
   {
     "name": "walkinglabs/learn-harness-engineering",
     "desc": "Harness engineering beginner tutorial, from 0 to 1",
-    "stars": 14541,
+    "stars": 14556,
     "url": "https://github.com/walkinglabs/learn-harness-engineering",
     "lang": "TypeScript",
     "topics": [
@@ -425,7 +425,7 @@
   {
     "name": "awesome-dsh-plugin/awesome-dsh-plugin",
     "desc": "A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表",
-    "stars": 13717,
+    "stars": 13801,
     "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
     "lang": "Python",
     "topics": [
@@ -440,7 +440,7 @@
   {
     "name": "EverMind-AI/EverOS",
     "desc": "One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.",
-    "stars": 12569,
+    "stars": 12575,
     "url": "https://github.com/EverMind-AI/EverOS",
     "lang": "Python",
     "topics": [
@@ -467,7 +467,7 @@
   {
     "name": "MemTensor/MemOS",
     "desc": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
-    "stars": 11096,
+    "stars": 11105,
     "url": "https://github.com/MemTensor/MemOS",
     "lang": "TypeScript",
     "topics": [
@@ -497,7 +497,7 @@
   {
     "name": "YaoApp/yao",
     "desc": "✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.",
-    "stars": 7845,
+    "stars": 7846,
     "url": "https://github.com/YaoApp/yao",
     "lang": "Go",
     "topics": [
@@ -524,7 +524,7 @@
   {
     "name": "yjh051108/dsh-routing-suite",
     "desc": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
-    "stars": 6972,
+    "stars": 6984,
     "url": "https://github.com/yjh051108/dsh-routing-suite",
     "lang": "JavaScript",
     "topics": [
@@ -539,7 +539,7 @@
   {
     "name": "zhu1090093659/dsh-web",
     "desc": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
-    "stars": 6517,
+    "stars": 6550,
     "url": "https://github.com/zhu1090093659/dsh-web",
     "lang": "TypeScript",
     "topics": [
@@ -555,7 +555,7 @@
   {
     "name": "ZSeven-W/openpencil",
     "desc": "The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.",
-    "stars": 5741,
+    "stars": 5746,
     "url": "https://github.com/ZSeven-W/openpencil",
     "lang": "Rust",
     "topics": [
@@ -614,7 +614,7 @@
   {
     "name": "Devin-AXIS/iPolloWork",
     "desc": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
-    "stars": 5134,
+    "stars": 5142,
     "url": "https://github.com/Devin-AXIS/iPolloWork",
     "lang": "TypeScript",
     "topics": [
@@ -642,7 +642,7 @@
   {
     "name": "crafter-station/petdex",
     "desc": "A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.",
-    "stars": 4004,
+    "stars": 4007,
     "url": "https://github.com/crafter-station/petdex",
     "lang": "TypeScript",
     "topics": [
@@ -668,7 +668,7 @@
   {
     "name": "xiaobright/dsh-anchored-standard",
     "desc": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-    "stars": 3806,
+    "stars": 3808,
     "url": "https://github.com/xiaobright/dsh-anchored-standard",
     "lang": "JavaScript",
     "topics": [
@@ -682,7 +682,7 @@
   {
     "name": "liustack/modlens",
     "desc": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。",
-    "stars": 3775,
+    "stars": 3788,
     "url": "https://github.com/liustack/modlens",
     "lang": "TypeScript",
     "topics": [
@@ -712,7 +712,7 @@
   {
     "name": "strukto-ai/mirage",
     "desc": "The World's First Unified Virtual Filesystem For AI Agents",
-    "stars": 3586,
+    "stars": 3588,
     "url": "https://github.com/strukto-ai/mirage",
     "lang": "TypeScript",
     "topics": [
@@ -736,7 +736,7 @@
   {
     "name": "agentscope-ai/ReMe",
     "desc": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-    "stars": 3371,
+    "stars": 3374,
     "url": "https://github.com/agentscope-ai/ReMe",
     "lang": "Python",
     "topics": [
@@ -751,9 +751,25 @@
     "owner": "agentscope-ai"
   },
   {
+    "name": "omdsh-dev/DSH-better-sidebar",
+    "desc": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。��置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
+    "stars": 3154,
+    "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
+    "lang": "TypeScript",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-better-sidebar",
+      "dsh-plugin",
+      "sidebar"
+    ],
+    "owner": "omdsh-dev"
+  },
+  {
     "name": "edison7009/EchoBird",
     "desc": "One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), DeepSeek Harness, Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,Claude Desktop (3P profile),ChatGPT desktop,OpenCode Desktop,",
-    "stars": 3148,
+    "stars": 3149,
     "url": "https://github.com/edison7009/EchoBird",
     "lang": "Rust",
     "topics": [
@@ -770,25 +786,9 @@
     "owner": "edison7009"
   },
   {
-    "name": "omdsh-dev/DSH-better-sidebar",
-    "desc": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
-    "stars": 3130,
-    "url": "https://github.com/omdsh-dev/DSH-better-sidebar",
-    "lang": "TypeScript",
-    "topics": [
-      "deepseek",
-      "deepseek-harness",
-      "dsh",
-      "dsh-better-sidebar",
-      "dsh-plugin",
-      "sidebar"
-    ],
-    "owner": "omdsh-dev"
-  },
-  {
     "name": "whiteguo233/OpenBiliClaw",
     "desc": "本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）",
-    "stars": 3109,
+    "stars": 3116,
     "url": "https://github.com/whiteguo233/OpenBiliClaw",
     "lang": "Python",
     "topics": [
@@ -818,7 +818,7 @@
   {
     "name": "foryourhealth111-pixel/Vibe-Skills",
     "desc": "Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.",
-    "stars": 3086,
+    "stars": 3098,
     "url": "https://github.com/foryourhealth111-pixel/Vibe-Skills",
     "lang": "Python",
     "topics": [
@@ -848,7 +848,7 @@
   {
     "name": "Tiger3807861189/J-Space-Cognition-Suite-V3.7",
     "desc": "J-Space Cognition Suite V3.7 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321675",
-    "stars": 3013,
+    "stars": 3008,
     "url": "https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.7",
     "lang": "Python",
     "topics": [
@@ -875,22 +875,9 @@
     "owner": "Tiger3807861189"
   },
   {
-    "name": "imsai-sh/zhuzhiliao",
-    "desc": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
-    "stars": 2871,
-    "url": "https://github.com/imsai-sh/zhuzhiliao",
-    "lang": "HTML",
-    "topics": [
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin"
-    ],
-    "owner": "imsai-sh"
-  },
-  {
     "name": "dsh-market/dsh-market",
     "desc": "The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场",
-    "stars": 2837,
+    "stars": 2890,
     "url": "https://github.com/dsh-market/dsh-market",
     "lang": "TypeScript",
     "topics": [
@@ -901,9 +888,22 @@
     "owner": "dsh-market"
   },
   {
+    "name": "imsai-sh/zhuzhiliao",
+    "desc": "竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。",
+    "stars": 2872,
+    "url": "https://github.com/imsai-sh/zhuzhiliao",
+    "lang": "HTML",
+    "topics": [
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin"
+    ],
+    "owner": "imsai-sh"
+  },
+  {
     "name": "chuspeeism/dashi-taskboard",
     "desc": "现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness",
-    "stars": 2797,
+    "stars": 2813,
     "url": "https://github.com/chuspeeism/dashi-taskboard",
     "lang": "JavaScript",
     "topics": [
@@ -921,8 +921,8 @@
   },
   {
     "name": "ccch1mneyyy/dsh-TUI",
-    "desc": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
-    "stars": 2719,
+    "desc": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进��+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+    "stars": 2733,
     "url": "https://github.com/ccch1mneyyy/dsh-TUI",
     "lang": "TypeScript",
     "topics": [
@@ -971,7 +971,7 @@
   {
     "name": "GCWing/BitFun",
     "desc": "BitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.",
-    "stars": 1873,
+    "stars": 1878,
     "url": "https://github.com/GCWing/BitFun",
     "lang": "Rust",
     "topics": [
@@ -994,7 +994,7 @@
   {
     "name": "Small-tailqwq/dsh-deep-whale",
     "desc": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
-    "stars": 1833,
+    "stars": 1845,
     "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
     "lang": "TypeScript",
     "topics": [
@@ -1006,7 +1006,7 @@
   {
     "name": "Jesseovo/last30days-skill-cn",
     "desc": "last30days-cn 是一个 AI Agent 技能（Skill），能够自动搜索中国互联网 8 大主流平台最近 30 天的内容，综合分析后生成有据可查的研究报告。",
-    "stars": 1673,
+    "stars": 1680,
     "url": "https://github.com/Jesseovo/last30days-skill-cn",
     "lang": "Python",
     "topics": [
@@ -1024,7 +1024,7 @@
   {
     "name": "Alisa0808/vox-director",
     "desc": "Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.",
-    "stars": 1649,
+    "stars": 1661,
     "url": "https://github.com/Alisa0808/vox-director",
     "lang": "Python",
     "topics": [
@@ -1051,7 +1051,7 @@
   {
     "name": "Tencent/BrowserSkill",
     "desc": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
-    "stars": 1548,
+    "stars": 1560,
     "url": "https://github.com/Tencent/BrowserSkill",
     "lang": "TypeScript",
     "topics": [
@@ -1064,7 +1064,7 @@
   {
     "name": "dsh-tauri-desk/deepseek-harness-desktop",
     "desc": "DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.",
-    "stars": 1434,
+    "stars": 1459,
     "url": "https://github.com/dsh-tauri-desk/deepseek-harness-desktop",
     "lang": "Rust",
     "topics": [
@@ -1081,7 +1081,7 @@
   {
     "name": "hyhmrright/brooks-lint",
     "desc": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
-    "stars": 1433,
+    "stars": 1436,
     "url": "https://github.com/hyhmrright/brooks-lint",
     "lang": "JavaScript",
     "topics": [
@@ -1111,7 +1111,7 @@
   {
     "name": "AdamPlatin123/dsh-plugin-radar",
     "desc": "DSH Plugin Radar — 开源 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测 10000+、15 分钟快照管线；插件目录是其自动生成的 artifact",
-    "stars": 1432,
+    "stars": 1435,
     "url": "https://github.com/AdamPlatin123/dsh-plugin-radar",
     "lang": "Python",
     "topics": [
@@ -1128,7 +1128,7 @@
   {
     "name": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
     "desc": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-    "stars": 1386,
+    "stars": 1426,
     "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget",
     "lang": "JavaScript",
     "topics": [
@@ -1147,7 +1147,7 @@
   {
     "name": "NanmiCoder/dsh-agent-teams",
     "desc": "AgentTeams plugin for DeepSeek Harness",
-    "stars": 1204,
+    "stars": 1222,
     "url": "https://github.com/NanmiCoder/dsh-agent-teams",
     "lang": "TypeScript",
     "topics": [
@@ -1173,7 +1173,7 @@
   {
     "name": "bowenliang123/dsh-context",
     "desc": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
-    "stars": 1187,
+    "stars": 1192,
     "url": "https://github.com/bowenliang123/dsh-context",
     "lang": "TypeScript",
     "topics": [
@@ -1217,39 +1217,9 @@
     "owner": "Anil-matcha"
   },
   {
-    "name": "urzeye/ophel",
-    "desc": "Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台",
-    "stars": 988,
-    "url": "https://github.com/urzeye/ophel",
-    "lang": "TypeScript",
-    "topics": [
-      "ai-assistant",
-      "ai-chat",
-      "ai-studio",
-      "ai-workflow",
-      "browser-extension",
-      "chatgpt",
-      "chrome-extension",
-      "claude",
-      "deepseek-harness",
-      "gemini",
-      "grok",
-      "hotswap",
-      "long-conversation",
-      "minimap",
-      "outline",
-      "plugin",
-      "productivity",
-      "prompt",
-      "prompt-management",
-      "timeline"
-    ],
-    "owner": "urzeye"
-  },
-  {
     "name": "0xsline/awesome-deepseek-harness",
     "desc": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-    "stars": 950,
+    "stars": 957,
     "url": "https://github.com/0xsline/awesome-deepseek-harness",
     "lang": "Python",
     "topics": [
@@ -1277,7 +1247,7 @@
   {
     "name": "Anionex/dsh-vision-toolkit",
     "desc": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-    "stars": 842,
+    "stars": 846,
     "url": "https://github.com/Anionex/dsh-vision-toolkit",
     "lang": "TypeScript",
     "topics": [
@@ -1304,7 +1274,7 @@
   {
     "name": "Minglink/dsh-infinite-gen-2",
     "desc": "DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏 ⭐",
-    "stars": 665,
+    "stars": 684,
     "url": "https://github.com/Minglink/dsh-infinite-gen-2",
     "lang": "PowerShell",
     "topics": [
@@ -1342,7 +1312,7 @@
   },
   {
     "name": "Devin-AXIS/deepseek-design",
-    "desc": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+    "desc": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编��、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
     "stars": 613,
     "url": "https://github.com/Devin-AXIS/deepseek-design",
     "lang": "JavaScript",
@@ -1366,7 +1336,7 @@
   {
     "name": "Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
     "desc": "Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.",
-    "stars": 477,
+    "stars": 484,
     "url": "https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins",
     "lang": "Unknown",
     "topics": [
@@ -1389,7 +1359,7 @@
   {
     "name": "WYH66666666/DSH-Transparent-UI-Plugin",
     "desc": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-    "stars": 393,
+    "stars": 395,
     "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin",
     "lang": "JavaScript",
     "topics": [
@@ -1404,7 +1374,7 @@
   {
     "name": "omdsh-dev/dsh-genui",
     "desc": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
-    "stars": 372,
+    "stars": 377,
     "url": "https://github.com/omdsh-dev/dsh-genui",
     "lang": "TypeScript",
     "topics": [
@@ -1416,7 +1386,7 @@
   {
     "name": "Unclecheng-li/DeepSec",
     "desc": "DeepSec — AI Security Offense & Defense Platform. Shield audits AI-generated code for hallucinated packages, missing safeguards & AI pattern errors in real time. Spear automates authorized penetration testing with 40+ skill packs, from recon to PoC. ",
-    "stars": 364,
+    "stars": 370,
     "url": "https://github.com/Unclecheng-li/DeepSec",
     "lang": "Python",
     "topics": [
@@ -1444,38 +1414,9 @@
     "owner": "Unclecheng-li"
   },
   {
-    "name": "PM-Shawn/Abu-Cowork",
-    "desc": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
-    "stars": 360,
-    "url": "https://github.com/PM-Shawn/Abu-Cowork",
-    "lang": "TypeScript",
-    "topics": [
-      "agent",
-      "agent-framework",
-      "agentic-ai",
-      "agents",
-      "ai-agent",
-      "ai-assistant",
-      "automation",
-      "desktop-app",
-      "desktop-automation",
-      "dsh-plugin",
-      "dsh-plugins",
-      "llm",
-      "local-first",
-      "mcp",
-      "privacy",
-      "productivity",
-      "react",
-      "tauri",
-      "typescript"
-    ],
-    "owner": "PM-Shawn"
-  },
-  {
     "name": "EverMind-AI/SkillCorpus",
     "desc": "Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.",
-    "stars": 357,
+    "stars": 365,
     "url": "https://github.com/EverMind-AI/SkillCorpus",
     "lang": "Python",
     "topics": [
@@ -1503,9 +1444,38 @@
     "owner": "EverMind-AI"
   },
   {
+    "name": "PM-Shawn/Abu-Cowork",
+    "desc": "Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress",
+    "stars": 361,
+    "url": "https://github.com/PM-Shawn/Abu-Cowork",
+    "lang": "TypeScript",
+    "topics": [
+      "agent",
+      "agent-framework",
+      "agentic-ai",
+      "agents",
+      "ai-agent",
+      "ai-assistant",
+      "automation",
+      "desktop-app",
+      "desktop-automation",
+      "dsh-plugin",
+      "dsh-plugins",
+      "llm",
+      "local-first",
+      "mcp",
+      "privacy",
+      "productivity",
+      "react",
+      "tauri",
+      "typescript"
+    ],
+    "owner": "PM-Shawn"
+  },
+  {
     "name": "liustack/modsearch",
     "desc": "🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。",
-    "stars": 324,
+    "stars": 325,
     "url": "https://github.com/liustack/modsearch",
     "lang": "TypeScript",
     "topics": [
@@ -1546,6 +1516,23 @@
     "owner": "bruc3van"
   },
   {
+    "name": "Awesome-AI-Pedia/Awesome-AI-Pedia",
+    "desc": "AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库",
+    "stars": 302,
+    "url": "https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia",
+    "lang": "TypeScript",
+    "topics": [
+      "dsh",
+      "dsh-bundle",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-plugin-verify",
+      "dsh-plugins",
+      "dsh-skill"
+    ],
+    "owner": "Awesome-AI-Pedia"
+  },
+  {
     "name": "V1ki/dsh-plugin-subscriptions",
     "desc": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
     "stars": 301,
@@ -1566,26 +1553,9 @@
     "owner": "V1ki"
   },
   {
-    "name": "Awesome-AI-Pedia/Awesome-AI-Pedia",
-    "desc": "AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库",
-    "stars": 298,
-    "url": "https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia",
-    "lang": "TypeScript",
-    "topics": [
-      "dsh",
-      "dsh-bundle",
-      "dsh-plugin",
-      "dsh-plugin-market",
-      "dsh-plugin-verify",
-      "dsh-plugins",
-      "dsh-skill"
-    ],
-    "owner": "Awesome-AI-Pedia"
-  },
-  {
     "name": "shanliuling/dsh-image-gen",
     "desc": "Generate images directly in DeepSeek Harness chats",
-    "stars": 282,
+    "stars": 287,
     "url": "https://github.com/shanliuling/dsh-image-gen",
     "lang": "TypeScript",
     "topics": [
@@ -1605,7 +1575,7 @@
   {
     "name": "ZSeven-W/dsh-ios",
     "desc": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-    "stars": 269,
+    "stars": 271,
     "url": "https://github.com/ZSeven-W/dsh-ios",
     "lang": "TypeScript",
     "topics": [
@@ -1627,6 +1597,23 @@
       "xcode"
     ],
     "owner": "ZSeven-W"
+  },
+  {
+    "name": "liangmianya/dsh-synapse",
+    "desc": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+    "stars": 263,
+    "url": "https://github.com/liangmianya/dsh-synapse",
+    "lang": "JavaScript",
+    "topics": [
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugin-market",
+      "dsh-plugins",
+      "plugin"
+    ],
+    "owner": "liangmianya"
   },
   {
     "name": "op7418/pilot-harness",
@@ -1651,26 +1638,9 @@
     "owner": "op7418"
   },
   {
-    "name": "liangmianya/dsh-synapse",
-    "desc": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-    "stars": 260,
-    "url": "https://github.com/liangmianya/dsh-synapse",
-    "lang": "JavaScript",
-    "topics": [
-      "deepseek",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugin-market",
-      "dsh-plugins",
-      "plugin"
-    ],
-    "owner": "liangmianya"
-  },
-  {
     "name": "ningbainb/deepseek-harness-desktop",
     "desc": "Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.",
-    "stars": 245,
+    "stars": 246,
     "url": "https://github.com/ningbainb/deepseek-harness-desktop",
     "lang": "TypeScript",
     "topics": [
@@ -1699,7 +1669,7 @@
   {
     "name": "hikariming/dshfind",
     "desc": "DSH (DeepSeek Harness) 原理学习、插件市场与最佳实践 · Learn DSH principles, plugin marketplace & best practices",
-    "stars": 234,
+    "stars": 237,
     "url": "https://github.com/hikariming/dshfind",
     "lang": "TypeScript",
     "topics": [
@@ -1712,7 +1682,7 @@
   {
     "name": "shengsheng90/DSH-taskboard",
     "desc": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-    "stars": 228,
+    "stars": 233,
     "url": "https://github.com/shengsheng90/DSH-taskboard",
     "lang": "TypeScript",
     "topics": [
@@ -1729,7 +1699,7 @@
   {
     "name": "Han-1413141/dsh-cost-meter",
     "desc": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
-    "stars": 226,
+    "stars": 230,
     "url": "https://github.com/Han-1413141/dsh-cost-meter",
     "lang": "JavaScript",
     "topics": [
@@ -1750,7 +1720,7 @@
   {
     "name": "zenstory-ai/oh-story-dsh",
     "desc": "A DSH plugin for novel writing and short-drama production, powered by Oh Story and Drama Skills.",
-    "stars": 225,
+    "stars": 226,
     "url": "https://github.com/zenstory-ai/oh-story-dsh",
     "lang": "JavaScript",
     "topics": [
@@ -1770,7 +1740,7 @@
   {
     "name": "libukai/awesome-deepseek-harness",
     "desc": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
-    "stars": 218,
+    "stars": 223,
     "url": "https://github.com/libukai/awesome-deepseek-harness",
     "lang": "Unknown",
     "topics": [
@@ -1785,6 +1755,22 @@
       "plugins"
     ],
     "owner": "libukai"
+  },
+  {
+    "name": "dream-num/dsh-univer-office",
+    "desc": "Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.",
+    "stars": 210,
+    "url": "https://github.com/dream-num/dsh-univer-office",
+    "lang": "TypeScript",
+    "topics": [
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "dsh",
+      "dsh-plugin",
+      "office",
+      "office-harness"
+    ],
+    "owner": "dream-num"
   },
   {
     "name": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1819,7 +1805,7 @@
   {
     "name": "Dominic789654/awesome-deepseek-harness",
     "desc": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
-    "stars": 207,
+    "stars": 209,
     "url": "https://github.com/Dominic789654/awesome-deepseek-harness",
     "lang": "TypeScript",
     "topics": [
@@ -1845,22 +1831,6 @@
       "plugins"
     ],
     "owner": "Dominic789654"
-  },
-  {
-    "name": "dream-num/dsh-univer-office",
-    "desc": "Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.",
-    "stars": 206,
-    "url": "https://github.com/dream-num/dsh-univer-office",
-    "lang": "TypeScript",
-    "topics": [
-      "deepseek-harness",
-      "deepseek-harness-plugin",
-      "dsh",
-      "dsh-plugin",
-      "office",
-      "office-harness"
-    ],
-    "owner": "dream-num"
   },
   {
     "name": "RealSeaberry/AutoMCM-Pro",
@@ -1910,7 +1880,7 @@
   {
     "name": "GraySilver/dsh-evolve-modes",
     "desc": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
-    "stars": 182,
+    "stars": 183,
     "url": "https://github.com/GraySilver/dsh-evolve-modes",
     "lang": "TypeScript",
     "topics": [
@@ -2041,27 +2011,9 @@
     "owner": "Totoro-qaq"
   },
   {
-    "name": "ZSeven-W/dsh-openpencil",
-    "desc": "The DeepSeek Harness plugin for OpenPencil — preview, inspect, and edit real .op documents inside a conversation.",
-    "stars": 156,
-    "url": "https://github.com/ZSeven-W/dsh-openpencil",
-    "lang": "TypeScript",
-    "topics": [
-      "deepseek-harness",
-      "design",
-      "dsh",
-      "dsh-plugin",
-      "openpencil",
-      "ppt",
-      "ui",
-      "ui-design"
-    ],
-    "owner": "ZSeven-W"
-  },
-  {
     "name": "wp-a/nature-academic-search",
     "desc": "Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。",
-    "stars": 155,
+    "stars": 158,
     "url": "https://github.com/wp-a/nature-academic-search",
     "lang": "Python",
     "topics": [
@@ -2089,9 +2041,27 @@
     "owner": "wp-a"
   },
   {
+    "name": "ZSeven-W/dsh-openpencil",
+    "desc": "The DeepSeek Harness plugin for OpenPencil — preview, inspect, and edit real .op documents inside a conversation.",
+    "stars": 156,
+    "url": "https://github.com/ZSeven-W/dsh-openpencil",
+    "lang": "TypeScript",
+    "topics": [
+      "deepseek-harness",
+      "design",
+      "dsh",
+      "dsh-plugin",
+      "openpencil",
+      "ppt",
+      "ui",
+      "ui-design"
+    ],
+    "owner": "ZSeven-W"
+  },
+  {
     "name": "zhaoolee/notes",
     "desc": "开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片",
-    "stars": 154,
+    "stars": 155,
     "url": "https://github.com/zhaoolee/notes",
     "lang": "TypeScript",
     "topics": [
@@ -2158,9 +2128,31 @@
     "owner": "lire1131"
   },
   {
+    "name": "1692775560/dsh-Mimir-Academic-research",
+    "desc": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+    "stars": 137,
+    "url": "https://github.com/1692775560/dsh-Mimir-Academic-research",
+    "lang": "TypeScript",
+    "topics": [
+      "arxiv",
+      "bibtex",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "experiment-tracking",
+      "gpu-cluster",
+      "latex",
+      "paper-writing",
+      "research",
+      "research-tools",
+      "ssh"
+    ],
+    "owner": "1692775560"
+  },
+  {
     "name": "beancookie/awesome-dsh-plugin",
     "desc": "Awesome DeepSeek Harness (DSH) Plugin",
-    "stars": 123,
+    "stars": 124,
     "url": "https://github.com/beancookie/awesome-dsh-plugin",
     "lang": "HTML",
     "topics": [
@@ -2191,7 +2183,7 @@
   {
     "name": "LayneChai/superpowers-dsh",
     "desc": "Superpowers skills for DeepSeek Harness: TDD, debugging, planning, and collaboration skills adapted from obra/superpowers",
-    "stars": 108,
+    "stars": 110,
     "url": "https://github.com/LayneChai/superpowers-dsh",
     "lang": "JavaScript",
     "topics": [
@@ -2205,7 +2197,7 @@
   {
     "name": "web-casa/Awesome-DeepSeek-Harness-Plugins",
     "desc": "Awesome DSH Cordis Plugins — the official, auto-generated list of DeepSeek Harness Cordis plugins, curated by cordis.run 由 cordis.run 精选维护的 DeepSeek Harness Cordis 插件官方自动生成列表。",
-    "stars": 104,
+    "stars": 109,
     "url": "https://github.com/web-casa/Awesome-DeepSeek-Harness-Plugins",
     "lang": "JavaScript",
     "topics": [],
@@ -2252,7 +2244,7 @@
   {
     "name": "dhicoc/dsh-reverse-skill",
     "desc": "Complete reverse-skill (87 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.",
-    "stars": 95,
+    "stars": 96,
     "url": "https://github.com/dhicoc/dsh-reverse-skill",
     "lang": "PowerShell",
     "topics": [
@@ -2297,7 +2289,7 @@
   {
     "name": "sandbaseai/sandbase-skills",
     "desc": "88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.",
-    "stars": 87,
+    "stars": 88,
     "url": "https://github.com/sandbaseai/sandbase-skills",
     "lang": "Python",
     "topics": [
@@ -2327,7 +2319,7 @@
   {
     "name": "like-study1/Oh-My-DSH",
     "desc": "🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH: a community-maintained catalog of DeepSeek Harness plugins, auto-synced from the dsh-plugin topic",
-    "stars": 75,
+    "stars": 76,
     "url": "https://github.com/like-study1/Oh-My-DSH",
     "lang": "Python",
     "topics": [
@@ -2346,9 +2338,9 @@
   {
     "name": "PKUfudawei/dsh-capability-menu",
     "desc": "Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.",
-    "stars": 70,
+    "stars": 73,
     "url": "https://github.com/PKUfudawei/dsh-capability-menu",
-    "lang": "TypeScript",
+    "lang": "JavaScript",
     "topics": [
       "deepseek-harness",
       "dsh-plugin"
@@ -2386,6 +2378,23 @@
     "owner": "FlashingChen"
   },
   {
+    "name": "vlln/plugin-registry",
+    "desc": "DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导",
+    "stars": 58,
+    "url": "https://github.com/vlln/plugin-registry",
+    "lang": "TypeScript",
+    "topics": [
+      "console",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-repository-plugin",
+      "plugin-management",
+      "ui"
+    ],
+    "owner": "vlln"
+  },
+  {
     "name": "wxkingstar/SpecFusion",
     "desc": "在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。",
     "stars": 58,
@@ -2416,25 +2425,8 @@
     "owner": "wxkingstar"
   },
   {
-    "name": "vlln/plugin-registry",
-    "desc": "DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导",
-    "stars": 57,
-    "url": "https://github.com/vlln/plugin-registry",
-    "lang": "TypeScript",
-    "topics": [
-      "console",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin",
-      "dsh-repository-plugin",
-      "plugin-management",
-      "ui"
-    ],
-    "owner": "vlln"
-  },
-  {
     "name": "yuc16/PatentRadar",
-    "desc": "专利侵权分��系统 —— 输入专利公开号，产出竞品侵权分析报告；同时打包成 skill，可被任意 agent（dsh, codex, claudecode 等） 调用。",
+    "desc": "专利侵权分析系统 —— 输入专利公开号，产出竞品侵权分析报告；同时打包成 skill，可被任意 agent（dsh, codex, claudecode 等） 调用。",
     "stars": 57,
     "url": "https://github.com/yuc16/PatentRadar",
     "lang": "Python",
@@ -2465,7 +2457,7 @@
   {
     "name": "xiajiajun516/dsh-config-manager",
     "desc": "DeepSeek Harness (DSH) backup & restore plugin — export, import, migrate and sync your complete DSH configuration, plugins, MCP servers, skills and workspace. One-click migration to another machine.",
-    "stars": 53,
+    "stars": 55,
     "url": "https://github.com/xiajiajun516/dsh-config-manager",
     "lang": "TypeScript",
     "topics": [
@@ -2489,8 +2481,8 @@
   },
   {
     "name": "MiaoQichuan/new-litigation-visualization",
-    "desc": "把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把��乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴。Claude Skill / DeepSeek Harness 通用。",
-    "stars": 49,
+    "desc": "把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴。Claude Skill / DeepSeek Harness 通用。",
+    "stars": 50,
     "url": "https://github.com/MiaoQichuan/new-litigation-visualization",
     "lang": "Python",
     "topics": [
@@ -2653,6 +2645,15 @@
     "owner": "kejixiaoliang"
   },
   {
+    "name": "win4r/deepseek-harness-plugin-creator",
+    "desc": "Reusable Codex skill for building and validating DeepSeek Harness and Cordis plugins",
+    "stars": 31,
+    "url": "https://github.com/win4r/deepseek-harness-plugin-creator",
+    "lang": "JavaScript",
+    "topics": [],
+    "owner": "win4r"
+  },
+  {
     "name": "dhicoc/dsh-chinese-traditional-wisdom-skill",
     "desc": "中华传统智慧（玄枢）AI Agent 技能包的 DeepSeek Harness（dsh）Cordis 插件：八字/紫微/六爻/梅花/奇门/风水/五运六气/体质全融合，本地确定性引擎 + 可视化 Dashboard，一行 dsh plugin add 安装。",
     "stars": 30,
@@ -2673,6 +2674,23 @@
     "owner": "dhicoc"
   },
   {
+    "name": "linhut/gongwen-skill",
+    "desc": "中文公文全流程处理工具——基于 GB/T 9704《党政机关公文格式》 国家标准，面向公文写作、企事业单位材料编制场景，支持 格式检查与修复、内容优化（Word 原生修订+批注/差异对比版）、模板生成、Markdown 转公文、版头版记页码注入、事实核验、风格增强 等完整能力。原生支持 DeepSeek Harness (DSH) 技能系统，打包为可被 AI Agent 直接调用的 Skill，完全自包含，克隆即用。",
+    "stars": 30,
+    "url": "https://github.com/linhut/gongwen-skill",
+    "lang": "Python",
+    "topics": [
+      "ai-docs",
+      "deepseek-harness",
+      "deepseek-harness-plugin",
+      "docx",
+      "dsh-plugin",
+      "gongwen",
+      "wps-office"
+    ],
+    "owner": "linhut"
+  },
+  {
     "name": "Nexus-Aethra/DSHBox",
     "desc": "Manage DeepSeek Harness locally: run multiple DSH versions in isolated containers, open the UI in an embedded WebView, import plugins/skills with one click, share extension bundles, and let a queued task system handle installs with live logs. Zero-dependency installer.",
     "stars": 30,
@@ -2688,30 +2706,22 @@
     "owner": "Nexus-Aethra"
   },
   {
-    "name": "win4r/deepseek-harness-plugin-creator",
-    "desc": "Reusable Codex skill for building and validating DeepSeek Harness and Cordis plugins",
-    "stars": 30,
-    "url": "https://github.com/win4r/deepseek-harness-plugin-creator",
-    "lang": "JavaScript",
-    "topics": [],
-    "owner": "win4r"
-  },
-  {
-    "name": "linhut/gongwen-skill",
-    "desc": "中文公文全流程处理工具——基于 GB/T 9704《党政机关公文格式》 国家标准，面向公文写作、企事业单位材料编制场景，支持 格式检查与修复、内容优化（Word 原生修订+批注/差异对比版）、模板生成、Markdown 转公文、版头版记页码注入、事实核验、风格增强 等完整能力。原生支持 DeepSeek Harness (DSH) 技能系统，打包为可被 AI Agent 直接调用的 Skill，完全自包含，克隆即用。",
+    "name": "PerryLink/dsh-industry-research",
+    "desc": "Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tracking, company research cards, and auditable research reports. Research only - not investment advice.",
     "stars": 28,
-    "url": "https://github.com/linhut/gongwen-skill",
-    "lang": "Python",
+    "url": "https://github.com/PerryLink/dsh-industry-research",
+    "lang": "TypeScript",
     "topics": [
-      "ai-docs",
+      "company-research",
+      "cordis",
       "deepseek-harness",
-      "deepseek-harness-plugin",
-      "docx",
+      "dsh",
       "dsh-plugin",
-      "gongwen",
-      "wps-office"
+      "industry-research",
+      "report",
+      "research"
     ],
-    "owner": "linhut"
+    "owner": "PerryLink"
   },
   {
     "name": "miniLV/Plexus",
@@ -2744,6 +2754,17 @@
     "owner": "miniLV"
   },
   {
+    "name": "a735624258/dsh-skill-picker",
+    "desc": "DSH 实现 workbuddy 同款选择 skill 功能 | WorkBuddy-style skill picker for DeepSeek Harness: pick a skill in the composer, insert the official /skill-name gesture, and DSH loads it with your message.",
+    "stars": 27,
+    "url": "https://github.com/a735624258/dsh-skill-picker",
+    "lang": "JavaScript",
+    "topics": [
+      "dsh-plugin"
+    ],
+    "owner": "a735624258"
+  },
+  {
     "name": "limuyang2/agent-team",
     "desc": "Multi-agent team collaboration for DeepSeek Harness, with independent models, skills, MCP tools, contexts, and a shared workspace.",
     "stars": 27,
@@ -2758,15 +2779,19 @@
     "owner": "limuyang2"
   },
   {
-    "name": "a735624258/dsh-skill-picker",
-    "desc": "DSH 实现 workbuddy 同款选择 skill 功能 | WorkBuddy-style skill picker for DeepSeek Harness: pick a skill in the composer, insert the official /skill-name gesture, and DSH loads it with your message.",
+    "name": "MichengAI/dsh-skills-manager",
+    "desc": "DSH Skills Manager — 在 DeepSeek Harness 中统一加载并安全管理本机 Agent Skills · Load and safely manage local Agent Skills in DSH",
     "stars": 26,
-    "url": "https://github.com/a735624258/dsh-skill-picker",
+    "url": "https://github.com/MichengAI/dsh-skills-manager",
     "lang": "JavaScript",
     "topics": [
-      "dsh-plugin"
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "dsh-plugins"
     ],
-    "owner": "a735624258"
+    "owner": "MichengAI"
   },
   {
     "name": "WeirdSky924/agent-handoff-skill",
@@ -2808,21 +2833,6 @@
     "owner": "songoao25"
   },
   {
-    "name": "MichengAI/dsh-skills-manager",
-    "desc": "DSH Skills Manager — 在 DeepSeek Harness 中统一加载并安全管理本机 Agent Skills · Load and safely manage local Agent Skills in DSH",
-    "stars": 25,
-    "url": "https://github.com/MichengAI/dsh-skills-manager",
-    "lang": "JavaScript",
-    "topics": [
-      "deepseek",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin",
-      "dsh-plugins"
-    ],
-    "owner": "MichengAI"
-  },
-  {
     "name": "Walvez/dsh-codex-sync",
     "desc": "The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.",
     "stars": 25,
@@ -2843,24 +2853,6 @@
       "sync"
     ],
     "owner": "Walvez"
-  },
-  {
-    "name": "PerryLink/dsh-industry-research",
-    "desc": "Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tracking, company research cards, and auditable research reports. Research only - not investment advice.",
-    "stars": 25,
-    "url": "https://github.com/PerryLink/dsh-industry-research",
-    "lang": "TypeScript",
-    "topics": [
-      "company-research",
-      "cordis",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin",
-      "industry-research",
-      "report",
-      "research"
-    ],
-    "owner": "PerryLink"
   },
   {
     "name": "FTShare-Lab/dsh_kline",
@@ -2908,6 +2900,26 @@
     "owner": "Zhenyu98"
   },
   {
+    "name": "qkycir-123/dsh-run2skill",
+    "desc": "Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills.",
+    "stars": 21,
+    "url": "https://github.com/qkycir-123/dsh-run2skill",
+    "lang": "TypeScript",
+    "topics": [
+      "agent-learning",
+      "agent-skills",
+      "ai-agent",
+      "automatic-skill-learning",
+      "deepseek",
+      "deepseek-harness",
+      "dsh-plugin",
+      "local-first",
+      "run-to-skill",
+      "skill-generator"
+    ],
+    "owner": "qkycir-123"
+  },
+  {
     "name": "seed-forge/harness-ai-kit",
     "desc": "Package manager for AI agent assets — 42 skills, 5 CLIs, 1 plugin. Skills for AI/LLM agent engineering, eval-driven dev, spec-driven dev, database (MySQL/PG/Redis/Kafka/Mongo/Oracle/NL2SQL), K8s/Docker diagnostics, infra ops (Dify/Nexus/Harbor/SonarQube) & docs/patent. Runtimes: Codex, Claude Code, Cursor, Kiro, DSH.",
     "stars": 21,
@@ -2938,24 +2950,17 @@
     "owner": "seed-forge"
   },
   {
-    "name": "qkycir-123/dsh-run2skill",
-    "desc": "Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills.",
+    "name": "zebbkira/dsh-skills-mcp-manager",
+    "desc": "面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。",
     "stars": 20,
-    "url": "https://github.com/qkycir-123/dsh-run2skill",
+    "url": "https://github.com/zebbkira/dsh-skills-mcp-manager",
     "lang": "TypeScript",
     "topics": [
-      "agent-learning",
-      "agent-skills",
-      "ai-agent",
-      "automatic-skill-learning",
-      "deepseek",
       "deepseek-harness",
-      "dsh-plugin",
-      "local-first",
-      "run-to-skill",
-      "skill-generator"
+      "dsh",
+      "dsh-plugin"
     ],
-    "owner": "qkycir-123"
+    "owner": "zebbkira"
   },
   {
     "name": "zhaiyateng/dsh-design-skills",
@@ -2991,19 +2996,6 @@
     "owner": "Solismuchengxue"
   },
   {
-    "name": "zebbkira/dsh-skills-mcp-manager",
-    "desc": "面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。",
-    "stars": 19,
-    "url": "https://github.com/zebbkira/dsh-skills-mcp-manager",
-    "lang": "TypeScript",
-    "topics": [
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin"
-    ],
-    "owner": "zebbkira"
-  },
-  {
     "name": "MJorgin/dsh-media-skills",
     "desc": "Free image reading & generation for DeepSeek Harness (rc.7 / rc.8 / v0.1.1-rc.1 / rc.2) — paste-image reading with auto vision transcription, DeepSeek-V4-Flash-Vision-Exp / GLM-4V-Flash / SenseNova / Gemini failover, Kolors + U1 Fast generation. No keys in repo.",
     "stars": 19,
@@ -3018,6 +3010,34 @@
       "vision"
     ],
     "owner": "MJorgin"
+  },
+  {
+    "name": "fishzjp/qa-skills",
+    "desc": "让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——10 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）",
+    "stars": 18,
+    "url": "https://github.com/fishzjp/qa-skills",
+    "lang": "Python",
+    "topics": [
+      "agent-skills",
+      "ai-agents",
+      "ai-testing",
+      "claude-code",
+      "claude-skills",
+      "deepseek",
+      "deepseek-harness",
+      "dsh",
+      "dsh-plugin",
+      "llm",
+      "playwright",
+      "pytest",
+      "qa",
+      "quality-assurance",
+      "software-testing",
+      "test-automation",
+      "test-case-writing",
+      "testing"
+    ],
+    "owner": "fishzjp"
   },
   {
     "name": "FeatherHunter/dsh-opencode-palette",
@@ -3112,34 +3132,6 @@
     "owner": "SenmuuuuW"
   },
   {
-    "name": "fishzjp/qa-skills",
-    "desc": "让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——10 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）",
-    "stars": 17,
-    "url": "https://github.com/fishzjp/qa-skills",
-    "lang": "Python",
-    "topics": [
-      "agent-skills",
-      "ai-agents",
-      "ai-testing",
-      "claude-code",
-      "claude-skills",
-      "deepseek",
-      "deepseek-harness",
-      "dsh",
-      "dsh-plugin",
-      "llm",
-      "playwright",
-      "pytest",
-      "qa",
-      "quality-assurance",
-      "software-testing",
-      "test-automation",
-      "test-case-writing",
-      "testing"
-    ],
-    "owner": "fishzjp"
-  },
-  {
     "name": "akira399/dsh-godot-skill",
     "desc": "Godot Engine 4.x 全栈游戏开发技能插件 for DeepSeek Harness (DSH) — registers the godot-4-development skill at runtime",
     "stars": 16,
@@ -3197,7 +3189,7 @@
   },
   {
     "name": "pazz11/Jnpz",
-    "desc": "改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件���技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用",
+    "desc": "改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用",
     "stars": 14,
     "url": "https://github.com/pazz11/Jnpz",
     "lang": "JavaScript",
@@ -3286,7 +3278,7 @@
   },
   {
     "name": "dabaicai001/star-dsh-desktop",
-    "desc": "StarHub 是一款跨平台桌面应用（Tauri 2 + Rust 主进程 + DeepSeek Harness React 工作台 + Go Sidecar），把开发运维日常高频工具整合到同一个窗口 —— 数据库、SSH/SFTP、Docker 面板与 AI 助手。目标是减少在 Navicat、Xshell、Portainer、文件管理器和 AI 对话窗口之间来回切换的成本。  前端架构：基于 DeepSeek Harness 原生 React 工作台（/starhub-react 路由）。资产、设置、SSH 终端、SFTP、数据库",
+    "desc": "StarHub — All-in-One DevOps Desktop Command Center。把开发运维每天要用到的工具收进同一个窗口:数据库客户端 · SSH 终端 · SFTP · Docker · AI 助手,以及 AI 驱动的沙箱桌面与 Android 实体机操作。",
     "stars": 12,
     "url": "https://github.com/dabaicai001/star-dsh-desktop",
     "lang": "Rust",
@@ -3514,7 +3506,7 @@
   },
   {
     "name": "GordenSun/awesome-dsh-plugins",
-    "desc": "好用的DeepSeek Harness插件��合",
+    "desc": "好用的DeepSeek Harness插件集合",
     "stars": 4,
     "url": "https://github.com/GordenSun/awesome-dsh-plugins",
     "lang": "Unknown",
@@ -3805,6 +3797,15 @@
     "owner": "fjzzwxp"
   },
   {
+    "name": "zzylanmengqingchuan/awesome-dsh-plugins",
+    "desc": "A curated, evidence-aware shortlist of useful DeepSeek Harness plugins",
+    "stars": 1,
+    "url": "https://github.com/zzylanmengqingchuan/awesome-dsh-plugins",
+    "lang": "JavaScript",
+    "topics": [],
+    "owner": "zzylanmengqingchuan"
+  },
+  {
     "name": "dorisaimpatient855/awesome-dsh-plugin",
     "desc": "Curated plugins for DeepSeek Harness (dsh) — install, extend, and customize models, tools, sandboxes, UI, and agent loops.",
     "stars": 1,
@@ -3839,15 +3840,6 @@
     "lang": "Unknown",
     "topics": [],
     "owner": "JNLXG"
-  },
-  {
-    "name": "zzylanmengqingchuan/awesome-dsh-plugins",
-    "desc": "A curated, evidence-aware shortlist of useful DeepSeek Harness plugins",
-    "stars": 1,
-    "url": "https://github.com/zzylanmengqingchuan/awesome-dsh-plugins",
-    "lang": "JavaScript",
-    "topics": [],
-    "owner": "zzylanmengqingchuan"
   },
   {
     "name": "hotpot-labs/awesome-dsh-industry-plugins",

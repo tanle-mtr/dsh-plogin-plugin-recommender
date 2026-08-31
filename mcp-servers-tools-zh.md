@@ -8,33 +8,33 @@
 
 ## 插件列表
 
-### [weijiafu14/pi2dsh](https://github.com/weijiafu14/pi2dsh)
-
-- **⭐ 星标：** 175
-- **语言：** TypeScript
-- **描述：** Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。
-- **标签：** `compatibility-layer`, `migration`, `pi-agent`
-- **推荐理由：** 打通Pi与DSH生态，原生运行Pi扩展插件。
-
----
-
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
-
-- **⭐ 星标：** 111
-- **语言：** JavaScript
-- **描述：** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **标签：** `mcp`, `skills`, `dsh-plugin`
-- **推荐理由：** Web界面一站式管理Skill和MCP配置，操作直观。
-
----
-
 ### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
 - **⭐ 星标：** 58
 - **语言：** TypeScript
 - **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **标签：** `api-documentation`, `chinese-api`, `dsh-plugin`
-- **推荐理由：** 在Agent中直接搜索20个中国开放平台65,600+篇API文档
+- **标签：** `api`, `documentation`, `tools`
+- **推荐理由：** 在Agent中直接搜索6万+中国平台API文档
+
+---
+
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+
+- **⭐ 星标：** 28
+- **语言：** TypeScript
+- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **标签：** `mcp`, `config-sync`, `agent-config`
+- **推荐理由：** 一键同步MCP和技能配置至7+个AI Agent工具
+
+---
+
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+
+- **⭐ 星标：** 20
+- **语言：** TypeScript
+- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
+- **标签：** `mcp`, `skills`, `manager`
+- **推荐理由：** 在Web UI中直接管理技能和MCP服务器
 
 ---
 
@@ -42,9 +42,9 @@
 
 - **⭐ 星标：** 14
 - **语言：** JavaScript
-- **描述：** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件���技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
+- **描述：** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
 - **标签：** `mcp`, `hot-reload`, `skill-management`
-- **推荐理由：** UI粘贴JSON连接MCP热加载，自动识别技能文件
+- **推荐理由：** 设置页粘贴JSON即连MCP，热加载免重启，技能管理便捷
 
 ---
 

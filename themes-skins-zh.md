@@ -8,23 +8,23 @@
 
 ## 插件列表
 
-### [crafter-station/petdex](https://github.com/crafter-station/petdex)
-
-- **⭐ 星标：** 4,004
-- **语言：** TypeScript
-- **描述：** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **标签：** `mascot`, `pixel-art`, `sprites`, `ui`
-- **推荐理由：** 动画宠物图库，为编码Agent和CLI工具增添可爱外观
-
----
-
 ### [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
 
-- **⭐ 星标：** 1,833
+- **⭐ 星标：** 1,845
 - **语言：** TypeScript
 - **描述：** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
 - **标签：** `theme`, `skin`, `whale`
-- **推荐理由：** 适用于DeepSeek Harness的鲸鱼娘主题皮肤
+- **推荐理由：** 鲸鱼娘系列皮肤，美化DeepSeek Harness界面。
+
+---
+
+### [WYH66666666/DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
+
+- **⭐ 星标：** 395
+- **语言：** JavaScript
+- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **标签：** `theme`, `ui`, `transparent`
+- **推荐理由：** 磨砂玻璃主题，高度自定义，不改源码。
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ 星标：** 194
 - **语言：** JavaScript
 - **描述：** WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.
-- **标签：** `theme`, `threejs`, `webgpu`, `chrome-extension`
-- **推荐理由：** 基于WebGPU的海洋主题视觉皮肤，视觉效果出众。
+- **标签：** `theme`, `webgpu`, `chrome-extension`
+- **推荐理由：** 基于WebGPU的海洋主题视觉皮肤，美化Harness界面
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 18
 - **语言：** JavaScript
 - **描述：** 🎨 看腻了 DSH 默认皮肤？34 款 opencode 经典配色一键换上——tokyonight、dracula、gruvbox、matrix、rose-pine……即点即换，重启不丢。34 opencode themes for DeepSeek Harness, one click, persisted. More by @FeatherHunter: ⚡ dsh-prompt · 🧠 dsh-mattpocock-skills-deck
-- **标签：** `theme`, `skin`, `ui`
-- **推荐理由：** 34 款 opencode 经典配色一键应用，重启不丢失。
+- **标签：** `themes`, `skins`, `customization`
+- **推荐理由：** 34款经典配色一键切换，重启不丢
 
 ---
 
