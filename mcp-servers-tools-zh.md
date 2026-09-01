@@ -8,23 +8,33 @@
 
 ## 插件列表
 
-### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ 星标：** 25
-- **语言：** JavaScript
-- **描述：** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
-- **标签：** `codex`, `sync`, `mcp`
-- **推荐理由：** Codex与DSH双向同步桥梁，自动MCP镜像
+- **⭐ 星标：** 333
+- **语言：** TypeScript
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `web-search`, `free`, `no-api-key`, `bridge`
+- **推荐理由：** 最强免费网页搜索插件，无需注册和API密钥，通用对接
 
 ---
 
-### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
 
-- **⭐ 星标：** 21
+- **⭐ 星标：** 83
+- **语言：** JavaScript
+- **描述：** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
+- **标签：** `mcp`, `skills`, `dsh-plugin`
+- **推荐理由：** 统一管理MCP工具和技能的暴露级别与执行模式的菜单。
+
+---
+
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+
+- **⭐ 星标：** 28
 - **语言：** TypeScript
-- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **标签：** `mcp`, `manager`, `gui`
-- **推荐理由：** Web UI管理技能和MCP服务器，直观易用
+- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **标签：** `mcp`, `config-sync`, `multi-agent`
+- **推荐理由：** 一键配置多AI工具的MCP、技能和规则
 
 ---
 
@@ -33,18 +43,8 @@
 - **⭐ 星标：** 14
 - **语言：** JavaScript
 - **描述：** 改配置+重启才能加 MCP？DeepSeek Harness (DSH) 插件「技能配置」解决：设置页粘贴 JSON 即连 MCP 服务器、热加载免重启；上传 zip/.skill 自动识别 SKILL.md，创建/编辑/启停技能，即点即用
-- **标签：** `mcp`, `hot-reload`, `skill-management`, `mcp-server`
-- **推荐理由：** 热加载MCP配置，无需重启即可连接服务器。
-
----
-
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
-
-- **⭐ 星标：** 3
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `mcp`
-- **推荐理由：** 通过OAuth绑定ChatGPT账号，在DSH内使用其模型。
+- **标签：** `mcp`, `hot-reload`, `skill-management`
+- **推荐理由：** 无需重启即可热加载MCP和技能管理
 
 ---
 
