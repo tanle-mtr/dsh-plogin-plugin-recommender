@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
 
-- **⭐ 星标：** 3,178
-- **语言：** Python
-- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **标签：** `content-discovery`, `ai-agent`, `privacy-first`
-- **推荐理由：** 本地优先的跨平台AI内容发现代理，覆盖B站/小红书等平台。
+- **⭐ 星标：** 3
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `ai-agents`, `chatgpt`, `oauth`, `subscription`
+- **推荐理由：** ChatGPT账户OAuth集成，扩展DSH对话能力
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 2
 - **语言：** TypeScript
 - **描述：** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
-- **标签：** `ai-agent`, `chat-bot`, `dingtalk`, `deepseek-harness`
-- **推荐理由：** 钉钉IM通道，将聊天变为带工具能力的Agent。
+- **标签：** `dingtalk`, `chat-bot`, `communication`
+- **推荐理由：** 钉钉IM通道，支持智能体工具能力
 
 ---
 
