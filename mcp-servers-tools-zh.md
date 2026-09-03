@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 2 个插件
+> 本分类共 3 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,23 +8,33 @@
 
 ## 插件列表
 
-### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+### [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
 
-- **⭐ 星标：** 28
-- **语言：** TypeScript
-- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp`, `agent-config`, `deepseek-harness`
-- **推荐理由：** 一键配置多平台AI Agent的MCP、Skills和规则
+- **⭐ 星标：** 7,050
+- **语言：** JavaScript
+- **描述：** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
+- **标签：** `mcp`, `routing`, `dsh-plugin`
+- **推荐理由：** 任务感知推理模式路由套件
 
 ---
 
-### [777-Zen/dsh-capability-index](https://github.com/777-Zen/dsh-capability-index)
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
 
-- **⭐ 星标：** 4
+- **⭐ 星标：** 22
+- **语言：** TypeScript
+- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
+- **标签：** `mcp`, `skills`, `ui`
+- **推荐理由：** Web UI管理技能和MCP服务器的实用插件
+
+---
+
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+
+- **⭐ 星标：** 20
 - **语言：** JavaScript
-- **描述：** 给 DSH agent 的插件库"起飞前检查单"——任务型请求时自动预检插件库并注入 Top-K 适用插件提示，让插件库利用率可预期、不靠运气。Pre-flight plugin-library check for DSH agents — task-type requests trigger a Top-K hint of suitable plugins injected into the runtime context, making plugin usage predictable instead of opportunistic.
-- **标签：** `agent-tools`, `capability-index`
-- **推荐理由：** 任务预检自动注入Top-K适用插件
+- **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **标签：** `cloud`, `mcp`, `huawei`
+- **推荐理由：** 华为云官方插件，含MCP工具和云端沙箱
 
 ---
 
