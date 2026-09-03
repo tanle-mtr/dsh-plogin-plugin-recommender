@@ -1,6 +1,6 @@
 # 主题与皮肤
 
-> 本分类共 3 个插件
+> 本分类共 4 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,11 +10,21 @@
 
 ### [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
 
-- **⭐ 星标：** 1,897
+- **⭐ 星标：** 1,903
 - **语言：** TypeScript
 - **描述：** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- **标签：** `skin`, `theme`, `customization`
-- **推荐理由：** 鲸鱼娘系列皮肤，美化DSH界面。
+- **标签：** `theme`, `skin`, `dsh-plugin`
+- **推荐理由：** 鲸鱼娘系列主题皮肤，个性化DSH界面
+
+---
+
+### [WYH66666666/DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
+
+- **⭐ 星标：** 398
+- **语言：** JavaScript
+- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **标签：** `theme`, `ui`, `glass-effect`
+- **推荐理由：** 高度可定制的磨砂玻璃UI主题，无需改源码
 
 ---
 
@@ -23,18 +33,18 @@
 - **⭐ 星标：** 195
 - **语言：** JavaScript
 - **描述：** WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.
-- **标签：** `theme`, `webgpu`, `ocean`
-- **推荐理由：** 惊艳的WebGPU海洋主题视觉皮肤，美化DSH界面。
+- **标签：** `theme`, `visual`
+- **推荐理由：** 惊艳的WebGPU海洋主题皮肤
 
 ---
 
 ### [FeatherHunter/dsh-opencode-palette](https://github.com/FeatherHunter/dsh-opencode-palette)
 
-- **⭐ 星标：** 18
+- **⭐ 星标：** 19
 - **语言：** JavaScript
 - **描述：** 🎨 看腻了 DSH 默认皮肤？34 款 opencode 经典配色一键换上——tokyonight、dracula、gruvbox、matrix、rose-pine……即点即换，重启不丢。34 opencode themes for DeepSeek Harness, one click, persisted. More by @FeatherHunter: ⚡ dsh-prompt · 🧠 dsh-mattpocock-skills-deck
-- **标签：** `color-scheme`, `themes`, `ui`
-- **推荐理由：** 34款经典配色一键切换，无需重启。
+- **标签：** `theme`, `color-scheme`, `ui`
+- **推荐理由：** 34款经典配色一键切换，重启不丢
 
 ---
 
