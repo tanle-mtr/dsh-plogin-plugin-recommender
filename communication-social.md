@@ -1,6 +1,6 @@
 # Communication & Social
 
-> 2 plugins in this category
+> 1 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,13 @@
 
 ## Plugins
 
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
-
-- **⭐ Stars:** 3
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `dsh-plugin`
-- **Why use it:** OAuth bind ChatGPT account to chat models inside DSH.
-
----
-
 ### [ttmouse/dsh-dingtalk-channel](https://github.com/ttmouse/dsh-dingtalk-channel)
 
 - **⭐ Stars:** 2
 - **Language:** TypeScript
 - **Description:** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
-- **Tags:** `dingtalk`, `ai-agent`, `communication`
-- **Why use it:** DingTalk IM channel turning chats into tool-capable agents
+- **Tags:** `dingtalk`, `chat-bot`, `deepseek-harness`
+- **Why use it:** DingTalk IM channel with agent capabilities and read receipts.
 
 ---
 
