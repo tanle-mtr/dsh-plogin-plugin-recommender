@@ -10,21 +10,21 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 35,472
+- **⭐ 星标：** 35,493
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `agentic-rag`, `dsh-plugin`, `self-evolving`
+- **标签：** `agent-memory`, `agentic-rag`, `context-database`
 - **推荐理由：** 自演进上下文数据库，统一记忆与RAG。
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 21,337
+- **⭐ 星标：** 21,338
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `dsh-plugin`, `vector-search`, `knowledge-base`
-- **推荐理由：** 开源LLM知识平台，支持RAG与语义搜索。
+- **标签：** `rag`, `knowledge-base`, `vector-search`
+- **推荐理由：** LLM知识库平台，支持RAG与语义搜索。
 
 ---
 
@@ -33,28 +33,28 @@
 - **⭐ 星标：** 12,700
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `rag`, `mcp`, `long-term-memory`
-- **推荐理由：** 本地优先的跨应用记忆层，Markdown原生自演化
+- **标签：** `memory`, `rag`, `local-first`, `portable`
+- **推荐理由：** 本地优先的可移植记忆层，Markdown原生持久化。
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 11,184
+- **⭐ 星标：** 11,185
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `agent-memory`, `rag`, `mcp`, `token-savings`
-- **推荐理由：** 自演化记忆系统，混合检索节省35% Token消耗
+- **标签：** `memory`, `token-optimization`, `rag`, `hybrid-retrieval`
+- **推荐理由：** 自演进记忆OS，混合检索节省35%令牌成本。
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,016
+- **⭐ 星标：** 7,020
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `agent-memory`, `agentic-rag`, `continual-learning`
-- **推荐理由：** 支持持续学习的状态化Agent记忆库
+- **标签：** `memory`, `stateful-agents`, `library`
+- **推荐理由：** 轻量级Agent记忆库，支持状态持久化构建。
 
 ---
 
@@ -63,48 +63,48 @@
 - **⭐ 星标：** 3,410
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `agent`
-- **推荐理由：** 专为代理设计的记忆管理套件，支持记忆优化与检索。
+- **标签：** `memory`, `rag`, `agent-memory`
+- **推荐理由：** 专为代理设计的记忆管理套件
 
 ---
 
 ### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
 
-- **⭐ 星标：** 2,564
+- **⭐ 星标：** 2,565
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `rag`, `milvus`
-- **推荐理由：** 持久化统一记忆层，基于Markdown和Milvus支持多代理。
+- **标签：** `memory`, `milvus`, `semantic-search`
+- **推荐理由：** 基于Milvus的持久统一记忆层，支持语义搜索
 
 ---
 
-### [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins)
+### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ 星标：** 218
-- **语言：** JavaScript
-- **描述：** DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com
-- **标签：** `marketplace`, `plugin-store`, `catalog`
-- **推荐理由：** 海量插件市场，11000+条目，支持搜索和公共API
-
----
-
-### [leenkcool/Blue-Whale-Harness](https://github.com/leenkcool/Blue-Whale-Harness)
-
-- **⭐ 星标：** 192
-- **语言：** HTML
-- **描述：** 🐋 DeepSeek Harness 插件总目录 · The catalog of DSH plugins：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文搜索、分类筛选、STAR 排序 → leenkcool.github.io
-- **标签：** `catalog`, `plugin-directory`, `search`
-- **推荐理由：** 全面的DSH插件目录，1958个仓库，支持智能筛选
-
----
-
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
-
-- **⭐ 星标：** 183
+- **⭐ 星标：** 516
 - **语言：** Python
-- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **标签：** `finance`, `database`, `multi-agent`
-- **推荐理由：** 基于Tushare的本地财经数据库，支持多Agent分析和IM盯盘
+- **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
+- **标签：** `agent-memory`, `skill-rag`, `vector-search`, `embeddings`
+- **推荐理由：** 将SKILL.md转化为可检索的agent技能知识库，支持向量搜索
+
+---
+
+### [PerryLink/dsh-plugin-guide](https://github.com/PerryLink/dsh-plugin-guide)
+
+- **⭐ 星标：** 33
+- **语言：** TypeScript
+- **描述：** Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.
+- **标签：** `knowledge-base`, `plugin-development`, `guide`
+- **推荐理由：** 官方文档与插件开发知识库，按需调用的技能包
+
+---
+
+### [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor)
+
+- **⭐ 星标：** 28
+- **语言：** TypeScript
+- **描述：** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
+- **标签：** `dsh-plugin`, `deepseek-harness`
+- **推荐理由：** 上下文审计插件，检测重复冲突指令
 
 ---
 
