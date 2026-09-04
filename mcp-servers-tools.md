@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 7 plugins in this category
+> 6 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,23 @@
 
 ## Plugins
 
-### [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ Stars:** 852
+- **⭐ Stars:** 350
 - **Language:** TypeScript
-- **Description:** [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.
-- **Tags:** `vision`, `ocr`, `computer-vision`
-- **Why use it:** Powerful vision toolkit for text-only LLMs: OCR, image Q&A, UI restoration.
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `web-search`, `mcp`, `free`
+- **Why use it:** Free web search bridge for models without native browsing; no signup or API required
 
 ---
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
 
-- **⭐ Stars:** 349
-- **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `dsh-plugin`, `mcp`
-- **Why use it:** Free web search bridge for any model without native web access, no signup needed.
+- **⭐ Stars:** 183
+- **Language:** Python
+- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **Tags:** `finance`, `mcp`, `data-source`
+- **Why use it:** Financial data source with multi-agent analysis, HTTP APIs and MCP integration.
 
 ---
 
@@ -33,8 +33,18 @@
 - **⭐ Stars:** 44
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `cloud`, `mcp`, `huaweicloud`, `terraform`
-- **Why use it:** Official cloud plugin with MCP tools and sandbox for AI agents
+- **Tags:** `mcp`, `cloud`, `huaweicloud`, `terraform`, `sdk`
+- **Why use it:** Official Huawei Cloud MCP toolkit with sandbox, skills, and safety guardrails.
+
+---
+
+### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+
+- **⭐ Stars:** 36
+- **Language:** JavaScript
+- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
+- **Tags:** `ocr`, `vision`, `image-reading`, `pixel-art`
+- **Why use it:** Enables text-only models to read images via trained pixel-to-text methodology.
 
 ---
 
@@ -44,17 +54,7 @@
 - **Language:** TypeScript
 - **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
 - **Tags:** `mcp`, `config-sync`, `multi-agent`
-- **Why use it:** One-click MCP/Skills/config sync across 7+ AI agent platforms
-
----
-
-### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
-
-- **⭐ Stars:** 25
-- **Language:** JavaScript
-- **Description:** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
-- **Tags:** `codex`, `sync`, `mcp`
-- **Why use it:** Bidirectional chat sync and auto MCP mirroring between Codex and DSH
+- **Why use it:** One-click MCP, Skills and rule setup across multiple AI agent platforms
 
 ---
 
@@ -63,18 +63,8 @@
 - **⭐ Stars:** 23
 - **Language:** TypeScript
 - **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **Tags:** `mcp`, `skills`, `manager`, `ui`
-- **Why use it:** Web GUI plugin to manage skills and MCP servers directly in browser
-
----
-
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
-
-- **⭐ Stars:** 3
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `subscription`, `mcp`
-- **Why use it:** OAuth-based ChatGPT integration for DSH workflows.
+- **Tags:** `mcp`, `skills`, `manager`
+- **Why use it:** Web GUI plugin card for managing skills and MCP servers directly in browser
 
 ---
 
