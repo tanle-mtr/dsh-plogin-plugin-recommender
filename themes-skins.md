@@ -10,21 +10,21 @@
 
 ### [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
 
-- **⭐ Stars:** 1,907
+- **⭐ Stars:** 1,914
 - **Language:** TypeScript
 - **Description:** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- **Tags:** `theme`, `skin`, `customization`
-- **Why use it:** Whale girl themed visual skins for DeepSeek Harness customization
+- **Tags:** `theme`, `skin`, `whale`
+- **Why use it:** Whale Girl themed skin series providing aesthetic customization for DSH interface
 
 ---
 
 ### [WYH66666666/DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
 
-- **⭐ Stars:** 400
+- **⭐ Stars:** 401
 - **Language:** JavaScript
 - **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `theme`, `glass-morphism`, `ui`, `desktop`
-- **Why use it:** Fully customizable frosted glass desktop theme with adjustable blur and background settings
+- **Tags:** `theme`, `dsh-plugin`, `ui`
+- **Why use it:** Frosted glass theme with fully customizable blur and background for DSH web UI.
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 195
 - **Language:** JavaScript
 - **Description:** WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.
-- **Tags:** `theme`, `webgpu`, `chrome-extension`
-- **Why use it:** Stunning WebGPU ocean-themed skin for DSH via Chrome extension
+- **Tags:** `theme`, `ocean-skin`, `chrome-extension`, `webgpu`
+- **Why use it:** WebGPU ocean-themed Chrome extension skin for DeepSeek Harness UI
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 20
 - **Language:** JavaScript
 - **Description:** 🎨 看腻了 DSH 默认皮肤？34 款 opencode 经典配色一键换上——tokyonight、dracula、gruvbox、matrix、rose-pine……即点即换，重启不丢。34 opencode themes for DeepSeek Harness, one click, persisted. More by @FeatherHunter: ⚡ dsh-prompt · 🧠 dsh-mattpocock-skills-deck
-- **Tags:** `theme`, `skin`, `ui`
-- **Why use it:** 34 opencode themes one-click switch for DSH
+- **Tags:** `theme`, `skins`, `color-scheme`, `dark-mode`
+- **Why use it:** 34 opencode classic color themes, one-click swap, survives restart
 
 ---
 
