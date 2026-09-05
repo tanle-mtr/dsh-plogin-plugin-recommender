@@ -1,6 +1,6 @@
 # Memory & Knowledge (RAG)
 
-> 11 plugins in this category
+> 9 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,41 +10,41 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 35,550
+- **⭐ Stars:** 35,582
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `agentic-rag`, `context-database`
-- **Why use it:** Self-evolving context database unifying memory and RAG
+- **Tags:** `agent-memory`, `agentic-rag`, `dsh-plugin`
+- **Why use it:** Self-evolving context database unifying agent memory, RAG, and skills
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 21,363
+- **⭐ Stars:** 21,387
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `vector-search`, `knowledge-base`, `llm`
-- **Why use it:** Open-source knowledge platform with RAG and semantic search
+- **Tags:** `rag`, `knowledge-base`, `dsh-plugin`
+- **Why use it:** Open-source LLM knowledge platform with RAG, semantic search, and wiki
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ Stars:** 12,709
+- **⭐ Stars:** 12,711
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `memory`, `rag`, `mcp`
-- **Why use it:** Portable, local-first memory layer for AI agents across apps
+- **Tags:** `memory`, `rag`, `portable`
+- **Why use it:** Portable self-evolving memory layer with Markdown-native persistence across agents
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 11,193
+- **⭐ Stars:** 11,194
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory`, `rag`, `token-savings`
-- **Why use it:** Self-evolving memory with hybrid retrieval and significant token savings
+- **Tags:** `memory`, `token-optimization`, `rag`
+- **Why use it:** Ultra-persistent hybrid-retrieval memory with 35% token savings for LLM agents
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ Stars:** 7,022
 - **Language:** Python
 - **Description:**  Memory library for building stateful agents
-- **Tags:** `memory`, `rag`, `agent`
-- **Why use it:** Memory library enabling stateful agents with agentic RAG
+- **Tags:** `memory`, `stateful`, `local-first`
+- **Why use it:** Local-first memory library enabling stateful and continual learning agents
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ Stars:** 3,411
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **Tags:** `memory`, `rag`, `agent`, `dsh-plugin`
-- **Why use it:** Dedicated memory management kit helping agents remember context and refine knowledge over time
+- **Tags:** `memory`, `RAG`, `agent`
+- **Why use it:** Purpose-built memory management kit — remember and refine agent knowledge
 
 ---
 
@@ -73,48 +73,28 @@
 - **⭐ Stars:** 2,565
 - **Language:** Python
 - **Description:** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **Tags:** `memory`, `rag`, `milvus`, `dsh-plugin`
-- **Why use it:** Persistent unified memory layer backed by Markdown and Milvus, with hybrid and semantic search support
-
----
-
-### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
-
-- **⭐ Stars:** 1,287
-- **Language:** TypeScript
-- **Description:** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
-- **Tags:** `context`, `memory`, `dashboard`
-- **Why use it:** Best context insight and management with dashboard and browser tools
+- **Tags:** `memory`, `RAG`, `milvus`
+- **Why use it:** Persistent unified memory layer backed by Markdown and Milvus semantic search
 
 ---
 
 ### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ Stars:** 530
+- **⭐ Stars:** 537
 - **Language:** Python
 - **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `skill-corpus`, `vector-search`, `retrieval`
-- **Why use it:** Turns scattered skills into structured, retrieval-ready corpora
+- **Tags:** `embeddings`, `semantic-search`, `skill-routing`
+- **Why use it:** Turns SKILL.md files into retrieval-ready embedding corpora
 
 ---
 
-### [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor)
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
 
-- **⭐ Stars:** 28
-- **Language:** TypeScript
-- **Description:** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
-- **Tags:** `context-audit`, `token-tracking`, `ui-panel`
-- **Why use it:** Audit context injection, detect token costs and conflicts
-
----
-
-### [WeirdSky924/agent-handoff-skill](https://github.com/WeirdSky924/agent-handoff-skill)
-
-- **⭐ Stars:** 26
+- **⭐ Stars:** 183
 - **Language:** Python
-- **Description:** Use this cross-platform skill in Codex or Claude Code to establish repository-local continuity memory so a future agent can recover objective, status, decisions, validation, risks, and next actions without relying on previous chat history.
-- **Tags:** `handoff`, `session-memory`, `cross-platform`
-- **Why use it:** Cross-platform session continuity for agent handoffs
+- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **Tags:** `finance`, `rag`
+- **Why use it:** Financial data source with multi-agent analysis and IM alerts
 
 ---
 

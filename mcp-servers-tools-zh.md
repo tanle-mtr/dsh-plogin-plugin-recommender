@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 4 个插件
+> 本分类共 6 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+### [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
 
-- **⭐ 星标：** 61
-- **语言：** TypeScript
-- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **标签：** `mcp`, `api-documentation`
-- **推荐理由：** 在DSH中直接搜索6.5万+中文API文档
+- **⭐ 星标：** 7,087
+- **语言：** JavaScript
+- **描述：** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
+- **标签：** `mcp`, `router`, `injector`
+- **推荐理由：** 运行时注入器+任务感知路由，提升推理模式效率
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 44
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `cloud`, `mcp`, `huaweicloud`, `terraform`, `sdk`
-- **推荐理由：** 华为云官方MCP工具套件，含SDK与云端沙箱支持Agent云部署
+- **标签：** `cloud`, `mcp`, `huaweicloud`, `terraform`
+- **推荐理由：** 华为云官方开发套件，含MCP工具、技能与云沙箱支持。
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ 星标：** 28
 - **语言：** TypeScript
 - **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp-setup`, `multi-agent`, `config-sync`, `one-click`
-- **推荐理由：** 一键配置MCP和技能，支持7+ AI工具
+- **标签：** `mcp`, `config-sync`, `multi-agent`
+- **推荐理由：** 一键同步多AI工具MCP和Skills配置
 
 ---
 
@@ -42,9 +42,29 @@
 
 - **⭐ 星标：** 23
 - **语言：** TypeScript
-- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **标签：** `mcp-manager`, `skill-manager`, `web-ui`
-- **推荐理由：** Web UI插件管理，技能与MCP服务器配置
+- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里��理技能（skills）与 MCP 服务器。
+- **标签：** `mcp`, `manager`, `webui`
+- **推荐理由：** 在Web UI中直接管理技能与MCP服务器
+
+---
+
+### [Tencent/skillhub](https://github.com/Tencent/skillhub)
+
+- **⭐ 星标：** 18
+- **语言：** TypeScript
+- **描述：** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
+- **标签：** `skillhub`, `mcp`, `api`, `dsh-plugin`
+- **推荐理由：** SkillHub官方API文档与示例，原生支持DSH插件
+
+---
+
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+
+- **⭐ 星标：** 3
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `oauth`, `ai-agents`
+- **推荐理由：** 通过OAuth绑定ChatGPT账号，在DSH内使用ChatGPT模型。
 
 ---
 
