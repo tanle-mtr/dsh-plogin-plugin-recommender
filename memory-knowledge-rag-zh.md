@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 9 个插件
+> 本分类共 10 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,31 +10,31 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 35,607
+- **⭐ 星标：** 35,627
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `agentic-rag`, `context-database`, `self-evolving`
-- **推荐理由：** 自演进上下文数据库，统一Agent记忆、RAG知识与技能
+- **标签：** `agent-memory`, `agentic-rag`, `dsh-plugin`
+- **推荐理由：** 自演进上下文数据库，统一记忆与RAG知识。
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 21,405
+- **⭐ 星标：** 21,423
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `vector-search`, `semantic-search`, `wiki`
-- **推荐理由：** 生产级RAG平台，语义搜索与多租户知识库支持
+- **标签：** `rag`, `knowledge-base`, `dsh-plugin`
+- **推荐理由：** 腾讯开源RAG知识库平台，文档转智能问答。
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,714
+- **⭐ 星标：** 12,715
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `memory`, `rag`, `agent-memory`, `mcp`
-- **推荐理由：** 本地优先、Markdown原生的跨应用持久化记忆层
+- **标签：** `memory`, `long-term-memory`, `RAG`
+- **推荐理由：** 便携式本地优先的AI Agent记忆层。
 
 ---
 
@@ -43,28 +43,28 @@
 - **⭐ 星标：** 11,196
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `rag`, `self-evolving`, `token-savings`
-- **推荐理由：** 自进化记忆OS，混合检索且节省35% Token
+- **标签：** `memory`, `RAG`, `token-savings`
+- **推荐理由：** 自演进记忆系统，混合检索节省Token。
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,025
+- **⭐ 星标：** 7,028
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `agent-memory`, `agentic-rag`, `memory`, `continual-learning`
-- **推荐理由：** 构建有状态、持续学习Agent的专用记忆库
+- **标签：** `memory`, `stateful-agents`, `RAG`
+- **推荐理由：** 构建有状态Agent的记忆库，支持持续学习。
 
 ---
 
 ### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ 星标：** 3,414
+- **⭐ 星标：** 3,415
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `context`
-- **推荐理由：** 专注代理记忆管理，记住并优化上下文
+- **标签：** `memory`, `rag`, `agent`
+- **推荐理由：** 专注代理记忆的内存管理工具，支持记忆存储与精炼
 
 ---
 
@@ -73,18 +73,28 @@
 - **⭐ 星标：** 2,565
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `milvus`, `vector-db`
-- **推荐理由：** 持久统一记忆层，基于Milvus向量数据库
+- **标签：** `memory`, `rag`, `milvus`
+- **推荐理由：** 基于Milvus向量库的统一持久化记忆层，支持多代理共享
 
 ---
 
 ### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ 星标：** 544
+- **⭐ 星标：** 545
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `agent-memory`, `skill-md`, `vector-search`, `embeddings`
-- **推荐理由：** 将SKILL.md转化为可检索的向量知识库
+- **标签：** `skill-corpus`, `semantic-search`, `embeddings`
+- **推荐理由：** 将技能文件转化为可检索评测的知识库。
+
+---
+
+### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
+
+- **⭐ 星标：** 338
+- **语言：** TypeScript
+- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
+- **标签：** `knowledge-base`, `encyclopedia`, `ai-resources`
+- **推荐理由：** 覆盖Agent、RAG、MLOps的全方位AI知识库百科。
 
 ---
 
@@ -93,8 +103,8 @@
 - **⭐ 星标：** 34
 - **语言：** TypeScript
 - **描述：** Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.
-- **标签：** `knowledge-base`, `plugin-dev`, `docs`
-- **推荐理由：** 插件开发知���库Skill，含官方文档归档
+- **标签：** `knowledge-base`, `plugin-development`, `docs`
+- **推荐理由：** 官方DSH插件文档归档，中英双语知识库Skill
 
 ---
 
