@@ -13,8 +13,8 @@
 - **⭐ Stars:** 1,935
 - **Language:** TypeScript
 - **Description:** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- **Tags:** `theme`, `skin`, `whale`, `customization`
-- **Why use it:** Whale Girl skin series for DeepSeek Harness customization
+- **Tags:** `skin`, `theme`, `ui`, `dsh-plugin`
+- **Why use it:** Whale Girl themed visual skins for personalizing DeepSeek Harness interface.
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 402
 - **Language:** JavaScript
 - **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `glassmorphism`, `theme`, `blur-effect`, `transparency`
-- **Why use it:** Glassmorphism theme with adjustable blur/matte effects on every UI element
+- **Tags:** `theme`, `glass-effect`, `ui`
+- **Why use it:** Frosted glass theme with full customization for DSH web
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 197
 - **Language:** JavaScript
 - **Description:** WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.
-- **Tags:** `theme`, `webgpu`, `threejs`
-- **Why use it:** WebGPU ocean-themed skin with Three.js visuals for DSH.
+- **Tags:** `theme`, `skin`, `webgpu`, `threejs`
+- **Why use it:** WebGPU ocean-themed skin extension for DeepSeek Harness UI.
 
 ---
 
