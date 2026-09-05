@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 3 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,13 @@
 
 ## Plugins
 
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ Stars:** 183
-- **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `mcp`, `stock`, `deepseek-harness`
-- **Why use it:** Financial data source with MCP support, multi-agent stock analysis
-
----
-
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
-
-- **⭐ Stars:** 115
-- **Language:** JavaScript
-- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **Tags:** `mcp`, `skills`, `ui`, `management`
-- **Why use it:** Web UI for managing DSH skills and MCP tools in one place
+- **⭐ Stars:** 61
+- **Language:** TypeScript
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `mcp`, `api-documentation`
+- **Why use it:** Search 65k+ Chinese API docs directly in DSH/Cursor/Claude Code
 
 ---
 
@@ -33,8 +23,28 @@
 - **⭐ Stars:** 44
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `terraform`
-- **Why use it:** Official Huawei Cloud MCP tools with safety guardrails and cloud sandbox.
+- **Tags:** `cloud`, `mcp`, `huaweicloud`, `terraform`, `sdk`
+- **Why use it:** Official Huawei Cloud MCP tools, SDK, and sandbox for AI agent cloud operations
+
+---
+
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+
+- **⭐ Stars:** 28
+- **Language:** TypeScript
+- **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **Tags:** `mcp-setup`, `multi-agent`, `config-sync`, `one-click`
+- **Why use it:** One-click MCP/Skills setup for 7+ AI agent tools
+
+---
+
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+
+- **⭐ Stars:** 23
+- **Language:** TypeScript
+- **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
+- **Tags:** `mcp-manager`, `skill-manager`, `web-ui`
+- **Why use it:** Web UI plugin manager for skills and MCP servers
 
 ---
 
