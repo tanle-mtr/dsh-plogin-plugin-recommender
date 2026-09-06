@@ -8,33 +8,33 @@
 
 ## 插件列表
 
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+
+- **⭐ 星标：** 84
+- **语言：** JavaScript
+- **描述：** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
+- **标签：** `mcp`, `dsh-plugin`, `tools`
+- **推荐理由：** MCP工具统一菜单，管理上下文暴露级别
+
+---
+
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ 星标：** 44
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huaweicloud`, `terraform`
-- **推荐理由：** 华为云官方插件，MCP工具+云沙箱一站式接入
+- **标签：** `cloud`, `mcp`, `sdk`
+- **推荐理由：** 华为云官方插件，含MCP工具与云端沙箱能力
 
 ---
 
-### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+### [Tencent/skillhub](https://github.com/Tencent/skillhub)
 
-- **⭐ 星标：** 28
+- **⭐ 星标：** 18
 - **语言：** TypeScript
-- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp`, `config-sync`, `multi-agent`
-- **推荐理由：** 一键同步MCP和技能配置，支持7+款AI工具
-
----
-
-### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
-
-- **⭐ 星标：** 23
-- **语言：** TypeScript
-- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **标签：** `mcp`, `skills`, `web-gui`, `management`
-- **推荐理由：** Web GUI插件，浏览器内直接管理技能与MCP
+- **描述：** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
+- **标签：** `mcp`, `api`, `documentation`
+- **推荐理由：** 腾讯SkillHub官方API文档与示例，集成DSH必备。
 
 ---
 

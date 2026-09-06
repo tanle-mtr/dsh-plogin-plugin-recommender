@@ -8,33 +8,33 @@
 
 ## Plugins
 
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+
+- **⭐ Stars:** 84
+- **Language:** JavaScript
+- **Description:** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
+- **Tags:** `mcp`, `dsh-plugin`, `tools`
+- **Why use it:** Unified menu for MCP tools exposure management
+
+---
+
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ Stars:** 44
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `terraform`
-- **Why use it:** Official Huawei Cloud plugin with MCP tools, skills, and cloud sandbox
+- **Tags:** `cloud`, `mcp`, `sdk`
+- **Why use it:** Official Huawei Cloud plugin with MCP tools, SDK, Terraform, and cloud sandbox support
 
 ---
 
-### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+### [Tencent/skillhub](https://github.com/Tencent/skillhub)
 
-- **⭐ Stars:** 28
+- **⭐ Stars:** 18
 - **Language:** TypeScript
-- **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **Tags:** `mcp`, `config-sync`, `multi-agent`
-- **Why use it:** One-click MCP, skills, and rule config sync across 7+ AI agent tools
-
----
-
-### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
-
-- **⭐ Stars:** 23
-- **Language:** TypeScript
-- **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **Tags:** `mcp`, `skills`, `web-gui`, `management`
-- **Why use it:** Web GUI plugin to manage skills and MCP servers directly in browser
+- **Description:** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
+- **Tags:** `mcp`, `api`, `documentation`
+- **Why use it:** Official SkillHub Open API docs and examples for DeepSeek Harness integration.
 
 ---
 

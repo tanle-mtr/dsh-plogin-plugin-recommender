@@ -13,8 +13,8 @@
 - **⭐ Stars:** 3
 - **Language:** JavaScript
 - **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `subscription`
-- **Why use it:** Bind ChatGPT account via OAuth, chat models inside DSH.
+- **Tags:** `ai-agents`, `awesome-dsh-plugin`, `chatgpt`, `codex`, `oauth`
+- **Why use it:** ChatGPT OAuth binding lets you chat with ChatGPT models inside DSH
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 2
 - **Language:** TypeScript
 - **Description:** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
-- **Tags:** `dingtalk`, `im`, `chat-bot`
-- **Why use it:** DingTalk IM channel with streaming agent mode and read receipts.
+- **Tags:** `ai-agent`, `awesome-dsh-plugin`, `dingtalk`, `chat-bot`
+- **Why use it:** DingTalk IM channel streaming bot with emotion read-receipts and silent mode
 
 ---
 
