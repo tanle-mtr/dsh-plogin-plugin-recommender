@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 5 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,23 @@
 
 ## Plugins
 
-### [liustack/modlens](https://github.com/liustack/modlens)
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
 
-- **⭐ Stars:** 3,879
-- **Language:** TypeScript
-- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力��粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `ocr`, `multimodal`, `dsh-plugin`
-- **Why use it:** Adds vision capabilities to text-only coding agents.
-
----
-
-### [liustack/modsearch](https://github.com/liustack/modsearch)
-
-- **⭐ Stars:** 386
-- **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `free`, `bridge`
-- **Why use it:** Free no-signup web search bridge for models without native web access.
+- **⭐ Stars:** 117
+- **Language:** JavaScript
+- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
+- **Tags:** `mcp`, `skills`, `web-ui`, `management`
+- **Why use it:** Centralized skill and MCP panel for DSH Web UI
 
 ---
 
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ Stars:** 184
-- **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `finance`, `mcp`, `tushare`, `database`
-- **Why use it:** Local financial DB via Tushare with auto MCP/HTTP interface generation.
+- **⭐ Stars:** 62
+- **Language:** TypeScript
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `api`, `documentation`, `china`, `mcp`
+- **Why use it:** Search 65K+ APIs across 20 Chinese open platforms, zero config
 
 ---
 
@@ -43,18 +33,18 @@
 - **⭐ Stars:** 44
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huawei`
+- **Tags:** `mcp`, `cloud`, `huawei`, `infrastructure`
 - **Why use it:** Official Huawei Cloud MCP tools and cloud sandbox for agents
 
 ---
 
-### [Tencent/skillhub](https://github.com/Tencent/skillhub)
+### [zoahdev/dsh-plugin-search](https://github.com/zoahdev/dsh-plugin-search)
 
-- **⭐ Stars:** 18
+- **⭐ Stars:** 2
 - **Language:** TypeScript
-- **Description:** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
-- **Tags:** `skillhub`, `mcp`, `api`, `documentation`
-- **Why use it:** Official SkillHub Open API docs, examples, and DSH plugin integration.
+- **Description:** Plugin discoverability for DeepSeek Harness: search npm + awesome-dsh-plugin, look up packages, browse the curated list — from inside dsh agents (answers discussion #1715).
+- **Tags:** `agent`, `search`, `dsh-plugin`
+- **Why use it:** Search npm + awesome-dsh-plugin from inside DSH
 
 ---
 
