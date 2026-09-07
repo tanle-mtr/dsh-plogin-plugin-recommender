@@ -10,31 +10,31 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 35,782
+- **⭐ 星标：** 35,788
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `dsh-plugin`, `rag`
-- **推荐理由：** 自演进上下文数据库，统一记忆与知识检索。
+- **标签：** `agent-memory`, `agentic-rag`, `dsh-plugin`
+- **推荐理由：** 自进化上下文数据库，统一记忆与知识检索
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 21,545
+- **⭐ 星标：** 21,554
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `dsh-plugin`, `knowledge-base`
-- **推荐理由：** 将原始文档转化为RAG知识库与自维护Wiki。
+- **标签：** `rag`, `knowledge-base`, `dsh-plugin`
+- **推荐理由：** 将文档转化为RAG、推理智能体和自维护维基
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,744
+- **⭐ 星标：** 12,745
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `memory`, `portable`, `agent`
-- **推荐理由：** 所有AI代理的便携记忆层
+- **标签：** `agent-memory`, `rag`, `long-term-memory`
+- **推荐理由：** 本地优先的自进化记忆层，Markdown原生可移植。
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 11,208
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `self-evolving`, `token-savings`
-- **推荐理由：** 自进化记忆��统，节省token成本
+- **标签：** `memory`, `rag`, `token-savings`
+- **推荐理由：** 自进化记忆系统，混合检索省35% Token。
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ 星标：** 7,041
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `memory`, `stateful`, `library`
-- **推荐理由：** 有状态Agent记忆库
+- **标签：** `agent-memory`, `agentic-rag`, `memory`
+- **推荐理由：** 轻量级Agent记忆库，支持持续学习状态管理。
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ 星标：** 3,419
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `agent`
-- **推荐理由：** 完整的智能体记忆管理套件，支持记忆精炼
+- **标签：** `memory`, `rag`, `knowledge`
+- **推荐理由：** 专注记忆管理的Agent知识库，支持记忆检索与精炼
 
 ---
 
@@ -73,8 +73,18 @@
 - **⭐ 星标：** 2,569
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `milvus`, `rag`
-- **推荐理由：** 基于Milvus的持久化统一记忆层，支持多代理共享
+- **标签：** `memory`, `rag`, `milvus`, `semantic-search`
+- **推荐理由：** 持久统一记忆层，基于Markdown和Milvus向量数据库
+
+---
+
+### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
+
+- **⭐ 星标：** 1,313
+- **语言：** TypeScript
+- **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
+- **标签：** `cordis-plugin`, `context`, `dsh-plugin`
+- **推荐理由：** 上下文仪表盘与管理工具，支持统计与浏览器集成
 
 ---
 
@@ -83,18 +93,8 @@
 - **⭐ 星标：** 49
 - **语言：** JavaScript
 - **描述：** Proactive associative memory for DSH: zero-prompt recall injected before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **标签：** `memory`, `auto-consolidation`, `context`
-- **推荐理由：** 三层自动记忆整合，零提示词预注入回忆
-
----
-
-### [lizhiyao/oh-my-knowledge](https://github.com/lizhiyao/oh-my-knowledge)
-
-- **⭐ 星标：** 20
-- **语言：** TypeScript
-- **描述：** OMK — Evidence-backed evaluation and observability for prompts, RAG, skills, agents, and workflows. Native Codex, Claude Code, and DeepSeek Harness support.
-- **标签：** `evaluation`, `rag`, `benchmark`
-- **推荐理由：** 基于证据的评估框架，适用于提示词、RAG和技能测试
+- **标签：** `memory`, `context`, `rag`, `knowledge`
+- **推荐理由：** 主动关联记忆系统，零提示词记忆注入，三层自动巩固
 
 ---
 
