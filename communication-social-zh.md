@@ -13,8 +13,8 @@
 - **⭐ 星标：** 159
 - **语言：** TypeScript
 - **描述：** 开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片
-- **标签：** `notes`, `docker`, `smartisan`
-- **推荐理由：** 开源锤子便签复刻，支持Docker私有化部署和技能调用。
+- **标签：** `notes`, `smartisan`, `docker`
+- **推荐理由：** 开源锤子便签，支持微信/飞书等IM集成。
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 3
 - **语言：** JavaScript
 - **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `ai-agents`, `chatgpt`, `deepseek-harness`, `oauth`
-- **推荐理由：** OAuth绑定ChatGPT账号，在DSH内直接对话模型。
+- **标签：** `chatgpt`, `oauth`, `subscription`
+- **推荐理由：** OAuth绑定ChatGPT账号，DSH内畅聊
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ 星标：** 2
 - **语言：** TypeScript
 - **描述：** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
-- **标签：** `ai-agent`, `chat-bot`, `deepseek-harness`, `dingtalk`
-- **推荐理由：** 钉钉IM渠道，流式Bot让DSH融入日常通讯。
+- **标签：** `dingtalk`, `bot`, `stream-mode`
+- **推荐理由：** 钉钉IM机器人，流式Agent聊天
 
 ---
 
