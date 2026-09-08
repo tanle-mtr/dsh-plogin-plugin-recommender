@@ -1,6 +1,6 @@
 # Coding Agents & Harness Tools
 
-> 17 plugins in this category
+> 18 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,141 +10,151 @@
 
 ### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
-- **⭐ Stars:** 215,766
+- **⭐ Stars:** 216,002
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness: Everything is a Plugin.
-- **Tags:** `ai-agents`, `dsh`, `dsh-plugin`
-- **Why use it:** Core DSH framework and plugin ecosystem foundation
+- **Tags:** `ai-agents`, `cordis`, `dsh`, `dsh-plugin`
+- **Why use it:** Core framework: everything is a plugin. Essential DSH foundation.
 
 ---
 
-### [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)
+### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ Stars:** 46,829
-- **Language:** Python
-- **Description:** Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
-- **Tags:** `ai-agents`, `mcp`, `dsh-plugin`
-- **Why use it:** Super AI assistant with memory and multi-channel support
+- **⭐ Stars:** 54,272
+- **Language:** JavaScript
+- **Description:** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+- **Tags:** `agent-skills`, `architecture-diagram`, `code-visualization`, `diagrams-as-code`
+- **Why use it:** Beautiful self-contained architecture and sequence diagrams from code.
 
 ---
 
 ### [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
-- **⭐ Stars:** 35,455
+- **⭐ Stars:** 35,457
 - **Language:** Go
 - **Description:** DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- **Tags:** `coding-agent`, `deepseek`, `dsh-plugin`
-- **Why use it:** Terminal coding agent with prefix-cache stability
-
----
-
-### [YaoApp/yao](https://github.com/YaoApp/yao)
-
-- **⭐ Stars:** 7,907
-- **Language:** Go
-- **Description:** ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
-- **Tags:** `agent-orchestration`, `mcp`, `coding-agent`
-- **Why use it:** Unified multi-device agent workspace with task boards and API access.
+- **Tags:** `coding-agent`, `deepseek`, `cli`, `tool-use`, `prompt-caching`
+- **Why use it:** Native DeepSeek terminal coding agent with prefix-cache stability.
 
 ---
 
 ### [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
 
-- **⭐ Stars:** 7,133
+- **⭐ Stars:** 7,135
 - **Language:** JavaScript
 - **Description:** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
-- **Tags:** `dsh-plugin`, `agent-orchestration`
-- **Why use it:** Task-aware reasoning-mode router with injector kit for DSH agents.
+- **Tags:** `routing`, `infrastructure`, `runtime`
+- **Why use it:** Task-aware routing injector for optimized reasoning mode switching
 
 ---
 
-### [Q00/ouroboros](https://github.com/Q00/ouroboros)
+### [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
 
-- **⭐ Stars:** 5,799
+- **⭐ Stars:** 5,733
 - **Language:** Python
-- **Description:** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
-- **Tags:** `agent-os`, `mcp`, `skills`, `coding-agent`
-- **Why use it:** Self-improving Agent OS with evaluation loops and MCP server support.
+- **Description:** Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+- **Tags:** `control-plane`, `workflow`, `long-horizon`
+- **Why use it:** Long-horizon control plane for durable multi-agent workflow orchestration
 
 ---
 
 ### [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork)
 
-- **⭐ Stars:** 5,497
+- **⭐ Stars:** 5,509
 - **Language:** TypeScript
 - **Description:** Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.
-- **Tags:** `agent-collaboration`, `multi-agent`, `dsh-plugin`
-- **Why use it:** Enterprise multi-engine agent workbench with visual editor and team support.
+- **Tags:** `enterprise`, `workspace`, `multi-agent`
+- **Why use it:** Enterprise multi-engine agent workbench with visual editor and team support
 
 ---
 
 ### [liustack/modlens](https://github.com/liustack/modlens)
 
-- **⭐ Stars:** 3,915
+- **⭐ Stars:** 3,916
 - **Language:** TypeScript
 - **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `ocr`, `image-to-text`
-- **Why use it:** Adds vision to text-only agents via image-to-JSON OCR
+- **Tags:** `vision`, `ocr`, `image-to-text`, `deepseek-harness`
+- **Why use it:** First vision plugin enabling image-to-JSON for text-only coding agents
 
 ---
 
 ### [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)
 
-- **⭐ Stars:** 3,823
+- **⭐ Stars:** 3,819
 - **Language:** JavaScript
 - **Description:** Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
-- **Tags:** `preset`, `bootstrap`, `standard-tools`
-- **Why use it:** Two-phase preset for clean DSH agent bootstrap
+- **Tags:** `preset`, `standard-tools`, `deepseek-harness`
+- **Why use it:** Two-phase preset combining minimal bootstrap with full Standard tools
+
+---
+
+### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
+
+- **⭐ Stars:** 3,613
+- **Language:** TypeScript
+- **Description:** The World's First Virtual Terminal for AI Agents
+- **Tags:** `virtual-terminal`, `vfs`, `agent-sandbox`
+- **Why use it:** Virtual terminal with VFS for powerful isolated agent environments
+
+---
+
+### [edison7009/EchoBird](https://github.com/edison7009/EchoBird)
+
+- **⭐ Stars:** 3,182
+- **Language:** Rust
+- **Description:** One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), DeepSeek Harness, Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,Claude Desktop (3P profile),ChatGPT desktop,OpenCode Desktop,
+- **Tags:** `model-switch`, `coding-agents`, `multi-agent`
+- **Why use it:** One-click switch between 10+ coding agents and harnesses including DSH
+
+---
+
+### [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun)
+
+- **⭐ Stars:** 2,103
+- **Language:** Rust
+- **Description:** OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
+- **Tags:** `agent-runtime`, `desktop`, `computer-use`
+- **Why use it:** Rust-based agent runtime paired with polished desktop app and computer use
 
 ---
 
 ### [hyhmrright/brooks-lint](https://github.com/hyhmrright/brooks-lint)
 
-- **⭐ Stars:** 1,456
+- **⭐ Stars:** 1,457
 - **Language:** JavaScript
 - **Description:** AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix
-- **Tags:** `code-review`, `code-quality`
-- **Why use it:** AI code review grounded in 12 classic engineering books with decay diagnostics.
+- **Tags:** `code-review`, `code-quality`, `dsh-plugin`
+- **Why use it:** AI code reviews grounded in 12 classic engineering books with decay risk diagnostics and severity labels.
 
 ---
 
 ### [Unclecheng-li/DeepSec](https://github.com/Unclecheng-li/DeepSec)
 
-- **⭐ Stars:** 401
+- **⭐ Stars:** 402
 - **Language:** Python
 - **Description:** DeepSec — AI Security Offense & Defense Platform. Shield audits AI-generated code for hallucinated packages, missing safeguards & AI pattern errors in real time. Spear automates authorized penetration testing with 40+ skill packs, from recon to PoC. 
-- **Tags:** `security`, `redteam`, `code-audit`
-- **Why use it:** Security offense/defense platform auditing AI-generated code for hallucinated packages and vulnerabilities.
+- **Tags:** `security`, `code-audit`, `cybersecurity`
+- **Why use it:** Audits AI-generated code for hallucinated packages and security vulnerabilities
 
 ---
 
 ### [pulseaiclub/phi](https://github.com/pulseaiclub/phi)
 
-- **⭐ Stars:** 315
+- **⭐ Stars:** 318
 - **Language:** Go
 - **Description:** a coding Agent, rpc plugin, sub-agents, hashline edits, and mcp
-- **Tags:** `coding-agent`, `mcp`, `deepseek-harness`, `go`
-- **Why use it:** Full coding agent with sub-agents, hashline edits, and MCP support
+- **Tags:** `coding-agent`, `mcp`, `sub-agent`
+- **Why use it:** Full coding agent with sub-agents, RPC, hashline edits, and MCP support.
 
 ---
 
-### [christopherarter/superpowers-reasonix](https://github.com/christopherarter/superpowers-reasonix)
+### [win4r/deepseek-harness-plugin-creator](https://github.com/win4r/deepseek-harness-plugin-creator)
 
-- **⭐ Stars:** 96
+- **⭐ Stars:** 34
 - **Language:** JavaScript
-- **Description:** Superpowers skill port to Reasonix coding harness.
-- **Tags:** `coding`, `superpowers`, `skills`
-- **Why use it:** Ports Superpowers skills to Reasonix coding harness
-
----
-
-### [Lyn-77/ProMentor](https://github.com/Lyn-77/ProMentor)
-
-- **⭐ Stars:** 71
-- **Language:** TypeScript
-- **Description:** ProMentor 是一个 AI Coding Agent Skill。装上它，你的 AI 编程助手立刻化身为导师——扫描项目架构、生成阶梯式 Chapter、带你手写核心逻辑、自动判题、AI Code Review。
-- **Tags:** `coding`, `mentor`, `review`
-- **Why use it:** AI coding mentor: project analysis, chapters, code review
+- **Description:** Reusable Codex skill for building and validating DeepSeek Harness and Cordis plugins
+- **Tags:** `plugin-creator`, `codex`, `scaffold`
+- **Why use it:** Reusable Codex skill to scaffold and validate DSH plugins
 
 ---
 
@@ -153,8 +163,8 @@
 - **⭐ Stars:** 28
 - **Language:** TypeScript
 - **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **Tags:** `mcp`, `config-sync`
-- **Why use it:** One-click MCP/Skills config for multiple AI agents
+- **Tags:** `mcp`, `config-sync`, `multi-agent`
+- **Why use it:** One-click MCP/Skills/Configs sync across 7+ AI agent platforms
 
 ---
 
@@ -163,18 +173,18 @@
 - **⭐ Stars:** 25
 - **Language:** JavaScript
 - **Description:** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
-- **Tags:** `codex`, `sync`
-- **Why use it:** Bidirectional sync bridge between Codex and DSH
+- **Tags:** `codex`, `sync`, `mcp`, `bridge`
+- **Why use it:** Bidirectional bridge syncing chat, skills and MCP between Codex and DSH
 
 ---
 
-### [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck)
+### [faerryn/plogins.nvim](https://github.com/faerryn/plogins.nvim)
 
-- **⭐ Stars:** 23
-- **Language:** TypeScript
-- **Description:** Double-check before you ship: grill the requirements, test the implementation, prove the delivery. An engineering-discipline bundle for DeepSeek Harness.
-- **Tags:** `deepseek-harness`, `dsh-plugin`, `quality-gate`
-- **Why use it:** Quality gate plugin for rigorous requirements check before shipping code.
+- **⭐ Stars:** 11
+- **Language:** Lua
+- **Description:** A fast, simple, and elegant Neovim plugin manager written in Lua!
+- **Tags:** `neovim`, `lua`, `plugin-manager`
+- **Why use it:** Fast and elegant Neovim plugin manager in Lua — streamlines editor setup.
 
 ---
 
