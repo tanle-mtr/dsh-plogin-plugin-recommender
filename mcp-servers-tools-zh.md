@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 5 个插件
+> 本分类共 4 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,33 +8,23 @@
 
 ## 插件列表
 
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
-
-- **⭐ 星标：** 84
-- **语言：** JavaScript
-- **描述：** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
-- **标签：** `deepseek-harness`, `dsh-plugin`
-- **推荐理由：** 统一管理MCP工具和技能暴露级别
-
----
-
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ 星标：** 45
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
 - **标签：** `cloud`, `mcp`, `huaweicloud`
-- **推荐理由：** 华为云官方MCP工具集，含沙箱部署与安全护栏
+- **推荐理由：** 华为云官方MCP工具集，含沙箱与安全防护。
 
 ---
 
-### [Tencent/skillhub](https://github.com/Tencent/skillhub)
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
 
-- **⭐ 星标：** 23
+- **⭐ 星标：** 29
 - **语言：** TypeScript
-- **描述：** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
-- **标签：** `skillhub`, `api`, `plugin`
-- **推荐理由：** 腾讯官方SkillHub API插件，便于技能集成与管理。
+- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **标签：** `mcp`, `config-sync`, `multi-agent`, `local-first`
+- **推荐理由：** 一键配置多款 AI Agent 的 MCP、Skills 与规则。
 
 ---
 
@@ -43,18 +33,18 @@
 - **⭐ 星标：** 22
 - **语言：** TypeScript
 - **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **标签：** `mcp`, `skills`, `web-gui`
-- **推荐理由：** 浏览器内管理技能与MCP服务器，与DSH Web GUI无缝集成。
+- **标签：** `mcp`, `skill-manager`, `web-gui`
+- **推荐理由：** 在 DSH Web GUI 中直接管理技能与 MCP 服务器。
 
 ---
 
-### [zoahdev/dsh-plugin-search](https://github.com/zoahdev/dsh-plugin-search)
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
 
-- **⭐ 星标：** 2
-- **语言：** TypeScript
-- **描述：** Plugin discoverability for DeepSeek Harness: search npm + awesome-dsh-plugin, look up packages, browse the curated list — from inside dsh agents (answers discussion #1715).
-- **标签：** `discoverability`, `agent`, `deepseek-harness`
-- **推荐理由：** Agent内插件搜索，覆盖npm与awesome列表
+- **⭐ 星标：** 3
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `ai-agents`, `awesome-dsh-plugin`, `chatgpt`, `codex`, `deepseek-harness`, `dsh`, `dsh-plugin`, `dsh-plugins`, `javascript`, `oauth`, `plugin`, `subscription`
+- **推荐理由：** OAuth绑定ChatGPT，在DSH内使用其模型。
 
 ---
 
