@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 3 个插件
+> 本分类共 2 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,23 +8,13 @@
 
 ## 插件列表
 
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ 星标：** 84
-- **语言：** JavaScript
-- **描述：** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
-- **标签：** `mcp`, `menu`, `config`
-- **推荐理由：** 统一菜单管理MCP工具暴露级别
-
----
-
-### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
-
-- **⭐ 星标：** 45
-- **语言：** JavaScript
-- **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huawei`, `sandbox`
-- **推荐理由：** 华为云官方MCP，云沙箱+安全护栏，一站式部署
+- **⭐ 星标：** 63
+- **语言：** TypeScript
+- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **标签：** `api-docs`, `tools`, `chinese-platforms`
+- **推荐理由：** 在DSH中搜索20个中国平台6.5万篇API文档
 
 ---
 
@@ -33,8 +23,8 @@
 - **⭐ 星标：** 22
 - **语言：** TypeScript
 - **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **标签：** `deepseek-harness`, `mcp`, `ui`, `plugin-manager`
-- **推荐理由：** 在DSH Web UI中管理技能与MCP服务器的可视化插件。
+- **标签：** `mcp`, `skills`, `web-gui`, `dsh-plugin`
+- **推荐理由：** 浏览器内管理技能与MCP服务器的Web GUI插件。
 
 ---
 

@@ -10,21 +10,31 @@
 
 ### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
 
-- **⭐ 星标：** 20,007
+- **⭐ 星标：** 20,012
 - **语言：** TypeScript
 - **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **标签：** `browser-extension`, `chat-management`, `prompt-manager`
-- **推荐理由：** 跨平台AI聊天增强套件，含提示词管理器
+- **标签：** `browser-extension`, `chatgpt`, `claude`
+- **推荐理由：** AI聊天浏览器增强套件
+
+---
+
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+
+- **⭐ 星标：** 3,241
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `content-discovery`, `browser-automation`
+- **推荐理由：** 跨平台AI内容发现代理，支持B站/YouTube/小红书等
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 1,876
+- **⭐ 星标：** 1,889
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-automation`, `agent`, `tencent`
-- **推荐理由：** 让AI代理自动化操作你的已登录浏览器
+- **标签：** `agent`, `browser-use`, `dsh-plugin`
+- **推荐理由：** 让AI代理使用真实登录浏览器执行自动化任务
 
 ---
 
@@ -33,18 +43,8 @@
 - **⭐ 星标：** 100
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser`, `automation`, `playwright`
-- **推荐理由：** 基于Playwright的浏览器自动化
-
----
-
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
-
-- **⭐ 星标：** 3
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `web`
-- **推荐理由：** OAuth接入ChatGPT，在DSH内直接使用ChatGPT模型
+- **标签：** `browser`, `playwright`, `automation`
+- **推荐理由：** 基于Playwright的DSH浏览器自动化工具
 
 ---
 
