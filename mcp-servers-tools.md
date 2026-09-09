@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions)
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
 
-- **⭐ Stars:** 330
-- **Language:** TypeScript
-- **Description:** Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys
-- **Tags:** `oauth`, `subscription`, `multi-provider`
-- **Why use it:** Uses ChatGPT Claude and Grok subscriptions as DSH LLM providers.
+- **⭐ Stars:** 84
+- **Language:** JavaScript
+- **Description:** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
+- **Tags:** `mcp`, `menu`, `config`
+- **Why use it:** Unified menu to manage MCP tool exposure and execution
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 45
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `cloud`, `mcp`, `huaweicloud`
-- **Why use it:** Official Huawei Cloud MCP tools, skills and sandbox for AI agent cloud ops.
+- **Tags:** `mcp`, `cloud`, `huawei`, `sandbox`
+- **Why use it:** Official Huawei Cloud MCP tools with sandbox and guardrails
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 22
 - **Language:** TypeScript
 - **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **Tags:** `deepseek-harness`, `mcp`, `skills-manager`
-- **Why use it:** Web UI plugin to manage skills and MCP servers from browser settings
+- **Tags:** `deepseek-harness`, `mcp`, `ui`, `plugin-manager`
+- **Why use it:** Web GUI manager for skills and MCP servers in DSH settings.
 
 ---
 
