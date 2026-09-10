@@ -8,13 +8,23 @@
 
 ## 插件列表
 
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ 星标：** 458
+- **语言：** TypeScript
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `web-search`, `free`, `mcp`, `agent-skills`
+- **推荐理由：** 免费网页搜索插件，无需API密钥即可使用。
+
+---
+
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
-- **⭐ 星标：** 46
+- **⭐ 星标：** 47
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `cloud`, `mcp`, `huaweicloud`
-- **推荐理由：** 华为云官方工具包，含MCP工具、技能和安全沙箱，助力AI部署上云。
+- **标签：** `huawei-cloud`, `mcp`, `cloud`, `terraform`
+- **推荐理由：** 华为云官方插件，提供MCP工具、安全护栏和云端沙箱能力。
 
 ---
 
@@ -23,18 +33,8 @@
 - **⭐ 星标：** 22
 - **语言：** TypeScript
 - **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **标签：** `deepseek-harness`, `dsh-plugin`
-- **推荐理由：** Web GUI技能与MCP服务器管理插件
-
----
-
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
-
-- **⭐ 星标：** 3
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `ai-agents`, `chatgpt`, `codex`, `oauth`, `subscription`
-- **推荐理由：** OAuth集成，在DSH内使用ChatGPT订阅账号对话
+- **标签：** `deepseek-harness`, `dsh`, `dsh-plugin`
+- **推荐理由：** 在浏览器中管理技能与MCP服务器的正式GUI插件。
 
 ---
 
