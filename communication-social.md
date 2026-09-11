@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+### [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts)
 
-- **⭐ Stars:** 3
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `ai-agents`, `chatgpt`, `oauth`
-- **Why use it:** Connect ChatGPT accounts via OAuth to use their models inside DSH.
+- **⭐ Stars:** 7
+- **Language:** TypeScript
+- **Description:** 给DSH接入免费的 Xiaomi MiMo TTS API，支持使用预置/自定义/浏览器内置声音朗读正文
+- **Tags:** `tts`, `xiaomi-mimo`, `voice`
+- **Why use it:** Free Xiaomi MiMo TTS integration with custom and browser voices.
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 2
 - **Language:** TypeScript
 - **Description:** DingTalk IM channel for DeepSeek Harness: Stream-mode bot that turns each chat into a tool-capable agent — emotion read-receipts, silent process, durable sessions
-- **Tags:** `dingtalk`, `chat-bot`, `ai-agent`
-- **Why use it:** DingTalk IM channel turns chats into tool-capable agent conversations.
+- **Tags:** `ai-agent`, `awesome-dsh-plugin`, `chat-bot`, `dingtalk`
+- **Why use it:** DingTalk IM channel with stream-mode agent support.
 
 ---
 
