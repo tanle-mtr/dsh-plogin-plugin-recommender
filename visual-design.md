@@ -10,31 +10,31 @@
 
 ### [nexu-io/open-design](https://github.com/nexu-io/open-design)
 
-- **⭐ Stars:** 95,590
+- **⭐ Stars:** 95,605
 - **Language:** TypeScript
 - **Description:** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
-- **Tags:** `agent-skills`, `ai-design`, `dsh-plugin`, `figma-alternative`
-- **Why use it:** Open-source Claude-style design agent with local-first desktop support
+- **Tags:** `design-systems`, `figma-alternative`, `local-first`
+- **Why use it:** Local-first AI design tool, Figma alternative for DSH
 
 ---
 
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ Stars:** 58,347
+- **⭐ Stars:** 58,464
 - **Language:** JavaScript
 - **Description:** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **Tags:** `agent-skills`, `diagrams-as-code`, `dsh-plugin`, `mermaid-alternative`
-- **Why use it:** Generate verifiable architecture, sequence, and data-flow diagrams as code
+- **Tags:** `architecture-diagram`, `diagrams-as-code`, `mermaid-alternative`
+- **Why use it:** Generate beautiful architecture and workflow diagrams as code
 
 ---
 
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ Stars:** 31,319
+- **⭐ Stars:** 31,331
 - **Language:** JavaScript
 - **Description:** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-- **Tags:** `ai-image-generation`, `dsh-plugin`, `skills`, `workflow-automation`
-- **Why use it:** 530+ prompt templates and skills library for GPT image generation
+- **Tags:** `image-prompts`, `prompt-engineering`, `skills`
+- **Why use it:** 530+ GPT Image prompt templates and case library for design workflows
 
 ---
 
@@ -43,48 +43,38 @@
 - **⭐ Stars:** 5,906
 - **Language:** Rust
 - **Description:** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **Tags:** `design`, `ui`, `vector`
-- **Why use it:** Open-source AI-native vector design tool.
-
----
-
-### [liustack/modlens](https://github.com/liustack/modlens)
-
-- **⭐ Stars:** 3,949
-- **Language:** TypeScript
-- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `ocr`, `image-to-text`
-- **Why use it:** First vision plugin for DSH, enables image analysis for text-only agents
+- **Tags:** `design`, `vector`, `agent-teams`
+- **Why use it:** First open-source AI-native vector design tool with Agent Teams
 
 ---
 
 ### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
 
-- **⭐ Stars:** 1,003
+- **⭐ Stars:** 1,007
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **Tags:** `design`, `visual`, `ppt`, `editor`
-- **Why use it:** Native design studio with AI generation, visual editing and PPT creation.
+- **Tags:** `design`, `ppt`, `dsh-plugin`
+- **Why use it:** AI-generated editable design system and PPT studio.
 
 ---
 
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
 
-- **⭐ Stars:** 35
-- **Language:** JavaScript
-- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **Tags:** `image-reading`, `ocr`, `vision`
-- **Why use it:** Enables image-to-text for text-only LLMs via OCR
+- **⭐ Stars:** 438
+- **Language:** TypeScript
+- **Description:** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
+- **Tags:** `genui`, `ui-components`, `charts`, `interactive`, `forms`
+- **Why use it:** GenUI for DSH: interactive UI components (layout, charts, plots, forms, quizzes) inline
 
 ---
 
-### [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx)
+### [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization)
 
-- **⭐ Stars:** 29
-- **Language:** JavaScript
-- **Description:** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- **Tags:** `ai-video`, `ai-image`, `storyboard`
-- **Why use it:** AI video/image/audio creation with DirectorX integration
+- **⭐ Stars:** 56
+- **Language:** Python
+- **Description:** 把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴。Claude Skill / DeepSeek Harness 通用。
+- **Tags:** `legal`, `visualization`, `svg`
+- **Why use it:** Legal litigation visualization toolkit — redraw messy case diagrams and create accurate timelines.
 
 ---
 
@@ -93,8 +83,18 @@
 - **⭐ Stars:** 22
 - **Language:** JavaScript
 - **Description:** Design aesthetics skill pack for DeepSeek Harness (DSH) - keeps vibe-coded websites away from the AI look. 6 styles: dark-saas, apple-minimal, neo-neumorphism, brutalism, glassmorphism, japanese-minimal.
-- **Tags:** `design`, `ui`, `vibe-coding`, `web-design`
-- **Why use it:** 6 design style presets to give AI-generated sites a polished look
+- **Tags:** `design`, `ui`, `vibe-coding`, `styles`
+- **Why use it:** 6 design styles to avoid the generic AI-generated look
+
+---
+
+### [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards)
+
+- **⭐ Stars:** 2
+- **Language:** JavaScript
+- **Description:** A plugin of Deepseek Harness(DSH),transform your recent chat history into beautifully designed knowledge cards, ready to download and share.
+- **Tags:** `knowledge-cards`, `ui`
+- **Why use it:** Transform chat history into beautiful downloadable knowledge cards
 
 ---
 
