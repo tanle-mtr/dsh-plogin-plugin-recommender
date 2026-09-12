@@ -8,23 +8,23 @@
 
 ## 插件列表
 
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
-
-- **⭐ 星标：** 64
-- **语言：** TypeScript
-- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **标签：** `api-docs`, `chinese-platforms`, `mcp`
-- **推荐理由：** 零配置搜索6万+中国开放平台API文档。
-
----
-
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ 星标：** 47
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `cloud`, `huawei`, `mcp`
-- **推荐理由：** 华为云官方插件，含MCP工具和云沙箱。
+- **标签：** `huawei-cloud`, `mcp`, `sdk`
+- **推荐理由：** 华为云官方SDK，集成MCP工具和云沙箱，助力AI构建部署。
+
+---
+
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+
+- **⭐ 星标：** 29
+- **语言：** TypeScript
+- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **标签：** `mcp`, `config`
+- **推荐理由：** 一键配置多Agent工具MCP服务
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ 星标：** 25
 - **语言：** JavaScript
 - **描述：** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
-- **标签：** `codex`, `deepseek-harness`, `mcp`
-- **推荐理由：** OpenAI Codex与DSH双向同步桥梁，支持MCP自动镜像。
+- **标签：** `codex`, `sync`, `mcp`
+- **推荐理由：** 双向同步Codex会话与MCP工具，无缝迁移工作流。
 
 ---
 

@@ -10,41 +10,41 @@
 
 ### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
 
-- **⭐ 星标：** 20,036
+- **⭐ 星标：** 20,039
 - **语言：** TypeScript
 - **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **标签：** `browser-extension`, `chat-management`, `prompt-manager`
-- **推荐理由：** 跨浏览器AI聊天增强扩展套件
+- **标签：** `browser-extension`, `chat-management`, `dsh-plugin`
+- **推荐理由：** 面向Gemini/Claude/ChatGPT的浏览器增强套件。
 
 ---
 
-### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ 星标：** 7,417
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
-- **标签：** `dsh-web`, `dsh-plugin`, `cordis`, `web-ui`
-- **推荐理由：** 基于Web的插件聚合生态系统，创意工坊分发。
-
----
-
-### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
-
-- **⭐ 星标：** 3,623
-- **语言：** TypeScript
-- **描述：** The World's First Virtual Terminal for AI Agents
-- **标签：** `virtual-terminal`, `vfs`, `dsh-plugin`, `agent-tools`
-- **推荐理由：** 首个虚拟终端+虚拟文件系统，为AI Agent提供安全隔离环境
+- **⭐ 星标：** 3,284
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `content-discovery`, `web-automation`
+- **推荐理由：** 跨平台内容发现Agent，支持B站/抖音/小红书等。
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 1,942
+- **⭐ 星标：** 1,946
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `agent`, `dsh-plugin`
-- **推荐理由：** AI代理通过CLI+扩展使用真实登录浏览器。
+- **标签：** `agent`, `browser-use`, `dsh-plugin`
+- **推荐理由：** CLI+扩展让AI无缝使用真实登录浏览器进行自动化。
+
+---
+
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ 星标：** 466
+- **语言：** TypeScript
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免���册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `web-search`, `web-fetch`, `free`, `agentic-workflow`
+- **推荐理由：** 免费免注册网页搜索插件，为缺乏原生搜索能力的模型提供搜索桥接
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ 星标：** 288
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **标签：** `ios`, `mobile-automation`, `simulator`
-- **推荐理由：** 22项工具实现iOS模拟器及真机自动化，内置对话中操作
+- **标签：** `ios`, `automation`, `mobile`, `webdriveragent`
+- **推荐理由：** 内置iOS模拟器与真机自动化，提供22个Agent工具。
 
 ---
 
@@ -64,7 +64,7 @@
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
 - **标签：** `browser`, `playwright`, `automation`
-- **推荐理由：** 基于Playwright的浏览器自动化集成插件
+- **推荐理由：** Tabbit浏览器集成，基于Playwright自动化
 
 ---
 

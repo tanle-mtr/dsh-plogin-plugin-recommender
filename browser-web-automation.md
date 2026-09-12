@@ -10,41 +10,41 @@
 
 ### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
 
-- **⭐ Stars:** 20,036
+- **⭐ Stars:** 20,039
 - **Language:** TypeScript
 - **Description:** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **Tags:** `browser-extension`, `chat-management`, `prompt-manager`
-- **Why use it:** Chrome/Firefox/Safari extension suite for AI chat enhancement
+- **Tags:** `browser-extension`, `chat-management`, `dsh-plugin`
+- **Why use it:** Enhancement suite for Gemini, Claude & ChatGPT with prompt manager.
 
 ---
 
-### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ Stars:** 7,417
-- **Language:** TypeScript
-- **Description:** DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
-- **Tags:** `dsh-web`, `dsh-plugin`, `cordis`, `web-ui`
-- **Why use it:** Web-based plugin aggregation ecosystem via Creative Workshop distribution.
-
----
-
-### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
-
-- **⭐ Stars:** 3,623
-- **Language:** TypeScript
-- **Description:** The World's First Virtual Terminal for AI Agents
-- **Tags:** `virtual-terminal`, `vfs`, `dsh-plugin`, `agent-tools`
-- **Why use it:** Virtual terminal with VFS enabling isolated agent environments for safe automation
+- **⭐ Stars:** 3,284
+- **Language:** Python
+- **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **Tags:** `content-discovery`, `web-automation`
+- **Why use it:** Cross-platform content discovery from Bilibili, YouTube, Xiaohongshu etc.
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 1,942
+- **⭐ Stars:** 1,946
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-use`, `agent`, `dsh-plugin`
-- **Why use it:** Lets AI agents use real logged-in browser via CLI+extension.
+- **Tags:** `agent`, `browser-use`, `dsh-plugin`
+- **Why use it:** CLI+extension lets AI use your real logged-in browser seamlessly.
+
+---
+
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ Stars:** 466
+- **Language:** TypeScript
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免���册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `web-search`, `web-fetch`, `free`, `agentic-workflow`
+- **Why use it:** Free, no-signup web search bridge for any model lacking native web access — strong free search plugin
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ Stars:** 288
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios`, `mobile-automation`, `simulator`
-- **Why use it:** 22 tools for live iOS Simulator and USB iPhone automation inside DSH
+- **Tags:** `ios`, `automation`, `mobile`, `webdriveragent`
+- **Why use it:** Live iOS Simulator + USB iPhone automation with 22 agent tools.
 
 ---
 
@@ -64,7 +64,7 @@
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
 - **Tags:** `browser`, `playwright`, `automation`
-- **Why use it:** Integrates Tabbit Browser automation with Playwright for DSH
+- **Why use it:** Tabbit Browser integration with Playwright for browser automation
 
 ---
 
