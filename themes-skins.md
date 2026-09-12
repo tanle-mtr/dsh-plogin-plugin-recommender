@@ -10,21 +10,21 @@
 
 ### [crafter-station/petdex](https://github.com/crafter-station/petdex)
 
-- **⭐ Stars:** 4,081
+- **⭐ Stars:** 4,083
 - **Language:** TypeScript
 - **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **Tags:** `mascot`, `pixel-art`, `cli`, `theme`
-- **Why use it:** Public gallery of animated CLI pets to personalize your agent terminal
+- **Tags:** `pet`, `mascot`, `ui`, `theme`
+- **Why use it:** Public animated pet gallery for multiple AI coding tools — delightful UX touch
 
 ---
 
 ### [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
 
-- **⭐ Stars:** 2,038
+- **⭐ Stars:** 2,045
 - **Language:** TypeScript
 - **Description:** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- **Tags:** `dsh`, `dsh-plugin`
-- **Why use it:** Whale girl themed visual skins for DeepSeek Harness
+- **Tags:** `dsh`, `dsh-plugin`, `skin`
+- **Why use it:** Cute whale girl skin series to personalize your DSH interface.
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 406
 - **Language:** JavaScript
 - **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `theme`, `glassmorphism`, `customizable`, `visual`
-- **Why use it:** Glassmorphism theme with fully customizable frosted-glass UI effects
+- **Tags:** `theme`, `glassmorphism`, `customization`
+- **Why use it:** Highly customizable frosted glass theme with adjustable blur, opacity, and wallpaper
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 373
 - **Language:** JavaScript
 - **Description:** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **Tags:** `theme`, `animated`, `ocean`, `webgpu`
-- **Why use it:** Animated ocean theme with real-time waves, sunset and glass effects
+- **Tags:** `theme`, `animated`, `ocean`
+- **Why use it:** Animated ocean theme with adjustable waves, sunset, and glassmorphism effects
 
 ---
 
@@ -52,9 +52,9 @@
 
 - **⭐ Stars:** 6
 - **Language:** JavaScript
-- **Description:** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
-- **Tags:** `theme`, `background`, `customization`
-- **Why use it:** Custom background images with presets (aurora, ember, rice paper) and fine-tuning.
+- **Description:** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮��菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
+- **Tags:** `theme`, `background`, `visual`, `customization`
+- **Why use it:** Customizable DSH web backgrounds with presets and real-time preview
 
 ---
 
