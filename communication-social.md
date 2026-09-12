@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts)
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
 
-- **⭐ Stars:** 7
-- **Language:** TypeScript
-- **Description:** 给DSH接入免费的 Xiaomi MiMo TTS API，支持使用预置/自定义/浏览器内置声音朗读正文
-- **Tags:** `tts`, `voice`, `xiaomi-mimo`
-- **Why use it:** Free Xiaomi MiMo TTS integration with preset, custom and browser voices.
+- **⭐ Stars:** 2
+- **Language:** JavaScript
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `subscription`
+- **Why use it:** OAuth binding to chat with ChatGPT models in DSH
 
 ---
 
