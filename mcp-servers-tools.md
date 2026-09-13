@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 5 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,13 @@
 
 ## Plugins
 
-### [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
+### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
 
-- **⭐ Stars:** 7,169
-- **Language:** JavaScript
-- **Description:** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
-- **Tags:** `routing`, `mcp`, `injector`
-- **Why use it:** Task-aware reasoning-mode router for intelligent routing
-
----
-
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
-
-- **⭐ Stars:** 124
-- **Language:** JavaScript
-- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **Tags:** `mcp`, `webui`, `management`
-- **Why use it:** Web UI panel for managing skills and MCP servers in one interface
+- **⭐ Stars:** 214
+- **Language:** TypeScript
+- **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+- **Tags:** `provider`, `model-access`, `dsh-plugin`
+- **Why use it:** Adds Command Code model access with live catalog and plan-aware selection to DSH
 
 ---
 
@@ -33,8 +23,8 @@
 - **⭐ Stars:** 47
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `huaweicloud`, `mcp`, `cloud`
-- **Why use it:** Official Huawei Cloud MCP tools with sandbox deployment
+- **Tags:** `mcp`, `cloud`, `huawei`, `sdk`
+- **Why use it:** Official Huawei Cloud MCP tools, skills and sandbox for AI agent cloud operations
 
 ---
 
@@ -43,18 +33,18 @@
 - **⭐ Stars:** 29
 - **Language:** TypeScript
 - **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **Tags:** `mcp`, `config-sync`, `claude-code`, `codex`
-- **Why use it:** One-click MCP and skills setup for Claude Code, Codex, Cursor, Qwen, etc.
+- **Tags:** `mcp`, `config-sync`, `multi-agent`, `dsh-skill`
+- **Why use it:** One-click MCP and Skills config sync across Claude Code, Codex, DSH, Cursor and other agents.
 
 ---
 
-### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
 
-- **⭐ Stars:** 25
+- **⭐ Stars:** 2
 - **Language:** JavaScript
-- **Description:** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
-- **Tags:** `mcp`, `codex`, `sync`
-- **Why use it:** Bidirectional bridge between Codex and DSH with live MCP mirroring
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `oauth`, `chatgpt`
+- **Why use it:** OAuth bind ChatGPT account to chat models inside DSH
 
 ---
 
