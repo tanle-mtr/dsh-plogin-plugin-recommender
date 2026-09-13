@@ -8,23 +8,13 @@
 
 ## 插件列表
 
-### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
-
-- **⭐ 星标：** 214
-- **语言：** TypeScript
-- **描述：** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
-- **标签：** `provider`, `model-access`, `dsh-plugin`
-- **推荐理由：** Command Code模型接入，支持动态目录和计划感知选择
-
----
-
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ 星标：** 47
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huawei`, `sdk`
-- **推荐理由：** 华为云官方MCP工具与技能，支持AI代理云端部署
+- **标签：** `huaweicloud`, `mcp`, `cloud-sdk`
+- **推荐理由：** 华为云官方AI Agent开发套件，含MCP工具、技能与云沙箱。
 
 ---
 
@@ -33,18 +23,28 @@
 - **⭐ 星标：** 29
 - **语言：** TypeScript
 - **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp`, `config-sync`, `multi-agent`, `dsh-skill`
-- **推荐理由：** 一键同步MCP和Skills配置到多个AI Agent平台。
+- **标签：** `mcp`, `config`, `multi-agent`, `claude-code`
+- **推荐理由：** 一键配置多Agent的MCP和Skills，支持Claude/Codex/Cursor等
 
 ---
 
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
 
-- **⭐ 星标：** 2
+- **⭐ 星标：** 25
 - **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `oauth`, `chatgpt`
-- **推荐理由：** OAuth绑定ChatGPT账号，在DSH内对话模型
+- **描述：** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
+- **标签：** `codex`, `sync`, `mcp`, `bridge`
+- **推荐理由：** OpenAI Codex与DSH双向同步桥接，支持MCP镜像。
+
+---
+
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+
+- **⭐ 星标：** 22
+- **语言：** TypeScript
+- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
+- **标签：** `mcp`, `manager`, `settings`
+- **推荐理由：** 通过Web UI插件卡片管���技能和MCP服务器。
 
 ---
 
