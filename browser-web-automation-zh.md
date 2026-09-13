@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 3 个插件
+> 本分类共 4 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,11 +10,21 @@
 
 ### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
 
-- **⭐ 星标：** 20,050
+- **⭐ 星标：** 20,051
 - **语言：** TypeScript
-- **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于��意网站，如 DeepSeek Harness。
-- **标签：** `browser-extension`, `chat-management`, `prompt-manager`
-- **推荐理由：** 多AI浏览器增强扩展与提示���管理器
+- **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+- **标签：** `browser-extension`, `chat-management`, `chrome-extension`
+- **推荐理由：** 跨浏览器AI助手增强套件与提示词管理器
+
+---
+
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+
+- **⭐ 星标：** 3,292
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `content-discovery`, `automation`, `cross-platform`
+- **推荐理由：** 跨平台AI内容发现代理，支持B站、YouTube、Reddit等
 
 ---
 
@@ -23,8 +33,8 @@
 - **⭐ 星标：** 1,969
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `agent`, `automation`
-- **推荐理由：** 让AI代理直接使用已登录的真实浏览器，不干扰工作。
+- **标签：** `browser`, `automation`, `tencent`
+- **推荐理由：** 让AI代理直接使用已登录的真实浏览器，无缝自动化
 
 ---
 
@@ -33,7 +43,7 @@
 - **⭐ 星标：** 101
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser`, `playwright`, `automation`
+- **标签：** `browser-automation`, `playwright`
 - **推荐理由：** 基于Playwright的浏览器自动化插件
 
 ---
