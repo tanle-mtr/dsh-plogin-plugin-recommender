@@ -10,31 +10,31 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 37,138
+- **⭐ Stars:** 37,190
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `agentic-rag`, `context-database`, `self-evolving`
-- **Why use it:** Self-evolving context database unifying memory and RAG
+- **Tags:** `agent-memory`, `rag`, `knowledge-base`
+- **Why use it:** Self-evolving context database for AI agents.
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 23,043
+- **⭐ Stars:** 23,147
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `vector-search`, `embeddings`, `knowledge-base`
-- **Why use it:** Open-source RAG platform with semantic search and reasoning
+- **Tags:** `rag`, `vector-search`, `knowledge-base`
+- **Why use it:** LLM knowledge platform with RAG and semantic search.
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ Stars:** 12,943
+- **⭐ Stars:** 12,952
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `agent-memory`, `rag`, `mcp`
-- **Why use it:** Portable local-first memory layer enabling cross-agent long-term recall.
+- **Tags:** `memory`, `rag`, `local-first`, `agent-memory`
+- **Why use it:** Portable local-first memory layer for AI agents, user-owned Markdown-native storage
 
 ---
 
@@ -43,28 +43,28 @@
 - **⭐ Stars:** 11,314
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory`, `rag`, `skills`
-- **Why use it:** Self-evolving memory OS with hybrid retrieval and 35% token savings.
+- **Tags:** `memory`, `self-evolving`, `token-optimization`, `rag`
+- **Why use it:** Self-evolving memory with hybrid retrieval, 35% token savings for LLM agents
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ Stars:** 7,156
+- **⭐ Stars:** 7,158
 - **Language:** Python
 - **Description:**  Memory library for building stateful agents
-- **Tags:** `agent-memory`, `rag`, `context-engineering`
-- **Why use it:** Stateful agent memory library for continual learning and context engineering.
+- **Tags:** `memory`, `library`, `stateful-agent`, `lite`
+- **Why use it:** Lightweight memory library for building persistent stateful agents
 
 ---
 
 ### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ Stars:** 3,452
+- **⭐ Stars:** 3,454
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **Tags:** `memory`, `rag`, `agent`, `dsh-plugin`
-- **Why use it:** Dedicated memory management kit allowing agents to remember and refine past interactions.
+- **Tags:** `memory`, `rag`, `agent-memory`, `memoryscope`
+- **Why use it:** Memory management kit for agents with remember and refine capabilities.
 
 ---
 
@@ -73,28 +73,28 @@
 - **⭐ Stars:** 2,599
 - **Language:** Python
 - **Description:** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **Tags:** `memory`, `rag`, `milvus`, `embeddings`, `dsh-plugin`
-- **Why use it:** Persistent unified memory layer backed by Markdown and Milvus vector search for all agents.
+- **Tags:** `memory`, `rag`, `milvus`, `semantic-search`, `long-term-memory`
+- **Why use it:** Persistent unified memory layer for AI agents backed by Milvus vector DB.
 
 ---
 
-### [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent)
+### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ Stars:** 1,904
-- **Language:** TypeScript
-- **Description:** 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.
-- **Tags:** `memory`, `agent`, `RAG`
-- **Why use it:** Shared persistent memory hub enabling all AI agents to remember
+- **⭐ Stars:** 646
+- **Language:** Python
+- **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora��with retrieval and evaluation tooling included.
+- **Tags:** `skills`, `rag`, `embeddings`, `retrieval`
+- **Why use it:** Transforms SKILL.md files into retrievable, semantic-search corpora.
 
 ---
 
 ### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
 
-- **⭐ Stars:** 372
+- **⭐ Stars:** 373
 - **Language:** TypeScript
 - **Description:** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **Tags:** `knowledge`, `mcp`, `rag`, `ai-resources`
-- **Why use it:** Comprehensive AI knowledge base with MCP and RAG resources
+- **Tags:** `dsh-plugin`, `mcp`, `rag`, `knowledge-base`
+- **Why use it:** One-stop AI knowledge base covering skills, MCP, RAG, and agent resources
 
 ---
 
@@ -103,8 +103,8 @@
 - **⭐ Stars:** 65
 - **Language:** JavaScript
 - **Description:** Proactive associative memory for DSH: zero-prompt recall injected before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **Tags:** `memory`, `context`, `deepseek-harness`
-- **Why use it:** Proactive associative memory with three-layer auto-consolidation for zero-prompt recall.
+- **Tags:** `memory`, `context`, `dsh-plugin`
+- **Why use it:** Proactive three-layer auto-consolidation memory for DSH
 
 ---
 
