@@ -16,9 +16,9 @@
 | 指标 | 数值 |
 |--------|-------|
 | **收录插件** | 198 |
-| **社区总星标** | 1,020,547 ⭐ |
+| **社区总星标** | 1,022,483 ⭐ |
 | **分类数量** | 11 |
-| **最后更新** | 2026-09-14 04:35:19 UTC |
+| **最后更新** | 2026-09-14 10:30:22 UTC |
 | **AI 模型** | agnes-2.5-flash |
 
 ---
@@ -27,41 +27,41 @@
 
 | 插件 | 星标 | 简介 |
 |--------|-------|-----|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 222,876 | Core DSH framework enabling everything-as-plugin a |
-| [nexu-io/open-design](https://github.com/nexu-io/open-design) | ⭐ 95,995 | Open-source Figma alternative with local-first des |
-| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | ⭐ 72,346 | Deploy multi-player swarms and autonomous agent wo |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | ⭐ 223,333 | Core DSH framework powering the entire plugin ecos |
+| [nexu-io/open-design](https://github.com/nexu-io/open-design) | ⭐ 96,064 | Local-first design tool with Figma-alternative cap |
+| [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | ⭐ 72,381 | Multi-agent swarm orchestration with autonomous wo |
 
 ---
 
 ## 分类导航
 
-- [编程 Agent 与 Harness 工具](#编程-agent-与-harness-工具) — 20 个插件
-- [UI 与桌面扩展](#ui-与桌面扩展) — 20 个插件
-- [记忆与知识（RAG）](#记忆与知识（rag）) — 11 个插件
-- [Agent 技能与工作流](#agent-技能与工作流) — 35 个插件
-- [MCP 服务器与工具](#mcp-服务器与工具) — 2 个插件
+- [编程 Agent 与 Harness 工具](#编程-agent-与-harness-工具) — 21 个插件
+- [UI 与桌面扩展](#ui-与桌面扩展) — 26 个插件
+- [记忆与知识（RAG）](#记忆与知识（rag）) — 10 个插件
+- [Agent 技能与工作流](#agent-技能与工作流) — 36 个插件
+- [MCP 服务器与工具](#mcp-服务器与工具) — 7 个插件
 - [视觉与设计](#视觉与设计) — 9 个插件
-- [浏览器与 Web 自动化](#浏览器与-web-自动化) — 5 个插件
-- [实用工具与基础设施](#实用工具与基础设施) — 17 个插件
-- [主题与皮肤](#主题与皮肤) — 3 个插件
-- [研究与分析](#研究与分析) — 11 个插件
-- [其他](#其他) — 65 个插件
+- [浏览器与 Web 自动化](#浏览器与-web-自动化) — 6 个插件
+- [实用工具与基础设施](#实用工具与基础设施) — 38 个插件
+- [主题与皮肤](#主题与皮肤) — 4 个插件
+- [研究与分析](#研究与分析) — 12 个插件
+- [其他](#其他) — 29 个插件
 
 ---
 
 ## 📂 分类文档（中文）
 
-- [编程 Agent 与 Harness 工具](coding-agents-harness-tools-zh) (20)
-- [UI 与桌面扩展](ui-desktop-extensions-zh) (20)
-- [记忆与知识（RAG）](memory-knowledge-rag-zh) (11)
-- [Agent 技能与工作流](agent-skills-workflows-zh) (35)
-- [MCP 服务器与工具](mcp-servers-tools-zh) (2)
+- [编程 Agent 与 Harness 工具](coding-agents-harness-tools-zh) (21)
+- [UI 与桌面扩展](ui-desktop-extensions-zh) (26)
+- [记忆与知识（RAG）](memory-knowledge-rag-zh) (10)
+- [Agent 技能与工作流](agent-skills-workflows-zh) (36)
+- [MCP 服务器与工具](mcp-servers-tools-zh) (7)
 - [视觉与设计](visual-design-zh) (9)
-- [浏览器与 Web 自动化](browser-web-automation-zh) (5)
-- [实用工具与基础设施](utilities-infrastructure-zh) (17)
-- [主题与皮肤](themes-skins-zh) (3)
-- [研究与分析](research-analysis-zh) (11)
-- [其他](other-zh) (65)
+- [浏览器与 Web 自动化](browser-web-automation-zh) (6)
+- [实用工具与基础设施](utilities-infrastructure-zh) (38)
+- [主题与皮肤](themes-skins-zh) (4)
+- [研究与分析](research-analysis-zh) (12)
+- [其他](other-zh) (29)
 ---
 
 
@@ -69,31 +69,41 @@
 
 ### [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)
 
-- **⭐ 星标：** 222,876
+- **⭐ 星标：** 223,333
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness: Everything is a Plugin.
 - **标签：** `ai-agents`, `cordis`, `dsh`, `dsh-plugin`
-- **推荐理由：** DSH核心框架，支持万物皆插件架构
+- **推荐理由：** DSH核心框架，支撑整个插件生态
 
 ---
 
 ### [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)
 
-- **⭐ 星标：** 46,961
+- **⭐ 星标：** 46,965
 - **语言：** Python
 - **描述：** Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
-- **标签：** `ai-agent`, `multi-agent`, `skills`, `dsh-plugin`
-- **推荐理由：** 自进化多智能体助手，带记忆和技能
+- **标签：** `ai-agents`, `multi-agent`, `mcp`, `skills`
+- **推荐理由：** 自演进多模型跨平台智能体系统
 
 ---
 
 ### [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix)
 
-- **⭐ 星标：** 35,535
+- **⭐ 星标：** 35,537
 - **语言：** Go
 - **描述：** DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- **标签：** `coding-agent`, `terminal`, `tui`, `dsh-plugin`
-- **推荐理由：** DeepSeek原生终端编码代理，前缀缓存稳定
+- **标签：** `agent-framework`, `coding-agent`, `prompt-caching`, `tui`
+- **推荐理由：** DeepSeek原生终端编码Agent，支持提示词缓存
+
+---
+
+### [YaoApp/yao](https://github.com/YaoApp/yao)
+
+- **⭐ 星标：** 7,940
+- **语言：** Go
+- **描述：** ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
+- **标签：** `agent-orchestration`, `mcp`
+- **推荐理由：** 统一多平台Agent工作区，支持全设备访问。
 
 ---
 
@@ -102,534 +112,38 @@
 - **⭐ 星标：** 7,178
 - **语言：** JavaScript
 - **描述：** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
-- **标签：** `router`, `agent-control-plane`, `mcp`
-- **推荐理由：** 任务感知推理模式路由器，带运行时注入器
+- **标签：** `routing`, `dsh-plugin`
+- **推荐理由：** 运行时注入器+任务感知推理路由，提升Agent效率。
 
 ---
 
 ### [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork)
 
-- **⭐ 星标：** 5,986
+- **⭐ 星标：** 5,999
 - **语言：** TypeScript
 - **描述：** Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.
-- **标签：** `agent-collaboration`, `enterprise`, `multi-agent`
-- **推荐理由：** 面向团队的Codex和DSH企业级多代理工作台
-
----
-
-### [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
-
-- **⭐ 星标：** 5,835
-- **语言：** Python
-- **描述：** Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
-- **标签：** `agent-control-plane`, `loop-engineering`, `workflow`
-- **推荐理由：** 跨框架持久工作流的长周期控制面
-
----
-
-### [liustack/modlens](https://github.com/liustack/modlens)
-
-- **⭐ 星标：** 3,962
-- **语言：** TypeScript
-- **描述：** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **标签：** `vision`, `ocr`, `coding-agent`
-- **推荐理由：** 首个视觉插件，支持图片转结构化JSON，填补��文本Agent盲区
-
----
-
-### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
-
-- **⭐ 星标：** 3,627
-- **语言：** TypeScript
-- **描述：** The World's First Virtual Terminal for AI Agents
-- **标签：** `terminal`, `sandbox`, `virtual-filesystem`
-- **推荐理由：** 首个AI虚拟终端，提供隔离沙盒环境，安全高效
-
----
-
-### [Tiger3807861189/J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite)
-
-- **⭐ 星标：** 3,009
-- **语言：** Python
-- **描述：** J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 — https://space.bilibili.com/3494375382321675
-- **标签：** `cognition`, `reasoning`, `coding-agent`
-- **推荐理由：** 推理时控制套件，支持深度推理、验证与恢复机制
-
----
-
-### [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun)
-
-- **⭐ 星标：** 2,124
-- **语言：** Rust
-- **描述：** OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
-- **标签：** `agent-runtime`, `coding`, `desktop`
-- **推荐理由：** 高性能Rust代理运行时，搭配精美桌面应用
-
----
-
-### [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams)
-
-- **⭐ 星标：** 1,617
-- **语言：** JavaScript
-- **描述：** AgentTeams plugin for DeepSeek Harness
-- **标签：** `agent-teams`, `multi-agent`, `collaboration`
-- **推荐理由：** 支持DSH中多代理协作完成复杂任务
-
----
-
-### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
-
-- **⭐ 星标：** 1,369
-- **语言：** TypeScript
-- **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
-- **标签：** `context`, `dashboard`, `management`
-- **推荐理由：** 上下文仪表盘与侧边栏，增强DSH上下文管理
-
----
-
-### [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)
-
-- **⭐ 星标：** 880
-- **语言：** TypeScript
-- **描述：** [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.
-- **标签：** `vision`, `ocr`, `tools`
-- **推荐理由：** 为纯文本模型打造的视觉OCR工具箱
-
----
-
-### [pulseaiclub/phi](https://github.com/pulseaiclub/phi)
-
-- **⭐ 星标：** 397
-- **语言：** Go
-- **描述：** a coding agent, rpc plugin, sub-agents, hashline edits, and mcp
-- **标签：** `coding-agent`, `mcp`, `rpc`
-- **推荐理由：** 支持RPC、子智能体和MCP的代码智能体。
-
----
-
-### [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office)
-
-- **⭐ 星标：** 341
-- **语言：** TypeScript
-- **描述：** Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.
-- **标签：** `office`, `productivity`, `harness-tools`
-- **推荐理由：** 内置表格/文档/幻灯片/画布，一站式办公集成插件
-
----
-
-### [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor)
-
-- **⭐ 星标：** 29
-- **语言：** TypeScript
-- **描述：** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
-- **标签：** `context`, `audit`, `token`, `debugging`
-- **推荐理由：** 审计指令链token成本，检测重复和冲突，Web面板可视。
-
----
-
-### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
-
-- **⭐ 星标：** 25
-- **语言：** JavaScript
-- **描述：** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
-- **标签：** `codex`, `mcp`, `sync`, `bridge`
-- **推荐理由：** Codex与DSH双向同步桥接，支持技能挂载和MCP镜像
-
----
-
-### [liangdabiao/dsh-plugin-developer-skill](https://github.com/liangdabiao/dsh-plugin-developer-skill)
-
-- **⭐ 星标：** 22
-- **语言：** TypeScript
-- **描述：** dsh-plugin-developer — DeepSeek Harness 插件开发 Skill  > 指导 AI Agent 从 0 到 1 开发、构建、安装、测试 DeepSeek Harness（dsh）插件。基于 **dsh 0.1.1-rc.2** 与 dsh-openmaic 项目的完整实战经验，并内置一个**已通过 web 界面实测**的天气插件作为整包参考案例。  ## 这是什么  dsh 采用"无特权内核、万物皆插件"的设计：模型适配器、工具注册表、Agent 循环、网页界面都是插件
-- **标签：** `plugin-dev`, `skill`, `development`
-- **推荐理由：** 指导AI从零开发、构建、测试DSH插件
-
----
-
-### [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills)
-
-- **⭐ 星标：** 14
-- **语言：** Unknown
-- **描述：** An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/���具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.
-- **标签：** `plugin-dev`, `agent-skill`, `standards`
-- **推荐理由：** DSH插件开发Agent技能，含标准规范
-
----
-
-### [faerryn/plogins.nvim](https://github.com/faerryn/plogins.nvim)
-
-- **⭐ 星标：** 11
-- **语言：** Lua
-- **描述：** A fast, simple, and elegant Neovim plugin manager written in Lua!
-- **标签：** `neovim`, `plugin-manager`
-- **推荐理由：** 用Lua编写的快速优雅Neovim插件管理器。
-
----
-
-## UI 与桌面扩展
-
-### [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)
-
-- **⭐ 星标：** 26,251
-- **语言：** TypeScript
-- **描述：** 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
-- **标签：** `desktop`, `dsh-plugin`, `deepseek-harness`, `cordis-plugin`
-- **推荐理由：** DSH生态的现代桌面客户端
-
----
-
-### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
-
-- **⭐ 星标：** 7,525
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
-- **标签：** `dsh-web`, `plugin`, `marketplace`
-- **推荐理由：** 基于网页的插件聚合生态和创意工坊市场
-
----
-
-### [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)
-
-- **⭐ 星标：** 3,571
-- **语言：** TypeScript
-- **描述：** 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.
-- **标签：** `sidebar`, `ui`, `extension`
-- **推荐理由：** 开放式侧边栏底座，内置文件编辑/终端/Git等多功能页面
-
----
-
-### [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)
-
-- **⭐ 星标：** 3,079
-- **语言：** JavaScript
-- **描述：** 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
-- **标签：** `taskboard`, `ui`, `coding-agent`
-- **推荐理由：** 现代化灵活任务面板，支持Codex和DSH深度集成
-
----
-
-### [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
-
-- **⭐ 星标：** 3,014
-- **语言：** TypeScript
-- **描述：** DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
-- **标签：** `tui`, `ui`, `terminal`
-- **推荐理由：** 类Claude Code风格TUI，鲸鱼顶栏/流式思考/双击回滚
-
----
-
-### [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)
-
-- **⭐ 星标：** 2,304
-- **语言：** JavaScript
-- **描述：** DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
-- **标签：** `widget`, `ui`, `balance-monitor`
-- **推荐理由：** 可爱小鲸鱼浮动组件，实时监控账户余额，支持拖拽吸附
-
----
-
-### [dsh-tauri-desk/deepseek-harness-desktop](https://github.com/dsh-tauri-desk/deepseek-harness-desktop)
-
-- **⭐ 星标：** 2,062
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.
-- **标签：** `desktop`, `tauri`, `cross-platform`
-- **推荐理由：** 零配置Tauri桌面版，跨平台预置插件
-
----
-
-### [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop)
-
-- **⭐ 星标：** 584
-- **语言：** JavaScript
-- **描述：** DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.
-- **标签：** `desktop`, `electron`, `workspace`
-- **推荐理由：** 本地优先的桌面工作区，支持文件、研究与Office。
-
----
-
-### [ningbainb/deepseek-harness-desktop](https://github.com/ningbainb/deepseek-harness-desktop)
-
-- **⭐ 星标：** 519
-- **语言：** TypeScript
-- **描述：** Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.
-- **标签：** `desktop`, `windows`, `ssh-client`
-- **推荐理由：** Windows桌面客户端，含SSH、Codex和移动端远程访问。
-
----
-
-### [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork)
-
-- **⭐ 星标：** 374
-- **语言：** TypeScript
-- **描述：** Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress
-- **标签：** `desktop`, `local-first`, `multi-model`
-- **推荐理由：** 本地优先多模型桌面应用，支持自我进化技能。
-
----
-
-### [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile)
-
-- **⭐ 星标：** 289
-- **语言：** Kotlin
-- **描述：** DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言
-- **标签：** `mobile`, `ios`, `desktop-client`, `ui`
-- **推荐理由：** 原生iOS客户端，WebSocket实时同步会话与Agent执行轨迹
-
----
-
-### [op7418/pilot-harness](https://github.com/op7418/pilot-harness)
-
-- **⭐ 星标：** 275
-- **语言：** TypeScript
-- **描述：** Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.
-- **标签：** `desktop`, `cross-platform`, `ui-extension`
-- **推荐理由：** 跨平台Desktop客户端，Mac/Win/Linux三端支持
-
----
-
-### [FlashingChen/dsh-desktop-hub](https://github.com/FlashingChen/dsh-desktop-hub)
-
-- **⭐ 星标：** 60
-- **语言：** TypeScript
-- **描述：** DSH Desktop Hub — DeepSeek Harness 桌面管理控制台（Electron + TypeScript）。多 Tab 管理 Harness / Plugin / MCP / Skills，双击即用。
-- **标签：** `dsh-plugin`, `desktop-app`, `electron`
-- **推荐理由：** Electron桌面控制台，多Tab管理插件、MCP和技能
-
----
-
-### [songoao25/dsh-bottom-info-bar](https://github.com/songoao25/dsh-bottom-info-bar)
-
-- **⭐ 星标：** 36
-- **语言：** JavaScript
-- **描述：** Bottom Info Bar — an information bar plugin for DeepSeek Harness: provider/model, live balance, peak/off-peak pricing with countdown, and real persisted per-session spend in a single line.
-- **标签：** `ui`, `info-bar`, `pricing`, `balance`
-- **推荐理由：** 常驻底部栏显示余额、峰谷定价和倒计时，成本一目了然。
-
----
-
-### [sagirimo/BioDSH](https://github.com/sagirimo/BioDSH)
-
-- **⭐ 星标：** 31
-- **语言：** Python
-- **描述：** The bioinformatics agent desktop for clinicians and wet-lab scientists — built on DeepSeek Harness. One-click installers, a skill store, offline mode.
-- **标签：** `bioinformatics`, `desktop`, `clinical`, `offline`
-- **推荐理由：** 面向临床和湿实验室的生物信息学桌面Agent，支持离线。
-
----
-
-### [FTShare-Lab/dsh_kline](https://github.com/FTShare-Lab/dsh_kline)
-
-- **⭐ 星标：** 27
-- **语言：** HTML
-- **描述：** 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。
-- **标签：** `kline`, `stock`, `sidebar`, `visualization`
-- **推荐理由：** 多市场行情K线分析插件，原生侧栏展示，功能丰富
-
----
-
-### [dabaicai001/star-dsh-desktop](https://github.com/dabaicai001/star-dsh-desktop)
-
-- **⭐ 星标：** 11
-- **语言：** Rust
-- **描述：** StarHub — All-in-One DevOps Desktop Command Center。把开发运维每天要用到的工具收进同一个窗口:数据库客户端 · SSH 终端 · SFTP · Docker · AI 助手,以及 AI 驱动的沙箱桌面与 Android 实体机操作。
-- **标签：** `desktop`, `devops`, `docker`
-- **推荐理由：** 一站式DevOps桌面，整合SSH/SFTP/Docker/AI工具。
-
----
-
-### [lai-133/dsh-integration](https://github.com/lai-133/dsh-integration)
-
-- **⭐ 星标：** 7
-- **语言：** JavaScript
-- **描述：** 桌面版 DeepSeek Harness：Electron 壳 + 自托管 dsh web 服务，集成 dsh-better-sidebar / dsh-web-ui / ModLens / awesome-dsh-plugin / dshmarket
-- **标签：** `desktop`, `electron`, `integration`
-- **推荐理由：** Electron封装，集成DSH Web、侧边栏和ModLens。
-
----
-
-### [shyuan-hub/dsh-compact-button](https://github.com/shyuan-hub/dsh-compact-button)
-
-- **⭐ 星标：** 4
-- **语言：** TypeScript
-- **描述：** one-click Compact context button for the DSH Web context meter panel.
-- **标签：** `ui`, `compact`
-- **推荐理由：** DSH上下文计量面板一键紧凑按钮。
-
----
-
-### [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards)
-
-- **⭐ 星标：** 2
-- **语言：** JavaScript
-- **描述：** A plugin of Deepseek Harness(DSH),transform your recent chat history into beautifully designed knowledge cards, ready to download and share.
-- **标签：** `knowledge-cards`, `ui`
-- **推荐理由：** 将聊天记录转化为精美知识卡片下载分享
-
----
-
-## 记忆与知识（RAG）
-
-### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
-
-- **⭐ 星标：** 37,068
-- **语言：** Python
-- **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `agentic-rag`, `self-evolving`, `dsh-plugin`
-- **推荐理由：** 自进化上下文数据库，统一Agent记忆和RAG
-
----
-
-### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
-
-- **⭐ 星标：** 22,938
-- **语言：** Go
-- **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `vector-search`, `dsh-plugin`
-- **推荐理由：** 带RAG、推理代理和Wiki的知识平台
-
----
-
-### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
-
-- **⭐ 星标：** 12,935
-- **语言：** Python
-- **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `rag`, `long-term-memory`
-- **推荐理由：** 便携本地优先的AI代理记忆层方案
-
----
-
-### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
-
-- **⭐ 星标：** 11,308
-- **语言：** TypeScript
-- **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `rag`, `skills`
-- **推荐理由：** 自进化记忆系统，支持混合检索和节省token
-
----
-
-### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
-
-- **⭐ 星标：** 7,151
-- **语言：** Python
-- **描述：**  Memory library for building stateful agents
-- **标签：** `agent-memory`, `rag`, `context-engineering`
-- **推荐理由：** 支持状态持久化的代理记忆库
-
----
-
-### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
-
-- **⭐ 星标：** 3,450
-- **语言：** Python
-- **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `agent`
-- **推荐理由：** 专业Agent记忆管理套件，支持记忆存储与优化
-
----
-
-### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
-
-- **⭐ 星标：** 2,598
-- **语言：** Python
-- **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `rag`, `milvus`, `vector-search`
-- **推荐理由：** ���于Milvus的持久统一记忆层，支持语义搜索与长期记忆
-
----
-
-### [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent)
-
-- **⭐ 星标：** 1,901
-- **语言：** TypeScript
-- **描述：** 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.
-- **标签：** `memory`, `agent`, `local-first`
-- **推荐理由：** 本地持久化记忆中枢，支持所有AI代理共享
-
----
-
-### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
-
-- **⭐ 星标：** 646
-- **语言：** Python
-- **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skill-corpus`, `rag`, `vector-search`
-- **推荐理由：** 将SKILL.md转为可检索知识库，支持向量搜索与评估。
-
----
-
-### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
-
-- **⭐ 星标：** 368
-- **语言：** TypeScript
-- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `knowledge-base`, `ai-encyclopedia`, `mcp`, `rag`
-- **推荐理由：** AI全维度资源百科，涵盖Agent、MCP、RAG等核心主题
-
----
-
-### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
-
-- **⭐ 星标：** 63
-- **语言：** JavaScript
-- **描述：** Proactive associative memory for DSH: zero-prompt recall injected before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **标签：** `dsh-plugin`, `memory`, `context`
-- **推荐理由：** 主动关联记忆，零提示词召回与自动 Consolidation
-
----
-
-## Agent 技能与工作流
-
-### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
-
-- **⭐ 星标：** 72,346
-- **语言：** TypeScript
-- **描述：** 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-- **标签：** `agentic-workflow`, `multi-agent`, `swarm`, `dsh-plugin`
-- **推荐理由：** 部署多智能体群体和自主工作流
-
----
-
-### [titanwings/distilly](https://github.com/titanwings/distilly)
-
-- **⭐ 星标：** 24,690
-- **语言：** Python
-- **描述：** Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
-- **标签：** `agent-skills`, `knowledge-distillation`, `meta-skill`, `dsh-plugin`
-- **推荐理由：** 将思维模式提炼为可复用技能
-
----
-
-### [YaoApp/yao](https://github.com/YaoApp/yao)
-
-- **⭐ 星标：** 7,938
-- **语言：** Go
-- **描述：** ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
-- **标签：** `agent-orchestration`, `mcp`, `no-code`
-- **推荐理由：** 统一代理工作台，支持任务看板和多设备访问
-
----
-
-### [anbeime/skill](https://github.com/anbeime/skill)
-
-- **⭐ 星标：** 6,660
-- **语言：** Python
-- **描述：** 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains.
-- **标签：** `skills`, `workflow`, `coding-agent`
-- **推荐理由：** 最大技能商店，自动更新分类包
+- **标签：** `agent-workspace`, `multi-agent`
+- **推荐理由：** 企业级多引擎Agent工作台，支持可视化编辑。
 
 ---
 
 ### [Q00/ouroboros](https://github.com/Q00/ouroboros)
 
-- **⭐ 星标：** 5,834
+- **⭐ 星标：** 5,835
 - **语言：** Python
 - **描述：** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
-- **标签：** `agent-os`, `mcp`, `llm-evaluation`
-- **推荐理由：** 自进化代理操作系统，带分阶段评估和预算演化
+- **标签：** `agent-os`, `llm-orchestration`
+- **推荐理由：** 自进化Agent OS，带分阶段评估与预算进化。
+
+---
+
+### [liustack/modlens](https://github.com/liustack/modlens)
+
+- **⭐ 星标：** 3,960
+- **语言：** TypeScript
+- **描述：** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
+- **标签：** `vision`, `ocr`, `image-to-text`, `dsh-plugin`
+- **推荐理由：** 首个DSH视觉插件，让纯文本代理具备图像���别能力
 
 ---
 
@@ -638,198 +152,78 @@
 - **⭐ 星标：** 3,818
 - **语言：** JavaScript
 - **描述：** Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
-- **标签：** `preset`, `agent-skills`, `workflow`
-- **推荐理由：** 两阶段预设：最小化启动后加载完整工具链，高效可靠
+- **标签：** `preset`, `standard-tools`, `dsh-plugin`, `llm-agent`
+- **推荐理由：** 两阶段预设：最小引导后加载完整标准工具，提升代理性能
 
 ---
 
-### [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)
+### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
 
-- **⭐ 星标：** 3,282
-- **语言：** Python
-- **描述：** Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.
-- **标签：** `skills`, `workflow`, `orchestration`
-- **推荐理由：** 智能技能路由与工作流编排，基准测试提升21%效率
-
----
-
-### [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director)
-
-- **⭐ 星标：** 1,885
-- **语言：** Python
-- **描述：** Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.
-- **标签：** `video`, `skill`, `automation`
-- **推荐理由：** 端到端自动化生成Vox风格解说视频
-
----
-
-### [Jesseovo/last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn)
-
-- **⭐ 星标：** 1,781
-- **语言：** Python
-- **描述：** last30days-cn 是一个 AI Agent 技能（Skill），能够自动搜索中国互联网 8 大主流平台最近 30 天的内容，综合分析后生成有据可查的研究报告。
-- **标签：** `research`, `skill`, `china-web`
-- **推荐理由：** 自动搜索国内八大平台，生成有据报告
-
----
-
-### [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer)
-
-- **⭐ 星标：** 850
+- **⭐ 星标：** 3,628
 - **语言：** TypeScript
-- **描述：** AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.
-- **标签：** `writing`, `novel`, `creative`
-- **推荐理由：** 长篇小说创作全流程AI辅助写作工具
+- **描述：** The World's First Virtual Terminal for AI Agents
+- **标签：** `virtual-terminal`, `vfs`, `agent-tools`, `dsh-plugin`
+- **推荐理由：** 虚拟终端为AI代理提供隔离可复现的运行环境
 
 ---
 
-### [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)
+### [Tiger3807861189/J-Space-Cognition-Suite](https://github.com/Tiger3807861189/J-Space-Cognition-Suite)
 
-- **⭐ 星标：** 383
+- **⭐ 星标：** 3,008
+- **语言：** Python
+- **描述：** J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research.
+- **标签：** `cognition`, `inference-control`, `agent-skills`, `dsh-plugin`
+- **推荐理由：** 模型无关的推理控制套件，支持深度推理与长程任务恢复
+
+---
+
+### [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun)
+
+- **⭐ 星标：** 2,125
+- **语言：** Rust
+- **描述：** OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
+- **标签：** `agent-teams`, `agentic-runtime`, `ai-coding`, `computer-use-agent`
+- **推荐理由：** Rust高性能代理运行时，配合精美桌面应用
+
+---
+
+### [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams)
+
+- **⭐ 星标：** 1,627
 - **语言：** JavaScript
-- **描述：** A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.
-- **标签：** `canvas`, `workflow`, `sessions`
-- **推荐理由：** 画布式非线性会话浏览器，支持分支工作流。
+- **描述：** AgentTeams plugin for DeepSeek Harness
+- **标签：** `agent-teams`, `dsh`, `agentic`
+- **推荐理由：** 在DeepSeek Harness中实现多代理团队协作
 
 ---
 
-### [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill)
+### [pulseaiclub/phi](https://github.com/pulseaiclub/phi)
 
-- **⭐ 星标：** 373
-- **语言：** Python
-- **描述：** Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.
-- **标签：** `multimodal`, `ocr`, `video-analysis`
-- **推荐理由：** 赋予AI眼耳能力，支持视频音频屏幕观察分析。
+- **⭐ 星标：** 398
+- **语言：** Go
+- **描述：** a coding agent, rpc plugin, sub-agents, hashline edits, and mcp
+- **标签：** `coding-agent`, `rpc`, `mcp`
+- **推荐理由：** 编码助手插件，支持RPC、子智能体与MCP集成。
 
 ---
 
-### [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research)
+### [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli)
 
-- **⭐ 星标：** 371
+- **⭐ 星标：** 309
 - **语言：** TypeScript
-- **描述：** Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.
-- **标签：** `research`, `latex`, `arxiv`
-- **推荐理由：** 一站式科研工作台，涵盖论文、文献与GPU管理。
+- **描述：** Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub
+- **标签：** `cli`, `plugin-manager`, `schemas`
+- **推荐理由：** 插件管理CLI和开发工具集
 
 ---
 
-### [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh)
+### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
 
-- **⭐ 星标：** 341
-- **语言：** Python
-- **描述：** DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches. Not affiliated with DeepSeek.
-- **标签：** `creative-writing`, `novel`, `workflow`, `agents`
-- **推荐理由：** 网文/短剧/游戏/视频解说四大工作台专用创作工作流
-
----
-
-### [shengsheng90/DSH-taskboard](https://github.com/shengsheng90/DSH-taskboard)
-
-- **⭐ 星标：** 328
+- **⭐ 星标：** 240
 - **语言：** TypeScript
-- **描述：** Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.
-- **标签：** `task-management`, `workflow`, `sqlite`
-- **推荐理由：** SQLite任务管理，Agent认领审核流，原生Web UI无iframe
-
----
-
-### [RealSeaberry/AutoMCM-Pro](https://github.com/RealSeaberry/AutoMCM-Pro)
-
-- **⭐ 星标：** 244
-- **语言：** Python
-- **描述：** 全栈式自动数学建模竞赛Skill，支持 Claude Code / Codex / opencode / DeepSeek Harness。AI 担任 Autopilot，人类担任 Copilot；国赛/美赛通用，GitOps 流水线 + 强制代码自证，可选 addons 模块。
-- **标签：** `math-modeling`, `competition`, `gitops`, `skill`
-- **推荐理由：** 数学建模竞赛全自动Skill，GitOps流水线+AI自动驾驶
-
----
-
-### [Lyn-77/ProMentor](https://github.com/Lyn-77/ProMentor)
-
-- **⭐ 星标：** 74
-- **语言：** TypeScript
-- **描述：** ProMentor 是一个 AI Coding Agent Skill。装上它，你的 AI 编程助手立刻化身为导师——扫描项目架构、生成阶梯式 Chapter、带你手写核心逻辑、自动判题、AI Code Review。
-- **标签：** `dsh-plugin`, `agent`, `coding-agent`
-- **推荐理由：** AI编程导师，阶梯式教学项目架构与核心逻辑
-
----
-
-### [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck)
-
-- **⭐ 星标：** 63
-- **语言：** JavaScript
-- **描述：** Matt Pocock 技能面板（DSH Deck）：安装即自带 25 个工程与效率技能（mattpocock/skills v1.2.3：triage、grilling、wayfinder、handoff 等），右侧面板直接调用，无需手动装技能。当前主力支持 GitHub issue；Markdown 本地文件为预览版；GitLab 暂不在支持范围。希望它能帮你把想法更快变成现实。
-- **标签：** `dsh-plugin`, `skills`, `agent`
-- **推荐理由：** 25个工程技能面板直调，开箱即用零配置
-
----
-
-### [linhut/gongwen-skill](https://github.com/linhut/gongwen-skill)
-
-- **⭐ 星标：** 50
-- **语言：** Python
-- **描述：** 公文全流程处理工具——基于 GB/T 9704《党政机关公文格式》 国家标准，面向公文写作、企事业单位材料编制场景，支持 格式检查与修复、内容优化（Word 原生修订+批注/差异对比版）、模板生成、Markdown 转公文、版头版记页码注入、事实核验、风格增强 等完整能力。原生支持 DeepSeek Harness (DSH) 技能系统，打包为可被 AI Agent 直接调用的 Skill，完全自包含，克隆即用。
-- **标签：** `dsh-plugin`, `gongwen`, `docx`, `ai-docs`
-- **推荐理由：** 公文全流程工具：格式校验、模板生成、WPS兼容
-
----
-
-### [songyang0603/ds-spec-loop](https://github.com/songyang0603/ds-spec-loop)
-
-- **⭐ 星标：** 40
-- **语言：** Unknown
-- **描述：** Portable Agent Skill for repository-native Spec programming, informed by public DeepSeek Harness engineering patterns.
-- **标签：** `dsh-plugin`, `spec-driven-development`, `agent-skills`
-- **推荐理由：** 仓库级规格驱动开发Skill，贴合DSH工程实践
-
----
-
-### [dhicoc/dsh-chinese-traditional-wisdom-skill](https://github.com/dhicoc/dsh-chinese-traditional-wisdom-skill)
-
-- **⭐ 星标：** 36
-- **语言：** TypeScript
-- **描述：** 中华传统智慧（玄枢）AI Agent 技能包的 DeepSeek Harness（dsh）Cordis 插件：八字/紫微/六爻/梅花/奇门/风水/五运六气/体质全融合，本地确定性引擎 + 可视化 Dashboard，一行 dsh plugin add 安装。
-- **标签：** `skill`, `bazi`, `fengshui`, `tcm`, `iching`
-- **推荐理由：** 八字/风水/六爻/中医融合，本地确定性引擎+可视化面板。
-
----
-
-### [win4r/deepseek-harness-plugin-creator](https://github.com/win4r/deepseek-harness-plugin-creator)
-
-- **⭐ 星标：** 36
-- **语言：** JavaScript
-- **描述：** Reusable Codex skill for building and validating DeepSeek Harness and Cordis plugins
-- **标签：** `plugin-creator`, `codex`, `dsh`, `skill`
-- **推荐理由：** Codex技能一键生成验证DSH插件，省去手工开发。
-
----
-
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
-
-- **⭐ 星标：** 35
-- **语言：** JavaScript
-- **描述：** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **标签：** `ocr`, `vision`, `image-reading`, `skill`
-- **推荐理由：** 让纯文本模型具备图片阅读能力，OCR+视觉模拟。
-
----
-
-### [limuyang2/agent-team](https://github.com/limuyang2/agent-team)
-
-- **⭐ 星标：** 33
-- **语言：** TypeScript
-- **描述：** Multi-agent team collaboration for DeepSeek Harness, with independent models, skills, MCP tools, contexts, and a shared workspace.
-- **标签：** `multi-agent`, `collaboration`, `mcp`, `workspace`
-- **推荐理由：** 多Agent协作，独立模型+共享工作空间，适合复杂任务。
-
----
-
-### [fishzjp/qa-skills](https://github.com/fishzjp/qa-skills)
-
-- **⭐ 星标：** 29
-- **语言：** Python
-- **描述：** 让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——11 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）
-- **标签：** `qa`, `testing`, `skills`, `knowledge-base`
-- **推荐理由：** 11个测试工程技能+共享知识库，Claude Code和DSH通用。
+- **描述：** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+- **标签：** `command-code`, `provider`, `dsh-plugin`
+- **推荐理由：** 支持Command Code模型访问与计划感知选型，增强DSH代理能力。
 
 ---
 
@@ -838,18 +232,270 @@
 - **⭐ 星标：** 29
 - **语言：** Unknown
 - **描述：** This Codex skill is adapted from DeepSeek Harness’s [dsh-find-simplifications](https://github.com/deepseek-ai/deepseek-harness/tree/master/.agents/skills/dsh-find-simplifications) skill.
-- **标签：** `code-simplification`, `skill`, `codex`
-- **推荐理由：** 官方代码简化技能的Codex跨平台适配版本。
+- **标签：** `code`, `simplification`, `codex`
+- **推荐理由：** 基于官方仓库的代码简化技能
 
 ---
 
-### [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck)
+### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
 
-- **⭐ 星标：** 29
+- **⭐ 星标：** 25
+- **语言：** JavaScript
+- **描述：** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
+- **标签：** `codex`, `mcp`, `cordis`
+- **推荐理由：** 双向桥接 OpenAI Codex 与 DSH 的同步工具。
+
+---
+
+### [akira399/dsh-godot-skill](https://github.com/akira399/dsh-godot-skill)
+
+- **⭐ 星标：** 23
+- **语言：** JavaScript
+- **描述：** Godot Engine 4.x 全栈游戏开发技能插件 for DeepSeek Harness (DSH) — registers the godot-4-development skill at runtime
+- **标签：** `godot`, `gdscript`, `game-development`
+- **推荐理由：** 运行时注册的 Godot 引擎全栈游戏开发技能。
+
+---
+
+### [liangdabiao/dsh-plugin-developer-skill](https://github.com/liangdabiao/dsh-plugin-developer-skill)
+
+- **⭐ 星标：** 22
 - **语言：** TypeScript
-- **描述：** Double-check before you ship: grill the requirements, test the implementation, prove the delivery. An engineering-discipline bundle for DeepSeek Harness.
-- **标签：** `quality-gate`, `engineering`, `validation`, `skill`
-- **推荐理由：** 工程质量关卡，发版前验证需求+测试实现，减少遗漏。
+- **描述：** dsh-plugin-developer — DeepSeek Harness 插件开发 Skill  > 指导 AI Agent 从 0 到 1 开发、构建、安装、测试 DeepSeek Harness（dsh）插件。基于 **dsh 0.1.1-rc.2** 与 dsh-openmaic 项目的完整实战经验，并内置一个**已通过 web 界面实测**的天气插件作为整包参考案例。  ## 这是什么  dsh 采用"无特权内核、万物皆插件"的设计：模型适配器、工具注册表、Agent 循环、网页界面都是插件
+- **标签：** `dsh-plugin`
+- **推荐理由：** 指导Agent从零开发、构建和测试DSH插件。
+
+---
+
+### [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills)
+
+- **⭐ 星标：** 14
+- **语言：** Unknown
+- **描述：** An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.
+- **标签：** `agent-skill`, `llm-agent`, `skill`
+- **推荐理由：** DSH插件/服务/工具开发标准Agent技能。
+
+---
+
+## UI 与桌面扩展
+
+### [nexu-io/open-design](https://github.com/nexu-io/open-design)
+
+- **⭐ 星标：** 96,064
+- **语言：** TypeScript
+- **描述：** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
+- **标签：** `agent-skills`, `ai-design`, `desktop-app`, `ui-generator`
+- **推荐理由：** 本地优先设计工具，类Figma替代品
+
+---
+
+### [anywhere-labs/dsh-desktop](https://github.com/anywhere-labs/dsh-desktop)
+
+- **⭐ 星标：** 26,383
+- **语言：** TypeScript
+- **描述：** 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。
+- **标签：** `desktop`, `dsh-plugin`, `cordis-plugin`, `dsh`
+- **推荐理由：** 现代���桌面端，插件原生架构
+
+---
+
+### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
+
+- **⭐ 星标：** 7,550
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
+- **标签：** `dsh-web`, `dsh-plugin`
+- **推荐理由：** 基于Web的DSH插件聚合分发平台。
+
+---
+
+### [crafter-station/petdex](https://github.com/crafter-station/petdex)
+
+- **⭐ 星标：** 4,096
+- **语言：** TypeScript
+- **描述：** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
+- **标签：** `pet`, `ui`, `developer-tools`
+- **推荐理由：** AI编程Agent个性化动效宠物展示画廊。
+
+---
+
+### [omdsh-dev/DSH-better-sidebar](https://github.com/omdsh-dev/DSH-better-sidebar)
+
+- **⭐ 星标：** 3,585
+- **语言：** TypeScript
+- **描述：** 开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.
+- **标签：** `sidebar`, `ui`, `dsh-plugin`, `deepseek-harness`
+- **推荐理由：** 开放侧边栏框架，内置文件编辑/终端/对话/Git等功能
+
+---
+
+### [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard)
+
+- **⭐ 星标：** 3,087
+- **语言：** JavaScript
+- **描述：** 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
+- **标签：** `taskboard`, `ui`, `dsh-plugin`, `skills`
+- **推荐理由：** 现代化灵活任��面板，支持Codex和DSH嵌入使用
+
+---
+
+### [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI)
+
+- **⭐ 星标：** 3,028
+- **语言：** TypeScript
+- **描述：** DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.
+- **标签：** `tui`, `ui`, `terminal`, `dsh-plugin`
+- **推荐理由：** Claude Code风格终端UI，含鲸鱼顶栏/实时状态/流式思考
+
+---
+
+### [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)
+
+- **⭐ 星标：** 2,322
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
+- **标签：** `widget`, `ui`, `balance-monitor`, `dsh-plugin`
+- **推荐理由：** 可爱浮动鲸鱼小部件，实时显示DeepSeek账户余额
+
+---
+
+### [dsh-tauri-desk/deepseek-harness-desktop](https://github.com/dsh-tauri-desk/deepseek-harness-desktop)
+
+- **⭐ 星标：** 2,078
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness Tauri 桌面版 | Only 5mb installer, zero environment setup, preset plugins, Windows / macOS / Linux.
+- **标签：** `desktop`, `tauri`, `dsh`
+- **推荐理由：** 仅5MB轻量级Tauri桌面版，预置插件零配置
+
+---
+
+### [vibeinging/dsh-desktop](https://github.com/vibeinging/dsh-desktop)
+
+- **⭐ 星标：** 584
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.
+- **标签：** `desktop`, `electron`, `local-first`
+- **推荐理由：** 本地优先的AI桌面工作空间，支持项目与MCP集成。
+
+---
+
+### [ningbainb/deepseek-harness-desktop](https://github.com/ningbainb/deepseek-harness-desktop)
+
+- **⭐ 星标：** 531
+- **语言：** TypeScript
+- **描述：** Open-source Windows desktop client and GUI for DeepSeek Harness — zero-setup installer with Codex, plugins, skills, SSH, mobile remote access, and 11 skins.
+- **标签：** `desktop`, `windows`, `gui`
+- **推荐理由：** 零配置Windows桌面客户端，内置SSH与移动端远程访问。
+
+---
+
+### [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork)
+
+- **⭐ 星标：** 374
+- **语言：** TypeScript
+- **描述：** Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first · multi-Harness roadmap · DeepSeek Harness integration in progress
+- **标签：** `desktop`, `local-first`, `privacy`
+- **推荐理由：** 本地优先多模型桌面应用，隐私优先且技能可自演进。
+
+---
+
+### [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office)
+
+- **⭐ 星标：** 344
+- **语言：** TypeScript
+- **描述：** Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.
+- **标签：** `office`, `productivity`, `ui`
+- **推荐理由：** 集成表格文档演示的办公套件
+
+---
+
+### [shengsheng90/DSH-taskboard](https://github.com/shengsheng90/DSH-taskboard)
+
+- **⭐ 星标：** 328
+- **语言：** TypeScript
+- **描述：** Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.
+- **标签：** `task-management`, `sqlite`, `native`
+- **推荐理由：** 原生任务看板支持Agent工作流
+
+---
+
+### [Clarklevis1995/dsh-mobile](https://github.com/Clarklevis1995/dsh-mobile)
+
+- **⭐ 星标：** 291
+- **语言：** Kotlin
+- **描述：** DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言
+- **标签：** `mobile`, `ios`, `android`
+- **推荐理由：** 原生移动端实时同步客户端
+
+---
+
+### [op7418/pilot-harness](https://github.com/op7418/pilot-harness)
+
+- **⭐ 星标：** 276
+- **语言：** TypeScript
+- **描述：** Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.
+- **标签：** `desktop`, `electron`, `cross-platform`
+- **推荐理由：** 跨平台桌面客户端增强体验
+
+---
+
+### [zhaoolee/notes](https://github.com/zhaoolee/notes)
+
+- **⭐ 星标：** 163
+- **语言：** TypeScript
+- **描述：** 开源版锤子便签，复刻锤科美学，一���Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片
+- **标签：** `notes`, `dsh-plugin`, `smartisan`
+- **推荐理由：** 开源锤子便签复刻，支持Docker私有部署与Skill调用。
+
+---
+
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+
+- **⭐ 星标：** 127
+- **语言：** JavaScript
+- **描述：** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
+- **标签：** `ui`, `mcp`, `skills`
+- **推荐理由：** Web界面管理技能和MCP服务器，可视化配置
+
+---
+
+### [Sanqi-normal/dsh-webui-market-plugin](https://github.com/Sanqi-normal/dsh-webui-market-plugin)
+
+- **⭐ 星标：** 105
+- **语言：** JavaScript
+- **描述：** dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin.com 插件目录，一键安装/卸载到 profile。Community plugin market for the DeepSeek Harness (dsh) web GUI: browse, install and uninstall plugins into a profile.
+- **标签：** `plugin-market`, `ui`, `web`
+- **推荐理由：** 社区插件市场，Web界面一键安装卸载
+
+---
+
+### [FlashingChen/dsh-desktop-hub](https://github.com/FlashingChen/dsh-desktop-hub)
+
+- **⭐ 星标：** 60
+- **语言：** TypeScript
+- **描述：** DSH Desktop Hub — DeepSeek Harness 桌面管理控制台（Electron + TypeScript）。多 Tab 管理 Harness / Plugin / MCP / Skills，双击即用。
+- **标签：** `desktop-app`, `electron`, `deepseek-harness`
+- **推荐理由：** Electron桌面控制台，多Tab管理插件、MCP和技能。
+
+---
+
+### [songoao25/dsh-bottom-info-bar](https://github.com/songoao25/dsh-bottom-info-bar)
+
+- **⭐ 星标：** 36
+- **语言：** JavaScript
+- **描述：** Bottom Info Bar — an information bar plugin for DeepSeek Harness: provider/model, live balance, peak/off-peak pricing with countdown, and real persisted per-session spend in a single line.
+- **标签：** `ui`, `info-bar`, `pricing`
+- **推荐理由：** 实时显示模型余额与峰谷定价倒计时
+
+---
+
+### [sagirimo/BioDSH](https://github.com/sagirimo/BioDSH)
+
+- **⭐ 星标：** 31
+- **语言：** Python
+- **描述：** The bioinformatics agent desktop for clinicians and wet-lab scientists — built on DeepSeek Harness. One-click installers, a skill store, offline mode.
+- **标签：** `bioinformatics`, `desktop`, `clinical`
+- **推荐理由：** 生信桌面Agent，技能商店支持离线模式
 
 ---
 
@@ -859,701 +505,291 @@
 - **语言：** JavaScript
 - **描述：** DSH 实现 workbuddy 同款选择 skill 功能 | WorkBuddy-style skill picker for DeepSeek Harness: pick a skill in the composer, insert the official /skill-name gesture, and DSH loads it with your message.
 - **标签：** `skill-picker`, `ui`, `composer`
-- **推荐理由：** Composer内直接选技能插入，类似WorkBuddy体验。
+- **推荐理由：** 工作伙伴式技能选择器，斜杠命令插入
 
 ---
 
-### [WeirdSky924/agent-handoff-skill](https://github.com/WeirdSky924/agent-handoff-skill)
+### [dabaicai001/star-dsh-desktop](https://github.com/dabaicai001/star-dsh-desktop)
 
-- **⭐ 星标：** 27
+- **⭐ 星标：** 11
+- **语言：** Rust
+- **描述：** StarHub — All-in-One DevOps Desktop Command Center。把开发运维每天要用到的工具收进同一个窗口:数据库客户端 · SSH 终端 · SFTP · Docker · AI 助手,以及 AI 驱动的沙箱桌面与 Android 实体机操作。
+- **标签：** `desktop`, `devops`, `ssh`, `docker`
+- **推荐理由：** 全功能DevOps桌面：SSH、Docker、数据库客户端一体化。
+
+---
+
+### [lai-133/dsh-integration](https://github.com/lai-133/dsh-integration)
+
+- **⭐ 星标：** 7
+- **语言：** JavaScript
+- **描述：** 桌面版 DeepSeek Harness：Electron 壳 + 自托管 dsh web 服务，集成 dsh-better-sidebar / dsh-web-ui / ModLens / awesome-dsh-plugin / dshmarket
+- **标签：** `desktop`, `electron`, `dsh`
+- **推荐理由：** Electron桌面壳集成DSH Web服务与插件。
+
+---
+
+### [shyuan-hub/dsh-compact-button](https://github.com/shyuan-hub/dsh-compact-button)
+
+- **⭐ 星标：** 4
+- **语言：** TypeScript
+- **描述：** one-click Compact context button for the DSH Web context meter panel.
+- **标签：** `ui`, `button`, `webui`
+- **推荐理由：** DSH面板一键折叠上下文按钮。
+
+---
+
+## 记忆与知识（RAG）
+
+### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
+
+- **⭐ 星标：** 37,138
 - **语言：** Python
-- **描述：** Use this cross-platform skill in Codex or Claude Code to establish repository-local continuity memory so a future agent can recover objective, status, decisions, validation, risks, and next actions without relying on previous chat history.
-- **标签：** `handoff`, `session-memory`, `cross-platform`, `skill`
-- **推荐理由：** 跨平台会话记忆延续，不同Agent间无缝交接任务。
+- **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
+- **标签：** `agent-memory`, `agentic-rag`, `context-database`, `self-evolving`
+- **推荐理由：** 自演进上下文数据库，统一记忆与RAG
 
 ---
 
-### [Andiii208/dsh-ultramath](https://github.com/Andiii208/dsh-ultramath)
+### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 26
+- **⭐ 星标：** 23,043
+- **语言：** Go
+- **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+- **标签：** `rag`, `vector-search`, `embeddings`, `knowledge-base`
+- **推荐理由：** 开源RAG平台，含语义搜索与推理
+
+---
+
+### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
+
+- **⭐ 星标：** 12,943
 - **语言：** Python
-- **描述：** UltraMath 数学建模竞赛多 Agent 求解 DSH 插件: 5 角色预设 + 33 篇模型库 + 论文模板/审稿脚本随包 + 进度可视化
-- **标签：** `math`, `agent`, `competition`, `modeling`
-- **推荐理由：** 5角色多智能体数学建模竞赛辅助，内置33篇模型库
+- **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
+- **标签：** `agent-memory`, `rag`, `mcp`
+- **推荐理由：** 本地优先的跨Agent持久记忆层，支持长期记忆管理。
 
 ---
 
-### [wowyuarm/dsh-agent-team](https://github.com/wowyuarm/dsh-agent-team)
+### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 25
+- **⭐ 星标：** 11,314
 - **语言：** TypeScript
-- **描述：** Give DeepSeek Harness a persistent agent team: durable Member identities with private memory, notes and skills across sessions. You set the direction — agents coordinate through Channels and Tasks, and manage their own context.
-- **标签：** `multi-agent`, `memory`, `orchestration`
-- **推荐理由：** 持久化多智能体团队，支持跨会话记忆与技能
+- **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
+- **标签：** `memory`, `rag`, `skills`
+- **推荐理由：** 自进化记忆系统，混合检索+35% Token节省。
 
 ---
 
-### [akira399/dsh-godot-skill](https://github.com/akira399/dsh-godot-skill)
+### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 23
-- **语言：** JavaScript
-- **描述：** Godot Engine 4.x 全栈游戏开发技能插件 for DeepSeek Harness (DSH) — registers the godot-4-development skill at runtime
-- **标签：** `godot`, `game`, `gdscript`, `development`
-- **推荐理由：** Godot 4.x全栈游戏开发技能，支持GDScript
+- **⭐ 星标：** 7,156
+- **语言：** Python
+- **描述：**  Memory library for building stateful agents
+- **标签：** `agent-memory`, `rag`, `context-engineering`
+- **推荐理由：** 构建有状态Agent的记忆库，支持持续学习。
 
 ---
 
-### [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh)
+### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ 星标：** 23
+- **⭐ 星标：** 3,452
+- **语言：** Python
+- **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
+- **标签：** `memory`, `rag`, `agent`, `dsh-plugin`
+- **推荐理由：** 专注记忆管理的代理工具集，支持记忆与优化交互
+
+---
+
+### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
+
+- **⭐ 星标：** 2,599
+- **语言：** Python
+- **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
+- **标签：** `memory`, `rag`, `milvus`, `embeddings`, `dsh-plugin`
+- **推荐理由：** 持久统一记忆层，基于Markdown和Milvus向量搜索
+
+---
+
+### [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent)
+
+- **⭐ 星标：** 1,904
 - **语言：** TypeScript
-- **描述：** 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。
-- **标签：** `video`, `remotion`, `design`, `agent-skill`
-- **推荐理由：** 电影感视频制作技能，含152张镜头配方卡
+- **描述：** 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.
+- **标签：** `memory`, `agent`, `RAG`
+- **推荐理由：** 共享持久记忆中枢，让所有AI代理记住上下文
 
 ---
 
-### [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts)
+### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
 
-- **⭐ 星标：** 6
+- **⭐ 星标：** 372
 - **语言：** TypeScript
-- **描述：** 给DSH接入免费的 Xiaomi MiMo TTS API，支持使用预置/自定义/浏览器内置声音朗读正文
-- **标签：** `tts`, `audio`
-- **推荐理由：** 免费小米MiMo语音合成，增强DSH对话体验。
+- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
+- **标签：** `knowledge`, `mcp`, `rag`, `ai-resources`
+- **推荐理由：** AI知识库大全，MCP和RAG资源一站获取
 
 ---
 
-### [777-Zen/dsh-capability-index](https://github.com/777-Zen/dsh-capability-index)
+### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
 
-- **⭐ 星标：** 2
+- **⭐ 星标：** 65
 - **语言：** JavaScript
-- **描述：** 给 DSH agent 的插件库"起飞前检查单"——任务型请求时自动预检插件库并注入 Top-K 适用插件提示，让插件库利用率可预期、不靠运气。Pre-flight plugin-library check for DSH agents — task-type requests trigger a Top-K hint of suitable plugins injected into the runtime context, making plugin usage predictable instead of opportunistic.
-- **标签：** `agent-tools`, `workflow`
-- **推荐理由：** 任务请求前预检插件库并注入Top-K插件
+- **描述：** Proactive associative memory for DSH: zero-prompt recall injected before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
+- **标签：** `memory`, `context`, `deepseek-harness`
+- **推荐理由：** 三层自动巩固的记忆系统，零提示词即可回忆上下文。
 
 ---
 
-## MCP 服务器与工具
+## Agent 技能与工作流
 
-### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 
-- **⭐ 星标：** 47
-- **语言：** JavaScript
-- **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `dsh-plugin`, `mcp`, `cloud`, `huaweicloud`
-- **推荐理由：** 华为云官方工具包：MCP、技能、安全护栏与云沙箱
-
----
-
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
-
-- **⭐ 星标：** 2
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `mcp`
-- **推荐理由：** 通过OAuth绑定ChatGPT账号在DSH中使用
-
----
-
-## 视觉与设计
-
-### [nexu-io/open-design](https://github.com/nexu-io/open-design)
-
-- **⭐ 星标：** 95,995
+- **⭐ 星标：** 72,381
 - **语言：** TypeScript
-- **描述：** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
-- **标签：** `agent-skills`, `ai-design`, `figma-alternative`, `dsh-plugin`
-- **推荐理由：** 开源Figma替代品，本地优先的设计系统
-
----
-
-### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-
-- **⭐ 星标：** 61,085
-- **语言：** JavaScript
-- **描述：** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **标签：** `agent-skills`, `diagrams-as-code`, `mermaid-alternative`, `dsh-plugin`
-- **推荐理由：** 代码生成精美可验证的架构图
+- **描述：** 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
+- **标签：** `agentic-ai`, `multi-agent`, `skills`, `mcp-server`
+- **推荐理由：** 多智能体协作编排与自主工作流
 
 ---
 
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ 星标：** 31,705
+- **⭐ 星标：** 31,785
 - **语言：** JavaScript
 - **描述：** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-- **标签：** `ai-image-generation`, `prompt-engineering`, `skills`, `dsh-plugin`
-- **推荐理由：** 530+图像提示词模板和案例库
+- **标签：** `ai-image-generation`, `skills`, `workflow-automation`, `prompt-engineering`
+- **推荐理由：** 530+工业级图片提示词模板与技能
 
 ---
 
-### [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
+### [titanwings/distilly](https://github.com/titanwings/distilly)
 
-- **⭐ 星标：** 5,921
-- **语言：** Rust
-- **描述：** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **标签：** `design`, `ui`, `vibedesign`
-- **推荐理由：** AI原生矢量设计工具，支持并发代理团队
-
----
-
-### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
-
-- **⭐ 星标：** 1,114
-- **语言：** JavaScript
-- **描述：** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **标签：** `design`, `ppt`, `visual`
-- **推荐理由：** AI驱动设计工作室，支持模板与PPT原型
-
----
-
-### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
-
-- **⭐ 星标：** 445
-- **语言：** TypeScript
-- **描述：** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
-- **标签：** `gui`, `charts`, `ui-components`
-- **推荐理由：** 内联渲染图表、表单等交互式UI组件。
-
----
-
-### [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization)
-
-- **⭐ 星标：** 56
+- **⭐ 星标：** 24,701
 - **语言：** Python
-- **描述：** 把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴。Claude Skill / DeepSeek Harness 通用。
-- **标签：** `dsh-plugin`, `visualization`, `legal`, `diagram`
-- **推荐理由：** 诉讼可视化工具，自动生成时间轴与SVG法律图表
-
----
-
-### [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx)
-
-- **⭐ 星标：** 29
-- **语言：** JavaScript
-- **描述：** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- **标签：** `ai-video`, `ai-image`, `audio`, `storyboard`
-- **推荐理由：** AI视频/图像/音频创作套件，含故事板和可视化配置。
-
----
-
-### [zhaiyateng/dsh-design-skills](https://github.com/zhaiyateng/dsh-design-skills)
-
-- **⭐ 星标：** 22
-- **语言：** JavaScript
-- **描述：** Design aesthetics skill pack for DeepSeek Harness (DSH) - keeps vibe-coded websites away from the AI look. 6 styles: dark-saas, apple-minimal, neo-neumorphism, brutalism, glassmorphism, japanese-minimal.
-- **标签：** `design`, `ui`, `visual`, `theme`
-- **推荐理由：** 6种设计风格包，避免AI生成网站同质化
-
----
-
-## 浏览器与 Web 自动化
-
-### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
-
-- **⭐ 星标：** 20,056
-- **语言：** TypeScript
-- **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **标签：** `browser-extension`, `chat-management`, `prompt-manager`, `dsh-plugin`
-- **推荐理由：** 增强Gemini、Claude和ChatGPT的浏览器扩展套件
-
----
-
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
-
-- **⭐ 星标：** 3,295
-- **语言：** Python
-- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **标签：** `content-discovery`, `browser`, `automation`
-- **推荐理由：** 跨平台内容发现Agent，覆盖B站/抖音/YouTube等主流平台
-
----
-
-### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
-
-- **⭐ 星标：** 1,973
-- **语言：** TypeScript
-- **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser`, `automation`, `agent`
-- **推荐理由：** 让AI无缝使用你已登录的真实浏览器
-
----
-
-### [liustack/modsearch](https://github.com/liustack/modsearch)
-
-- **⭐ 星标：** 475
-- **语言：** TypeScript
-- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **标签：** `web-search`, `free`, `browser`
-- **推荐理由：** 为无原生浏览的模型提供免费网页搜索桥接。
-
----
-
-### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
-
-- **⭐ 星标：** 290
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **标签：** `ios`, `automation`, `simulator`, `mobile`
-- **推荐理由：** 对话内直接操控iOS模拟器/真机，22个Agent自动化指令
-
----
-
-## 实用工具与基础设施
-
-### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
-
-- **⭐ 星标：** 27,188
-- **语言：** TypeScript
-- **描述：** :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
-- **标签：** `electron-app`, `image-uploader`, `dsh-plugin`, `s3`
-- **推荐理由：** 支持60+图床的终极图片上传工具
+- **描述：** Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+- **标签：** `agent-skills`, `knowledge-distillation`, `meta-skill`, `llm-agent`
+- **推荐理由：** 将专家思维模式提炼为可复用技能
 
 ---
 
 ### [nocobase/nocobase](https://github.com/nocobase/nocobase)
 
-- **⭐ 星标：** 24,190
+- **⭐ 星标：** 24,194
 - **语言：** TypeScript
 - **描述：** NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability.
-- **标签：** `low-code`, `no-code`, `internal-tools`, `dsh-plugin`
-- **推荐理由：** AI驱动的开源自建业务系统低代码平台
+- **标签：** `ai-agent`, `no-code`, `internal-tools`, `workflows`
+- **推荐理由：** AI驱动的低代码企业业务平台
 
 ---
 
-### [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)
+### [anbeime/skill](https://github.com/anbeime/skill)
 
-- **⭐ 星标：** 3,837
-- **语言：** TypeScript
-- **描述：** The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
-- **标签：** `marketplace`, `utility`
-- **推荐理由：** DSH官方插件市场，一键安装，统一管理所有插件
-
----
-
-### [edison7009/EchoBird](https://github.com/edison7009/EchoBird)
-
-- **⭐ 星标：** 3,224
-- **语言：** Rust
-- **描述：** One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), DeepSeek Harness, Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,Claude Desktop (3P profile),ChatGPT desktop,OpenCode Desktop,
-- **标签：** `utility`, `installer`, `multi-agent`
-- **推荐理由：** 一键安装Claude Code/Codex/Kimi等多款Agent工具，支持模型切换
-
----
-
-### [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar)
-
-- **⭐ 星标：** 1,464
+- **⭐ 星标：** 6,676
 - **语言：** Python
-- **描述：** DSH Plugin Radar — 开源可自部署的 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测管线；自动索引可用Plugin List
-- **标签：** `ecosystem`, `discovery`, `infrastructure`
-- **推荐理由：** 自部署生态雷达，发现并验证上万个插件
+- **描述：** 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains.
+- **标签：** `skills`, `dsh-plugin`
+- **推荐理由：** 最全技能商店，覆盖开发、自动化等多领域。
 
 ---
 
-### [Unclecheng-li/DeepSec](https://github.com/Unclecheng-li/DeepSec)
+### [huangruiteng/loopx](https://github.com/huangruiteng/loopx)
 
-- **⭐ 星标：** 420
+- **⭐ 星标：** 5,842
 - **语言：** Python
-- **描述：** DeepSec — AI Security Offense & Defense Platform. Shield audits AI-generated code for hallucinated packages, missing safeguards & AI pattern errors in real time. Spear automates authorized penetration testing with 40+ skill packs, from recon to PoC. 
-- **标签：** `security`, `audit`, `vulnerability`
-- **推荐理由：** 审计AI生成代码中��幻觉包和安全漏洞。
+- **描述：** Long-horizon agent control plane for durable, governed work across Codex, Claude Code, and other harnesses.
+- **标签：** `workflow-automation`, `long-horizon`
+- **推荐理由：** 长周期Agent控制面，支持持久化治理工作流。
 
 ---
 
-### [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions)
+### [foryourhealth111-pixel/Vibe-Skills](https://github.com/foryourhealth111-pixel/Vibe-Skills)
 
-- **⭐ 星标：** 342
-- **语言：** TypeScript
-- **描述：** Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys
-- **标签：** `oauth`, `llm-provider`, `infrastructure`
-- **推荐理由：** 免API Key，通过OAuth接入ChatGPT/Claude/Grok作为DSH后端
-
----
-
-### [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin)
-
-- **⭐ 星标：** 333
-- **语言：** JavaScript
-- **描述：** 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。
-- **标签：** `plugin-discovery`, `auto-verify`, `utilities`
-- **推荐理由：** 自动抓取并复核GitHub插件，场景化推荐帮您快速选型
-
----
-
-### [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli)
-
-- **⭐ 星标：** 308
-- **语言：** TypeScript
-- **描述：** Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub
-- **标签：** `cli`, `plugin-manager`, `developer-tools`
-- **推荐理由：** 开源DSH插件Hub CLI与模式解析器，开发者必备工具
-
----
-
-### [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter)
-
-- **⭐ 星标：** 295
-- **语言：** JavaScript
-- **描述：** DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI
-- **标签：** `cost-tracking`, `budget`, `infrastructure`
-- **推荐理由：** 会话/日费用追踪，支持预算预警和API配额监控
-
----
-
-### [vlln/plugin-registry](https://github.com/vlln/plugin-registry)
-
-- **⭐ 星标：** 59
-- **语言：** TypeScript
-- **描述：** DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导
-- **标签：** `dsh-plugin`, `plugin-management`, `ui`
-- **推荐理由：** 零补丁插件管理控制台+官方插件开发引导
-
----
-
-### [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager)
-
-- **⭐ 星标：** 49
-- **语言：** JavaScript
-- **描述：** DSH Skills Manager — 在 DeepSeek Harness 中统一加载并安全管理本机 Agent Skills · Load and safely manage local Agent Skills in DSH
-- **标签：** `dsh-plugin`, `skills`, `plugin-management`
-- **推荐理由：** 统一加载并安全管理本地Agent Skills的集中管理器
-
----
-
-### [Nexus-Aethra/DSHBox](https://github.com/Nexus-Aethra/DSHBox)
-
-- **⭐ 星标：** 29
-- **语言：** Rust
-- **描述：** Manage DeepSeek Harness locally: run multiple DSH versions in isolated containers, open the UI in an embedded WebView, import plugins/skills with one click, share extension bundles, and let a queued task system handle installs with live logs. Zero-dependency installer.
-- **标签：** `containers`, `version-mgmt`, `ui`, `infrastructure`
-- **推荐理由：** 容器隔离运行多版本DSH，内置WebView，插件一键导入。
-
----
-
-### [miniLV/Plexus](https://github.com/miniLV/Plexus)
-
-- **⭐ 星标：** 29
-- **语言：** TypeScript
-- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp`, `configuration`, `multi-tool`, `utils`
-- **推荐理由：** 七种AI Agent工具一键配置MCP/Skills，开发效率大增。
-
----
-
-### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
-
-- **⭐ 星标：** 23
-- **语言：** TypeScript
-- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **标签：** `mcp`, `manager`, `gui`, `settings`
-- **推荐理由：** 在设置页直接管理技能与MCP服务器，便捷实用
-
----
-
-### [rootkiller6788/dsh-launcher](https://github.com/rootkiller6788/dsh-launcher)
-
-- **⭐ 星标：** 22
-- **语言：** Rust
-- **描述：** 释放 DeepSeek Harness 插件化内核能力，将 Runtime、Provider、Plugin、Skill、MCP 等能力统一编排，让 Harness 真正成为可扩展、可组合、可管理的本地 AI 运行平台。
-- **标签：** `infrastructure`, `runtime`, `plugin`, `orchestration`
-- **推荐理由：** 统一编排Runtime、Plugin、MCP等能力的基础设施
-
----
-
-### [white-sand-grand/dsh-plugin-doctor](https://github.com/white-sand-grand/dsh-plugin-doctor)
-
-- **⭐ 星标：** 7
-- **语言：** TypeScript
-- **描述：** 致力于解决各插件之间也与版本之间可能存在的冲突问题并提供解决方案
-- **标签：** `utility`, `debugging`
-- **推荐理由：** 诊断并解决DSH插件冲突和版本兼容问题。
-
----
-
-## 主题与皮肤
-
-### [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
-
-- **⭐ 星标：** 2,068
-- **语言：** TypeScript
-- **描述：** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- **标签：** `skin`, `theme`, `customization`
-- **推荐理由：** 鲸鱼娘系列主题皮肤，可爱装饰性强
-
----
-
-### [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin)
-
-- **⭐ 星标：** 375
-- **语言：** JavaScript
-- **描述：** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **标签：** `theme`, `animated`, `ocean`
-- **推荐理由：** 实时动态海洋主题，可调波浪和透明度效果。
-
----
-
-### [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin)
-
-- **⭐ 星标：** 6
-- **语言：** JavaScript
-- **描述：** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
-- **标签：** `theme`, `customization`
-- **推荐理由：** 支持自定义背景图和多种预设氛围的实时预览。
-
----
-
-## 研究与分析
-
-### [liyupi/ai-guide](https://github.com/liyupi/ai-guide)
-
-- **⭐ 星标：** 19,905
-- **语言：** JavaScript
-- **描述：** 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站
-- **标签：** `ai`, `rag`, `mcp`, `vibe-coding`
-- **推荐理由：** 全面的AI资源库，含教程和提示词大全
-
----
-
-### [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
-
-- **⭐ 星标：** 15,586
+- **⭐ 星标：** 3,286
 - **语言：** Python
-- **描述：** A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-- **标签：** `awesome-list`, `dsh-plugin`
-- **推荐理由：** DSH生态精选插件目录，便于发现优秀插件
+- **描述：** Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.
+- **标签：** `skills`, `workflow`, `agent-skills`, `dsh-plugin`
+- **推荐理由：** 智能技能路由与工作流编排，奖励提升21pp，tokens减少30%
 
 ---
 
-### [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
+### [Alisa0808/vox-director](https://github.com/Alisa0808/vox-director)
 
-- **⭐ 星标：** 15,180
-- **语言：** TypeScript
-- **描述：** Harness engineering beginner tutorial, from 0 to 1
-- **标签：** `agent`, `harness-engineering`, `tutorial`
-- **推荐理由：** 从0到1的DSH工程入门教程
-
----
-
-### [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
-
-- **⭐ 星标：** 2,670
-- **语言：** Rust
-- **描述：** Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
-- **标签：** `documentation`, `research`, `analysis`
-- **推荐理由：** 从代码自动生成技术文档和AI可用上下文，提升可读性
-
----
-
-### [libukai/awesome-deepseek-harness](https://github.com/libukai/awesome-deepseek-harness)
-
-- **⭐ 星标：** 257
-- **语言：** Unknown
-- **描述：** DeepSeek Harness 终极指南：快速入门、资源推荐、���选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit
-- **标签：** `guide`, `awesome-list`, `documentation`
-- **推荐理由：** DSH终极指南：快速入门、精选插件与实用工具合集
-
----
-
-### [hikariming/dshfind](https://github.com/hikariming/dshfind)
-
-- **⭐ 星标：** 256
-- **语言：** JavaScript
-- **描述：** DSH (DeepSeek Harness) 原理学习、插件市场与最佳实践 · Learn DSH principles, plugin marketplace & best practices
-- **标签：** `learning`, `best-practices`, `marketplace`
-- **推荐理由：** DSH原理学习与插件市场最佳实践导航
-
----
-
-### [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness)
-
-- **⭐ 星标：** 249
-- **语言：** TypeScript
-- **描述：** A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh
-- **标签：** `awesome-list`, `curated`, `ecosystem`
-- **推荐理由：** 插件/技能/MCP服务器/Patch层/编排器全面精选清单
-
----
-
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
-
-- **⭐ 星标：** 65
-- **语言：** TypeScript
-- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **标签：** `dsh-plugin`, `api-documentation`, `chinese-api`
-- **推荐理由：** 一键检索20个中国开放平台6.5万篇API文档
-
----
-
-### [yuc16/PatentRadar](https://github.com/yuc16/PatentRadar)
-
-- **⭐ 星标：** 62
+- **⭐ 星标：** 1,888
 - **语言：** Python
-- **描述：** 专利侵权分析系统 —— 输入专利公开号，产出竞品侵权分析报告；同时打包成 skill，可被任意 agent（dsh, codex, claudecode 等） 调用。
-- **标签：** `dsh-plugin`, `patent`, `rag`, `legal-tech`
-- **推荐理由：** 专利侵权RAG分析系统，输入公开号即出竞品报告
+- **描述：** Turn one topic into a finished Vox-style paper-collage explainer/ad video — automated end to end on Atlas Cloud + ffmpeg. An agent skill.
+- **标签：** `video`, `agent-skill`, `generative-ai`
+- **推荐理由：** 端到端自动化生成Vox风格拼贴解说视频
 
 ---
 
-### [Max-Samson/dsh-usage-chart](https://github.com/Max-Samson/dsh-usage-chart)
+### [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer)
 
-- **⭐ 星标：** 10
+- **⭐ 星标：** 859
 - **语言：** TypeScript
-- **描述：** A DeepSeek Harness Web plugin for real-time Token usage, cost estimates, per-round charts, and DeepSeek API balance.
-- **标签：** `data-visualization`, `token-usage`
-- **推荐理由：** 实时Token用量图表和DeepSeek API成本估算。
+- **描述：** AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.
+- **标签：** `writing`, `novel`, `creative`
+- **推荐理由：** 整合世界观构建与审稿的全流程AI小说创作工具
 
 ---
 
-### [the-beating-light-of-the-nail/awesome-dsh-plugin-stock](https://github.com/the-beating-light-of-the-nail/awesome-dsh-plugin-stock)
+### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ 星标：** 8
-- **语言：** Unknown
-- **描述：** Curated vertical list of stock/finance/quant plugins for DeepSeek Harness (dsh) — 24 verified entries, bilingual
-- **标签：** `stock`, `quant`, `finance`
-- **推荐理由：** 24个验证过的股票/量化/金融插件中英双语清单。
-
----
-
-## 其他
-
-### [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
-
-- **⭐ 星标：** 42,775
-- **语言：** TypeScript
-- **描述：** A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- **标签：** `agent-skills`, `dsh-plugin`, `self-hosted`, `typescript`
-- **推荐理由：** 隐私优先的开源简历构建器
-
----
-
-### [crafter-station/petdex](https://github.com/crafter-station/petdex)
-
-- **⭐ 星标：** 4,095
-- **语言：** TypeScript
-- **描述：** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **标签：** `mascot`, `pixel-art`, `community`
-- **推荐理由：** 公开动画宠物画廊，为编码代理增添个性
-
----
-
-### [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)
-
-- **⭐ 星标：** 1,055
+- **⭐ 星标：** 646
 - **语言：** Python
-- **描述：** DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
-- **标签：** `awesome-list`, `curated`, `ecosystem`
-- **推荐理由：** 精心整理的DSH插件与生态资源合集
+- **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora��with retrieval and evaluation tooling included.
+- **标签：** `skill-corpus`, `rag`, `retrieval`
+- **推荐理由：** 将SKILL.md文件转化为可检索的AI技能语料库。
 
 ---
 
-### [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin)
+### [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)
 
-- **⭐ 星标：** 1,008
-- **语言：** Unknown
-- **描述：** A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem
-- **标签：** `awesome-list`, `community`, `plugins`
-- **推荐理由：** 社区精选DSH插件清单与生态工具列表
-
----
-
-### [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop)
-
-- **⭐ 星标：** 727
-- **语言：** TypeScript
-- **描述：** The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.
-- **标签：** `marketplace`, `plugin-shop`
-- **推荐理由：** 每日更新的DSH插件市场，资源丰富全面。
-
----
-
-### [Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins)
-
-- **⭐ 星标：** 573
-- **语言：** Unknown
-- **描述：** Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.
-- **标签：** `awesome-list`, `curated`
-- **推荐理由：** 双语精选插件列表，发现资源的绝佳工具。
-
----
-
-### [WYH66666666/DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
-
-- **⭐ 星标：** 406
+- **⭐ 星标：** 386
 - **语言：** JavaScript
-- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **标签：** `deepseek-harness`, `deepseek-harness-plugin`, `dsh`, `dsh-plugin`, `theme`
-- **推荐理由：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（
+- **描述：** A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.
+- **标签：** `canvas`, `conversation`, `workflow`
+- **推荐理由：** 可视化非线性对话画布，支持分支探索与工作流管理。
 
 ---
 
-### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
+### [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill)
 
-- **⭐ 星标：** 235
-- **语言：** TypeScript
-- **描述：** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
-- **标签：** `command-code`, `commandcode`, `deepseek-harness`, `dsh`, `dsh-plugin`, `llm`, `llm-provider`, `plugin`, `provider`, `typescript`
-- **推荐理由：** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model
-
----
-
-### [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)
-
-- **⭐ 星标：** 233
+- **⭐ 星标：** 374
 - **语言：** Python
-- **描述：** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。
-- **标签：** `academic-search`, `agent-skills`, `arxiv`, `chinese`, `citation-graph`, `citation-management`, `citation-verification`, `claude-code`, `clinicaltrials-gov`, `codex`, `crossref`, `deepseek-harness`, `europe-pmc`, `literature-review`, `mcp`, `mesh`, `openalex`, `pubmed`, `research-workflow`, `semantic-scholar`
-- **推荐理由：** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP
+- **描述：** Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.
+- **标签：** `multimodal`, `ocr`, `video-analysis`
+- **推荐理由：** 赋予AI视听能力，将视频音频转为可验证的时间戳证据。
 
 ---
 
-### [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins)
+### [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh)
 
-- **⭐ 星标：** 232
-- **语言：** JavaScript
-- **描述：** DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com
-- **标签：** `awesome-list`, `catalog`, `deepseek`, `deepseek-harness`, `deepseek-harness-plugins`, `deepseek1024`, `dsh`, `dsh-1024store`, `dsh-bundle`, `dsh-plugin`, `dsh-plugin-market`, `dsh-plugin-verify`, `dsh-plugins`, `dsh-skill`, `marketplace`, `plugin-directory`, `plugin-hub`, `plugin-store`, `plugins`, `registry`
-- **推荐理由：** DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with se
+- **⭐ 星标：** 344
+- **语言：** Python
+- **描述：** DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches. Not affiliated with DeepSeek.
+- **标签：** `creative-writing`, `novel`, `workflows`
+- **推荐理由：** 网文短剧创作专用工作流插件
 
 ---
 
-### [antibrow/dsh-antibrow](https://github.com/antibrow/dsh-antibrow)
+### [RealSeaberry/AutoMCM-Pro](https://github.com/RealSeaberry/AutoMCM-Pro)
 
-- **⭐ 星标：** 225
-- **语言：** JavaScript
-- **描述：** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **标签：** `agent-tools`, `ai-agents`, `android-emulation`, `anti-detect-browser`, `browser-automation`, `browser-fingerprinting`, `deepseek-harness`, `dsh`, `dsh-plugin`, `fingerprint-browser`, `mcp`, `mcp-server`, `playwright`, `residential-proxy`, `web-automation`
-- **推荐理由：** DeepSeek Harness plugin: give your agent a browser with a persistent identity - 
+- **⭐ 星标：** 244
+- **语言：** Python
+- **描述：** 全栈式自动数学建模竞赛Skill，支持 Claude Code / Codex / opencode / DeepSeek Harness。AI 担任 Autopilot，人类担任 Copilot；国赛/美赛通用，GitOps 流水线 + 强制代码自证，可选 addons 模块。
+- **标签：** `math-modeling`, `competition`, `gitops`
+- **推荐理由：** 数学建模竞赛全栈自动化技能
 
 ---
 
 ### [GraySilver/dsh-evolve-modes](https://github.com/GraySilver/dsh-evolve-modes)
 
-- **⭐ 星标：** 207
+- **⭐ 星标：** 206
 - **语言：** TypeScript
 - **描述：** 让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.
-- **标签：** `acceptance-review`, `agent-review`, `ai-agents`, `deepseek-harness`, `dsh`, `dsh-plugin`, `plan-mode`, `prompt-engineering`
-- **推荐理由：** 让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin 
-
----
-
-### [sandbaseai/deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook)
-
-- **⭐ 星标：** 202
-- **语言：** HTML
-- **描述：** Agent-first DeepSeek Harness handbook: 173 source-backed runtime, plugin, MCP, sandbox, evaluation, troubleshooting, multilingual, and 74-resource Awesome ecosystem guides.
-- **标签：** `agent-runtime`, `agentic-ai`, `ai-agents`, `awesome-list`, `deepseek`, `deepseek-harness`, `developer-tools`, `llm`, `mcp`, `sandbox`
-- **推荐理由：** Agent-first DeepSeek Harness handbook: 173 source-backed runtime, plugin, MCP, s
-
----
-
-### [leenkcool/Blue-Whale-Harness](https://github.com/leenkcool/Blue-Whale-Harness)
-
-- **⭐ 星标：** 195
-- **语言：** HTML
-- **描述：** 🐋 DeepSeek Harness 插件总目录 · The catalog of DSH plugins：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文搜索、分类筛选、STAR 排序 → leenkcool.github.io
-- **标签：** `agents`, `awesome`, `awesome-list`, `catalog`, `deepseek`, `deepseek-ai`, `deepseek-harness`, `deepseek-harness-plugin`, `deepseek-harness-plugins`, `directory`, `dsh`, `dsh-plugin`, `dsh-plugins`, `harness`, `harness-ai`, `mcp`, `plugin-catalog`, `plugin-marketplace`, `plugins`, `skills`
-- **推荐理由：** 🐋 DeepSeek Harness 插件总目录 · The catalog of DSH plugins：1958 个仓库 / 1819 个真插件（Skil
+- **标签：** `agent-review`, `plan-mode`, `self-evolving`
+- **推荐理由：** 支持可组合、可审查的Agent模式，实现自我进化工作流。
 
 ---
 
@@ -1562,47 +798,18 @@
 - **⭐ 星标：** 195
 - **语言：** Shell
 - **描述：** 💡 Turn experience into repeatable execution.
-- **标签：** `agent`, `ai`, `architecture`, `claude`, `claude-code`, `codex`, `coding`, `docs`, `dsh`, `gpt`, `grok`, `keel`, `openai`, `skills`
-- **推荐理由：** 💡 Turn experience into repeatable execution.
-
----
-
-### [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote)
-
-- **⭐ 星标：** 189
-- **语言：** TypeScript
-- **描述：** 一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)
-- **标签：** `deepseek`, `dsh-plugin`
-- **推荐理由：** 一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 
-
----
-
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
-
-- **⭐ 星标：** 186
-- **语言：** Python
-- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **推荐理由：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访
-
----
-
-### [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins)
-
-- **⭐ 星标：** 172
-- **语言：** JavaScript
-- **描述：** 帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins
-- **标签：** `agent-skills`, `deepseek-harness`, `dsh-plugin`, `plugin-discovery`
-- **推荐理由：** 帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub pl
+- **标签：** `skills`, `agent`, `architecture`
+- **推荐理由：** 将经验转化为可重复执行技能，支持多AI编码工具。
 
 ---
 
 ### [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills)
 
-- **⭐ 星标：** 170
+- **⭐ 星标：** 171
 - **语言：** Python
 - **描述：** 88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.
-- **标签：** `agent-plugins`, `agent-skills`, `agent-skills-marketplace`, `ai-agents`, `ai-workflows`, `claude-code`, `claude-code-marketplace`, `claude-code-plugin`, `codex-skills`, `cursor-ai`, `deep-research`, `deepseek`, `deepseek-harness`, `fact-checking`, `gemini-cli`, `market-research`, `marketing-automation`, `research-automation`, `research-tools`, `social-listening`
-- **推荐理由：** 88 installable open-source Agent Skills for research, social intelligence, marke
+- **标签：** `agent-skills`, `research-automation`, `market-research`
+- **推荐理由：** 88个开源Agent技能，覆盖研究、营销自动化与社交情报。
 
 ---
 
@@ -1611,18 +818,8 @@
 - **⭐ 星标：** 170
 - **语言：** Python
 - **描述：** 为 Claude Code 赋能多模态视觉能力，适配 纯文本 LLM 底座，用于截图 / UI / 图表分析；搭配 browser-harness 可做前端布局自动化检查。
-- **标签：** `agent-skills`, `anthropic`, `claude-code`, `claude-skills`, `deepseek`, `multimodal`, `python`, `qwen`, `vision`
-- **推荐理由：** 为 Claude Code 赋能多模态视觉能力，适配 纯文本 LLM 底座，用于截图 / UI / 图表分析；搭配 browser-harness 可做前端布局
-
----
-
-### [zhaoolee/notes](https://github.com/zhaoolee/notes)
-
-- **⭐ 星标：** 163
-- **语言：** TypeScript
-- **描述：** 开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片
-- **标签：** `dsh-plugin`, `notes`, `smartisan`
-- **推荐理由：** 开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片
+- **标签：** `vision`, `multimodal`, `agent-skills`
+- **推荐理由：** 为纯文本LLM添加多模态视觉能力，支持截图与UI分析。
 
 ---
 
@@ -1631,66 +828,28 @@
 - **⭐ 星标：** 146
 - **语言：** Python
 - **描述：** A collection of specialized agent skills for AI infrastructure development, enabling Claude Code to write, optimize, and debug high-performance systems.
-- **标签：** `ai-infra`, `dsh`, `dsh-plugin`, `skills`
-- **推荐理由：** A collection of specialized agent skills for AI infrastructure development, enab
-
----
-
-### [beancookie/awesome-dsh-plugin](https://github.com/beancookie/awesome-dsh-plugin)
-
-- **⭐ 星标：** 141
-- **语言：** HTML
-- **描述：** Awesome DeepSeek Harness (DSH) Plugin
-- **标签：** `awesome`, `awesome-list`, `deepseek-harness`, `dsh`, `dsh-plugin`
-- **推荐理由：** Awesome DeepSeek Harness (DSH) Plugin
+- **标签：** `ai-infra`, `dsh-plugin`, `skills`
+- **推荐理由：** AI基础设施专用技能，支持系统编写优化与调试。
 
 ---
 
 ### [dhicoc/dsh-reverse-skill](https://github.com/dhicoc/dsh-reverse-skill)
 
-- **⭐ 星标：** 137
+- **⭐ 星标：** 138
 - **语言：** PowerShell
 - **描述：** Complete reverse-skill (87 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.
-- **标签：** `ctf`, `deepseek-harness`, `dsh-plugin`, `pentest`, `reverse-engineering`, `security`
-- **推荐理由：** Complete reverse-skill (87 SKILL.md) as 
-
----
-
-### [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
-
-- **⭐ 星标：** 126
-- **语言：** TypeScript
-- **描述：** 帮助插件自动随着dsh版本升级的skill
-- **推荐理由：** 帮助插件自动随着dsh版本升级的skill
-
----
-
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
-
-- **⭐ 星标：** 125
-- **语言：** JavaScript
-- **描述：** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **标签：** `deepseek`, `dsh`, `dsh-plugin`, `mcp`, `plugin`, `skills`
-- **推荐理由：** DSH Web UI plugin: skill and MCP managem
+- **标签：** `security`, `pentest`, `reverse-engineering`
+- **推荐理由：** 87个逆向工程技能，适用于授权渗透测试
 
 ---
 
 ### [JingHao-Leon/dsh-alpha-desk](https://github.com/JingHao-Leon/dsh-alpha-desk)
 
-- **⭐ 星标：** 116
+- **⭐ 星标：** 120
 - **语言：** Python
 - **描述：** Alpha Desk — a deepseek-harness (dsh) skill pack that turns an agent session into a compliance-first AI investment desk: multi-strategy fund backtesting via ai-hedge-fund, a tools/pre-execute risk gate, cron monitoring and thesis memory. 把 dsh 会话变成合规、可复现、可追责的 AI 投研工作台。
-- **标签：** `agent-skills`, `ai-hedge-fund`, `backtesting`, `deepseek`, `deepseek-harness`, `dsh`, `fintech`, `investment-research`, `llm-agents`, `mcp`
-- **推荐理由：** Alpha Desk — a deepseek-harness (dsh) sk
-
----
-
-### [web-casa/Awesome-DeepSeek-Harness-Plugins](https://github.com/web-casa/Awesome-DeepSeek-Harness-Plugins)
-
-- **⭐ 星标：** 116
-- **语言：** JavaScript
-- **描述：** Awesome DSH Cordis Plugins — the official, auto-generated list of DeepSeek Harness Cordis plugins, curated by cordis.run 由 cordis.run 精选维护的 DeepSeek Harness Cordis 插件官方自动生成列表。
-- **推荐理由：** Awesome DSH Cordis Plugins — the officia
+- **标签：** `fintech`, `backtesting`, `investment`
+- **推荐理由：** AI投资工作台，支持多策略基金回测分析
 
 ---
 
@@ -1699,48 +858,8 @@
 - **⭐ 星标：** 114
 - **语言：** TypeScript
 - **描述：** Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills.
-- **标签：** `agent-learning`, `agent-skills`, `ai-agent`, `automatic-skill-learning`, `deepseek`, `deepseek-harness`, `dsh-plugin`, `local-first`, `run-to-skill`, `skill-generator`
-- **推荐理由：** Automatically turn successful DeepSeek H
-
----
-
-### [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager)
-
-- **⭐ 星标：** 112
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness (DSH) backup & restore plugin — export, import, migrate and sync your complete DSH configuration, plugins, MCP servers, skills and workspace. One-click migration to another machine.
-- **标签：** `backup`, `config-manager`, `configuration`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-plugin`, `export`, `import`, `mcp`, `migration`, `restore`, `skills`, `sync`, `webdav`
-- **推荐理由：** DeepSeek Harness (DSH) backup & restore 
-
----
-
-### [Sanqi-normal/dsh-webui-market-plugin](https://github.com/Sanqi-normal/dsh-webui-market-plugin)
-
-- **⭐ 星标：** 104
-- **语言：** JavaScript
-- **描述：** dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin.com 插件目录，一键安装/卸载到 profile。Community plugin market for the DeepSeek Harness (dsh) web GUI: browse, install and uninstall plugins into a profile.
-- **标签：** `agent-harness`, `deepseek`, `dsh-plugin`, `plugin-market`, `ui`, `web`
-- **推荐理由：** dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin
-
----
-
-### [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research)
-
-- **⭐ 星标：** 102
-- **语言：** TypeScript
-- **描述：** Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tracking, company research cards, and auditable research reports. Research only - not investment advice.
-- **标签：** `company-research`, `cordis`, `deepseek-harness`, `dsh`, `dsh-plugin`, `industry-research`, `report`, `research`
-- **推荐理由：** Industry and company research domain pac
-
----
-
-### [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)
-
-- **⭐ 星标：** 101
-- **语言：** TypeScript
-- **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `awesome-dsh-plugin`, `browser-automation`, `browser-use`, `deepseek-harness`, `dsh`, `dsh-plugin`, `dsh-plugin-desktop`, `dsh-plugin-market`, `dsh-plugin-verify`, `dsh-plugins`, `playwright`, `tabbit`
-- **推荐理由：** Tabbit Browser plugins for Deepseek Harn
+- **标签：** `skill-generator`, `agent-learning`
+- **推荐理由：** 成功会话自动生成可复用技能，提升效率
 
 ---
 
@@ -1749,18 +868,8 @@
 - **⭐ 星标：** 100
 - **语言：** JavaScript
 - **描述：** Superpowers skill port to Reasonix coding harness.
-- **标签：** `deepseek`, `reasonix`, `skills`
-- **推荐理由：** Superpowers skill port to Reasonix codin
-
----
-
-### [Alex-Yanggg/awesome-DSH-plugin](https://github.com/Alex-Yanggg/awesome-DSH-plugin)
-
-- **⭐ 星标：** 96
-- **语言：** Python
-- **描述：** A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
-- **标签：** `agents`, `awesome`, `awesome-list`, `deepseek`, `dsh-plugin`, `plugins`
-- **推荐理由：** A meticulously curated list of useful pl
+- **标签：** `skills`, `reasonix`, `coding`
+- **推荐理由：** Superpowers技能移植到Reasonix编码框架
 
 ---
 
@@ -1769,18 +878,536 @@
 - **⭐ 星标：** 89
 - **语言：** JavaScript
 - **描述：** Superpowers skills for DeepSeek Harness: TDD, debugging, planning, and collaboration skills adapted from obra/superpowers
-- **标签：** `deepseek-harness`, `dsh-plugin`, `skills`, `superpowers`
-- **推荐理由：** Superpowers skills for DeepSeek Harness:
+- **标签：** `superpowers`, `tdd`, `debugging`
+- **推荐理由：** TDD调试规划技能，源自Superpowers项目
+
+---
+
+### [Lyn-77/ProMentor](https://github.com/Lyn-77/ProMentor)
+
+- **⭐ 星标：** 74
+- **语言：** TypeScript
+- **描述：** ProMentor 是一个 AI Coding Agent Skill。装上它，你的 AI 编程助手立刻化身为导师——扫描项目架构、生成阶梯式 Chapter、带你手写核心逻辑、自动判题、AI Code Review。
+- **标签：** `deepseek-harness`, `dsh-plugin`, `agent-skill`
+- **推荐理由：** AI编程导师，自动生成阶梯式章节并自动判题、Code Review。
+
+---
+
+### [FeatherHunter/dsh-mattpocock-skills-deck](https://github.com/FeatherHunter/dsh-mattpocock-skills-deck)
+
+- **⭐ 星标：** 63
+- **语言：** JavaScript
+- **描述：** Matt Pocock 技能面板（DSH Deck）：安装即自带 25 个工程与效率技能（mattpocock/skills v1.2.3：triage、grilling、wayfinder、handoff 等），右侧面板直接调用，无需手动装技能。当前主力支持 GitHub issue；Markdown 本地文件为预览版；GitLab 暂不在支持范围。希望它能帮你把想法更快变成现实。
+- **标签：** `skills`, `agent`, `deepseek-harness`
+- **推荐理由：** 右侧面板一键调用25个工程技能，含triage和wayfinder。
+
+---
+
+### [linhut/gongwen-skill](https://github.com/linhut/gongwen-skill)
+
+- **⭐ 星标：** 51
+- **语言：** Python
+- **描述：** 公文全流程处理工具——基于 GB/T 9704《党政机关公文格式》 国家标准，面向公文写作、企事业单位材料编制场景，支持 格式检查与修复、内容优化（Word 原生修订+批注/差异对比版）、模板生成、Markdown 转公文、版头版记页码注入、事实核验、风格增强 等完整能力。原生支持 DeepSeek Harness (DSH) 技能系统，打包为可被 AI Agent 直接调用的 Skill，完全自包含，克隆即用。
+- **标签：** `gongwen`, `docx`, `deepseek-harness`
+- **推荐理由：** 公文全流程处理：格式检查、优化、模板生成，符合国标GB/T 9704。
+
+---
+
+### [songyang0603/ds-spec-loop](https://github.com/songyang0603/ds-spec-loop)
+
+- **⭐ 星标：** 40
+- **语言：** Unknown
+- **描述：** Portable Agent Skill for repository-native Spec programming, informed by public DeepSeek Harness engineering patterns.
+- **标签：** `agent-skills`, `spec-programming`, `deepseek-harness`
+- **推荐理由：** 面向DSH的规范驱动开发Skill，支持多平台可移植使用。
+
+---
+
+### [dhicoc/dsh-chinese-traditional-wisdom-skill](https://github.com/dhicoc/dsh-chinese-traditional-wisdom-skill)
+
+- **⭐ 星标：** 37
+- **语言：** TypeScript
+- **描述：** 中华传统智慧（玄枢）AI Agent 技能包的 DeepSeek Harness（dsh）Cordis 插件：八字/紫微/六爻/梅花/奇门/风水/五运六气/体质全融合，本地确定性引擎 + 可视化 Dashboard，一行 dsh plugin add 安装。
+- **标签：** `ai-agent`, `bazi`, `fengshui`, `iching`, `tcm`
+- **推荐理由：** 融合八字风水中医易经，本地确定性引擎
+
+---
+
+### [win4r/deepseek-harness-plugin-creator](https://github.com/win4r/deepseek-harness-plugin-creator)
+
+- **⭐ 星标：** 36
+- **语言：** JavaScript
+- **描述：** Reusable Codex skill for building and validating DeepSeek Harness and Cordis plugins
+- **标签：** `plugin-creator`, `codex`, `dsh-plugin`
+- **推荐理由：** 可复用的插件构建与验证技能
+
+---
+
+### [limuyang2/agent-team](https://github.com/limuyang2/agent-team)
+
+- **⭐ 星标：** 33
+- **语言：** TypeScript
+- **描述：** Multi-agent team collaboration for DeepSeek Harness, with independent models, skills, MCP tools, contexts, and a shared workspace.
+- **标签：** `multi-agent`, `collaboration`, `teamwork`
+- **推荐理由：** 多Agent协作，独立模型技能共享工作区
+
+---
+
+### [fishzjp/qa-skills](https://github.com/fishzjp/qa-skills)
+
+- **⭐ 星标：** 29
+- **语言：** Python
+- **描述：** 让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——11 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）
+- **标签：** `qa`, `testing`, `skill-framework`
+- **推荐理由：** 11项QA技能框架，共享知识库决策矩阵
+
+---
+
+### [PerryLink/dsh-doublecheck](https://github.com/PerryLink/dsh-doublecheck)
+
+- **⭐ 星标：** 29
+- **语言：** TypeScript
+- **描述：** Double-check before you ship: grill the requirements, test the implementation, prove the delivery. An engineering-discipline bundle for DeepSeek Harness.
+- **标签：** `guard`, `quality-gate`, `engineering`
+- **推荐理由：** 工程纪律守门员，校验需求测试交付
+
+---
+
+### [WeirdSky924/agent-handoff-skill](https://github.com/WeirdSky924/agent-handoff-skill)
+
+- **⭐ 星标：** 27
+- **语言：** Python
+- **描述：** Use this cross-platform skill in Codex or Claude Code to establish repository-local continuity memory so a future agent can recover objective, status, decisions, validation, risks, and next actions without relying on previous chat history.
+- **标签：** `handoff`, `memory`, `cross-platform`
+- **推荐理由：** 跨平台Agent交接，本地连续性记忆
+
+---
+
+### [Andiii208/dsh-ultramath](https://github.com/Andiii208/dsh-ultramath)
+
+- **⭐ 星标：** 26
+- **语言：** Python
+- **描述：** UltraMath 数学建模竞赛多 Agent 求解 DSH 插件: 5 角色预设 + 33 篇模型库 + 论文模板/审稿脚本随包 + 进度可视化
+- **标签：** `agent`, `mcm`, `cumcm`, `skill`
+- **推荐理由：** 5角色多Agent数学建模竞赛求解系统。
+
+---
+
+### [wowyuarm/dsh-agent-team](https://github.com/wowyuarm/dsh-agent-team)
+
+- **⭐ 星标：** 25
+- **语言：** TypeScript
+- **描述：** Give DeepSeek Harness a persistent agent team: durable Member identities with private memory, notes and skills across sessions. You set the direction — agents coordinate through Channels and Tasks, and manage their own context.
+- **标签：** `agent-orchestration`, `multi-agent-systems`
+- **推荐理由：** 持久化多Agent团队，跨会话保留记忆与技能。
+
+---
+
+## MCP 服务器与工具
+
+### [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
+
+- **⭐ 星标：** 42,805
+- **语言：** TypeScript
+- **描述：** A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- **标签：** `agent-skills`, `mcp-server`, `self-hosted`, `resume-builder`
+- **推荐理由：** 隐私优先的简历构建器，内置MCP
+
+---
+
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ 星标：** 477
+- **语言：** TypeScript
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `web-search`, `free`, `mcp`
+- **推荐理由：** 免费网页搜索插件，无需注册即可为模型提供搜索能力。
 
 ---
 
 ### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
 
 - **⭐ 星标：** 85
-- **语言：** JavaScript
+- **语言：** TypeScript
 - **描述：** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
-- **标签：** `deepseek-harness`, `dsh-plugin`
-- **推荐理由：** Unified capability menu for DeepSeek Har
+- **标签：** `mcp`, `capability`, `menu`
+- **推荐理由：** 统一菜单管理MCP工具暴露级别和执行模式
+
+---
+
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ 星标：** 65
+- **语言：** TypeScript
+- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **标签：** `api-documentation`, `chinese-api`, `deepseek-harness`
+- **推荐理由：** 在DSH中直接搜索20个中国开放平台6万+篇API文档。
+
+---
+
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+
+- **⭐ 星标：** 47
+- **语言：** JavaScript
+- **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **标签：** `huaweicloud`, `mcp`, `cloud`, `deepseek-harness`
+- **推荐理由：** 华为云官方插件，提供MCP工具、安全护栏和云端沙箱。
+
+---
+
+### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+
+- **⭐ 星标：** 35
+- **语言：** JavaScript
+- **描述：** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
+- **标签：** `ocr`, `vision`, `image-reading`
+- **推荐理由：** 像素级图像OCR工具，支持纯文本模型
+
+---
+
+### [zebbkira/dsh-skills-mcp-manager](https://github.com/zebbkira/dsh-skills-mcp-manager)
+
+- **⭐ 星标：** 23
+- **语言：** TypeScript
+- **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
+- **标签：** `dsh-plugin`
+- **推荐理由：** 在 DSH 设置页管理技能与 MCP 服务器的图形化工具。
+
+---
+
+## 视觉与设计
+
+### [tt-a1i/archify](https://github.com/tt-a1i/archify)
+
+- **⭐ 星标：** 61,541
+- **语言：** JavaScript
+- **描述：** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
+- **标签：** `agent-skills`, `architecture-diagram`, `diagram-as-code`, `mermaid-alternative`
+- **推荐理由：** 含动画的自包含架构可视化图表
+
+---
+
+### [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
+
+- **⭐ 星标：** 5,923
+- **语言：** Rust
+- **描述：** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
+- **标签：** `design`, `ui`, `agent-team`
+- **推荐理由：** AI原生矢量设计工具，支持并发Agent团队协作。
+
+---
+
+### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
+
+- **⭐ 星标：** 1,130
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
+- **标签：** `design`, `PPT`, `visual-editor`
+- **推荐理由：** AI生成可编辑设计系统，含模板市场与PPT工作室
+
+---
+
+### [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)
+
+- **⭐ 星标：** 880
+- **语言：** TypeScript
+- **描述：** [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.
+- **标签：** `vision`, `OCR`, `agent-skill`
+- **推荐理由：** 为纯文本模型打造的视觉工具箱：OCR、图像问答
+
+---
+
+### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
+
+- **⭐ 星标：** 449
+- **语言：** TypeScript
+- **描述：** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
+- **标签：** `ui-components`, `charts`, `visualization`
+- **推荐理由：** 生成交互式内联UI组件，图表表单直接嵌入回复。
+
+---
+
+### [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization)
+
+- **⭐ 星标：** 56
+- **语言：** Python
+- **描述：** 把法律画出来 · Make the Law Visible —— 给法律���的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，或直接读案件材料画准一张时间轴。Claude Skill / DeepSeek Harness 通用。
+- **标签：** `visualization`, `legal`, `diagram`, `svg`
+- **推荐理由：** 从案件材料自动生成诉讼时间轴和可视化图表。
+
+---
+
+### [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx)
+
+- **⭐ 星标：** 30
+- **语言：** JavaScript
+- **描述：** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
+- **标签：** `directorx`, `video`, `image`, `audio`
+- **推荐理由：** AI视频图像音频技能，可配置视觉模型
+
+---
+
+### [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh)
+
+- **⭐ 星标：** 23
+- **语言：** TypeScript
+- **描述：** 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。
+- **标签：** `motion-design`, `remotion`
+- **推荐理由：** 152张镜头配方卡与Remotion模板，打造电影感视频。
+
+---
+
+### [zhaiyateng/dsh-design-skills](https://github.com/zhaiyateng/dsh-design-skills)
+
+- **⭐ 星标：** 22
+- **语言：** JavaScript
+- **描述：** Design aesthetics skill pack for DeepSeek Harness (DSH) - keeps vibe-coded websites away from the AI look. 6 styles: dark-saas, apple-minimal, neo-neumorphism, brutalism, glassmorphism, japanese-minimal.
+- **标签：** `design-system`, `ui`, `vibe-coding`
+- **推荐理由：** 6种设计风格包，避免AI生成的千篇一律视觉。
+
+---
+
+## 浏览器与 Web 自动化
+
+### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
+
+- **⭐ 星标：** 20,060
+- **语言：** TypeScript
+- **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+- **标签：** `browser-extension`, `chat-management`, `chrome-extension`, `prompt-manager`
+- **推荐理由：** 多浏览器AI聊天增强插件套件
+
+---
+
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+
+- **⭐ 星标：** 3,298
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `content-discovery`, `browser`, `multi-platform`, `dsh-plugin`
+- **推荐理由：** 跨平台内容发现代理，本地抓取B站/小红书/YouTube等
+
+---
+
+### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+
+- **⭐ 星标：** 1,979
+- **语言：** TypeScript
+- **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+- **标签：** `browser`, `automation`, `agent`
+- **推荐理由：** AI代理可无缝控制已登录的真实浏览器
+
+---
+
+### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
+
+- **⭐ 星标：** 290
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
+- **标签：** `ios-simulator`, `automation`, `mobile`
+- **推荐理由：** 对话内直接控制iOS模拟器
+
+---
+
+### [antibrow/dsh-antibrow](https://github.com/antibrow/dsh-antibrow)
+
+- **⭐ 星标：** 225
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
+- **标签：** `browser-automation`, `mcp-server`, `anti-detect`
+- **推荐理由：** 持久身份浏览器支持指纹伪装与Android模拟，适合自动化。
+
+---
+
+### [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)
+
+- **⭐ 星标：** 101
+- **语言：** TypeScript
+- **描述：** Tabbit Browser plugins for Deepseek Harness
+- **标签：** `browser`, `automation`, `playwright`
+- **推荐理由：** Tabbit浏览器自动化插件，支持Playwright
+
+---
+
+## 实用工具与基础设施
+
+### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
+
+- **⭐ 星标：** 27,191
+- **语言：** TypeScript
+- **描述：** :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+- **标签：** `electron-app`, `image-uploader`, `s3`, `cloudflare-r2`
+- **推荐理由：** 支持60+图床的通用图片上传工具
+
+---
+
+### [edison7009/EchoBird](https://github.com/edison7009/EchoBird)
+
+- **⭐ 星标：** 3,226
+- **语言：** Rust
+- **描述：** One-click install + model switch:Claude Code,Codex CLI (OpenAI), Grok Build (xAI), DeepSeek Harness, Kimi Code (Moonshot) ,Qwen Code,Aider,OpenCode,MiMo Code (Xiaomi),ZCode (Z.AI),OpenClaw,Pi,OpenScience,Vibe-Trading,Claude Desktop (3P profile),ChatGPT desktop,OpenCode Desktop,
+- **标签：** `utility`, `model-switch`, `multi-agent`, `dsh-plugin`
+- **推荐理由：** 一键安装并切换多种编码代理和模型，统一管理平台
+
+---
+
+### [AdamPlatin123/dsh-plugin-radar](https://github.com/AdamPlatin123/dsh-plugin-radar)
+
+- **⭐ 星标：** 1,466
+- **语言：** Python
+- **描述：** DSH Plugin Radar — 开源可自部署的 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测管线；自动索引可用Plugin List
+- **标签：** `plugin`, `registry`, `infrastructure`
+- **推荐理由：** 自部署插件雷达，k8s级实测发现15900+候选
+
+---
+
+### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
+
+- **⭐ 星标：** 1,372
+- **语言：** TypeScript
+- **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
+- **标签：** `context`, `dashboard`, `utility`
+- **推荐理由：** 最佳上下文洞察工具，含仪表板与侧边栏视图
+
+---
+
+### [Unclecheng-li/DeepSec](https://github.com/Unclecheng-li/DeepSec)
+
+- **⭐ 星标：** 420
+- **语言：** Python
+- **描述：** DeepSec — AI Security Offense & Defense Platform. Shield audits AI-generated code for hallucinated packages, missing safeguards & AI pattern errors in real time. Spear automates authorized penetration testing with 40+ skill packs, from recon to PoC. 
+- **标签：** `security`, `cybersecurity`, `audit`
+- **推荐理由：** AI安全攻防平台，检测幻觉包与安全漏洞。
+
+---
+
+### [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions)
+
+- **⭐ 星标：** 342
+- **语言：** TypeScript
+- **描述：** Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys
+- **标签：** `authentication`, `providers`, `oauth`
+- **推荐理由：** 免API Key订阅接入多模型
+
+---
+
+### [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter)
+
+- **⭐ 星标：** 295
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI
+- **标签：** `cost-tracking`, `budget`, `analytics`
+- **推荐理由：** 全模型成本追踪与预算管理
+
+---
+
+### [hikariming/dshfind](https://github.com/hikariming/dshfind)
+
+- **⭐ 星标：** 258
+- **语言：** JavaScript
+- **描述：** DSH (DeepSeek Harness) 原理学习、插件市场与最佳实践 · Learn DSH principles, plugin marketplace & best practices
+- **标签：** `learning`, `marketplace`, `best-practices`
+- **推荐理由：** 原理学习与最佳实践导航
+
+---
+
+### [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins)
+
+- **⭐ 星标：** 233
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与��式校验，免费搜索 API。deepseek1024.com
+- **标签：** `awesome-list`, `plugin-store`, `marketplace`
+- **推荐理由：** 收录11000+插件的 Marketplace，支持搜索排行与免费API。
+
+---
+
+### [sandbaseai/deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook)
+
+- **⭐ 星标：** 202
+- **语言：** HTML
+- **描述：** Agent-first DeepSeek Harness handbook: 173 source-backed runtime, plugin, MCP, sandbox, evaluation, troubleshooting, multilingual, and 74-resource Awesome ecosystem guides.
+- **标签：** `handbook`, `awesome-list`, `developer-tools`
+- **推荐理由：** 覆盖运行时、插件、MCP的综合手册，173个资源参考资料。
+
+---
+
+### [leenkcool/Blue-Whale-Harness](https://github.com/leenkcool/Blue-Whale-Harness)
+
+- **⭐ 星标：** 195
+- **语言：** HTML
+- **描述：** 🐋 DeepSeek Harness 插件总目录 · The catalog of DSH plugins：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文搜索、分类筛选、STAR 排序 → leenkcool.github.io
+- **标签：** `awesome-list`, `catalog`, `plugin-marketplace`
+- **推荐理由：** 1958个仓库的插件目录，支持中英文搜索与STAR排序。
+
+---
+
+### [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote)
+
+- **⭐ 星标：** 189
+- **语言：** TypeScript
+- **描述：** 一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)
+- **标签：** `remote-access`, `dsh-plugin`, `p2p`
+- **推荐理由：** 多端加密远程访问方案，支持PC/Android/Web操作Harness。
+
+---
+
+### [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins)
+
+- **⭐ 星标：** 172
+- **语言：** JavaScript
+- **描述：** 帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins
+- **标签：** `plugin-discovery`, `agent-skills`, `dsh-plugin`
+- **推荐理由：** 自动搜索安装验证GitHub插件的DSH技能，发现插件便捷。
+
+---
+
+### [beancookie/awesome-dsh-plugin](https://github.com/beancookie/awesome-dsh-plugin)
+
+- **⭐ 星标：** 142
+- **语言：** HTML
+- **描述：** Awesome DeepSeek Harness (DSH) Plugin
+- **标签：** `awesome-list`, `plugin-directory`
+- **推荐理由：** 精选DSH插件目录，便于插件发现和参考
+
+---
+
+### [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
+
+- **⭐ 星标：** 126
+- **语言：** TypeScript
+- **描述：** 帮助插件自动随着dsh版本升级的skill
+- **标签：** `upgrade`, `plugin-management`
+- **推荐理由：** 插件随DSH版本自动升级，减少维护成本
+
+---
+
+### [web-casa/Awesome-DeepSeek-Harness-Plugins](https://github.com/web-casa/Awesome-DeepSeek-Harness-Plugins)
+
+- **⭐ 星标：** 116
+- **语言：** JavaScript
+- **描述：** Awesome DSH Cordis Plugins — the official, auto-generated list of DeepSeek Harness Cordis plugins, curated by cordis.run 由 cordis.run 精选维护的 DeepSeek Harness Cordis 插件官方自动生成列表。
+- **标签：** `awesome-list`, `plugin-directory`
+- **推荐理由：** 官方自动生成插件目录，由cordis.run维护
+
+---
+
+### [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager)
+
+- **⭐ 星标：** 112
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness (DSH) backup & restore plugin — export, import, migrate and sync your complete DSH configuration, plugins, MCP servers, skills and workspace. One-click migration to another machine.
+- **标签：** `backup`, `config`, `migration`
+- **推荐理由：** DSH配置完整备份恢复迁移，支持WebDAV同步
+
+---
+
+### [Alex-Yanggg/awesome-DSH-plugin](https://github.com/Alex-Yanggg/awesome-DSH-plugin)
+
+- **⭐ 星标：** 96
+- **语言：** Python
+- **描述：** A meticulously curated list of useful plugins, extensions, tools and development resources built for DSH, covering productivity enhancement, functional expansion, debugging utilities and custom development modules.
+- **标签：** `awesome-list`, `productivity`
+- **推荐理由：** 精选生产力和开发资源列表，覆盖多场景
 
 ---
 
@@ -1790,7 +1417,27 @@
 - **语言：** Python
 - **描述：** 🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH: a community-maintained catalog of DeepSeek Harness plugins, auto-synced from the dsh-plugin topic
 - **标签：** `dsh-plugin`, `plugin-marketplace`, `awesome-list`
-- **推荐理由：** 社区插件聚合目录，每4小时自动同步维护
+- **推荐理由：** 社区自动维护的插件精选目录，4小时同步更新。
+
+---
+
+### [vlln/plugin-registry](https://github.com/vlln/plugin-registry)
+
+- **⭐ 星标：** 59
+- **语言：** TypeScript
+- **描述：** DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导
+- **标签：** `plugin-management`, `console`, `ui`
+- **推荐理由：** DSH插件生态基建，浏览器控制台管理官方仓库插件。
+
+---
+
+### [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager)
+
+- **⭐ 星标：** 49
+- **语言：** JavaScript
+- **描述：** DSH Skills Manager — 在 DeepSeek Harness 中统一加载并安全管理本机 Agent Skills · Load and safely manage local Agent Skills in DSH
+- **标签：** `dsh-plugin`, `skills-manager`, `deepseek-harness`
+- **推荐理由：** 在DSH中统一加载并安全管理本机Agent Skills的工具。
 
 ---
 
@@ -1799,8 +1446,8 @@
 - **⭐ 星标：** 42
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness (DSH) 插件精选目录 — 14 类 280+ 个社区插件，覆盖 MCP / Skill / TUI / 多 Agent / 上下文记忆 / UI 皮肤，点链接直达仓库。Curated directory of dsh plugins for DeepSeek Harness.
-- **标签：** `dsh-plugin`, `awesome-list`, `plugins`
-- **推荐理由：** 14类280+精选社区插件索引，点链接直达仓库
+- **标签：** `awesome-list`, `dsh-plugin`, `plugin-marketplace`
+- **推荐理由：** 精选280+插件目录，14大类，点击直达各仓库。
 
 ---
 
@@ -1809,8 +1456,38 @@
 - **⭐ 星标：** 38
 - **语言：** TypeScript
 - **描述：** Installable DSH bundle: the dsh-plugin-guide plugin-development knowledge base as an on-demand agent skill. Official docs archive (EN/ZH), Cordis primer, 114-repo community archive, 1654 archived Discussions, 20+ battle-tested pitfalls.
-- **标签：** `dsh-plugin`, `plugin-development`, `knowledge-base`
-- **推荐理由：** 可安装插件开发知识库，含官方中英文档与Cordis指南
+- **标签：** `plugin-development`, `knowledge-base`, `dsh-plugin`
+- **推荐理由：** DSH插件开发知识库，以可安装Skill形式按需调用。
+
+---
+
+### [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor)
+
+- **⭐ 星标：** 29
+- **语言：** TypeScript
+- **描述：** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
+- **标签：** `context`, `audit`, `ui`
+- **推荐理由：** 审计指令链，检测重复冲突，Web面板
+
+---
+
+### [Nexus-Aethra/DSHBox](https://github.com/Nexus-Aethra/DSHBox)
+
+- **⭐ 星标：** 29
+- **语言：** Rust
+- **描述：** Manage DeepSeek Harness locally: run multiple DSH versions in isolated containers, open the UI in an embedded WebView, import plugins/skills with one click, share extension bundles, and let a queued task system handle installs with live logs. Zero-dependency installer.
+- **标签：** `container`, `management`, `isolation`
+- **推荐理由：** 隔离容器运行多版本DSH，内置WebView
+
+---
+
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+
+- **⭐ 星标：** 29
+- **语言：** TypeScript
+- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **标签：** `config`, `mcp`, `multi-agent`, `setup`
+- **推荐理由：** 一键配置多Agent工具MCP与技能规则
 
 ---
 
@@ -1819,8 +1496,17 @@
 - **⭐ 星标：** 27
 - **语言：** TypeScript
 - **描述：** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
-- **标签：** `api`, `documentation`, `skillhub`
-- **推荐理由：** 腾讯官方 SkillHub API 文档与示例，适合集成参考
+- **推荐理由：** 腾讯官方 SkillHub Open API 文档与示例。
+
+---
+
+### [rootkiller6788/dsh-launcher](https://github.com/rootkiller6788/dsh-launcher)
+
+- **⭐ 星标：** 22
+- **语言：** Rust
+- **描述：** 释放 DeepSeek Harness 插件化内核能力，将 Runtime、Provider、Plugin、Skill、MCP 等能力统一编排，让 Harness 真正成为可扩展、可组合、可管理的本地 AI 运行平台。
+- **标签：** `cordis`, `cordis-plugin`
+- **推荐理由：** 统一编排Runtime/Provider/Plugin/Skill/MCP能力。
 
 ---
 
@@ -1829,8 +1515,7 @@
 - **⭐ 星标：** 16
 - **语言：** TypeScript
 - **描述：** Unofficial community catalog for DeepSeek Harness plugins.
-- **标签：** `awesome-list`, `catalog`, `community`
-- **推荐理由：** 社区非官方DSH插件目录，便于发现新插件
+- **推荐理由：** 社区维护的DSH插件非官方目录。
 
 ---
 
@@ -1839,8 +1524,8 @@
 - **⭐ 星标：** 14
 - **语言：** Python
 - **描述：** A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表
-- **标签：** `awesome-list`, `curated`, `discovery`
-- **推荐理由：** 精选DSH插件列表，快速发现优质插件
+- **标签：** `awesome`, `awesome-list`
+- **推荐理由：** 精选DSH插件列表，便于快速发现。
 
 ---
 
@@ -1849,188 +1534,48 @@
 - **⭐ 星标：** 14
 - **语言：** JavaScript
 - **描述：** Awesome DeepSeek Harness (dsh) — curated awesome list of plugins, tools, skills & resources. Everything is a plugin.
-- **标签：** `awesome-list`, `resources`, `comprehensive`
-- **推荐理由：** 全面的DSH资源大全，涵盖插件、技能与工具
+- **标签：** `awesome`, `awesome-list`, `mcp`
+- **推荐理由：** DSH插件、技能与资源的全面精选列表。
 
 ---
 
-### [white0dew/awesome-dsh-plugins](https://github.com/white0dew/awesome-dsh-plugins)
-
-- **⭐ 星标：** 12
-- **语言：** TypeScript
-- **描述：** Awesome DSH Plugins: a public GitHub directory for DeepSeek Harness plugins, DSH plugins, install commands, and ecosystem discovery.
-- **标签：** `awesome-list`, `plugin-directory`
-- **推荐理由：** DSH插件生态发现与安装指南的精选目录。
-
----
-
-### [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins)
+### [faerryn/plogins.nvim](https://github.com/faerryn/plogins.nvim)
 
 - **⭐ 星标：** 11
-- **语言：** JavaScript
-- **描述：** Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles, and skills. 
-- **标签：** `awesome-list`, `registry`
-- **推荐理由：** 官方过滤垃圾信息的DSH插件与技能注册表。
+- **语言：** Lua
+- **描述：** A fast, simple, and elegant Neovim plugin manager written in Lua!
+- **标签：** `neovim`, `plugin-manager`
+- **推荐理由：** 快速优雅的Neovim插件管理器，Lua编写。
 
 ---
 
-### [cccakeee/awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins)
+### [Max-Samson/dsh-usage-chart](https://github.com/Max-Samson/dsh-usage-chart)
 
-- **⭐ 星标：** 8
-- **语言：** Python
-- **描述：** A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.
-- **标签：** `awesome-list`, `curated-list`
-- **推荐理由：** 基于证据的插件清单，含权限安装指导。
+- **⭐ 星标：** 10
+- **语言：** TypeScript
+- **描述：** A DeepSeek Harness Web plugin for real-time Token usage, cost estimates, per-round charts, and DeepSeek API balance.
+- **标签：** `cost`, `data-visualization`, `deepseek-api`
+- **推荐理由：** 实时Token用量和费用可视化图表。
 
 ---
 
-### [Herdeny/awesome-dsh-plugins-2026](https://github.com/Herdeny/awesome-dsh-plugins-2026)
+### [white-sand-grand/dsh-plugin-doctor](https://github.com/white-sand-grand/dsh-plugin-doctor)
 
 - **⭐ 星标：** 7
-- **语言：** Python
-- **描述：** Curated list of DeepSeek Harness (DSH) plugins for 2026, with quality check.
-- **标签：** `awesome-list`, `curated-list`
-- **推荐理由：** 2026年经过质量检��的精选DSH插件清单。
-
----
-
-### [GordenSun/awesome-dsh-plugins](https://github.com/GordenSun/awesome-dsh-plugins)
-
-- **⭐ 星标：** 5
-- **语言：** Unknown
-- **描述：** 好用的DeepSeek Harness插件集合
-- **标签：** `awesome-list`
-- **推荐理由：** 好用的DSH插件通用集合。
-
----
-
-### [kingselyjoe/awesome-dsh-list](https://github.com/kingselyjoe/awesome-dsh-list)
-
-- **⭐ 星标：** 5
-- **语言：** Unknown
-- **描述：** 🐳 DeepSeek Harness（DSH）工具全量清单——GitHub topic:dsh-plugin 生态 1000+ 仓库按 star 排序。Awesome list for DeepSeek Harness tools.
-- **标签：** `awesome-list`, `directory`
-- **推荐理由：** 按Star排序的1000+ DSH工具全量清单。
-
----
-
-### [jqueryscript/awesome-dsh-plugins](https://github.com/jqueryscript/awesome-dsh-plugins)
-
-- **⭐ 星标：** 3
-- **语言：** Python
-- **描述：** Verified, star-ranked community plugins for DeepSeek Harness (dsh).
-- **标签：** `awesome-list`, `dsh-plugin`
-- **推荐理由：** 社区精选插件目录，按星标排序
-
----
-
-### [arkyu2077/awesome-dsh-plugin](https://github.com/arkyu2077/awesome-dsh-plugin)
-
-- **⭐ 星标：** 3
-- **语言：** Unknown
-- **描述：** 面向 DeepSeek Harness 用户的插件产品说明书与导航：按场景选插件，了解安装、权限、兼容性和风险
-- **标签：** `awesome-list`, `plugin-directory`
-- **推荐理由：** 插件产品说明书，按场景导航选插件
-
----
-
-### [cxdyun/dsh-skills-marketplace](https://github.com/cxdyun/dsh-skills-marketplace)
-
-- **⭐ 星标：** 3
 - **语言：** TypeScript
-- **描述：** DeepSeek Harness 版本的类 CodeX 插件市场
-- **标签：** `marketplace`, `dsh-plugin-bundle`
-- **推荐理由：** DeepSeek Harness版本类CodeX插件市场
+- **描述：** 致力于解决各插件之间也与版本之间可能存在的冲突问题并提供解决方案
+- **标签：** `utilities`, `plugin-management`
+- **推荐理由：** 诊断并解决DSH插件冲突问题。
 
 ---
 
-### [tanle-mtr/dsh-plogin-plugin-recommender](https://github.com/tanle-mtr/dsh-plogin-plugin-recommender)
+### [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts)
 
-- **⭐ 星标：** 2
-- **语言：** JavaScript
-- **描述：** The most comprehensive AI-curated list of DeepSeek Harness (DSH) plugins - 190+ plugins, 12 categories, updated hourly by AI.
-- **标签：** `awesome-list`, `mcp`
-- **推荐理由：** AI策展的190+插件列表，每小时更新
-
----
-
-### [wgd753/awesome-dsh-plugin](https://github.com/wgd753/awesome-dsh-plugin)
-
-- **⭐ 星标：** 2
-- **语言：** Python
-- **描述：** Awesome dsh plugin list — automated DeepSeek Harness plugin directory. Daily GitHub Actions crawl of topic:dsh-plugin / topic:deepseek-harness, bilingual README + machine-readable JSON/CSV
-- **标签：** `catalog`, `awesome-list`
-- **推荐理由：** 自动每日爬取的双语插件目录
-
----
-
-### [DSH-APP/awesome-dsha-plugins](https://github.com/DSH-APP/awesome-dsha-plugins)
-
-- **⭐ 星标：** 2
-- **语言：** Unknown
-- **描述：** DSHA精选插件合集
-- **标签：** `awesome-list`
-- **推荐理由：** 官方DSHA精选插件合集
-
----
-
-### [dongsheng123132/awesome-dsh-plugins](https://github.com/dongsheng123132/awesome-dsh-plugins)
-
-- **⭐ 星标：** 2
-- **语言：** JavaScript
-- **描述：** Evidence-backed DeepSeek Harness plugin radar and 2Origin plugin lab
-- **标签：** `awesome-list`, `plugin-registry`
-- **推荐理由：** 基于证据的插件雷达与2Origin插件实验室
-
----
-
-### [cooljser/dsh-plugin-portal](https://github.com/cooljser/dsh-plugin-portal)
-
-- **⭐ 星标：** 2
-- **语言：** JavaScript
-- **描述：** DSH Plugin Portal — a zero-dependency static web portal for the awesome-dsh-plugin curated list. Discover, filter and install 227+ DeepSeek Harness (dsh) plugins.
-- **标签：** `portal`, `web`
-- **推荐理由：** 零依赖静态网页，发现227+插件
-
----
-
-### [zoahdev/dsh-plugin-search](https://github.com/zoahdev/dsh-plugin-search)
-
-- **⭐ 星标：** 2
+- **⭐ 星标：** 6
 - **语言：** TypeScript
-- **描述：** Plugin discoverability for DeepSeek Harness: search npm + awesome-dsh-plugin, look up packages, browse the curated list — from inside dsh agents (answers discussion #1715).
-- **标签：** `search`, `discoverability`
-- **推荐理由：** 在agent内搜索npm和精选列表中的插件
-
----
-
-### [ZeroPointRepo/awesome-dsh-plugins](https://github.com/ZeroPointRepo/awesome-dsh-plugins)
-
-- **⭐ 星标：** 1
-- **语言：** Python
-- **描述：** DSH plugins directory: 80+ verified DeepSeek Harness plugins, organized by what they do.
-- **标签：** `awesome-list`, `plugins`
-- **推荐理由：** 80+经验证的DSH插件，按功能分类
-
----
-
-### [oslook/awesome-dsh-plugins](https://github.com/oslook/awesome-dsh-plugins)
-
-- **⭐ 星标：** 1
-- **语言：** Unknown
-- **描述：** Deekseek Harness Plugins
-- **标签：** `dsh-plugins`, `verify`
-- **推荐理由：** 含验证与分析功能的DSH插件仓库
-
----
-
-### [awesome-dsh-plugins/awesome-dsh-plugins](https://github.com/awesome-dsh-plugins/awesome-dsh-plugins)
-
-- **⭐ 星标：** 1
-- **语言：** Unknown
-- **描述：** Moved → github.com/awesome-dsh-plugin/awesome-dsh-plugin
-- **标签：** `awesome-list`, `redirect`
-- **推荐理由：** 已迁移至新仓库
+- **描述：** 给DSH接入免费的 Xiaomi MiMo TTS API，支持使用预置/自定义/浏览器内置声音朗读正文
+- **标签：** `tts`, `utility`
+- **推荐理由：** 接入免费小米MiMo TTS语音朗读。
 
 ---
 
@@ -2039,8 +1584,8 @@
 - **⭐ 星标：** 1
 - **语言：** TypeScript
 - **描述：** Evidence-led bilingual directory of DeepSeek Harness plugins, reviewed at immutable commits.
-- **标签：** `awesome-list`, `bilingual`, `plugin-directory`
-- **推荐理由：** 双语审核插件目录，基于不可变提交评审，适合入门参考。
+- **标签：** `awesome-list`, `deepseek-harness`, `dsh-plugin`
+- **推荐理由：** 双语插件目录，经不可变提交审核。
 
 ---
 
@@ -2049,8 +1594,8 @@
 - **⭐ 星标：** 1
 - **语言：** Unknown
 - **描述：** DSH插件
-- **标签：** `plugin-list`, `dsh`, `simple`
-- **推荐理由：** 基础DSH插件列表，社区维护，适合快速查找插件。
+- **标签：** `dsh-plugin`
+- **推荐理由：** 简洁的DSH插件列表，便于快速查阅。
 
 ---
 
@@ -2059,8 +1604,462 @@
 - **⭐ 星标：** 1
 - **语言：** JavaScript
 - **描述：** A curated, auto-updating list of plugins for DeepSeek Harness (dsh). Data-driven: YAML entries + scripts auto-generate bilingual README and a Vercel site; a daily GitHub Action crawler discovers new dsh plugins, classifies them, and writes back.
-- **标签：** `awesome-list`, `auto-update`, `data-driven`, `bilingual`
-- **推荐理由：** 数据驱动自动更新插件目录，YAML管理+Vercel部署，持续同步。
+- **标签：** `awesome-list`, `deepseek-harness`, `dsh-plugin`
+- **推荐理由：** 数据驱动自动更新，支持Vercel部署。
+
+---
+
+## 主题与皮肤
+
+### [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale)
+
+- **⭐ 星标：** 2,073
+- **语言：** TypeScript
+- **描述：** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
+- **标签：** `skin`, `theme`, `desktop`
+- **推荐理由：** 鲸鱼娘系列可爱皮肤，美化DeepSeek Harness界面
+
+---
+
+### [WYH66666666/DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
+
+- **⭐ 星标：** 405
+- **语言：** JavaScript
+- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片��玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **标签：** `theme`, `glassmorphism`, `customization`
+- **推荐理由：** 高度可定制的磨砂玻璃主题，支持自定义透明度与背景。
+
+---
+
+### [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin)
+
+- **⭐ 星标：** 377
+- **语言：** JavaScript
+- **描述：** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
+- **标签：** `theme`, `animated`, `ocean`
+- **推荐理由：** 动态海洋主题，可调海浪与日落效果，支持DSH扩展。
+
+---
+
+### [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin)
+
+- **⭐ 星标：** 6
+- **语言：** JavaScript
+- **描述：** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
+- **标签：** `themes`, `webui`, `background`
+- **推荐理由：** DSH Web界面背景个性化主题插件。
+
+---
+
+## 研究与分析
+
+### [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
+
+- **⭐ 星标：** 2,685
+- **语言：** Rust
+- **描述：** Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
+- **标签：** `documentation`, `wiki`, `code-analysis`, `dsh-plugin`
+- **推荐理由：** 快速生成准确技���文档和AI可用上下文，适合代码库分析
+
+---
+
+### [Jesseovo/last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn)
+
+- **⭐ 星标：** 1,784
+- **语言：** Python
+- **描述：** last30days-cn 是一个 AI Agent 技能（Skill），能够自动搜索中国互联网 8 大主流平台最近 30 天的内容，综合分析后生成有据可查的研究报告。
+- **标签：** `research`, `web-search`, `agent-skill`
+- **推荐理由：** 自动搜索8大中文平台生成30天研究报告
+
+---
+
+### [1692775560/dsh-Mimir-Academic-research](https://github.com/1692775560/dsh-Mimir-Academic-research)
+
+- **⭐ 星标：** 384
+- **语言：** TypeScript
+- **描述：** Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.
+- **标签：** `research`, `latex`, `academic`
+- **推荐理由：** 一站式科研工作台，LaTeX写作与实验追踪全覆盖。
+
+---
+
+### [bruc3van/awesome-dsh-plugin](https://github.com/bruc3van/awesome-dsh-plugin)
+
+- **⭐ 星标：** 335
+- **语言：** JavaScript
+- **描述：** 30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。
+- **标签：** `discovery`, `curation`, `directory`
+- **推荐理由：** 每日自动扫描精选插件目录
+
+---
+
+### [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness)
+
+- **⭐ 星标：** 260
+- **语言：** TypeScript
+- **描述：** A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh
+- **标签：** `awesome-list`, `curated`, `reference`
+- **推荐理由：** 精选插件技能MCP可视化指南
+
+---
+
+### [libukai/awesome-deepseek-harness](https://github.com/libukai/awesome-deepseek-harness)
+
+- **⭐ 星标：** 260
+- **语言：** Unknown
+- **描述：** DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit
+- **标签：** `guide`, `quickstart`, `beginner`
+- **推荐理由：** 新手入门终极指南和工具包
+
+---
+
+### [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)
+
+- **⭐ 星标：** 237
+- **语言：** Python
+- **描述：** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。
+- **标签：** `academic-search`, `mcp`, `research-workflow`
+- **推荐理由：** 跨库学术检索支持引文图谱与核验，中文科研用户首选。
+
+---
+
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+
+- **⭐ 星标：** 186
+- **语言：** Python
+- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **标签：** `finance`, `mcp`, `multi-agent`
+- **推荐理由：** 基于Tushare的金融数据库，支持多Agent分析与IM盯盘。
+
+---
+
+### [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research)
+
+- **⭐ 星标：** 105
+- **语言：** TypeScript
+- **描述：** Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tracking, company research cards, and auditable research reports. Research only - not investment advice.
+- **标签：** `research`, `industry`, `report`
+- **推荐理由：** 行业研究方法学，支持政策新闻追踪分析
+
+---
+
+### [yuc16/PatentRadar](https://github.com/yuc16/PatentRadar)
+
+- **⭐ 星标：** 62
+- **语言：** Python
+- **描述：** 专利侵权分析系统 —— 输入专利公开号，产出竞品侵权分析报告；同时打包成 skill，可被任意 agent（dsh, codex, claudecode 等） 调用。
+- **标签：** `patent`, `legal-tech`, `rag`, `multi-agent`
+- **推荐理由：** 输入专利号自动生成竞品侵权分析报告，支持多agent调用。
+
+---
+
+### [FTShare-Lab/dsh_kline](https://github.com/FTShare-Lab/dsh_kline)
+
+- **⭐ 星标：** 27
+- **语言：** HTML
+- **描述：** 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。
+- **标签：** `awesome-deepseek-harness`, `dsh-better-sidebar`, `dsh-plugin-market`
+- **推荐理由：** 交互式K线图，支持技术指标与基本面分析。
+
+---
+
+### [the-beating-light-of-the-nail/awesome-dsh-plugin-stock](https://github.com/the-beating-light-of-the-nail/awesome-dsh-plugin-stock)
+
+- **⭐ 星标：** 8
+- **语言：** Unknown
+- **描述：** Curated vertical list of stock/finance/quant plugins for DeepSeek Harness (dsh) — 24 verified entries, bilingual
+- **标签：** `finance`, `stock`, `quant`
+- **推荐理由：** 24个股票/金融/量化DSH插件精选列表。
+
+---
+
+## 其他
+
+### [liyupi/ai-guide](https://github.com/liyupi/ai-guide)
+
+- **⭐ 星标：** 19,923
+- **语言：** JavaScript
+- **描述：** 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站
+- **标签：** `ai`, `ai-agent`, `vibe-coding`
+- **推荐理由：** 最全AI资源大全，Vibe Coding零基础教程精选。
+
+---
+
+### [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
+
+- **⭐ 星标：** 15,640
+- **语言：** Python
+- **描述：** A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
+- **标签：** `awesome-list`, `dsh-plugin`
+- **推荐理由：** DeepSeek Harness精选插件目录，新手入门必备。
+
+---
+
+### [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
+
+- **⭐ 星标：** 15,198
+- **语言：** TypeScript
+- **描述：** Harness engineering beginner tutorial, from 0 to 1
+- **标签：** `harness-engineering`, `agent`
+- **推荐理由：** 从零到一掌握Harness工程的系统性教程。
+
+---
+
+### [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)
+
+- **⭐ 星标：** 3,869
+- **语言：** TypeScript
+- **描述：** The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
+- **标签：** `marketplace`, `dsh-plugin`, `deepseek-harness`
+- **推荐理由：** DSH官方插件市场，支持浏览搜索一键安装插件
+
+---
+
+### [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)
+
+- **⭐ 星标：** 1,056
+- **语言：** Python
+- **描述：** DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
+- **标签：** `awesome-list`, `plugins`, `ecosystem`
+- **推荐理由：** 精选DeepSeek Harness插件与生态资源清单
+
+---
+
+### [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin)
+
+- **⭐ 星标：** 1,008
+- **语言：** Unknown
+- **描述：** A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem
+- **标签：** `awesome-list`, `plugins`, `ecosystem`
+- **推荐理由：** DeepSeek Harness全面精选插件生态清单
+
+---
+
+### [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop)
+
+- **⭐ 星标：** 740
+- **语言：** TypeScript
+- **描述：** The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.
+- **标签：** `plugin-market`, `community`
+- **推荐理由：** 每日更新插件市场，精选社区高质量DSH插件。
+
+---
+
+### [Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins](https://github.com/Zhiyuan-Fan/Awesome-DeepSeek-Harness-Plugins)
+
+- **⭐ 星标：** 573
+- **语言：** Unknown
+- **描述：** Curated DeepSeek Harness (DSH) plugins, extensions, tools, skills, clients, runtimes, integrations, and verified references — English and Chinese.
+- **标签：** `awesome-list`, `curated`, `bilingual`
+- **推荐理由：** 中英双语DSH插件精选清单，一站式发现优质工具。
+
+---
+
+### [white0dew/awesome-dsh-plugins](https://github.com/white0dew/awesome-dsh-plugins)
+
+- **⭐ 星标：** 12
+- **语言：** TypeScript
+- **描述：** Awesome DSH Plugins: a public GitHub directory for DeepSeek Harness plugins, DSH plugins, install commands, and ecosystem discovery.
+- **标签：** `awesome-list`, `dsh-plugin`
+- **推荐理由：** DSH插件生态发现目录，收录插件清单。
+
+---
+
+### [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins)
+
+- **⭐ 星标：** 11
+- **语言：** JavaScript
+- **描述：** Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles, and skills. 
+- **标签：** `awesome-list`, `dsh-plugins`, `registry`
+- **推荐理由：** 去垃圾邮件的DSH插件开源数据注册表。
+
+---
+
+### [cccakeee/awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins)
+
+- **⭐ 星标：** 8
+- **语言：** Python
+- **描述：** A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.
+- **标签：** `awesome-list`, `dsh-plugin`
+- **推荐理由：** 经过验证的DSH插件清单目录。
+
+---
+
+### [Herdeny/awesome-dsh-plugins-2026](https://github.com/Herdeny/awesome-dsh-plugins-2026)
+
+- **⭐ 星标：** 7
+- **语言：** Python
+- **描述：** Curated list of DeepSeek Harness (DSH) plugins for 2026, with quality check.
+- **标签：** `awesome-list`, `curated`
+- **推荐理由：** 2026年度精选DSH插件质量审核清单。
+
+---
+
+### [GordenSun/awesome-dsh-plugins](https://github.com/GordenSun/awesome-dsh-plugins)
+
+- **⭐ 星标：** 5
+- **语言：** Unknown
+- **描述：** 好用的DeepSeek Harness插件集合
+- **标签：** `awesome-list`, `dsh-plugin`
+- **推荐理由：** 实用DSH插件集合列表。
+
+---
+
+### [kingselyjoe/awesome-dsh-list](https://github.com/kingselyjoe/awesome-dsh-list)
+
+- **⭐ 星标：** 5
+- **语言：** Unknown
+- **描述：** 🐳 DeepSeek Harness（DSH）工具全量清单——GitHub topic:dsh-plugin 生态 1000+ 仓库按 star 排序。Awesome list for DeepSeek Harness tools.
+- **标签：** `awesome-list`, `dsh-plugin`
+- **推荐理由：** GitHub 1000+ DSH工具按星排序大全。
+
+---
+
+### [jqueryscript/awesome-dsh-plugins](https://github.com/jqueryscript/awesome-dsh-plugins)
+
+- **⭐ 星标：** 3
+- **语言：** Python
+- **描述：** Verified, star-ranked community plugins for DeepSeek Harness (dsh).
+- **标签：** `ai-agents`, `awesome`, `awesome-list`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-plugin`, `plugins`
+- **推荐理由：** Verified, star-ranked community plugins 
+
+---
+
+### [arkyu2077/awesome-dsh-plugin](https://github.com/arkyu2077/awesome-dsh-plugin)
+
+- **⭐ 星标：** 3
+- **语言：** Unknown
+- **描述：** 面向 DeepSeek Harness 用户的插件产品说明书与导航：按场景选插件，了解安装、权限、兼容性和风险
+- **标签：** `awesome-list`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-plugin`, `plugin-directory`
+- **推荐理由：** 面向 DeepSeek Harness 用户的插件产品说明书与导航：按场景选插件
+
+---
+
+### [cxdyun/dsh-skills-marketplace](https://github.com/cxdyun/dsh-skills-marketplace)
+
+- **⭐ 星标：** 3
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness 版本的类 CodeX 插件市场
+- **标签：** `awesome-dsh-plugin`, `dsh-plugin`, `dsh-plugin-bundle`, `dsh-plugin-desktop`, `dsh-plugin-market`, `dsh-plugins`
+- **推荐理由：** DeepSeek Harness 版本的类 CodeX 插件市场
+
+---
+
+### [tanle-mtr/dsh-plogin-plugin-recommender](https://github.com/tanle-mtr/dsh-plogin-plugin-recommender)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** The most comprehensive AI-curated list of DeepSeek Harness (DSH) plugins - 190+ plugins, 12 categories, updated hourly by AI.
+- **标签：** `ai-agents`, `awesome-list`, `coding-agents`, `deepseek`, `deepseek-harness`, `dsh-plugin`, `mcp`, `plugin`
+- **推荐理由：** The most comprehensive AI-curated list o
+
+---
+
+### [wgd753/awesome-dsh-plugin](https://github.com/wgd753/awesome-dsh-plugin)
+
+- **⭐ 星标：** 2
+- **语言：** Python
+- **描述：** Awesome dsh plugin list — automated DeepSeek Harness plugin directory. Daily GitHub Actions crawl of topic:dsh-plugin / topic:deepseek-harness, bilingual README + machine-readable JSON/CSV
+- **标签：** `awesome-list`, `catalog`, `deepseek-harness`, `dsh-plugin`, `dsh-plugin-directory`
+- **推荐理由：** Awesome dsh plugin list — automated Deep
+
+---
+
+### [DSH-APP/awesome-dsha-plugins](https://github.com/DSH-APP/awesome-dsha-plugins)
+
+- **⭐ 星标：** 2
+- **语言：** Unknown
+- **描述：** DSHA精选插件合集
+- **推荐理由：** DSHA精选插件合集
+
+---
+
+### [dongsheng123132/awesome-dsh-plugins](https://github.com/dongsheng123132/awesome-dsh-plugins)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** Evidence-backed DeepSeek Harness plugin radar and 2Origin plugin lab
+- **标签：** `2origin`, `ai-agent`, `awesome-list`, `deepseek-harness`, `dsh`, `dsh-plugin`, `plugin-registry`
+- **推荐理由：** Evidence-backed DeepSeek Harness plugin 
+
+---
+
+### [cooljser/dsh-plugin-portal](https://github.com/cooljser/dsh-plugin-portal)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** DSH Plugin Portal — a zero-dependency static web portal for the awesome-dsh-plugin curated list. Discover, filter and install 227+ DeepSeek Harness (dsh) plugins.
+- **标签：** `awesome-dsh-plugin`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-plugin`, `github-pages`, `plugin-portal`, `plugins`, `static-site`, `web`
+- **推荐理由：** DSH Plugin Portal — a zero-dependency st
+
+---
+
+### [zoahdev/dsh-plugin-search](https://github.com/zoahdev/dsh-plugin-search)
+
+- **⭐ 星标：** 2
+- **语言：** TypeScript
+- **描述：** Plugin discoverability for DeepSeek Harness: search npm + awesome-dsh-plugin, look up packages, browse the curated list — from inside dsh agents (answers discussion #1715).
+- **标签：** `agent`, `deepseek-harness`, `discoverability`, `dsh-plugin`, `search`
+- **推荐理由：** Plugin discoverability for DeepSeek Harn
+
+---
+
+### [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** A plugin of Deepseek Harness(DSH),transform your recent chat history into beautifully designed knowledge cards, ready to download and share.
+- **标签：** `awesome-dsh-plugin`, `deepseek-harness`, `dsh-plugin`, `knowledge-cards`
+- **推荐理由：** A plugin of Deepseek Harness(DSH),transf
+
+---
+
+### [777-Zen/dsh-capability-index](https://github.com/777-Zen/dsh-capability-index)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** 给 DSH agent 的插件库"起飞前检查单"——任务型请求时自动预检插件库并注入 Top-K 适用插件提示，让插件库利用率可预期、不靠运气。Pre-flight plugin-library check for DSH agents — task-type requests trigger a Top-K hint of suitable plugins injected into the runtime context, making plugin usage predictable instead of opportunistic.
+- **标签：** `agent-tools`, `ai-agents`, `awesome-dsh-plugin`, `cordis`, `dsh`, `dsh-plugin`, `llm-agents`
+- **推荐理由：** 给 DSH agent 的插件库"起飞前检查单"——任务型请求时自动预检插件库并
+
+---
+
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `ai-agents`, `awesome-dsh-plugin`, `chatgpt`, `codex`, `deepseek-harness`, `dsh`, `dsh-plugin`, `dsh-plugins`, `javascript`, `oauth`, `plugin`, `subscription`
+- **推荐理由：** ChatGPT Subscription - a DeepSeek Harnes
+
+---
+
+### [ZeroPointRepo/awesome-dsh-plugins](https://github.com/ZeroPointRepo/awesome-dsh-plugins)
+
+- **⭐ 星标：** 1
+- **语言：** Python
+- **描述：** DSH plugins directory: 80+ verified DeepSeek Harness plugins, organized by what they do.
+- **标签：** `ai-agents`, `awesome`, `awesome-list`, `deepseek-harness`, `dsh`, `dsh-plugins`, `plugins`
+- **推荐理由：** DSH plugins directory: 80+ verified Deep
+
+---
+
+### [oslook/awesome-dsh-plugins](https://github.com/oslook/awesome-dsh-plugins)
+
+- **⭐ 星标：** 1
+- **语言：** Unknown
+- **描述：** Deekseek Harness Plugins
+- **标签：** `deepseek-harness`, `dsh-bundle`, `dsh-ecosystem`, `dsh-exp-platform-analytics`, `dsh-plugin`, `dsh-plugin-verify`, `dsh-plugins`, `dsh-plugins-net`, `dsh-repository-plugin`
+- **推荐理由：** Deekseek Harness Plugins
+
+---
+
+### [awesome-dsh-plugins/awesome-dsh-plugins](https://github.com/awesome-dsh-plugins/awesome-dsh-plugins)
+
+- **⭐ 星标：** 1
+- **语言：** Unknown
+- **描述：** Moved → github.com/awesome-dsh-plugin/awesome-dsh-plugin
+- **推荐理由：** Moved → github.com/awesome-dsh-plugin/aw
 
 ---
 
