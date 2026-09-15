@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
 
-- **⭐ 星标：** 85
-- **语言：** TypeScript
-- **描述：** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
-- **标签：** `deepseek-harness`, `dsh-plugin`
-- **推荐理由：** 统一管理MCP工具暴露级别与执行模式，灵活控制上下文消耗。
+- **⭐ 星标：** 186
+- **语言：** Python
+- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **标签：** `finance`, `mcp`, `agent`, `deepseek-harness`
+- **推荐理由：** 基于tushare的本地财经数据库，支持MCP与多Agent盯盘
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 48
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `deepseek-harness`, `dsh-plugin`
-- **推荐理由：** 华为云官方插件，提供MCP工具、安全护栏与云端沙箱能力。
+- **标签：** `cloud`, `mcp`, `huaweicloud`, `sdk`
+- **推荐理由：** 华为云官方插件，含MCP工具、技能和云沙箱
 
 ---
 
@@ -34,7 +34,7 @@
 - **语言：** TypeScript
 - **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
 - **标签：** `mcp`, `config-sync`, `multi-agent`
-- **推荐理由：** 一键配置8+种AI代理的MCP、技能和规则
+- **推荐理由：** 一键同步MCP/技能配置到Claude Code、Cursor等7+工具
 
 ---
 
