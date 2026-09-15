@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 11 个插件
+> 本分类共 10 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,51 +10,51 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 37,493
+- **⭐ 星标：** 37,536
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `agentic-rag`, `dsh-plugin`
-- **推荐理由：** 自演化上下文数据库，统一智能体记忆与RAG知识
+- **标签：** `agent-memory`, `agentic-rag`, `self-evolving`
+- **推荐理由：** 自进化上下文数据库，统一记忆与RAG。
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 23,997
+- **⭐ 星标：** 24,044
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `dsh-plugin`
-- **推荐理由：** 开源RAG知识平台，含自维护wiki和语义搜索
+- **标签：** `rag`, `knowledge-base`, `semantic-search`
+- **推荐理由：** LLM知识库平台，支持RAG与语义搜索。
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,978
+- **⭐ 星标：** 12,981
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `rag`, `long-term-memory`
+- **标签：** `agent-memory`, `rag`, `long-term-memory`, `mcp`
 - **推荐理由：** 便携式本地优先内存层，Markdown原生存储
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 11,355
+- **⭐ 星标：** 11,356
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `agent-memory`, `hybrid-retrieval`, `token-savings`
-- **推荐理由：** 自进化内存系统，混合检索节省35%令牌
+- **标签：** `memory`, `rag`, `token-optimization`, `skills`
+- **推荐理由：** 自进化内存OS，节省35% token，混合检索
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,180
+- **⭐ 星标：** 7,181
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `agent-memory`, `stateful`, `continual-learning`
-- **推荐理由：** 构建有状态智能体的内存库
+- **标签：** `agent-memory`, `agentic-rag`, `continual-learning`
+- **推荐理由：** 构建有状态Agent的内存库，支持持续学习
 
 ---
 
@@ -63,18 +63,18 @@
 - **⭐ 星标：** 3,462
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `agent-skills`
-- **推荐理由：** 智能体记忆管理套件，支持记忆精炼与长期上下文保持。
+- **标签：** `memory`, `rag`, `agent`
+- **推荐理由：** 专业Agent记忆管理套件，支持RAG上下文持久化
 
 ---
 
 ### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
 
-- **⭐ 星标：** 2,605
+- **⭐ 星标：** 2,606
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `rag`, `milvus`, `persistent-storage`
-- **推荐理由：** 基于Milvus的持久统一记忆层，支持所有AI智能体长期记忆。
+- **标签：** `memory`, `rag`, `milvus`, `semantic-search`
+- **推荐理由：** 基于Milvus的持久统一记忆层，支持跨代理语义搜索
 
 ---
 
@@ -83,8 +83,8 @@
 - **⭐ 星标：** 1,916
 - **语言：** TypeScript
 - **描述：** 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.
-- **标签：** `memory`, `long-term-memory`, `agent`
-- **推荐理由：** 共享本地记忆中心，为所有AI代理提供持久上下文。
+- **标签：** `memory`, `rag`, `mcp`, `personal-ai`
+- **推荐理由：** 为所有AI智能体提供共享持久记忆，完全用户可控的本地记忆中枢。
 
 ---
 
@@ -93,28 +93,18 @@
 - **⭐ 星标：** 647
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skill-corpus`, `rag`, `agent-skills`
-- **推荐理由：** 将SKILL.md转化为可检索的Agent技能库，含评估工具
-
----
-
-### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
-
-- **⭐ 星标：** 378
-- **语言：** TypeScript
-- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `knowledge-base`, `encyclopedia`, `ai-resources`
-- **推荐理由：** 全面AI百科，覆盖Agent、RAG、MLOps和学习路线
+- **标签：** `skill-md`, `vector-search`, `embeddings`
+- **推荐理由：** 将SKILL.md转化为可检索的向量知识库，支持语义搜索与评估
 
 ---
 
 ### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
 
-- **⭐ 星标：** 68
+- **⭐ 星标：** 69
 - **语言：** JavaScript
 - **描述：** Proactive associative memory for DSH: zero-prompt recall injected before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **标签：** `dsh-plugin`, `memory`, `rag`, `consolidation`
-- **推荐理由：** 三层自动记忆固化，零提示词注入记忆
+- **标签：** `memory`, `context`, `dsh-plugin`
+- **推荐理由：** 零提示联想记忆，三层自动巩固技能结晶
 
 ---
 
