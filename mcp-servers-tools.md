@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 4 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,23 @@
 
 ## Plugins
 
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+### [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)
 
-- **⭐ Stars:** 186
+- **⭐ Stars:** 245
 - **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `finance`, `mcp`, `stock`
-- **Why use it:** Financial data MCP server with multi-agent analysis and IM alert support
+- **Description:** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。
+- **Tags:** `academic-search`, `mcp`, `agent-skills`, `research`
+- **Why use it:** Cross-platform academic search with citation graph and verification.
 
 ---
 
-### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
 
-- **⭐ Stars:** 48
-- **Language:** JavaScript
-- **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `huaweicloud`, `mcp`, `dsh-plugin`
-- **Why use it:** Official Huawei Cloud plugin: MCP tools, skills, safety guardrails, cloud sandbox
+- **⭐ Stars:** 85
+- **Language:** TypeScript
+- **Description:** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
+- **Tags:** `mcp`, `capability`, `menu`
+- **Why use it:** Unified menu to manage MCP tool exposure levels and execution modes
 
 ---
 
@@ -32,9 +32,19 @@
 
 - **⭐ Stars:** 29
 - **Language:** TypeScript
-- **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **Tags:** `mcp`, `config-sync`, `multi-agent`, `cross-platform`
-- **Why use it:** One-click MCP, skills, and rules sync across 7+ major AI agent platforms.
+- **Description:** 一键配置各类 AI Agent 工���的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **Tags:** `mcp`, `config-sync`, `multi-agent`
+- **Why use it:** One-click MCP/Skill config sync across Claude, Codex, Cursor, DSH and more
+
+---
+
+### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
+
+- **⭐ Stars:** 24
+- **Language:** JavaScript
+- **Description:** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
+- **Tags:** `codex`, `sync`, `mcp`
+- **Why use it:** Bidirectional bridge between OpenAI Codex and DSH with live MCP mirroring.
 
 ---
 
@@ -44,7 +54,7 @@
 - **Language:** TypeScript
 - **Description:** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
 - **Tags:** `mcp`, `skills`, `manager`
-- **Why use it:** Web UI card for managing skills and MCP servers directly in DSH browser settings.
+- **Why use it:** Browser-based Skills and MCP server manager integrated into DSH Web UI settings.
 
 ---
 
