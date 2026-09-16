@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 13 个插件
+> 本分类共 11 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,83 +8,93 @@
 
 ## 插件列表
 
+### [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)
+
+- **⭐ 星标：** 46,997
+- **语言：** Python
+- **描述：** Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)
+- **标签：** `multi-agent`, `memory`, `self-evolving`
+- **推荐理由：** 自进化AI助手，统一记忆知识与多模型支持
+
+---
+
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 37,606
+- **⭐ 星标：** 37,670
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `agentic-rag`, `dsh-plugin`
-- **推荐理由：** 自进化的统一记忆与知识RAG数据库
+- **标签：** `agent-memory`, `agentic-rag`, `self-evolving`
+- **推荐理由：** 自进化上下文数据库，统一记忆、RAG和技能
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 24,510
+- **⭐ 星标：** 24,793
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `dsh-plugin`
-- **推荐理由：** 腾讯开源RAG知识平台，支持语义搜索
+- **标签：** `rag`, `knowledge-base`, `semantic-search`
+- **推荐理由：** 开源LLM知识平台，文档转RAG与自维护Wiki
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 12,987
+- **⭐ 星标：** 12,992
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `rag`, `memory-management`
-- **推荐理由：** 本地优先的便携式记忆层，Markdown原生存储跨平台
+- **标签：** `agent-memory`, `rag`, `long-term-memory`
+- **推荐理由：** 本地优先的便携式记忆层，Markdown原生存储。
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 11,362
+- **⭐ 星标：** 11,367
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `agent-memory`, `hybrid-retrieval`, `token-optimization`
-- **推荐理由：** 自演进记忆OS，混合检索与35%令牌节省
+- **标签：** `agent-memory`, `rag`, `token-savings`
+- **推荐理由：** 超持久记忆，混合检索，节省35%令牌。
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,186
+- **⭐ 星标：** 7,196
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `agent-memory`, `stateful-agents`, `continual-learning`
-- **推荐理由：** 构建有状态Agent的记忆库，支持持续学习
+- **标签：** `agent-memory`, `continual-learning`, `rag`
+- **推荐理由：** 支持持续学习的Agent有状态记忆库���
 
 ---
 
 ### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ 星标：** 3,469
+- **⭐ 星标：** 3,472
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - **标签：** `memory`, `rag`, `agent`
-- **推荐理由：** Agent记忆管理套件，持久化必备
+- **推荐理由：** 专注智能体持久记忆管理与知识沉淀的工具套件。
 
 ---
 
 ### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
 
-- **⭐ 星标：** 2,607
+- **⭐ 星标：** 2,608
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `milvus`, `rag`
-- **推荐理由：** Milvus持久化记忆层，全Agent通用
+- **标签：** `memory`, `rag`, `milvus`, `vector-search`
+- **推荐理由：** 基于Milvus���持久统一智能体记忆层，支持语义搜索。
 
 ---
 
 ### [MemTensor/memmy-agent](https://github.com/MemTensor/memmy-agent)
 
-- **⭐ 星标：** 1,921
+- **⭐ 星标：** 1,923
 - **语言：** TypeScript
 - **描述：** 🍙  A personal AI agent & local memory hub for all AI agents, gives every AI one shared, fully controlled memory and persistent context — all AI remember the same you. Now supports Claude Code, Codex, OpenClaw and Hermes Agent etc.
-- **标签：** `memory`, `long-term-memory`, `personal-ai`
-- **推荐理由：** 全Agent共享持久化记忆中枢
+- **标签：** `memory`, `persistent-context`, `agent`
+- **推荐理由：** 持久化共享记忆中心，让所有AI记住一切。
 
 ---
 
@@ -93,48 +103,18 @@
 - **⭐ 星标：** 647
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skill-corpus`, `rhetrieval`, `agent-memory`
-- **推荐理由：** 将SKILL.md转换为可检索的agent技能知识库，含评估工具
+- **标签：** `skill-rag`, `vector-search`, `reranking`
+- **推荐理由：** 将SKILL.md文件转化为可检索的Agent技能知识库，支持评估。
 
 ---
 
-### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
 
-- **⭐ 星标：** 379
-- **语言：** TypeScript
-- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `knowledge-base`, `encyclopedia`, `ai-pedia`
-- **推荐理由：** 全维度AI资源百科：大模型、Agent、RAG、学习路线一站式导航
-
----
-
-### [fjzzwxp/awesome-dsh-plugins](https://github.com/fjzzwxp/awesome-dsh-plugins)
-
-- **⭐ 星标：** 1
-- **语言：** JavaScript
-- **描述：** A curated, auto-updating list of plugins for DeepSeek Harness (dsh). Data-driven: YAML entries + scripts auto-generate bilingual README and a Vercel site; a daily GitHub Action crawler discovers new dsh plugins, classifies them, and writes back.
-- **标签：** `awesome-list`, `dsh-plugin`, `automation`
-- **推荐理由：** 自动更新的 bilingual 插件目录，YAML 自动化。
-
----
-
-### [coolbat/awesome-dsh-plugins](https://github.com/coolbat/awesome-dsh-plugins)
-
-- **⭐ 星标：** 1
-- **语言：** TypeScript
-- **描述：** Evidence-led bilingual directory of DeepSeek Harness plugins, reviewed at immutable commits.
-- **标签：** `ai-agents`, `awesome-list`, `deepseek-harness`, `dsh-plugin`
-- **推荐理由：** 基于证据的不可变提交审查，确保插件发现可靠。
-
----
-
-### [JNLXG/awesome-dsh-plugins](https://github.com/JNLXG/awesome-dsh-plugins)
-
-- **⭐ 星标：** 1
-- **语言：** Unknown
-- **描述：** DSH插件
-- **标签：** `dsh-plugin`, `awesome-list`
-- **推荐理由：** 简单的 bilingual DSH 插件列表，便于快速参考。
+- **⭐ 星标：** 186
+- **语言：** Python
+- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **标签：** `finance`, `database`, `mcp`, `multi-agent`
+- **推荐理由：** 本地财经数据库，支持多Agent分析与MCP自动生成
 
 ---
 
