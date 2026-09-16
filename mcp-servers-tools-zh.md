@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 5 个插件
+> 本分类共 4 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,23 +8,23 @@
 
 ## 插件列表
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ 星标：** 490
+- **⭐ 星标：** 67
 - **语言：** TypeScript
-- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **标签：** `web-search`, `free`, `no-api-key`
-- **推荐理由：** 最强免费网页搜索插件，无需注册即可桥接任意模型。
+- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **标签：** `api-documentation`, `chinese-api`, `mcp`
+- **推荐理由：** 直接搜索20个中国平台65,600+篇API文档
 
 ---
 
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
-- **⭐ 星标：** 130
+- **⭐ 星标：** 48
 - **语言：** JavaScript
-- **描述：** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **标签：** `mcp`, `skills`, `webui`
-- **推荐理由：** Web界面统一管理skill和MCP服务器
+- **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **标签：** `cloud`, `mcp`, `sdk`, `terraform`
+- **推荐理由：** 华为云官方MCP工具包，含云沙箱与安全护栏
 
 ---
 
@@ -34,17 +34,7 @@
 - **语言：** TypeScript
 - **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
 - **标签：** `mcp`, `config-sync`, `multi-agent`
-- **推荐理由：** 一键同步MCP和技能配置到多Agent工具
-
----
-
-### [Walvez/dsh-codex-sync](https://github.com/Walvez/dsh-codex-sync)
-
-- **⭐ 星标：** 24
-- **语言：** JavaScript
-- **描述：** The ultimate 2-way bridge between OpenAI Codex and DSH: bidirectional chat sync, live Skills mount & auto MCP mirroring.
-- **标签：** `codex`, `sync`, `mcp`
-- **推荐理由：** Codex与DSH双向同步，自动MCP镜像
+- **推荐理由：** 一键同步MCP/Skills配置，跨多Agent工具通用
 
 ---
 
@@ -53,8 +43,8 @@
 - **⭐ 星标：** 22
 - **语言：** TypeScript
 - **描述：** 面向 DeepSeek Harness Web GUI 的正式插件包：在设置页的「Web UI 插件」分组中新增一张「技能与 MCP」卡片，用于在浏览器里管理技能（skills）与 MCP 服务器。
-- **标签：** `mcp`, `manager`, `gui`
-- **推荐理由：** 浏览器端管理技能与MCP服务器的GUI插件
+- **标签：** `mcp`, `skills`, `manager`, `dsh-plugin`
+- **推荐理由：** Web端技能与MCP服务器管理插件
 
 ---
 

@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 4 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -13,28 +13,38 @@
 - **⭐ Stars:** 20,077
 - **Language:** TypeScript
 - **Description:** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **Tags:** `browser-extension`, `chrome-addon`, `chat-management`
-- **Why use it:** Browser extension enhancement suite for Gemini, Claude and ChatGPT
+- **Tags:** `browser-extension`, `chat-management`, `prompts`
+- **Why use it:** AI chat enhancement suite with prompt manager for multiple platforms.
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 2,219
+- **⭐ Stars:** 2,705
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-use`, `automation`, `cli`
-- **Why use it:** Seamless browser automation with real logged-in sessions.
+- **Tags:** `browser`, `automation`, `logged-in`
+- **Why use it:** Use real logged-in browser sessions for uninterrupted agent automation
+
+---
+
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ Stars:** 491
+- **Language:** TypeScript
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `web-search`, `free`, `no-api-key`
+- **Why use it:** Best free web search bridge — no signup, no API key required
 
 ---
 
 ### [antibrow/dsh-antibrow](https://github.com/antibrow/dsh-antibrow)
 
-- **⭐ Stars:** 330
+- **⭐ Stars:** 331
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **Tags:** `browser-automation`, `fingerprint`, `anti-detect`
-- **Why use it:** Persistent browser identity with fingerprint spoofing and unlimited local profiles
+- **Tags:** `browser-automation`, `playwright`, `mcp-server`
+- **Why use it:** Persistent browser identity with fingerprint spoofing and Android emulation
 
 ---
 
@@ -43,8 +53,8 @@
 - **⭐ Stars:** 101
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser`, `playwright`, `automation`
-- **Why use it:** Tabbit Browser integration with Playwright for DSH
+- **Tags:** `browser-automation`, `playwright`
+- **Why use it:** Tabbit Browser automation plugins for DSH
 
 ---
 
