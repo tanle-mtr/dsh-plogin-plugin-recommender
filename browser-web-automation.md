@@ -10,21 +10,21 @@
 
 ### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
 
-- **⭐ Stars:** 20,076
+- **⭐ Stars:** 20,077
 - **Language:** TypeScript
 - **Description:** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **Tags:** `browser-extension`, `chat-management`, `prompts`
-- **Why use it:** Enhancement suite and prompt manager for Gemini, Claude and ChatGPT browsers
+- **Tags:** `browser-extension`, `chrome-extension`, `ai-studio`
+- **Why use it:** Multi-AI browser extension with prompt manager for Chrome, Firefox, Edge, and Safari.
 
 ---
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 492
+- **⭐ Stars:** 3,052
 - **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `free`, `bridge`
-- **Why use it:** Strongest free web search bridge for models without native web access
+- **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+- **Tags:** `browser`, `automation`, `web`
+- **Why use it:** Use your real logged-in browser for AI agent automation without disruption
 
 ---
 
@@ -34,17 +34,7 @@
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
 - **Tags:** `browser-automation`, `anti-detect`, `mcp`
-- **Why use it:** Persistent anti-detect browser profiles for agent web automation
-
----
-
-### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
-
-- **⭐ Stars:** 294
-- **Language:** TypeScript
-- **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios`, `simulator`, `mobile-automation`
-- **Why use it:** Live iOS Simulator automation inside DSH with 22 agent control tools
+- **Why use it:** Persistent identity browser with fingerprint spoofing for agent automation
 
 ---
 
@@ -54,7 +44,17 @@
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
 - **Tags:** `browser`, `playwright`, `automation`
-- **Why use it:** Tabbit browser automation integration for DSH
+- **Why use it:** Tabbit Browser integration with Playwright for web automation
+
+---
+
+### [cooljser/dsh-plugin-portal](https://github.com/cooljser/dsh-plugin-portal)
+
+- **⭐ Stars:** 2
+- **Language:** JavaScript
+- **Description:** DSH Plugin Portal — a zero-dependency static web portal for the awesome-dsh-plugin curated list. Discover, filter and install 227+ DeepSeek Harness (dsh) plugins.
+- **Tags:** `web-portal`, `plugin-directory`
+- **Why use it:** Static web portal to discover and filter 227+ DSH plugins
 
 ---
 

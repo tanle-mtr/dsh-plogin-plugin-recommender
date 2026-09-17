@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 4 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,23 @@
 
 ## Plugins
 
-### [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ Stars:** 883
+- **⭐ Stars:** 492
 - **Language:** TypeScript
-- **Description:** [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.
-- **Tags:** `dsh-plugin`, `vision`, `mcp`
-- **Why use it:** Powerful vision toolkit for text-only LLMs: image Q&A, OCR, UI restoration.
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `web-search`, `mcp`, `free`
+- **Why use it:** Free web search bridge plugin — no signup, no API, works with all models.
+
+---
+
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+
+- **⭐ Stars:** 85
+- **Language:** TypeScript
+- **Description:** Unified capability menu for DeepSeek Harness: manage exposure level (context footprint) and execution mode of MCP tools & skills via Exposed/Progressive/Blocked tiers.
+- **Tags:** `mcp`, `capability`, `menu`
+- **Why use it:** Unified menu to manage MCP tools and skills exposure/execution modes
 
 ---
 
@@ -23,8 +33,18 @@
 - **⭐ Stars:** 48
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `cloud`, `mcp`, `huaweicloud`, `terraform`
-- **Why use it:** Official Huawei Cloud plugin with skills, MCP tools and cloud sandbox
+- **Tags:** `mcp`, `cloud`, `dsh-plugin`
+- **Why use it:** Official Huawei Cloud toolkit with MCP tools, skills, and cloud sandbox.
+
+---
+
+### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+
+- **⭐ Stars:** 35
+- **Language:** JavaScript
+- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
+- **Tags:** `ocr`, `image-reading`, `vision`
+- **Why use it:** Pixel-to-text image OCR tools for text-only models via vision skill
 
 ---
 
@@ -34,17 +54,7 @@
 - **Language:** TypeScript
 - **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
 - **Tags:** `mcp`, `config-sync`, `multi-agent`
-- **Why use it:** One-click MCP/Skills sync across Claude Code, Codex, Cursor, Gemini.
-
----
-
-### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
-
-- **⭐ Stars:** 2
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `oauth`, `chatgpt`, `subscription`
-- **Why use it:** OAuth integration to use ChatGPT models inside DSH
+- **Why use it:** One-click MCP/skill/config sync for Claude Code, Cursor, DSH and more
 
 ---
 
