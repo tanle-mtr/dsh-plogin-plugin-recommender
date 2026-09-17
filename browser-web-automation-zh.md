@@ -8,33 +8,33 @@
 
 ## 插件列表
 
-### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
+### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 20,083
+- **⭐ 星标：** 4,053
 - **语言：** TypeScript
-- **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **标签：** `browser-extension`, `chat-management`, `dsh-plugin`
-- **推荐理由：** 多平台AI浏览器扩展，支持提示词管理
+- **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+- **标签：** `agent`, `browser-use`, `dsh-plugin`
+- **推荐理由：** 让AI代理使用真实登录浏览器进行自动化操作
 
 ---
 
-### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ 星标：** 3,984
+- **⭐ 星标：** 494
 - **语言：** TypeScript
-- **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser`, `automation`, `agent`
-- **推荐理由：** 让 AI 代理操控真实已登录浏览器，跨平台自动化
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `web-search`, `free`, `no-api-key`, `web-fetch`
+- **推荐理由：** 最强免费Web搜索桥接插件，无需注册，覆盖无联网模型。
 
 ---
 
 ### [antibrow/dsh-antibrow](https://github.com/antibrow/dsh-antibrow)
 
-- **⭐ 星标：** 370
+- **⭐ 星标：** 388
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **标签：** `browser-automation`, `anti-detect`, `playwright`, `mcp-server`
-- **推荐理由：** 持久浏览器身份，指纹伪造且支持无限本地配置文件
+- **标签：** `browser-automation`, `fingerprint`, `playwright`, `mcp`
+- **推荐理由：** 为Agent提供持久浏览器身份和指纹伪装，基于Playwright。
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 101
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser`, `automation`, `playwright`
-- **推荐理由：** 基于Playwright的浏览器自动化插件
+- **标签：** `browser`, `playwright`, `automation`
+- **推荐理由：** 基���Playwright的浏览器自动化插件
 
 ---
 

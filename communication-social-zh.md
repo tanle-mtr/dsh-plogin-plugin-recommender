@@ -12,9 +12,9 @@
 
 - **⭐ 星标：** 3,328
 - **语言：** Python
-- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **标签：** `social`, `content-discovery`, `privacy-first`
-- **推荐理由：** 本地优先跨平台 AI 内容发现，覆盖多社交与视频平台
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平��与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `bilibili`, `content-discovery`, `dsh-plugin`, `cross-platform`
+- **推荐理由：** 本地优先的跨平台内容发现代理，覆盖B站/抖音/小红书等
 
 ---
 
