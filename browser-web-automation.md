@@ -10,21 +10,21 @@
 
 ### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
 
-- **⭐ Stars:** 20,077
+- **⭐ Stars:** 20,078
 - **Language:** TypeScript
 - **Description:** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **Tags:** `browser-extension`, `chrome-extension`, `ai-studio`
-- **Why use it:** Multi-AI browser extension with prompt manager for Chrome, Firefox, Edge, and Safari.
+- **Tags:** `browser-extension`, `chat-management`, `prompt-manager`
+- **Why use it:** Multi-AI chat management extension with prompt manager
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 3,052
+- **⭐ Stars:** 3,377
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser`, `automation`, `web`
-- **Why use it:** Use your real logged-in browser for AI agent automation without disruption
+- **Tags:** `browser-use`, `automation`, `dsh-plugin`
+- **Why use it:** Use your real logged-in browser for AI agent web automation tasks
 
 ---
 
@@ -33,8 +33,18 @@
 - **⭐ Stars:** 363
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **Tags:** `browser-automation`, `anti-detect`, `mcp`
-- **Why use it:** Persistent identity browser with fingerprint spoofing for agent automation
+- **Tags:** `browser`, `automation`, `fingerprint`, `proxy`
+- **Why use it:** Persistent browser identity with fingerprint spoofing
+
+---
+
+### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
+
+- **⭐ Stars:** 294
+- **Language:** TypeScript
+- **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
+- **Tags:** `ios`, `simulator`, `automation`
+- **Why use it:** Live iOS Simulator and USB iPhone automation in conversation
 
 ---
 
@@ -44,17 +54,7 @@
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
 - **Tags:** `browser`, `playwright`, `automation`
-- **Why use it:** Tabbit Browser integration with Playwright for web automation
-
----
-
-### [cooljser/dsh-plugin-portal](https://github.com/cooljser/dsh-plugin-portal)
-
-- **⭐ Stars:** 2
-- **Language:** JavaScript
-- **Description:** DSH Plugin Portal — a zero-dependency static web portal for the awesome-dsh-plugin curated list. Discover, filter and install 227+ DeepSeek Harness (dsh) plugins.
-- **Tags:** `web-portal`, `plugin-directory`
-- **Why use it:** Static web portal to discover and filter 227+ DSH plugins
+- **Why use it:** Tabbit browser automation plugins powered by Playwright
 
 ---
 

@@ -10,21 +10,21 @@
 
 ### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
 
-- **⭐ 星标：** 20,077
+- **⭐ 星标：** 20,078
 - **语言：** TypeScript
 - **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **标签：** `browser-extension`, `chrome-extension`, `ai-studio`
-- **推荐理由：** 支持多AI平台的浏览器扩展，含提示词��理器。
+- **标签：** `browser-extension`, `chat-management`, `prompt-manager`
+- **推荐理由：** 跨AI平台聊天管理+提示词管理器插件
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 3,052
+- **⭐ 星标：** 3,377
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser`, `automation`, `web`
-- **推荐理由：** 利用真实已登录浏览器进行AI自动化，不干扰用户工作
+- **标签：** `browser-use`, `automation`, `dsh-plugin`
+- **推荐理由：** 接入真实登录态浏览器，实现自动化操作
 
 ---
 
@@ -33,8 +33,18 @@
 - **⭐ 星标：** 363
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **标签：** `browser-automation`, `anti-detect`, `mcp`
-- **推荐理由：** 持久化身份浏览器，具备指纹伪造功能，适合自动化
+- **标签：** `browser`, `automation`, `fingerprint`, `proxy`
+- **推荐理由：** 持久浏览器身份+指纹伪装
+
+---
+
+### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
+
+- **⭐ 星标：** 294
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
+- **标签：** `ios`, `simulator`, `automation`
+- **推荐理由：** 对话内iOS模拟器+真机自动化
 
 ---
 
@@ -44,17 +54,7 @@
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
 - **标签：** `browser`, `playwright`, `automation`
-- **推荐理由：** Tabbit浏览器插件，基于Playwright实现网页自动化
-
----
-
-### [cooljser/dsh-plugin-portal](https://github.com/cooljser/dsh-plugin-portal)
-
-- **⭐ 星标：** 2
-- **语言：** JavaScript
-- **描述：** DSH Plugin Portal — a zero-dependency static web portal for the awesome-dsh-plugin curated list. Discover, filter and install 227+ DeepSeek Harness (dsh) plugins.
-- **标签：** `web-portal`, `plugin-directory`
-- **推荐理由：** 静态网页门户，支持搜索过滤227+插件
+- **推荐理由：** 基于Playwright的Tabbit浏览器自动化插件
 
 ---
 
