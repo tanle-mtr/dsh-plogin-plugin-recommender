@@ -10,31 +10,31 @@
 
 ### [nexu-io/open-design](https://github.com/nexu-io/open-design)
 
-- **⭐ 星标：** 96,942
+- **⭐ 星标：** 96,949
 - **语言：** TypeScript
 - **描述：** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
-- **标签：** `design`, `ui-generator`, `figma-alternative`
-- **推荐理由：** 开源设计插件，本地优先的UI生成与原型工具
+- **标签：** `ai-design`, `figma-alternative`, `desktop-app`
+- **推荐理由：** 本地优先的开源 AI 设计系统。
 
 ---
 
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ 星标：** 66,745
+- **⭐ 星标：** 66,797
 - **语言：** JavaScript
 - **描述：** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **标签：** `diagrams`, `architecture`, `mermaid-alternative`
-- **推荐理由：** 代码化生成美观可验证的架构图与序列图
+- **标签：** `diagrams-as-code`, `architecture-diagram`
+- **推荐理由：** 将架构知识转为可交互图表。
 
 ---
 
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ 星标：** 32,673
+- **⭐ 星标：** 32,681
 - **语言：** JavaScript
 - **描述：** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-- **标签：** `image-generation`, `prompts`, `skills`
-- **推荐理由：** 530+个GPT图像提示词，附工业级模板与可复用技能
+- **标签：** `image-generation`, `skills`, `workflow-automation`
+- **推荐理由：** GPT 图像 2 提示词与技能库。
 
 ---
 
@@ -43,28 +43,18 @@
 - **⭐ 星标：** 5,977
 - **语言：** Rust
 - **描述：** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **标签：** `design`, `ui`, `dsh-plugin`, `mcp`
-- **推荐理由：** 首个开源AI原生矢量设计工具，支持并发代理团队。
+- **标签：** `design`, `vector`, `ui`, `agent-team`, `flutter`
+- **推荐理由：** 开源AI原生矢量设计工具，支持并发代理团队
 
 ---
 
 ### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
 
-- **⭐ 星标：** 1,345
+- **⭐ 星标：** 1,350
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **标签：** `design`, `visual`, `ppt`
-- **推荐理由：** AI生成设计工作室，支持可视化编辑和PPT
-
----
-
-### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
-
-- **⭐ 星标：** 464
-- **语言：** TypeScript
-- **描述：** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
-- **标签：** `gen-ui`, `charts`, `forms`, `visualization`
-- **推荐理由：** 在回复中内联生成图表、表单、测验等交互UI组件
+- **标签：** `design`, `visual-editor`, `ppt`, `prototyping`
+- **推荐理由：** 原生设计工作室，AI生成+可视化编辑+PPT功能
 
 ---
 
@@ -73,18 +63,8 @@
 - **⭐ 星标：** 56
 - **语言：** Python
 - **描述：** 把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，直接读案件材料画准一张时间轴，并提供庭前三大法宝（大事记表、庭审对抗图、法律关系图）。Claude Skill / DeepSeek Harness 通用。
-- **标签：** `visualization`, `legal`, `diagram`
-- **推荐理由：** 将诉讼材料转化为专业时间轴与对抗图，可视化呈现
-
----
-
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
-
-- **⭐ 星标：** 36
-- **语言：** JavaScript
-- **描述：** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **标签：** `ocr`, `vision`, `image-reading`
-- **推荐理由：** 纯文本模型图像OCR插件，支持像素级识别
+- **标签：** `visualization`, `svg`, `legal`, `dsh-plugin`
+- **推荐理由：** 诉讼时间轴与法律关系图可视化工具，法律人必备
 
 ---
 
@@ -93,8 +73,28 @@
 - **⭐ 星标：** 30
 - **语言：** JavaScript
 - **描述：** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- **标签：** `video`, `image`, `ai-director`
-- **推荐理由：** AI视频/图像/音频生成技能与可视化工具
+- **标签：** `ai-video`, `image-generation`, `directorx`
+- **推荐理由：** AI视频/图像/音频创作技能，支持可配置视觉模型
+
+---
+
+### [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh)
+
+- **⭐ 星标：** 26
+- **语言：** TypeScript
+- **描述：** 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。
+- **标签：** `video`, `remotion`, `design`, `agent-skills`
+- **推荐理由：** 电影感视频制作技能，含152镜头配方与模板
+
+---
+
+### [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** A plugin of Deepseek Harness(DSH),transform your recent chat history into beautifully designed knowledge cards, ready to download and share.
+- **标签：** `knowledge-cards`, `visual`, `ui`
+- **推荐理由：** 将聊天记录转为精美知识卡片，便于分享。
 
 ---
 
