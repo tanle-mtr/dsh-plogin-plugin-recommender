@@ -13,28 +13,18 @@
 - **⭐ Stars:** 20,108
 - **Language:** TypeScript
 - **Description:** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **Tags:** `browser-extension`, `chatgpt`, `claude-ai`
-- **Why use it:** Multi-AI platform browser extension with prompt management
+- **Tags:** `browser-extension`, `prompt-manager`, `ai-studio`
+- **Why use it:** Full-featured browser extension for multiple AI platforms
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 5,718
+- **⭐ Stars:** 5,732
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `agent`, `browser-use`, `dsh-plugin`
-- **Why use it:** Let AI agents control your real logged-in browser seamlessly.
-
----
-
-### [liustack/modsearch](https://github.com/liustack/modsearch)
-
-- **⭐ Stars:** 509
-- **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `web-fetch`, `coding-agent`
-- **Why use it:** Free web search bridge for models without native web access.
+- **Tags:** `browser-use`, `agent`
+- **Why use it:** Seamless browser automation for AI agents with real logged-in sessions.
 
 ---
 
@@ -43,8 +33,8 @@
 - **⭐ Stars:** 446
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **Tags:** `browser-automation`, `anti-detect`, `playwright`
-- **Why use it:** Fingerprint-spoofed browser with persistent identity for agents.
+- **Tags:** `browser-automation`, `fingerprint`, `playwright`
+- **Why use it:** Fingerprint-spoofed browser with persistent identity and Android emulation
 
 ---
 
@@ -53,8 +43,8 @@
 - **⭐ Stars:** 297
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios-simulator`, `mobile-automation`, `webdriveragent`
-- **Why use it:** Live iOS Simulator inside DSH with 22 agent tools for mobile automation
+- **Tags:** `ios-simulator`, `mobile-automation`, `testing`
+- **Why use it:** Live iOS Simulator inside conversation for agent testing.
 
 ---
 
@@ -63,8 +53,18 @@
 - **⭐ Stars:** 101
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser-automation`, `playwright`, `browser-use`
-- **Why use it:** Tabbit Browser automation plugins powered by Playwright
+- **Tags:** `browser`, `automation`, `playwright`
+- **Why use it:** Tabbit Browser automation integration with Playwright support
+
+---
+
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+
+- **⭐ Stars:** 2
+- **Language:** JavaScript
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `dsh-plugin`, `chatgpt`, `oauth`, `subscription`
+- **Why use it:** Bind ChatGPT via OAuth to chat inside DSH with Plus account
 
 ---
 

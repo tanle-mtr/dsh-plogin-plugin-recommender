@@ -13,28 +13,18 @@
 - **⭐ 星标：** 20,108
 - **语言：** TypeScript
 - **描述：** Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any websites, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **标签：** `browser-extension`, `chatgpt`, `claude-ai`
-- **推荐理由：** 多AI平台浏览器扩展，含提示词管理功能
+- **标签：** `browser-extension`, `prompt-manager`, `ai-studio`
+- **推荐理由：** 多平台AI浏览器增强套件，功能全面
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 5,718
+- **⭐ 星标：** 5,732
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `agent`, `browser-use`, `dsh-plugin`
-- **推荐理由：** AI代理无缝控制你的真实浏览器，无需中断工作。
-
----
-
-### [liustack/modsearch](https://github.com/liustack/modsearch)
-
-- **⭐ 星标：** 509
-- **语言：** TypeScript
-- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **标签：** `web-search`, `web-fetch`, `coding-agent`
-- **推荐理由：** 免费网页搜索插件，为无原生联网能力的模型提供搜索桥接。
+- **标签：** `browser-use`, `agent`
+- **推荐理由：** 让AI代理使用真实登录浏览器，无需中断工作流。
 
 ---
 
@@ -43,8 +33,8 @@
 - **⭐ 星标：** 446
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **标签：** `browser-automation`, `anti-detect`, `playwright`
-- **推荐理由：** 代理级指纹伪装浏览器，支持持久身份和反检测。
+- **标签：** `browser-automation`, `fingerprint`, `playwright`
+- **推荐理由：** 浏览器指纹伪装+持久身份，支持Android模拟与无限本地配置
 
 ---
 
@@ -53,8 +43,8 @@
 - **⭐ 星标：** 297
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **标签：** `ios-simulator`, `mobile-automation`, `webdriveragent`
-- **推荐理由：** DSH内置实时iOS模拟器，22个Agent工具驱动移动端自动化
+- **标签：** `ios-simulator`, `mobile-automation`, `testing`
+- **推荐理由：** 会话内实时iOS模拟器，用于代理测试。
 
 ---
 
@@ -63,8 +53,18 @@
 - **⭐ 星标：** 101
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser-automation`, `playwright`, `browser-use`
-- **推荐理由：** 基于Playwright的浏览器自动化插件
+- **标签：** `browser`, `automation`, `playwright`
+- **推荐理由：** Tabbit浏览器自动化与Playwright集成
+
+---
+
+### [songoao25/dsh-chatgpt-subscription](https://github.com/songoao25/dsh-chatgpt-subscription)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `dsh-plugin`, `chatgpt`, `oauth`, `subscription`
+- **推荐理由：** OAuth绑定ChatGPT，在DSH中使用Plus账号
 
 ---
 

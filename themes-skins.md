@@ -10,11 +10,11 @@
 
 ### [crafter-station/petdex](https://github.com/crafter-station/petdex)
 
-- **⭐ Stars:** 4,130
+- **⭐ Stars:** 4,131
 - **Language:** TypeScript
 - **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **Tags:** `mascot`, `pixel-art`, `dsh-plugin`
-- **Why use it:** Adorable animated pets that personalize your coding agent.
+- **Tags:** `mascot`, `pixel-art`
+- **Why use it:** Cute animated pet mascots supporting multiple coding agents.
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 2,145
 - **Language:** TypeScript
 - **Description:** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- **Tags:** `skin`, `theme`, `whale`
-- **Why use it:** Adorable whale girl skin series enhancing DSH visual experience
+- **Tags:** `skin`, `theme`, `dsh-plugin`
+- **Why use it:** Whale girl skin series for DSH.
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 405
 - **Language:** JavaScript
 - **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `theme`, `glass-morphism`, `ui`
-- **Why use it:** Glass-morphism theme with fully adjustable frosted blur and wallpaper.
+- **Tags:** `theme`, `glassmorphism`, `ui-customization`
+- **Why use it:** Glassmorphism theme with fully adjustable frosted-glass opacity and custom wallpapers
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 378
 - **Language:** JavaScript
 - **Description:** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **Tags:** `animated-background`, `glassmorphism`, `ocean-skin`
-- **Why use it:** Stunning animated ocean theme with glassmorphism effects
+- **Tags:** `ocean-skin`, `animated-background`, `glassmorphism`
+- **Why use it:** Real-time ocean theme with adjustable waves and glass opacity.
 
 ---
 
@@ -52,9 +52,9 @@
 
 - **⭐ Stars:** 5
 - **Language:** JavaScript
-- **Description:** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语���面。
-- **Tags:** `background`, `theme`, `webui`
-- **Why use it:** Customizable backgrounds with preset themes and real-time preview.
+- **Description:** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
+- **Tags:** `dsh-plugin`, `webui`, `theme`
+- **Why use it:** Customize DSH Web UI backgrounds with presets and uploads
 
 ---
 
