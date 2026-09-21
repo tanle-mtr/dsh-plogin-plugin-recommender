@@ -1,6 +1,6 @@
 # Utilities & Infrastructure
 
-> 23 plugins in this category
+> 24 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,53 +8,43 @@
 
 ## Plugins
 
+### [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
+
+- **⭐ Stars:** 43,240
+- **Language:** TypeScript
+- **Description:** A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- **Tags:** `resume`, `self-hosted`, `mcp-server`
+- **Why use it:** Privacy-focused open-source resume builder with MCP support
+
+---
+
 ### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
 
 - **⭐ Stars:** 27,226
 - **Language:** TypeScript
 - **Description:** :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
-- **Tags:** `image-uploader`, `electron`, `cloud-storage`
-- **Why use it:** Ultimate image uploader supporting 60+ hosting services
-
----
-
-### [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
-
-- **⭐ Stars:** 7,199
-- **Language:** JavaScript
-- **Description:** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
-- **Tags:** `router`, `infrastructure`, `injector`
-- **Why use it:** Runtime injector with task-aware reasoning router, measured P1 performance gains
+- **Tags:** `image`, `uploader`, `electron`
+- **Why use it:** Versatile image uploader supporting 60+ hosting services
 
 ---
 
 ### [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)
 
-- **⭐ Stars:** 4,262
+- **⭐ Stars:** 4,276
 - **Language:** TypeScript
 - **Description:** The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
-- **Tags:** `marketplace`, `dsh-plugin`, `utility`
-- **Why use it:** Centralized marketplace for browsing, searching and one-click installing DSH plugins.
-
----
-
-### [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)
-
-- **⭐ Stars:** 3,806
-- **Language:** JavaScript
-- **Description:** Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
-- **Tags:** `preset`, `configuration`, `bootstrap`
-- **Why use it:** Two-phase preset for minimal bootstrap then full Standard tools configuration.
+- **Tags:** `marketplace`, `dsh-plugin`
+- **Why use it:** Official plugin marketplace for browsing, searching and one-click installation
 
 ---
 
 ### [edison7009/EchoBird](https://github.com/edison7009/EchoBird)
 
-- **⭐ Stars:** 3,261
+- **⭐ Stars:** 3,264
 - **Language:** Rust
 - **Description:** Manage ChatGPT, Codex CLI, and Claude Code accounts and track quota in one place. Use multi-model smart routing with priority and automatic failover. Install AI tools and deploy local LLMs in one click.
-- **Tags:** `account-management`, `routing`, `failover`
-- **Why use it:** Unified account manager with multi-model smart routing and auto failover for Codex.
+- **Tags:** `multi-model`, `quota-management`
+- **Why use it:** Unified account management and smart multi-model routing with failover for agents
 
 ---
 
@@ -62,29 +52,19 @@
 
 - **⭐ Stars:** 1,466
 - **Language:** Python
-- **Description:** DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件���态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
-- **Tags:** `discovery`, `radar`, `registry`
-- **Why use it:** Discover DSH plugins through continuous ecosystem radar
-
----
-
-### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
-
-- **⭐ Stars:** 1,453
-- **Language:** TypeScript
-- **Description:** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
-- **Tags:** `context`, `dashboard`, `management`
-- **Why use it:** Smart context dashboard for insight and management
+- **Description:** DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物
+- **Tags:** `ecosystem`, `plugin-registry`, `infrastructure`
+- **Why use it:** Ecosystem radar discovering 21k+ plugins with k8s runtime validation.
 
 ---
 
 ### [LivXue/dsh-plugin-shop](https://github.com/LivXue/dsh-plugin-shop)
 
-- **⭐ Stars:** 843
+- **⭐ Stars:** 848
 - **Language:** TypeScript
 - **Description:** The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.
-- **Tags:** `marketplace`, `shop`, `plugins`
-- **Why use it:** Daily refreshed plugin marketplace with quality review
+- **Tags:** `marketplace`, `plugin-shop`, `ecosystem`
+- **Why use it:** Comprehensive daily-updated plugin marketplace with pre-publish review.
 
 ---
 
@@ -93,18 +73,38 @@
 - **⭐ Stars:** 437
 - **Language:** Python
 - **Description:** DeepSec — AI Security Offense & Defense Platform. Shield audits AI-generated code for hallucinated packages, missing safeguards & AI pattern errors in real time. Spear automates authorized penetration testing with 40+ skill packs, from recon to PoC. 
-- **Tags:** `security`, `redteam`, `vulnerability`, `auditing`
-- **Why use it:** AI security platform auditing hallucinated packages, missing safeguards, and pattern errors
+- **Tags:** `security`, `audit`, `cybersecurity`
+- **Why use it:** AI security platform that audits generated code for hallucinated packages and vulnerabilities
+
+---
+
+### [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli)
+
+- **⭐ Stars:** 415
+- **Language:** TypeScript
+- **Description:** Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub
+- **Tags:** `cli`, `plugin-manager`, `hub`
+- **Why use it:** CLI tool and plugin manager for the DSH Plugin Hub with schema validation
+
+---
+
+### [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office)
+
+- **⭐ Stars:** 378
+- **Language:** TypeScript
+- **Description:** Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.
+- **Tags:** `office`, `spreadsheets`, `docs`, `productivity`
+- **Why use it:** Full office suite with spreadsheets, docs, slides, and canvases for DSH
 
 ---
 
 ### [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions)
 
-- **⭐ Stars:** 375
+- **⭐ Stars:** 374
 - **Language:** TypeScript
 - **Description:** Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys
-- **Tags:** `llm-provider`, `oauth`, `deepseek-harness`
-- **Why use it:** Use ChatGPT Claude and Grok subscriptions as LLM providers without API keys
+- **Tags:** `oauth`, `subscription`, `llm-provider`, `codex`
+- **Why use it:** Use existing ChatGPT Claude Grok subscriptions as DSH LLM providers via OAuth
 
 ---
 
@@ -113,17 +113,17 @@
 - **⭐ Stars:** 316
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI
-- **Tags:** `cost-tracking`, `token-usage`, `llm-provider`
-- **Why use it:** Track session daily costs budgets and token usage across multiple LLM providers
+- **Tags:** `cost-tracking`, `budget`, `token-usage`, `analytics`
+- **Why use it:** Track session and daily costs with budget alerts and multi-provider balance
 
 ---
 
 ### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
 
-- **⭐ Stars:** 296
+- **⭐ Stars:** 298
 - **Language:** TypeScript
 - **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
-- **Tags:** `llm-provider`, `commandcode`, `plugin`
+- **Tags:** `llm-provider`, `command-code`, `model-access`
 - **Why use it:** Adds Command Code model access with live catalog and plan-aware selection
 
 ---
@@ -133,8 +133,8 @@
 - **⭐ Stars:** 201
 - **Language:** TypeScript
 - **Description:** Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。
-- **Tags:** `migration`, `compatibility`, `infrastructure`
-- **Why use it:** Compatibility layer bridging Pi ecosystem to native DSH plugins.
+- **Tags:** `compatibility-layer`, `migration`, `ecosystem`
+- **Why use it:** Compatibility layer to run Pi extensions as native DSH plugins
 
 ---
 
@@ -143,8 +143,8 @@
 - **⭐ Stars:** 118
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness (DSH) backup & restore plugin — export, import, migrate and sync your complete DSH configuration, plugins, MCP servers, skills and workspace. One-click migration to another machine.
-- **Tags:** `backup`, `config-manager`, `mcp`, `migration`, `sync`
-- **Why use it:** Backup, restore, migrate and sync your complete DSH configuration via WebDAV.
+- **Tags:** `config-manager`, `backup`, `dsh-plugin`
+- **Why use it:** Backup, restore, migrate and sync complete DSH configurations
 
 ---
 
@@ -153,8 +153,8 @@
 - **⭐ Stars:** 86
 - **Language:** Python
 - **Description:** 🐳 DeepSeek Harness 插件聚合社区 — 自动同步 dsh-plugin 生态 · 精选目录 · 每 4 小时自动维护 | Oh-My-DSH: a community-maintained catalog of DeepSeek Harness plugins, auto-synced from the dsh-plugin topic
-- **Tags:** `plugin-marketplace`, `awesome-list`, `dsh-ecosystem`
-- **Why use it:** Community-maintained plugin catalog with auto-sync every 4 hours
+- **Tags:** `dsh-plugin`, `plugin-marketplace`
+- **Why use it:** Community-maintained plugin catalog with auto-sync
 
 ---
 
@@ -163,18 +163,8 @@
 - **⭐ Stars:** 58
 - **Language:** TypeScript
 - **Description:** DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导
-- **Tags:** `plugin-management`, `console`, `infrastructure`
-- **Why use it:** Browser console for plugin repository management plus dev scaffolding
-
----
-
-### [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor)
-
-- **⭐ Stars:** 30
-- **Language:** TypeScript
-- **Description:** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
-- **Tags:** `context-audit`, `tool`, `ui`
-- **Why use it:** Context injection audit tool: checks token cost, detects duplicates and conflicts
+- **Tags:** `plugin-management`, `deepseek-harness`, `ui`
+- **Why use it:** Plugin ecosystem infrastructure with dev guidance
 
 ---
 
@@ -183,28 +173,68 @@
 - **⭐ Stars:** 29
 - **Language:** Rust
 - **Description:** Manage DeepSeek Harness locally: run multiple DSH versions in isolated containers, open the UI in an embedded WebView, import plugins/skills with one click, share extension bundles, and let a queued task system handle installs with live logs. Zero-dependency installer.
-- **Tags:** `dsh-box`, `container`
-- **Why use it:** Isolated multi-version DSH container manager with WebView UI
+- **Tags:** `dshbox`, `container`, `plugin-manager`
+- **Why use it:** Manage multiple DSH versions in isolated containers with one-click plugin import
+
+---
+
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+
+- **⭐ Stars:** 29
+- **Language:** TypeScript
+- **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **Tags:** `mcp`, `config-sync`, `multi-agent`
+- **Why use it:** One-click MCP/skills setup across 7+ AI agent platforms
+
+---
+
+### [rootkiller6788/dsh-launcher](https://github.com/rootkiller6788/dsh-launcher)
+
+- **⭐ Stars:** 26
+- **Language:** Rust
+- **Description:** Unlock DeepSeek Harness plugin-native core capabilities, unifying Runtime, Provider, Plugin, Skill and MCP orchestration to build an extensible, composable and manageable local AI runtime platform.
+- **Tags:** `launcher`, `orchestration`, `cordis`
+- **Why use it:** Orchestrates Runtime, Provider, Plugin, Skill and MCP for extensible DSH
 
 ---
 
 ### [PerryLink/dsh-claude-move](https://github.com/PerryLink/dsh-claude-move)
 
-- **⭐ Stars:** 25
+- **⭐ Stars:** 26
 - **Language:** JavaScript
 - **Description:** Four-source migration wizard for DeepSeek Harness: move Claude Code, Codex, OpenCode and Hermes sessions, memories, skills, instructions and slash commands into DSH (/move wizard + resumable sessions, approval-gated, idempotent).
-- **Tags:** `migration`, `import`
-- **Why use it:** Four-source migration wizard for sessions, memories and skills
+- **Tags:** `migration`, `claude-code`, `session-import`
+- **Why use it:** Migration wizard for sessions and skills across 4 AI coding tools
 
 ---
 
-### [faerryn/plogins.nvim](https://github.com/faerryn/plogins.nvim)
+### [weekitmo/oh-my-dsh-plugins](https://github.com/weekitmo/oh-my-dsh-plugins)
 
-- **⭐ Stars:** 11
-- **Language:** Lua
-- **Description:** A fast, simple, and elegant Neovim plugin manager written in Lua!
-- **Tags:** `neovim`, `plugin-manager`, `lua`
-- **Why use it:** Fast, elegant Neovim plugin manager written in Lua
+- **⭐ Stars:** 10
+- **Language:** TypeScript
+- **Description:** A curated collection of awesome plugins for DeepSeek Harness (DSH) — task notifications, LLM trace inspection, keybindings with a built-in terminal, and local agent delegation.
+- **Tags:** `terminal`, `keybindings`, `trace`, `enhancement`
+- **Why use it:** Task notifications, trace inspection, keybindings and built-in terminal
+
+---
+
+### [Max-Samson/dsh-usage-chart](https://github.com/Max-Samson/dsh-usage-chart)
+
+- **⭐ Stars:** 9
+- **Language:** TypeScript
+- **Description:** A DeepSeek Harness Web plugin for real-time Token usage, cost estimates, per-round charts, and DeepSeek API balance.
+- **Tags:** `data-visualization`, `token-usage`, `ai-cost`
+- **Why use it:** Real-time token usage, cost estimates and API balance dashboard
+
+---
+
+### [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts)
+
+- **⭐ Stars:** 7
+- **Language:** TypeScript
+- **Description:** 给DSH接入免费的 Xiaomi MiMo TTS API，支持使用预置/自定义/浏览器内置声音朗读正文
+- **Tags:** `tts`, `xiaomi-mimo`, `voice`
+- **Why use it:** Free Xiaomi MiMo TTS integration with preset/custom/browser voices
 
 ---
 
@@ -213,28 +243,8 @@
 - **⭐ Stars:** 7
 - **Language:** TypeScript
 - **Description:** 致力于解决各插件之间也与版本之间可能存在的冲突问题并提供解决方案
-- **Tags:** `diagnostic`, `conflict-resolution`, `plugin-health`
-- **Why use it:** Diagnoses and resolves plugin version conflicts automatically
-
----
-
-### [cooljser/dsh-plugin-portal](https://github.com/cooljser/dsh-plugin-portal)
-
-- **⭐ Stars:** 2
-- **Language:** JavaScript
-- **Description:** DSH Plugin Portal — a zero-dependency static web portal for the awesome-dsh-plugin curated list. Discover, filter and install 227+ DeepSeek Harness (dsh) plugins.
-- **Tags:** `portal`, `web`, `static-site`
-- **Why use it:** Zero-dependency static web portal for plugin discovery
-
----
-
-### [zoahdev/dsh-plugin-search](https://github.com/zoahdev/dsh-plugin-search)
-
-- **⭐ Stars:** 2
-- **Language:** TypeScript
-- **Description:** Plugin discoverability for DeepSeek Harness: search npm + awesome-dsh-plugin, look up packages, browse the curated list — from inside dsh agents (answers discussion #1715).
-- **Tags:** `search`, `discoverability`, `utility`
-- **Why use it:** Search npm + awesome list for plugin discoverability inside DSH
+- **Tags:** `diagnostic`, `plugin-conflict`, `dsh-plugin`
+- **Why use it:** Detects and resolves plugin version conflicts automatically
 
 ---
 
