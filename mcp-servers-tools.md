@@ -8,23 +8,13 @@
 
 ## Plugins
 
-### [liustack/modlens](https://github.com/liustack/modlens)
-
-- **⭐ Stars:** 4,004
-- **Language:** TypeScript
-- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `mcp`, `ocr`, `multimodal`
-- **Why use it:** First vision plugin enabling image-to-JSON for text-only coding agents.
-
----
-
 ### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
 - **⭐ Stars:** 68
 - **Language:** TypeScript
 - **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `api-documentation`, `chinese-api`, `deepseek-harness`
-- **Why use it:** Search 65,600+ Chinese platform API docs, zero config
+- **Tags:** `api-documentation`, `mcp`, `dsh-plugin`
+- **Why use it:** Search 65,600+ Chinese platform API docs, zero config MCP tools
 
 ---
 
@@ -33,8 +23,18 @@
 - **⭐ Stars:** 65
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `huaweicloud`, `cloud`, `mcp`, `sdk`, `terraform`
-- **Why use it:** Official Huawei Cloud plugin with skills and guardrails
+- **Tags:** `mcp`, `cloud`, `dsh-plugin`
+- **Why use it:** Official Huawei Cloud skills and MCP tools with sandbox support
+
+---
+
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+
+- **⭐ Stars:** 29
+- **Language:** TypeScript
+- **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **Tags:** `mcp`, `config-sync`, `multi-agent`
+- **Why use it:** One-click MCP and skill config for multiple AI agent tools.
 
 ---
 
