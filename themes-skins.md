@@ -13,8 +13,8 @@
 - **⭐ Stars:** 4,144
 - **Language:** TypeScript
 - **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **Tags:** `pet`, `ui`, `mascot`
-- **Why use it:** Animated pet gallery that personalizes your coding agent environment
+- **Tags:** `mascot`, `pixel-art`, `theme`, `ui`
+- **Why use it:** Public gallery of animated pets for coding agents — fun UI customization
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 2,183
 - **Language:** TypeScript
 - **Description:** Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。
-- **Tags:** `skin`, `theme`, `deep-whale`
-- **Why use it:** Whale girl skin series for customizing DSH visual appearance.
+- **Tags:** `dsh-plugin`, `themes`, `skin`
+- **Why use it:** Whale Girl themed skin series for DeepSeek Harness UI customization.
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 406
 - **Language:** JavaScript
 - **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `theme`, `glass-effect`, `customizable`, `desktop`
-- **Why use it:** Frosted glass theme with fully customizable blur,磨砂 and wallpaper effects
+- **Tags:** `theme`, `glass-morphism`, `ui-customization`, `skin`
+- **Why use it:** Frosted glass/morphic theme for DSH web with full control over blur,磨砂 and background images.
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 382
 - **Language:** JavaScript
 - **Description:** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **Tags:** `theme`, `animated`, `ocean-skin`
-- **Why use it:** Stunning animated ocean theme with adjustable waves and glass effects
+- **Tags:** `theme`, `skin`, `animated-background`
+- **Why use it:** Stunning animated ocean theme with adjustable waves and glassmorphism effects.
 
 ---
 

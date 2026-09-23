@@ -8,13 +8,23 @@
 
 ## Plugins
 
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 186
+- **⭐ Stars:** 2,205
 - **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `mcp`, `finance`, `tushare`, `data-source`
-- **Why use it:** Local finance database with Tushare, auto-generates HTTP/MCP interfaces.
+- **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **Tags:** `mcp`, `api-keys`, `credentials`, `secrets`
+- **Why use it:** OpenRouter for agent tools — MCP proxy with secret registry management.
+
+---
+
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ Stars:** 68
+- **Language:** TypeScript
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `api`, `mcp`, `chinese`
+- **Why use it:** Search 65,600+ Chinese API docs across 20 open platforms
 
 ---
 
@@ -23,18 +33,8 @@
 - **⭐ Stars:** 65
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `sdk`
-- **Why use it:** Official Huawei Cloud plugin with MCP tools, skills and cloud sandbox for deployment
-
----
-
-### [miniLV/Plexus](https://github.com/miniLV/Plexus)
-
-- **⭐ Stars:** 29
-- **Language:** TypeScript
-- **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **Tags:** `deepseek-harness`, `mcp`, `plexus`
-- **Why use it:** One-click local MCP server setup for Claude Code, Codex, DSH, Cursor, Gemini CLI.
+- **Tags:** `mcp`, `cloud`, `huawei`
+- **Why use it:** Official Huawei Cloud plugin with MCP tools and cloud sandbox
 
 ---
 
