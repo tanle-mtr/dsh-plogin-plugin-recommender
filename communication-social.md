@@ -12,9 +12,9 @@
 
 - **⭐ Stars:** 7
 - **Language:** TypeScript
-- **Description:** 给DSH接入免费的 Xiaomi MiMo TTS API，支持使用预置/自定义/浏览器内置声音朗读正文
-- **Tags:** `tts`, `xiaomi-mimo`, `audio`
-- **Why use it:** Free Xiaomi MiMo TTS integration with prebuilt/custom/browser voice support
+- **Description:** 给DSH接入���费的 Xiaomi MiMo TTS API，支持使用预置/自定义/浏览器内置声音朗读正文
+- **Tags:** `tts`, `xiaomi-mimo`, `voice`
+- **Why use it:** Free Xiaomi MiMo TTS API integration with custom and browser voices support.
 
 ---
 

@@ -8,23 +8,23 @@
 
 ## 插件列表
 
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ 星标：** 68
+- **语言：** TypeScript
+- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里���接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **标签：** `api-documentation`, `chinese-api`, `mcp`
+- **推荐理由：** 零配置搜索20个中国平台6.5万+篇API文档
+
+---
+
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ 星标：** 65
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `cloud`, `mcp`, `huawei`, `sdk`
-- **推荐理由：** 华为云官方插件，提供技能、MCP工具、安全护栏和云沙箱
-
----
-
-### [miniLV/Plexus](https://github.com/miniLV/Plexus)
-
-- **⭐ 星标：** 29
-- **语言：** TypeScript
-- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp`, `config`, `multi-agent`
-- **推荐理由：** 一键配置多种AI Agent工具的MCP与Skills
+- **标签：** `huaweicloud`, `mcp`, `cloud`
+- **推荐理由：** 华为云官方插件，集成MCP工具、技能与云沙箱
 
 ---
 
