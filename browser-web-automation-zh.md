@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 5 个插件
+> 本分类共 6 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,13 +8,23 @@
 
 ## 插件列表
 
+### [Nagi-ovo/voyager](https://github.com/Nagi-ovo/voyager)
+
+- **⭐ 星标：** 20,166
+- **语言：** TypeScript
+- **描述：** Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
+- **标签：** `browser-extension`, `prompt-manager`, `multi-platform`
+- **推荐理由：** 浏览器插件统一增强Gemini/Claude/ChatGPT/DeepSeek，附提示词管理
+
+---
+
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 6,892
+- **⭐ 星标：** 6,908
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `dsh-plugin`
-- **推荐理由：** 让AI在真实登录浏览器中无缝操作
+- **标签：** `browser-automation`, `tencent`, `logged-in`
+- **推荐理由：** AI Agent非侵入式控制真实已登录浏览器的CLI方案
 
 ---
 
@@ -23,8 +33,8 @@
 - **⭐ 星标：** 3,347
 - **语言：** Python
 - **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **标签：** `content-discovery`, `social`, `agent`
-- **推荐理由：** 跨平台自进化内容发现，覆盖8+社交平台。
+- **标签：** `content`, `browser`, `discovery`
+- **推荐理由：** 跨平台AI内容发现Agent，覆盖B站/YouTube/X等
 
 ---
 
@@ -33,18 +43,8 @@
 - **⭐ 星标：** 507
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **标签：** `browser`, `automation`, `fingerprint`
-- **推荐理由：** 持久身份浏览器引擎，支持指纹伪装和安卓模拟
-
----
-
-### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
-
-- **⭐ 星标：** 302
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **标签：** `ios-simulator`, `automation`, `webdriveragent`
-- **推荐理由：** 内置iOS模拟器，22个Agent工具实现设备自动化。
+- **标签：** `browser`, `anti-detect`, `playwright`, `automation`
+- **推荐理由：** 持久指纹伪装浏览器，无限本地档案，内置Playwright。
 
 ---
 
@@ -54,7 +54,17 @@
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
 - **标签：** `browser-automation`, `playwright`, `tabbit`
-- **推荐理由：** Tabbit浏览器插件，支持Playwright自动化。
+- **推荐理由：** 基于Playwright的浏览器自动化插件。
+
+---
+
+### [FTShare-Lab/dsh_kline](https://github.com/FTShare-Lab/dsh_kline)
+
+- **⭐ 星标：** 30
+- **语言：** HTML
+- **描述：** 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。
+- **标签：** `kline`, `financial`, `sidebar`, `deepseek-harness`
+- **推荐理由：** 交互式K线分析，支持多市场行情与技术指标展示
 
 ---
 
