@@ -10,41 +10,41 @@
 
 ### [nexu-io/open-design](https://github.com/nexu-io/open-design)
 
-- **⭐ 星标：** 97,943
+- **⭐ 星标：** 97,969
 - **语言：** TypeScript
 - **描述：** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
-- **标签：** `ai-design`, `figma-alternative`, `ui-generator`
-- **推荐理由：** 开源设计智能体，本地优先桌面与Figma替代品
+- **标签：** `ai-design`, `figma-alternative`, `dsh-plugin`
+- **推荐理由：** 开源设计系统，本地优先桌面端，类Figma替代方案。
 
 ---
 
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ 星标：** 71,133
+- **⭐ 星标：** 71,193
 - **语言：** JavaScript
 - **描述：** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **标签：** `architecture-diagram`, `diagrams-as-code`, `mermaid-alternative`
-- **推荐理由：** 自包含HTML动效图表，支持架构与流程图生成
+- **标签：** `architecture-diagram`, `diagrams-as-code`
+- **推荐理由：** 生成精美可验证的架构图和时序图。
 
 ---
 
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ 星标：** 33,480
+- **⭐ 星标：** 33,484
 - **语言：** JavaScript
-- **描述：** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills���新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-- **标签：** `image-generation`, `prompt-engineering`, `skills`
-- **推荐理由：** 530+图片提示词模板，支持GPT Image 2/2.5生成
+- **描述：** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
+- **标签：** `ai-image-generation`, `skills`, `dsh-plugin`
+- **推荐理由：** 530+ GPT图像提示词案例，含工业级模板。
 
 ---
 
 ### [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
 
-- **⭐ 星标：** 6,016
+- **⭐ 星标：** 6,017
 - **语言：** Rust
 - **描述：** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **标签：** `agent-team`, `ui`, `vibedesign`
-- **推荐理由：** 首款开源AI原生矢量设计工具，支持并发Agent团队协同设计。
+- **标签：** `agent-team`, `vibedesign`, `ui`, `flutter`
+- **推荐理由：** 首个开源AI原生矢量设计工具，支持并发Agent团队协作。
 
 ---
 
@@ -53,18 +53,18 @@
 - **⭐ 星标：** 1,537
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **标签：** `design`, `ppt`, `prototyping`
-- **推荐理由：** AI驱动的设计工作室支持PPT与原型制作
+- **标签：** `design`, `ppt`, `prototyping`, `visual-editor`
+- **推荐理由：** AI生成可编辑设计系统，含模板市场和PPT工作室功能。
 
 ---
 
-### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
+### [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx)
 
-- **⭐ 星标：** 478
-- **语言：** TypeScript
-- **描述：** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
-- **标签：** `ui`, `charts`, `interactive`
-- **推荐理由：** 在回复中内联生成图表、表单、测验等交互UI组件。
+- **⭐ 星标：** 29
+- **语言：** JavaScript
+- **描述：** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
+- **标签：** `ai-director`, `video`, `image`, `audio`
+- **推荐理由：** AI视频/图像/音频技能，可配置视觉模型工具
 
 ---
 
