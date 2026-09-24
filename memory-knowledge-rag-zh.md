@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 10 个插件
+> 本分类共 9 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,51 +10,51 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 38,613
+- **⭐ 星标：** 38,621
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - **标签：** `agent-memory`, `agentic-rag`, `self-evolving`
-- **推荐理由：** 自进化上下文数据库，统一记忆与知识管理
+- **推荐理由：** 自进化上下文数据库，统一智能体记忆与RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 29,629
+- **⭐ 星标：** 29,675
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `multi-tenant`
-- **推荐理由：** 腾讯开源RAG知识库平台，支持自主推理
+- **标签：** `rag`, `knowledge-base`, `vector-search`
+- **推荐理由：** 开源LLM知识平台，支持RAG、推理智能体与Wiki
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 13,173
+- **⭐ 星标：** 13,176
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `rag`, `long-term-memory`, `mcp`
-- **推荐理由：** ���地优先的Markdown原生记忆层，支持跨平台长期记忆管理。
+- **标签：** `memory`, `rag`, `local-first`
+- **推荐理由：** 本地优先的记忆层，支持RAG实现持久化知识管��。
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 11,567
+- **⭐ 星标：** 11,569
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `agent-memory`, `rag`, `token-savings`, `skills`
-- **推荐理由：** 自演进记忆系统，混合检索大幅节省Token，支持跨任务技能复用。
+- **标签：** `memory`, `self-evolving`, `token-optimization`
+- **推荐理由：** 自演进记忆系统，混合检索并节省35%token。
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,329
+- **⭐ 星标：** 7,330
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `agent-memory`, `agentic-rag`, `context-engineering`
-- **推荐理由：** 专为有状态Agent设计的内存库，支持持续学习和记忆管理。
+- **标签：** `memory-library`, `stateful`, `context`
+- **推荐理由：** 内存库支持状态化代理，结合上下文工程。
 
 ---
 
@@ -63,38 +63,28 @@
 - **⭐ 星标：** 3,519
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `knowledge`
-- **推荐理由：** Agent专用记忆管理套件，支持RAG知识检索
+- **标签：** `memory`, `rag`, `agent`
+- **推荐理由：** Agent记忆管理套件，支持RAG，实现知识的长期积累与优化。
 
 ---
 
 ### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
 
-- **⭐ 星标：** 2,649
+- **⭐ 星标：** 2,651
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
 - **标签：** `memory`, `rag`, `milvus`
-- **推荐理由：** 持久统一Agent记忆层，基于Milvus
+- **推荐理由：** 基于Milvus的持久统一Agent记忆层
 
 ---
 
 ### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ 星标：** 665
+- **⭐ 星标：** 663
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skill-corpus`, `rag`, `semantic-search`, `embeddings`
-- **推荐理由：** 将零散技能文件转化为可语义检索的精选语料库
-
----
-
-### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
-
-- **⭐ 星标：** 407
-- **语言：** TypeScript
-- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `encyclopedia`, `knowledge-base`, `ai-resources`
-- **推荐理由：** 全面AI资源百科，涵盖技能、MCP、RAG和学习路线
+- **标签：** `skill-retrieval`, `vector-search`, `embeddings`
+- **推荐理由：** 将分散的SKILL.md文件转化为可检索的Agent技能库。
 
 ---
 
@@ -103,8 +93,8 @@
 - **⭐ 星标：** 78
 - **语言：** JavaScript
 - **描述：** Proactive associative memory for DSH: zero-prompt recall injected before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **标签：** `memory`, `context`, `deepseek-harness`
-- **推荐理由：** 三层自动记忆固化系统
+- **标签：** `memory`, `context`, `npm`
+- **推荐理由：** 三层自动记忆整合，无需提示即可调用记忆
 
 ---
 
