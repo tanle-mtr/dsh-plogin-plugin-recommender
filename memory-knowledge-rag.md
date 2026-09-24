@@ -8,63 +8,73 @@
 
 ## Plugins
 
+### [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)
+
+- **⭐ Stars:** 47,096
+- **Language:** Python
+- **Description:** Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.
+- **Tags:** `multi-agent`, `self-evolving`
+- **Why use it:** Self-evolving AI agent with integrated memory and knowledge.
+
+---
+
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 38,554
+- **⭐ Stars:** 38,568
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `agentic-rag`, `self-evolving`
-- **Why use it:** Self-evolving context database unifying memory and RAG.
+- **Tags:** `agent-memory`, `agentic-rag`
+- **Why use it:** Self-evolving context database unifying agent memory and RAG.
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 29,336
+- **⭐ Stars:** 29,432
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `knowledge-base`, `self-hosted`
-- **Why use it:** LLM knowledge platform with RAG, reasoning, and Wiki.
+- **Tags:** `knowledge-base`, `vector-search`
+- **Why use it:** Turns documents into queryable RAG, reasoning agent, and wiki.
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ Stars:** 13,162
+- **⭐ Stars:** 13,166
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `agent-memory`, `local-first`, `markdown`
-- **Why use it:** Portable, local-first Markdown memory layer self-evolving across apps
+- **Tags:** `agent-memory`, `rag`, `long-term-memory`
+- **Why use it:** Portable, self-evolving memory layer for AI agents — local-first, user-owned, Markdown-native.
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 11,550
+- **⭐ Stars:** 11,555
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory-os`, `token-optimization`, `skill-reuse`
-- **Why use it:** Self-evolving memory OS with 35% token savings and cross-task skill reuse
+- **Tags:** `agent-memory`, `rag`, `token-savings`
+- **Why use it:** Self-evolving memory OS with hybrid retrieval and significant token savings for agents.
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ Stars:** 7,318
+- **⭐ Stars:** 7,321
 - **Language:** Python
 - **Description:**  Memory library for building stateful agents
-- **Tags:** `memory-library`, `stateful`, `long-context`
-- **Why use it:** Lightweight memory library for building stateful long-context agents
+- **Tags:** `agent-memory`, `memory-library`, `continual-learning`
+- **Why use it:** Memory library for building stateful, continual-learning AI agents.
 
 ---
 
 ### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ Stars:** 3,509
+- **⭐ Stars:** 3,512
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - **Tags:** `memory`, `rag`, `agent`
-- **Why use it:** Agent memory management kit with recall refinement capabilities
+- **Why use it:** Dedicated memory management kit with RAG for persistent agent recall.
 
 ---
 
@@ -73,38 +83,28 @@
 - **⭐ Stars:** 2,649
 - **Language:** Python
 - **Description:** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **Tags:** `rag`, `memory`, `embeddings`, `milvus`
-- **Why use it:** Persistent memory layer for AI agents backed by Milvus and Markdown.
+- **Tags:** `memory`, `rag`, `milvus`
+- **Why use it:** Persistent unified memory layer backed by Markdown and Milvus for all AI agents.
 
 ---
 
-### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
+### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
 
-- **⭐ Stars:** 665
-- **Language:** Python
-- **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `skill-corpus`, `retrieval`, `memory`, `rag`
-- **Why use it:** Turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora.
+- **⭐ Stars:** 406
+- **Language:** TypeScript
+- **Description:** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
+- **Tags:** `ai-knowledge`, `rag`, `resource-encyclopedia`
+- **Why use it:** Comprehensive AI knowledge base and resource encyclopedia
 
 ---
 
 ### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
 
-- **⭐ Stars:** 76
+- **⭐ Stars:** 78
 - **Language:** JavaScript
 - **Description:** Proactive associative memory for DSH: zero-prompt recall injected before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **Tags:** `memory`, `context`, `dsh-plugins`
-- **Why use it:** Proactive associative memory with three-layer auto-consolidation.
-
----
-
-### [Zhenyu98/dsh-context-doctor](https://github.com/Zhenyu98/dsh-context-doctor)
-
-- **⭐ Stars:** 32
-- **Language:** TypeScript
-- **Description:** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
-- **Tags:** `context`, `audit`, `ui`, `deepseek-harness`
-- **Why use it:** Audits context injection and token costs with visual dashboard
+- **Tags:** `memory`, `context`, `dsh-plugin`
+- **Why use it:** Proactive associative memory with zero-prompt recall and three-layer consolidation.
 
 ---
 
