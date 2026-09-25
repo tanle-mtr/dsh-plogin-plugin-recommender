@@ -1,6 +1,6 @@
 # Memory & Knowledge (RAG)
 
-> 12 plugins in this category
+> 13 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,91 +10,71 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 38,659
+- **⭐ Stars:** 38,671
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `agentic-rag`, `self-evolving`
-- **Why use it:** Self-evolving context database unifying agent memory and RAG.
+- **Tags:** `agent-memory`, `rag`, `context-database`
+- **Why use it:** Self-evolving context database unifying agent memory, RAG knowledge, and skill management.
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 29,919
+- **⭐ Stars:** 30,011
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `knowledge-base`, `semantic-search`
-- **Why use it:** Enterprise RAG platform with reasoning agents and wiki.
+- **Tags:** `rag`, `knowledge-base`, `multi-tenant`
+- **Why use it:** Turn documents into queryable RAG knowledge base with autonomous reasoning agent and wiki.
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ Stars:** 13,187
+- **⭐ Stars:** 13,194
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `agent-memory`, `rag`, `long-term-memory`
-- **Why use it:** Portable, local-first memory layer with self-evolving RAG across apps.
+- **Tags:** `agent-memory`, `rag`, `long-term-memory`, `mcp`
+- **Why use it:** Portable local-first memory layer with Markdown-native persistence for cross-app agent memory
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 11,577
+- **⭐ Stars:** 11,584
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory`, `rag`, `token-savings`
-- **Why use it:** Self-evolving memory OS with hybrid retrieval and 35% token savings.
+- **Tags:** `agent-memory`, `rag`, `memory-management`, `token-savings`
+- **Why use it:** Self-evolving memory OS with hybrid retrieval achieving significant token savings for agents
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ Stars:** 7,333
+- **⭐ Stars:** 7,335
 - **Language:** Python
 - **Description:**  Memory library for building stateful agents
-- **Tags:** `agent-memory`, `continual-learning`, `rag`
-- **Why use it:** Memory library enabling stateful, continual-learning AI agents.
+- **Tags:** `agent-memory`, `context-engineering`, `continual-learning`
+- **Why use it:** Dedicated memory library for building stateful agents with continual learning support
 
 ---
 
 ### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ Stars:** 3,521
+- **⭐ Stars:** 3,522
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - **Tags:** `memory`, `rag`, `agent`
-- **Why use it:** Dedicated memory management kit — remember and refine agent knowledge across sessions.
-
----
-
-### [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
-
-- **⭐ Stars:** 3,088
-- **Language:** Rust
-- **Description:** Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
-- **Tags:** `deepwiki`, `dsh-plugin`, `openwiki`
-- **Why use it:** Generates accurate technical docs and AI-ready context structures quickly.
+- **Why use it:** Dedicated memory management kit for agents with RAG capabilities — remember and refine.
 
 ---
 
 ### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
 
-- **⭐ Stars:** 2,658
+- **⭐ Stars:** 2,659
 - **Language:** Python
 - **Description:** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **Tags:** `memory`, `rag`, `dsh-plugin`, `milvus`
-- **Why use it:** Persistent unified memory layer with Milvus-backed hybrid semantic search.
-
----
-
-### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
-
-- **⭐ Stars:** 1,524
-- **Language:** TypeScript
-- **Description:** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
-- **Tags:** `cordis-plugin`, `context`, `dsh-plugin`
-- **Why use it:** Best context insight and management with dashboard, browser, and sidebar.
+- **Tags:** `memory`, `rag`, `milvus`, `dsh-plugin`
+- **Why use it:** Persistent unified memory layer for AI agents backed by Milvus.
 
 ---
 
@@ -103,18 +83,8 @@
 - **⭐ Stars:** 665
 - **Language:** Python
 - **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `skill-md`, `rag`, `embedding`, `evaluation`
-- **Why use it:** Turns scattered skills into retrieval-ready corpora with eval tooling
-
----
-
-### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
-
-- **⭐ Stars:** 407
-- **Language:** TypeScript
-- **Description:** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **Tags:** `knowledge`, `pedia`, `skills`, `rag`
-- **Why use it:** Comprehensive AI knowledge base with skills and RAG resources
+- **Tags:** `agent-memory`, `embeddings`, `semantic-search`
+- **Why use it:** Transforms SKILL.md files into searchable agent-skill corpora with retrieval and evaluation.
 
 ---
 
@@ -123,8 +93,48 @@
 - **⭐ Stars:** 78
 - **Language:** JavaScript
 - **Description:** Proactive associative memory for DSH: zero-prompt recall injected before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **Tags:** `memory`, `context`, `plugin`
-- **Why use it:** Proactive associative memory with three-layer auto-consolidation for zero-prompt recall.
+- **Tags:** `memory`, `rag`, `context`, `consolidation`
+- **Why use it:** Proactive associative memory with three-layer auto-consolidation and skill crystallization
+
+---
+
+### [ZeroPointRepo/awesome-dsh-plugins](https://github.com/ZeroPointRepo/awesome-dsh-plugins)
+
+- **⭐ Stars:** 1
+- **Language:** Python
+- **Description:** DSH plugins directory: 80+ verified DeepSeek Harness plugins, organized by what they do.
+- **Tags:** `awesome-list`, `plugins`, `dsh`
+- **Why use it:** Curated 80+ plugin directory organized by function for quick discovery.
+
+---
+
+### [oslook/awesome-dsh-plugins](https://github.com/oslook/awesome-dsh-plugins)
+
+- **⭐ Stars:** 1
+- **Language:** Unknown
+- **Description:** Deekseek Harness Plugins
+- **Tags:** `dsh-plugins`, `ecosystem`, `dsh`
+- **Why use it:** DSH plugin repository and ecosystem analytics resource.
+
+---
+
+### [awesome-dsh-plugins/awesome-dsh-plugins](https://github.com/awesome-dsh-plugins/awesome-dsh-plugins)
+
+- **⭐ Stars:** 1
+- **Language:** Unknown
+- **Description:** Moved → github.com/awesome-dsh-plugin/awesome-dsh-plugin
+- **Tags:** `awesome-list`, `dsh-plugins`
+- **Why use it:** Plugin directory — now migrated, check the new repo link.
+
+---
+
+### [coolbat/awesome-dsh-plugins](https://github.com/coolbat/awesome-dsh-plugins)
+
+- **⭐ Stars:** 1
+- **Language:** TypeScript
+- **Description:** Evidence-led bilingual directory of DeepSeek Harness plugins, reviewed at immutable commits.
+- **Tags:** `awesome-list`, `bilingual`, `dsh-plugin`
+- **Why use it:** Evidence-led bilingual plugin directory with immutable commit reviews.
 
 ---
 

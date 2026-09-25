@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 12 个插件
+> 本分类共 13 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,91 +10,71 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 38,659
+- **⭐ 星标：** 38,671
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `agentic-rag`, `self-evolving`
-- **推荐理由：** 自进化上下文数据库，统一代理记忆与RAG。
+- **标签：** `agent-memory`, `rag`, `context-database`
+- **推荐理由：** 自进化上下文数据库，统一智能体记忆、RAG知识与技能管理。
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 29,919
+- **⭐ 星标：** 30,011
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `semantic-search`
-- **推荐理由：** 企业级RAG平台，含推理代理与自维护Wiki。
+- **标签：** `rag`, `knowledge-base`, `multi-tenant`
+- **推荐理由：** 将文档转化为可查询RAG知识库，支持自主推理与维基维护。
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 13,187
+- **⭐ 星标：** 13,194
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `rag`, `long-term-memory`
-- **推荐理由：** 本地优先的跨应用自演进记忆层，支持RAG。
+- **标签：** `agent-memory`, `rag`, `long-term-memory`, `mcp`
+- **推荐理由：** 便携式本地优先记忆层，支持跨应用Markdown持久化
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 11,577
+- **⭐ 星标：** 11,584
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `rag`, `token-savings`
-- **推荐理由：** 自演进记忆系统，混合检索，节省35% token。
+- **标签：** `agent-memory`, `rag`, `memory-management`, `token-savings`
+- **推荐理由：** 自演进记忆OS，混合检索大幅节省token的Agent记忆方案
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,333
+- **⭐ 星标：** 7,335
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `agent-memory`, `continual-learning`, `rag`
-- **推荐理由：** 构建有状态、持续学习AI智能体的记忆库。
+- **标签：** `agent-memory`, `context-engineering`, `continual-learning`
+- **推荐理由：** 专为构建有状态Agent设计的记忆库，支持持续学习
 
 ---
 
 ### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ 星标：** 3,521
+- **⭐ 星标：** 3,522
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - **标签：** `memory`, `rag`, `agent`
-- **推荐理由：** 专属Agent记忆管理套件，跨会话记住和精炼知识。
-
----
-
-### [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
-
-- **⭐ 星标：** 3,088
-- **语言：** Rust
-- **描述：** Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
-- **标签：** `deepwiki`, `dsh-plugin`, `openwiki`
-- **推荐理由：** 快速生成技术文档和AI就绪的结构化上下文。
+- **推荐理由：** 专为Agent设计的记忆管理套件，支持RAG能力。
 
 ---
 
 ### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
 
-- **⭐ 星标：** 2,658
+- **⭐ 星标：** 2,659
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `rag`, `dsh-plugin`, `milvus`
-- **推荐理由：** 基于Milvus的持久统一记忆层，支持混合语义搜索。
-
----
-
-### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
-
-- **⭐ 星标：** 1,524
-- **语言：** TypeScript
-- **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
-- **标签：** `cordis-plugin`, `context`, `dsh-plugin`
-- **推荐理由：** 最佳上下文洞察管理工具，含仪表盘和侧边栏。
+- **标签：** `memory`, `rag`, `milvus`, `dsh-plugin`
+- **推荐理由：** 基于Milvus的持久统一记忆层，支持多AI代理。
 
 ---
 
@@ -103,18 +83,8 @@
 - **⭐ 星标：** 665
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skill-md`, `rag`, `embedding`, `evaluation`
-- **推荐理由：** 将分散技能转为可检索语料库，含评估工具
-
----
-
-### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
-
-- **⭐ 星标：** 407
-- **语言：** TypeScript
-- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `knowledge`, `pedia`, `skills`, `rag`
-- **推荐理由：** 全面AI知识库，含技能和RAG资源
+- **标签：** `agent-memory`, `embeddings`, `semantic-search`
+- **推荐理由：** 将SKILL.md文件转化为可检索的Agent技能库。
 
 ---
 
@@ -123,8 +93,48 @@
 - **⭐ 星标：** 78
 - **语言：** JavaScript
 - **描述：** Proactive associative memory for DSH: zero-prompt recall injected before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **标签：** `memory`, `context`, `plugin`
-- **推荐理由：** 三层自动巩固的主动关联记忆，实现零提示词回忆。
+- **标签：** `memory`, `rag`, `context`, `consolidation`
+- **推荐理由：** 三层自动整合的关联记忆，支持技能结晶化
+
+---
+
+### [ZeroPointRepo/awesome-dsh-plugins](https://github.com/ZeroPointRepo/awesome-dsh-plugins)
+
+- **⭐ 星标：** 1
+- **语言：** Python
+- **描述：** DSH plugins directory: 80+ verified DeepSeek Harness plugins, organized by what they do.
+- **标签：** `awesome-list`, `plugins`, `dsh`
+- **推荐理由：** 按功能分类的80+插件目录，便于快速发现。
+
+---
+
+### [oslook/awesome-dsh-plugins](https://github.com/oslook/awesome-dsh-plugins)
+
+- **⭐ 星标：** 1
+- **语言：** Unknown
+- **描述：** Deekseek Harness Plugins
+- **标签：** `dsh-plugins`, `ecosystem`, `dsh`
+- **推荐理由：** DSH插件仓库和生态系统分析资源。
+
+---
+
+### [awesome-dsh-plugins/awesome-dsh-plugins](https://github.com/awesome-dsh-plugins/awesome-dsh-plugins)
+
+- **⭐ 星标：** 1
+- **语言：** Unknown
+- **描述：** Moved → github.com/awesome-dsh-plugin/awesome-dsh-plugin
+- **标签：** `awesome-list`, `dsh-plugins`
+- **推荐理由：** 插件目录，已迁移至新仓库。
+
+---
+
+### [coolbat/awesome-dsh-plugins](https://github.com/coolbat/awesome-dsh-plugins)
+
+- **⭐ 星标：** 1
+- **语言：** TypeScript
+- **描述：** Evidence-led bilingual directory of DeepSeek Harness plugins, reviewed at immutable commits.
+- **标签：** `awesome-list`, `bilingual`, `dsh-plugin`
+- **推荐理由：** 双语插件目录，不可变提交审核确保可信。
 
 ---
 
