@@ -1,6 +1,6 @@
 # 视觉与设计
 
-> 本分类共 9 个插件
+> 本分类共 8 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,31 +10,31 @@
 
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ 星标：** 71,599
+- **⭐ 星标：** 71,678
 - **语言：** JavaScript
 - **描述：** Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
-- **标签：** `diagrams`, `architecture`, `code-visualization`
-- **推荐理由：** 生成精美架构���、序列图和数据流图的代码可视化工具。
+- **标签：** `agent-skills`, `diagrams-as-code`, `dsh-plugin`, `developer-tools`
+- **推荐理由：** 自包含的架构 diagrams 即代码，支持动画效果
 
 ---
 
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ 星标：** 33,515
+- **⭐ 星标：** 33,519
 - **语言：** JavaScript
-- **描述：** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills��新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-- **标签：** `image-generation`, `prompts`, `skills`
-- **推荐理由：** 530+个GPT图像提示词模板与案例，工业级可复用技能库。
+- **描述：** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
+- **标签：** `ai-image-generation`, `skills`, `workflow-automation`, `dsh-plugin`
+- **推荐理由：** 530+ GPT图像提示词，含工业级模板和可复用技能
 
 ---
 
 ### [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
 
-- **⭐ 星标：** 6,023
+- **⭐ 星标：** 6,025
 - **语言：** Rust
 - **描述：** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **标签：** `agent`, `vibecoding`, `ui`, `vibedesign`
-- **推荐理由：** AI原生矢量设计工具，支持并发Agent团队和Design-as-Code工作流。
+- **标签：** `agent`, `vibedesign`, `ui`
+- **推荐理由：** 首款开源AI原生矢量设计工具，支持并发Agent团队
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 1,540
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **标签：** `design`, `ppt`, `dsh-plugin`, `visual-editor`
-- **推荐理由：** AI生成设计系统，支持模板与PPT制作。
+- **标签：** `design`, `ppt`, `visual-editor`
+- **推荐理由：** 原生设计工作室，AI生成+可视化编辑+PPT模板。
 
 ---
 
@@ -53,28 +53,8 @@
 - **⭐ 星标：** 65
 - **语言：** Python
 - **描述：** 把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，直接读案件材料画准一张时间轴，并提供庭前三大法宝（大事记表、庭审对抗图、法律关系图）。Claude Skill / DeepSeek Harness 通用。
-- **标签：** `legal`, `visualization`, `diagram`, `svg`
-- **推荐理由：** 诉讼可视化工具，时间轴与法律关系图输出
-
----
-
-### [sixtysevenlf/dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin)
-
-- **⭐ 星标：** 63
-- **语言：** Python
-- **描述：** DSH x Blender direct realtime plugin - let an AI model drive Blender over a direct TCP channel: viewport frames, custom-angle renders, inner-loop search, render profiling, safe decimation, headless offload, one-call GUI launch. 配套 skill：sixtysevenlf/dsh-skill-blender-modeling（建模流程 / 多 Agent 分工 / 数值门装配审计）
-- **标签：** `blender`, `3d`, `automation`, `bpy`
-- **推荐理由：** AI实时控制Blender视口与渲染的插件
-
----
-
-### [FTShare-Lab/dsh_kline](https://github.com/FTShare-Lab/dsh_kline)
-
-- **⭐ 星标：** 30
-- **语言：** HTML
-- **描述：** 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。
-- **标签：** `kline`, `visual`, `sidebar`, `finance`
-- **推荐理由：** 交互式K线图分析插件，多市场行情与技术指标可视化
+- **标签：** `visualization`, `legal`, `diagram`, `svg`
+- **推荐理由：** 生成诉讼时间轴、对抗图和法律关系图
 
 ---
 
@@ -83,8 +63,8 @@
 - **⭐ 星标：** 29
 - **语言：** JavaScript
 - **描述：** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- **标签：** `ai-video`, `ai-image`, `skill`, `directorx`
-- **推荐理由：** AI视频/图像/音频生成技能，含分镜和知识库支持
+- **标签：** `ai-image`, `ai-video`, `directorx`
+- **推荐理由：** AI音视频创作流水线，支持分镜和视觉生成
 
 ---
 
@@ -93,8 +73,18 @@
 - **⭐ 星标：** 9
 - **语言：** TypeScript
 - **描述：** A DeepSeek Harness Web plugin for real-time Token usage, cost estimates, per-round charts, and DeepSeek API balance.
-- **标签：** `data-visualization`, `token-usage`, `cost`
-- **推荐理由：** 实时Token用量图表和成本估算，预算追踪必备
+- **标签：** `data-visualization`, `ai-cost`, `token-usage`
+- **推荐理由：** 实时Token用量、成本估算和分轮API图表
+
+---
+
+### [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** A plugin of Deepseek Harness(DSH),transform your recent chat history into beautifully designed knowledge cards, ready to download and share.
+- **标签：** `knowledge-cards`, `visual`, `share`
+- **推荐理由：** 将聊天记录转为可分享知识卡片
 
 ---
 
