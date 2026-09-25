@@ -10,41 +10,21 @@
 
 ### [Q00/ouroboros](https://github.com/Q00/ouroboros)
 
-- **⭐ 星标：** 6,090
+- **⭐ 星标：** 6,092
 - **语言：** Python
 - **描述：** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
-- **标签：** `agent-os`, `mcp`, `evaluation`
-- **推荐理由：** 自演进Agent OS，含MCP服务器与评估循环。
+- **标签：** `agent-os`, `mcp`, `loop-engineering`
+- **推荐理由：** 自演进Agent OS，含MCP服务与评估能力。
 
 ---
 
-### [liustack/modlens](https://github.com/liustack/modlens)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ 星标：** 4,027
+- **⭐ 星标：** 541
 - **语言：** TypeScript
-- **描述：** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **标签：** `vision`, `ocr`, `multimodal`, `image-to-text`
-- **推荐理由：** 文本代理的视觉桥接，粘贴图片获取结构化JSON证据。
-
----
-
-### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
-
-- **⭐ 星标：** 3,654
-- **语言：** TypeScript
-- **描述：** The World's First Virtual Terminal for AI Agents
-- **标签：** `virtual-terminal`, `vfs`, `agent-tools`, `agent-sandbox`
-- **推荐理由：** 全球首个AI代理虚拟终端，含虚拟文件系统。
-
----
-
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
-
-- **⭐ 星标：** 68
-- **语言：** TypeScript
-- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **标签：** `mcp`, `api-documentation`, `dsh-plugin`
-- **推荐理由：** 零配置搜索20个中国开放平台6.5万+ API文档
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `web-search`, `web-fetch`, `free`
+- **推荐理由：** 免费网页搜索插件，无需注册即可为所有模型提供联网能力
 
 ---
 
@@ -53,8 +33,28 @@
 - **⭐ 星标：** 65
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `cloud`, `mcp`, `huaweicloud`
-- **推荐理由：** 华为云官方MCP工具包，支持AI代理云端构建部署
+- **标签：** `mcp`, `cloud`, `huaweicloud`
+- **推荐理由：** 华为云官方插件，集成技能、MCP工具和云端沙箱环境
+
+---
+
+### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+
+- **⭐ 星标：** 36
+- **语言：** JavaScript
+- **描述：** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
+- **标签：** `ocr`, `vision`
+- **推荐理由：** 像素级图像识别工具，为纯文本模型增加视觉理解能力
+
+---
+
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+
+- **⭐ 星标：** 30
+- **语言：** TypeScript
+- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **标签：** `mcp`, `agent-config`, `skills`, `dsh-skill`
+- **推荐理由：** 一键配置多平台AI Agent的MCP、Skills和规则。
 
 ---
 
