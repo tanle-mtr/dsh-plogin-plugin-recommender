@@ -8,23 +8,33 @@
 
 ## 插件列表
 
-### [Q00/ouroboros](https://github.com/Q00/ouroboros)
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ 星标：** 6,092
+- **⭐ 星标：** 3,246
 - **语言：** Python
-- **描述：** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
-- **标签：** `agent-os`, `mcp`, `loop-engineering`
-- **推荐理由：** 自演进Agent OS，含MCP服务与评估能力。
+- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **标签：** `mcp`, `registry`, `api-keys`, `proxy`
+- **推荐理由：** 类OpenRouter的Agent工具注册中心，支持MCP。
 
 ---
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
 
-- **⭐ 星标：** 541
+- **⭐ 星标：** 187
+- **语言：** Python
+- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **标签：** `mcp`, `finance`, `database`
+- **推荐理由：** 基于tushare的本地财经DB，自动MCP接口与IM盯盘
+
+---
+
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ 星标：** 68
 - **语言：** TypeScript
-- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **标签：** `web-search`, `web-fetch`, `free`
-- **推荐理由：** 免费网页搜索插件，无需注册即可为所有模型提供联网能力
+- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **标签：** `mcp`, `api-documentation`, `chinese-api`
+- **推荐理由：** 零配置搜索65,600+中国平台API文档
 
 ---
 
@@ -33,18 +43,8 @@
 - **⭐ 星标：** 65
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huaweicloud`
-- **推荐理由：** 华为云官方插件，集成技能、MCP工具和云端沙箱环境
-
----
-
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
-
-- **⭐ 星标：** 36
-- **语言：** JavaScript
-- **描述：** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **标签：** `ocr`, `vision`
-- **推荐理由：** 像素级图像识别工具，为纯文本模型增加视觉理解能力
+- **标签：** `mcp`, `cloud`, `sdk`
+- **推荐理由：** 华为云官方技能、MCP工具和云沙箱集成
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ 星标：** 30
 - **语言：** TypeScript
 - **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp`, `agent-config`, `skills`, `dsh-skill`
-- **推荐理由：** 一键配置多平台AI Agent的MCP、Skills和规则。
+- **标签：** `mcp`, `config`, `multi-agent`
+- **推荐理由：** 一键配置多平台AI工具的MCP和Skills
 
 ---
 

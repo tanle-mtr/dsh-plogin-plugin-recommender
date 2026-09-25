@@ -8,23 +8,33 @@
 
 ## Plugins
 
-### [Q00/ouroboros](https://github.com/Q00/ouroboros)
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 6,092
+- **⭐ Stars:** 3,246
 - **Language:** Python
-- **Description:** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
-- **Tags:** `agent-os`, `mcp`, `loop-engineering`
-- **Why use it:** Self-evolving agent OS with MCP server and staged evaluation capabilities.
+- **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **Tags:** `mcp`, `registry`, `api-keys`, `proxy`
+- **Why use it:** OpenRouter-style registry for agent tools with MCP support and community plugins.
 
 ---
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
 
-- **⭐ Stars:** 541
+- **⭐ Stars:** 187
+- **Language:** Python
+- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **Tags:** `mcp`, `finance`, `database`
+- **Why use it:** Tushare-based local finance DB with auto MCP endpoints and IM alerts
+
+---
+
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ Stars:** 68
 - **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `web-fetch`, `free`
-- **Why use it:** Free web search bridge for all models without native internet access, no signup needed
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `mcp`, `api-documentation`, `chinese-api`
+- **Why use it:** Search 65,600+ Chinese platform API docs with zero config
 
 ---
 
@@ -33,18 +43,8 @@
 - **⭐ Stars:** 65
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`
-- **Why use it:** Official Huawei Cloud plugin with skills, MCP tools, and sandbox
-
----
-
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
-
-- **⭐ Stars:** 36
-- **Language:** JavaScript
-- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **Tags:** `ocr`, `vision`
-- **Why use it:** OCR and image-to-text tools for pixel-level reading, extends text-only model vision
+- **Tags:** `mcp`, `cloud`, `sdk`
+- **Why use it:** Official Huawei Cloud skills, MCP tools and sandbox integration
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ Stars:** 30
 - **Language:** TypeScript
 - **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **Tags:** `mcp`, `agent-config`, `skills`, `dsh-skill`
-- **Why use it:** One-click MCP/Skill/config setup for Claude Code, Codex, Cursor, Gemini, Qwen and more.
+- **Tags:** `mcp`, `config`, `multi-agent`
+- **Why use it:** One-click MCP and skills setup across 7+ AI agent tools
 
 ---
 
