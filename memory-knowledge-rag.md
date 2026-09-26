@@ -1,6 +1,6 @@
 # Memory & Knowledge (RAG)
 
-> 13 plugins in this category
+> 11 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,51 +10,51 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 38,697
+- **⭐ Stars:** 38,713
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `agentic-rag`, `self-evolving`
-- **Why use it:** Self-evolving context database unifying memory and RAG.
+- **Tags:** `rag`, `memory`, `context-database`
+- **Why use it:** Self-evolving context database unifying agent memory and RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 30,163
+- **⭐ Stars:** 30,231
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `knowledge-base`, `vector-search`
-- **Why use it:** RAG-powered knowledge base with semantic search and wiki.
+- **Tags:** `rag`, `knowledge-base`, `wiki`
+- **Why use it:** Open-source LLM knowledge platform with RAG and self-maintaining Wiki
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ Stars:** 13,201
+- **⭐ Stars:** 13,210
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `memory`, `rag`, `local-first`, `markdown`
-- **Why use it:** Portable, local-first memory layer with Markdown-native persistence
+- **Tags:** `agent-memory`, `rag`, `long-term-memory`
+- **Why use it:** Portable, user-owned long-term memory layer for AI agents
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 11,594
+- **⭐ Stars:** 11,598
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory`, `token-savings`, `rag`, `self-evolving`
-- **Why use it:** Self-evolving memory OS with 35% token savings and hybrid retrieval
+- **Tags:** `agent-memory`, `rag`, `token-savings`
+- **Why use it:** Self-evolving memory with hybrid retrieval, saves tokens significantly
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ Stars:** 7,343
+- **⭐ Stars:** 7,346
 - **Language:** Python
 - **Description:**  Memory library for building stateful agents
-- **Tags:** `memory`, `stateful-agent`, `context-engineering`
-- **Why use it:** Purpose-built memory library for stateful, context-aware AI agents
+- **Tags:** `agent-memory`, `library`, `stateful`
+- **Why use it:** Lightweight memory library for building stateful AI agents
 
 ---
 
@@ -63,8 +63,18 @@
 - **⭐ Stars:** 3,523
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **Tags:** `memory`, `rag`, `agent`, `memoryscope`
-- **Why use it:** Memory management kit for agents with recall, refinement and cross-session persistence
+- **Tags:** `memory`, `rag`, `agent`
+- **Why use it:** Dedicated memory management kit for agents with recall and refinement
+
+---
+
+### [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
+
+- **⭐ Stars:** 3,091
+- **Language:** Rust
+- **Description:** Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
+- **Tags:** `documentation`, `rag`, `context`
+- **Why use it:** Generates structured technical docs and AI-ready context efficiently.
 
 ---
 
@@ -73,8 +83,18 @@
 - **⭐ Stars:** 2,662
 - **Language:** Python
 - **Description:** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **Tags:** `memory`, `rag`, `milvus`, `dsh-plugin`
-- **Why use it:** Persistent unified memory layer backed by Markdown and Milvus.
+- **Tags:** `memory`, `milvus`, `rag`
+- **Why use it:** Persistent memory layer for AI agents powered by Milvus and Markdown.
+
+---
+
+### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
+
+- **⭐ Stars:** 1,529
+- **Language:** TypeScript
+- **Description:** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
+- **Tags:** `context`, `management`, `dashboard`
+- **Why use it:** Comprehensive context management with dashboard, browser, and sidebar tools.
 
 ---
 
@@ -83,48 +103,8 @@
 - **⭐ Stars:** 667
 - **Language:** Python
 - **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `rag`, `skill-routing`, `vector-search`, `embeddings`
-- **Why use it:** Turns scattered SKILL.md files into curated, retrieval-ready agent corpora with semantic search.
-
----
-
-### [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins)
-
-- **⭐ Stars:** 250
-- **Language:** JavaScript
-- **Description:** DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com
-- **Tags:** `marketplace`, `catalog`, `dsh-plugin`
-- **Why use it:** Largest DSH plugin marketplace with 11,000+ plugins, search and API access
-
----
-
-### [sandbaseai/deepseek-harness-handbook](https://github.com/sandbaseai/deepseek-harness-handbook)
-
-- **⭐ Stars:** 229
-- **Language:** HTML
-- **Description:** Agent-first DeepSeek Harness handbook: 173 source-backed runtime, plugin, MCP, sandbox, evaluation, troubleshooting, multilingual, and 74-resource Awesome ecosystem guides.
-- **Tags:** `handbook`, `reference`, `agent-runtime`
-- **Why use it:** Comprehensive agent-first handbook covering runtime, plugins, MCP and 74 resources
-
----
-
-### [leenkcool/Blue-Whale-Harness](https://github.com/leenkcool/Blue-Whale-Harness)
-
-- **⭐ Stars:** 198
-- **Language:** HTML
-- **Description:** 🐋 DeepSeek Harness 插件总目录 · The catalog of DSH plugins：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文搜索、分类筛选、STAR 排序 → leenkcool.github.io
-- **Tags:** `catalog`, `directory`, `plugin-marketplace`
-- **Why use it:** Complete DSH plugin catalog with 1,958 repos, search, categories and STAR ranking
-
----
-
-### [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins)
-
-- **⭐ Stars:** 174
-- **Language:** JavaScript
-- **Description:** 帮 DSH 搜索、安��并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins
-- **Tags:** `plugin-discovery`, `automation`, `verification`
-- **Why use it:** Auto-searches, installs and verifies GitHub plugins directly within DSH
+- **Tags:** `agent-memory`, `semantic-search`, `embeddings`, `long-term-memory`
+- **Why use it:** Turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora
 
 ---
 
@@ -133,8 +113,8 @@
 - **⭐ Stars:** 78
 - **Language:** JavaScript
 - **Description:** Proactive associative memory for DSH: zero-prompt recall injected before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **Tags:** `memory`, `context`, `auto-consolidation`
-- **Why use it:** Zero-prompt proactive associative memory with auto-consolidation
+- **Tags:** `memory`, `context`, `dsh-plugin`
+- **Why use it:** Auto-consolidating associative memory injected before model responds.
 
 ---
 

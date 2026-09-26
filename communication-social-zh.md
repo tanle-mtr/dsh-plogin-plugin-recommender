@@ -10,11 +10,11 @@
 
 ### [ppy-web/dsh-plugin-xiaomi-mimo-tts](https://github.com/ppy-web/dsh-plugin-xiaomi-mimo-tts)
 
-- **⭐ 星标：** 8
+- **⭐ 星标：** 9
 - **语言：** TypeScript
 - **描述：** 给DSH接入免费的 Xiaomi MiMo TTS API，支持使用预置/自定义/浏览器内置声音朗读正文
-- **标签：** `tts`, `xiaomi-mimo`, `voice`, `audio`
-- **推荐理由：** 接入免费小米MiMo语音合成API，支持多种声音朗读
+- **标签：** `tts`, `xiaomi`, `voice`
+- **推荐理由：** 免费小米MiMo TTS语音合成插件
 
 ---
 
