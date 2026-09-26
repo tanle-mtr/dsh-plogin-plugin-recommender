@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 6 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,13 @@
 
 ## Plugins
 
-### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ Stars:** 3,476
-- **Language:** Python
-- **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **Tags:** `mcp`, `registry`, `credentials`, `proxy`
-- **Why use it:** OpenRouter for agent tools — centralized registry for MCP proxies, credentials, and secrets.
-
----
-
-### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
-
-- **⭐ Stars:** 336
+- **⭐ Stars:** 552
 - **Language:** TypeScript
-- **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
-- **Tags:** `provider`, `model`, `mcp`
-- **Why use it:** Adds Command Code model access with plan-aware selection
-
----
-
-### [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)
-
-- **⭐ Stars:** 276
-- **Language:** Python
-- **Description:** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。
-- **Tags:** `academic`, `mcp`, `research`
-- **Why use it:** Cross-database academic search with citation verification
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `web-search`, `free`, `no-signup`
+- **Why use it:** Free web search bridge for any model without native web access, no signup needed.
 
 ---
 
@@ -43,8 +23,8 @@
 - **⭐ Stars:** 149
 - **Language:** JavaScript
 - **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **Tags:** `mcp`, `skills`, `webui`
-- **Why use it:** Web UI for managing skills and MCP servers in one place
+- **Tags:** `mcp`, `skill-management`, `webui`
+- **Why use it:** Web UI panel for managing skills and MCP servers in DeepSeek Harness
 
 ---
 
@@ -53,18 +33,28 @@
 - **⭐ Stars:** 64
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `dsh-plugin`
-- **Why use it:** Official Huawei Cloud toolkit with skills, MCP tools, guardrails and sandbox
+- **Tags:** `huawei-cloud`, `mcp`, `cloud`
+- **Why use it:** Official Huawei Cloud plugin with skills, MCP tools, guardrails and sandbox
 
 ---
 
-### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
 
-- **⭐ Stars:** 30
-- **Language:** TypeScript
-- **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **Tags:** `mcp`, `config`, `agent`
-- **Why use it:** One-click configures MCP servers and skills for multiple AI agents.
+- **⭐ Stars:** 36
+- **Language:** JavaScript
+- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
+- **Tags:** `ocr`, `vision`, `image-reading`
+- **Why use it:** Pixel-to-text OCR toolset enabling vision capabilities for text-only LLMs
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ Stars:** 2
+- **Language:** JavaScript
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `dsh-plugin`
+- **Why use it:** Use ChatGPT models directly in DSH via official OAuth integration.
 
 ---
 

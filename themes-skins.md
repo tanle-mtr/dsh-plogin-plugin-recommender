@@ -13,8 +13,8 @@
 - **⭐ Stars:** 4,162
 - **Language:** TypeScript
 - **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **Tags:** `mascot`, `pixel-art`, `ui`, `theme`
-- **Why use it:** Public gallery of animated pets to personalize your coding agent terminal experience.
+- **Tags:** `mascot`, `pixel-art`, `sprites`
+- **Why use it:** Public gallery of animated mascot pets for coding agents.
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 405
 - **Language:** JavaScript
 - **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `theme`, `glassmorphism`, `ui`
-- **Why use it:** Glassmorphism theme with full customization
+- **Tags:** `theme`, `glassmorphism`, `customization`
+- **Why use it:** Frosted glass UI theme with fully adjustable blur, opacity and wallpaper
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 379
 - **Language:** JavaScript
 - **Description:** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **Tags:** `theme`, `ocean`, `animated`
-- **Why use it:** Animated ocean theme with adjustable waves and glass effects
+- **Tags:** `theme`, `ocean`, `glassmorphism`
+- **Why use it:** Animated ocean theme with dynamic waves, sunset and glassmorphism effects
 
 ---
 
