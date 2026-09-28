@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 4 个插件
+> 本分类共 3 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,23 +8,23 @@
 
 ## 插件列表
 
-### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+### [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
 
-- **⭐ 星标：** 3,668
-- **语言：** Python
-- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **标签：** `registry`, `proxy`, `secrets`, `mcp`
-- **推荐理由：** 智能体工具API的统一注册与密钥代理
+- **⭐ 星标：** 7,003
+- **语言：** JavaScript
+- **描述：** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
+- **标签：** `routing`, `mcp`, `harness`
+- **推荐理由：** 运行时注入器+任务感知推理路由，优化Agent执行效率
 
 ---
 
-### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+### [Tencent/skillhub](https://github.com/Tencent/skillhub)
 
-- **⭐ 星标：** 65
-- **语言：** JavaScript
-- **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `huaweicloud`, `mcp`, `terraform`, `cloud`, `sdk`
-- **推荐理由：** 华为云MCP工具与沙箱部署
+- **⭐ 星标：** 33
+- **语言：** TypeScript
+- **描述：** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
+- **标签：** `mcp`, `skill`, `api`
+- **推荐理由：** 官方SkillHub API文档与DSH插件示例
 
 ---
 
@@ -33,18 +33,8 @@
 - **⭐ 星标：** 30
 - **语言：** TypeScript
 - **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp`, `config-sync`, `multi-agent`
-- **推荐理由：** 一键同步MCP与技能配置至多AI工具
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ 星标：** 2
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `ai-agents`, `awesome-dsh-plugin`, `chatgpt`, `codex`, `deepseek-harness`, `dsh`, `dsh-plugin`, `dsh-plugins`, `javascript`, `oauth`, `plugin`, `subscription`
-- **推荐理由：** 通过OAuth绑定ChatGPT账号，在DSH内直接使用其模型。
+- **标签：** `mcp`, `agent-config`, `config-sync`
+- **推荐理由：** 一键配置多AI Agent工具的MCP与Skills
 
 ---
 

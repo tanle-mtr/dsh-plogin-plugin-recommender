@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 4 plugins in this category
+> 3 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,23 @@
 
 ## Plugins
 
-### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
-
-- **⭐ Stars:** 8,109
-- **Language:** TypeScript
-- **Description:** DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
-- **Tags:** `web`, `plugin-hub`, `distribution`
-- **Why use it:** Web plugin aggregation ecosystem distributed via creative workshop
-
----
-
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 7,682
+- **⭐ Stars:** 7,725
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-automation`, `cli`, `tencent`
-- **Why use it:** CLI browser automation for AI agents without interrupting work
+- **Tags:** `browser-use`, `automation`, `tencent`
+- **Why use it:** CLI + extension enabling AI agents to control real logged-in browsers seamlessly
 
 ---
 
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+### [antibrow/dsh-antibrow](https://github.com/antibrow/dsh-antibrow)
 
-- **⭐ Stars:** 3,362
-- **Language:** Python
-- **Description:** 本��私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `bilibili`, `cross-platform`, `web`
-- **Why use it:** Cross-platform AI content discovery agent across Bilibili, Reddit, YouTube and more
+- **⭐ Stars:** 577
+- **Language:** JavaScript
+- **Description:** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
+- **Tags:** `browser-automation`, `fingerprint`, `playwright`, `mcp`
+- **Why use it:** Persistent browser identity with fingerprint spoofing and Playwright integration
 
 ---
 
@@ -44,7 +34,7 @@
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
 - **Tags:** `browser`, `playwright`, `automation`
-- **Why use it:** Tabbit Browser plugins for DSH enabling Playwright-based automation
+- **Why use it:** Tabbit Browser plugins for DSH — Playwright-based web automation and testing.
 
 ---
 
