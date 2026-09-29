@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ 星标：** 571
+- **⭐ 星标：** 68
 - **语言：** TypeScript
-- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **标签：** `web-search`, `web-fetch`, `multi-model`, `free`
-- **推荐理由：** 最强免费网页搜索插件，无需注册，适配多模型接入。
+- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **标签：** `api`, `documentation`, `chinese-platforms`
+- **推荐理由：** 零配置搜索20个中国平台6.5万+API文档
 
 ---
 
@@ -23,18 +23,8 @@
 - **⭐ 星标：** 65
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `huaweicloud`, `cloud`
-- **推荐理由：** 华为云官方MCP工具，含沙箱、安全护栏和Terraform支持
-
----
-
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
-
-- **⭐ 星标：** 37
-- **语言：** JavaScript
-- **描述：** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **标签：** `ocr`, `vision`, `image-reading`, `mcp`
-- **推荐理由：** 图像识别MCP工具和技能。
+- **标签：** `huawei-cloud`, `mcp`, `sdk`
+- **推荐理由：** 华为云官方插件，提供MCP工具和云沙箱
 
 ---
 
@@ -43,8 +33,18 @@
 - **⭐ 星标：** 30
 - **语言：** TypeScript
 - **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp`, `agent-config`, `dsh`, `local-first`
-- **推荐理由：** 一键配置7+平台的MCP、技能和规则
+- **标签：** `mcp`, `config-sync`, `agent-config`, `multi-tool`
+- **推荐理由：** 一键配置MCP服务器与Skills，支持多AI Agent工具
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `oauth`, `dsh-plugin`
+- **推荐理由：** 通过OAuth集成ChatGPT，在DSH内直接使用ChatGPT模型
 
 ---
 

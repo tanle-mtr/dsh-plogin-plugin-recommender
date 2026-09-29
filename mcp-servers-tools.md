@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ Stars:** 571
+- **⭐ Stars:** 68
 - **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `web-fetch`, `multi-model`, `free`
-- **Why use it:** Strongest free web search bridge for models lacking native web access.
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `api`, `documentation`, `chinese-platforms`
+- **Why use it:** Searches 65,600+ API docs across 20 Chinese platforms zero-config
 
 ---
 
@@ -23,18 +23,8 @@
 - **⭐ Stars:** 65
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `huaweicloud`, `cloud`
-- **Why use it:** Official Huawei Cloud MCP tools with sandbox, guardrails, and Terraform
-
----
-
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
-
-- **⭐ Stars:** 37
-- **Language:** JavaScript
-- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **Tags:** `ocr`, `vision`, `image-reading`, `mcp`
-- **Why use it:** Image-to-text tools and skill for vision-capable text-only models.
+- **Tags:** `huawei-cloud`, `mcp`, `sdk`
+- **Why use it:** Official Huawei Cloud skills, MCP tools, and cloud sandbox for agents
 
 ---
 
@@ -43,8 +33,18 @@
 - **⭐ Stars:** 30
 - **Language:** TypeScript
 - **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **Tags:** `mcp`, `agent-config`, `dsh`, `local-first`
-- **Why use it:** One-click MCP/skills/config setup across 7+ AI agent platforms
+- **Tags:** `mcp`, `config-sync`, `agent-config`, `multi-tool`
+- **Why use it:** One-click local setup for MCP servers, Skills and rules across multiple AI agents
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ Stars:** 2
+- **Language:** JavaScript
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `dsh-plugin`
+- **Why use it:** Enables ChatGPT OAuth integration within DSH for seamless model access
 
 ---
 

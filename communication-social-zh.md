@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+### [edison7009/EchoBird](https://github.com/edison7009/EchoBird)
 
-- **⭐ 星标：** 2
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `dsh-plugin`
-- **推荐理由：** 通过OAuth在DSH内直接使用ChatGPT模型
+- **⭐ 星标：** 3,286
+- **语言：** Rust
+- **描述：** Manage ChatGPT, Codex CLI, and Claude Code accounts and track quota in one place. Use multi-model smart routing with priority and automatic failover. Install AI tools and deploy local LLMs in one click.
+- **标签：** `claude-code`, `codex`, `deepseek`
+- **推荐理由：** 多账户智能路由管理，支持自动故障切换。
 
 ---
 
