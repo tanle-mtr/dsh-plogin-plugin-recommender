@@ -8,43 +8,43 @@
 
 ## 插件列表
 
-### [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)
-
-- **⭐ 星标：** 282
-- **语言：** Python
-- **描述：** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。
-- **标签：** `academic-search`, `mcp`, `research`
-- **推荐理由：** 支持多源检索、引文图谱和核验的MCP科研搜索工具。
-
----
-
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
-
-- **⭐ 星标：** 188
-- **语言：** Python
-- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通��智能体与微信/QQ/飞书等IM通道盯盘
-- **标签：** `mcp`, `finance`, `database`
-- **推荐理由：** 基于Tushare的本地财经数据库，支持自动生成MCP接口。
-
----
-
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ 星标：** 65
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `cloud`, `mcp`, `huaweicloud`
-- **推荐理由：** 华为云官方插件，含MCP工具和云沙箱
+- **标签：** `mcp`, `cloud`, `huaweicloud`
+- **推荐理由：** 华为云官方插件，含MCP工具、技能和云沙箱
 
 ---
 
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
 
-- **⭐ 星标：** 37
+- **⭐ 星标：** 30
+- **语言：** TypeScript
+- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **标签：** `mcp`, `config-sync`, `multi-agent`
+- **推荐理由：** 一键配置多平台AI Agent的MCP和技能，非常实用
+
+---
+
+### [zoahdev/dsh-plugin-search](https://github.com/zoahdev/dsh-plugin-search)
+
+- **⭐ 星标：** 2
+- **语言：** TypeScript
+- **描述：** Plugin discoverability for DeepSeek Harness: search npm + awesome-dsh-plugin, look up packages, browse the curated list — from inside dsh agents (answers discussion #1715).
+- **标签：** `search`, `discoverability`, `mcp`
+- **推荐理由：** 在DSH代理内直接搜索npm和精选插件。
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ 星标：** 2
 - **语言：** JavaScript
-- **描述：** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **标签：** `ocr`, `vision`, `image-reading`
-- **推荐理由：** 像素转文本OCR视觉工具，让纯文本模型阅图
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `codex`, `oauth`, `dsh-plugin`
+- **推荐理由：** 通过OAuth绑定ChatGPT账号，在DSH内调用模型
 
 ---
 

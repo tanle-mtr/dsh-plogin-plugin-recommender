@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 4 plugins in this category
+> 3 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,11 +10,11 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 7,925
+- **⭐ Stars:** 7,944
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-use`, `automation`, `agent`
-- **Why use it:** Real logged-in browser automation for AI agents via CLI+extension
+- **Tags:** `browser-use`, `automation`, `cli`
+- **Why use it:** Seamless browser automation for AI agents with logged-in sessions intact.
 
 ---
 
@@ -23,18 +23,8 @@
 - **⭐ Stars:** 577
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **Tags:** `browser-automation`, `anti-detect-browser`, `playwright`
-- **Why use it:** Persistent browser identity with fingerprint spoofing and unlimited local profiles.
-
----
-
-### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
-
-- **⭐ Stars:** 309
-- **Language:** TypeScript
-- **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios`, `automation`, `simulator`
-- **Why use it:** Live iOS Simulator and USB iPhone control with 22 agent automation tools.
+- **Tags:** `browser-automation`, `playwright`, `mcp-server`, `anti-detect`
+- **Why use it:** Fingerprint-spoofing browser automation with persistent identity and residential proxies
 
 ---
 
@@ -43,8 +33,8 @@
 - **⭐ Stars:** 101
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser-automation`, `playwright`, `dsh-plugin`
-- **Why use it:** Tabbit browser automation plugins—Powerful Playwright-based web agent.
+- **Tags:** `browser-automation`, `playwright`
+- **Why use it:** Tabbit browser automation plugins for DSH with Playwright
 
 ---
 

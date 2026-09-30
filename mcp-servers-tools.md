@@ -8,43 +8,43 @@
 
 ## Plugins
 
-### [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)
-
-- **⭐ Stars:** 282
-- **Language:** Python
-- **Description:** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。
-- **Tags:** `academic-search`, `mcp`, `research`
-- **Why use it:** Multi-source academic search with MCP support, MeSH, citation graph and verification.
-
----
-
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
-
-- **⭐ Stars:** 188
-- **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通��智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `mcp`, `finance`, `database`
-- **Why use it:** Tushare-based local financial DB with auto HTTP/MCP interfaces and multi-Agent support.
-
----
-
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ Stars:** 65
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `cloud`, `mcp`, `huaweicloud`
-- **Why use it:** Official Huawei Cloud plugin with MCP tools, safety guardrails and sandbox
+- **Tags:** `mcp`, `cloud`, `huaweicloud`
+- **Why use it:** Official Huawei Cloud plugin with MCP tools, skills, and cloud sandbox
 
 ---
 
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
 
-- **⭐ Stars:** 37
+- **⭐ Stars:** 30
+- **Language:** TypeScript
+- **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **Tags:** `mcp`, `config-sync`, `multi-agent`
+- **Why use it:** One-click MCP and skills setup across major AI agent tools
+
+---
+
+### [zoahdev/dsh-plugin-search](https://github.com/zoahdev/dsh-plugin-search)
+
+- **⭐ Stars:** 2
+- **Language:** TypeScript
+- **Description:** Plugin discoverability for DeepSeek Harness: search npm + awesome-dsh-plugin, look up packages, browse the curated list — from inside dsh agents (answers discussion #1715).
+- **Tags:** `search`, `discoverability`, `mcp`
+- **Why use it:** In-agent plugin search across npm and curated DSH plugin lists.
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ Stars:** 2
 - **Language:** JavaScript
-- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **Tags:** `ocr`, `vision`, `image-reading`
-- **Why use it:** Pixel-to-text OCR vision tools enabling image reading for text-only models
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `codex`, `oauth`, `dsh-plugin`
+- **Why use it:** Bind ChatGPT via OAuth to use models inside DSH
 
 ---
 
