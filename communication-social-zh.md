@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [edison7009/EchoBird](https://github.com/edison7009/EchoBird)
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ 星标：** 3,286
-- **语言：** Rust
-- **描述：** Manage ChatGPT, Codex CLI, and Claude Code accounts and track quota in one place. Use multi-model smart routing with priority and automatic failover. Install AI tools and deploy local LLMs in one click.
-- **标签：** `claude-code`, `codex`, `deepseek`
-- **推荐理由：** 多账户智能路由管理，支持自动故障切换。
+- **⭐ 星标：** 3,370
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `content-discovery`, `cross-platform`, `local-first`
+- **推荐理由：** 跨平台AI内容发���Agent，覆盖B站、YouTube等。
 
 ---
 
