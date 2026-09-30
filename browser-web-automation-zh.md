@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 3 个插件
+> 本分类共 4 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,21 +10,31 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 7,944
+- **⭐ 星标：** 7,961
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `automation`, `cli`
-- **推荐理由：** 无缝浏览器自动化，保持已登录状态运行。
+- **标签：** `browser-use`, `automation`, `dsh-plugin`
+- **推荐理由：** 让AI Agent操控已登录的真实浏览器，实现无缝网页自动化。
+
+---
+
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+
+- **⭐ 星标：** 3,372
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `content-discovery`, `browser`, `cross-platform`
+- **推荐理由：** 跨平台自进化内容发现智能体，覆盖B站小红书抖音等
 
 ---
 
 ### [antibrow/dsh-antibrow](https://github.com/antibrow/dsh-antibrow)
 
-- **⭐ 星标：** 577
+- **⭐ 星标：** 584
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **标签：** `browser-automation`, `playwright`, `mcp-server`, `anti-detect`
-- **推荐理由：** 指纹伪装浏览器自动化，支持住宅代理
+- **标签：** `browser-automation`, `playwright`, `anti-detect`, `mcp`
+- **推荐理由：** 引擎级指纹伪装，为AI代理提供持久浏览器身份。
 
 ---
 
@@ -33,8 +43,8 @@
 - **⭐ 星标：** 101
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser-automation`, `playwright`
-- **推荐理由：** 基于 Playwright 的浏览器自动化插件
+- **标签：** `browser-automation`, `playwright`, `dsh-plugin`
+- **推荐理由：** 基于Playwright的DSH浏览器自动化插件
 
 ---
 
