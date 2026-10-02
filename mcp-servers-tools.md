@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 5 plugins in this category
+> 7 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,21 +10,51 @@
 
 ### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 3,987
+- **⭐ Stars:** 3,993
 - **Language:** Python
 - **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **Tags:** `registry`, `api-keys`, `secrets`
-- **Why use it:** OpenRouter-style registry for agent tools with API key and credential management
+- **Tags:** `mcp`, `api-keys`, `registry`, `secrets`
+- **Why use it:** OpenRouter-like registry for agent tools and API key management
 
 ---
 
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+### [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions)
 
-- **⭐ Stars:** 188
-- **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `tushare`, `mcp`, `financial-analysis`
-- **Why use it:** Tushare-based local financial DB with auto-generated HTTP APIs and MCP integration.
+- **⭐ Stars:** 415
+- **Language:** TypeScript
+- **Description:** Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys
+- **Tags:** `llm-provider`, `oauth`, `deepseek-harness`
+- **Why use it:** Use ChatGPT/Claude/Grok subscriptions as DSH LLM providers via OAuth, no API keys needed
+
+---
+
+### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
+
+- **⭐ Stars:** 355
+- **Language:** TypeScript
+- **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+- **Tags:** `llm-provider`, `command-code`, `dsh-plugin`
+- **Why use it:** Adds Command Code model access with live catalog, plan-aware selection and reasoning efficiency
+
+---
+
+### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
+
+- **⭐ Stars:** 82
+- **Language:** TypeScript
+- **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
+- **Tags:** `mcp`, `web-search`, `integration`
+- **Why use it:** Web search, research and integration discovery skills for multi-platform agents
+
+---
+
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ Stars:** 69
+- **Language:** TypeScript
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `mcp`, `api-documentation`, `dsh-plugin`
+- **Why use it:** Searches 65,600+ APIs from 20 Chinese platforms directly in your agent
 
 ---
 
@@ -33,18 +63,8 @@
 - **⭐ Stars:** 65
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `ai-coding`, `cloud`, `mcp`, `sdk`
-- **Why use it:** Official Huawei Cloud plugin with MCP tools, skills, and sandbox for cloud deployment.
-
----
-
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
-
-- **⭐ Stars:** 37
-- **Language:** JavaScript
-- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **Tags:** `ocr`, `vision`, `image-reading`
-- **Why use it:** Pixel-to-text image reading with trained methodology for text-only LLM vision supplementation.
+- **Tags:** `mcp`, `cloud`, `huaweicloud`
+- **Why use it:** Official Huawei Cloud dev kit with skills, MCP tools and cloud sandbox
 
 ---
 
@@ -53,8 +73,8 @@
 - **⭐ Stars:** 29
 - **Language:** TypeScript
 - **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **Tags:** `mcp`, `config-sync`, `multi-agent`
-- **Why use it:** One-click config sync for MCP servers and skills across multiple AI agents
+- **Tags:** `mcp`, `agent-config`, `skills`
+- **Why use it:** One-click MCP/Skills/rules setup across Claude Code, Codex, Cursor, DSH, etc.
 
 ---
 

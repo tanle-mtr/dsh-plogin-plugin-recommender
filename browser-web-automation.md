@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 5 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -13,38 +13,28 @@
 - **⭐ Stars:** 20,281
 - **Language:** TypeScript
 - **Description:** Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **Tags:** `browser-extension`, `prompt-manager`, `multi-platform`
-- **Why use it:** All-in-one browser extension enhancing major AI chat platforms with prompt management
+- **Tags:** `browser-extension`, `chatgpt`, `claude-ai`, `deepseek`
+- **Why use it:** Multi-platform AI chat enhancement with universal prompt manager
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 8,023
+- **⭐ Stars:** 8,026
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-automation`, `login-preserve`, `agent`
-- **Why use it:** Seamless real-browser automation for AI agents with login sessions preserved across tasks
+- **Tags:** `browser-use`, `automation`, `tencent`
+- **Why use it:** Seamless browser automation for AI agents with live login
 
 ---
 
 ### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ Stars:** 3,376
+- **⭐ Stars:** 3,374
 - **Language:** Python
 - **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `privacy-first`, `cross-platform`
-- **Why use it:** Local-first self-evolving content discovery agent across B站, YouTube, Reddit and more
-
----
-
-### [antibrow/dsh-antibrow](https://github.com/antibrow/dsh-antibrow)
-
-- **⭐ Stars:** 682
-- **Language:** JavaScript
-- **Description:** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **Tags:** `browser`, `anti-detect`, `playwright`
-- **Why use it:** Persistent browser identity with fingerprint spoofing for reliable automation
+- **Tags:** `content-discovery`, `browser`, `cross-platform`, `local-first`
+- **Why use it:** Cross-platform AI content discovery agent across Bilibili, YouTube, Xiaohongshu, etc.
 
 ---
 
@@ -54,7 +44,7 @@
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
 - **Tags:** `browser-automation`, `playwright`, `dsh-plugin`
-- **Why use it:** Enables browser automation via Playwright for DSH-integrated web tasks.
+- **Why use it:** Enables Playwright-based browser automation within DeepSeek Harness
 
 ---
 
