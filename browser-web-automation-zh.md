@@ -13,28 +13,28 @@
 - **⭐ 星标：** 20,281
 - **语言：** TypeScript
 - **描述：** Enhancement suite for Gemini, AI Studio, Claude, ChatGPT & DeepSeek — plus a prompt manager for any website, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude、ChatGPT 与 DeepSeek 的增强套件；其中的提示词管理器可用于任意网站，如 DeepSeek Harness。
-- **标签：** `browser-extension`, `chatgpt`, `claude-ai`, `deepseek`
-- **推荐理由：** 支持多AI平台，含跨网站提示词管理器
+- **标签：** `browser-extension`, `chat-management`, `dsh-plugin`
+- **推荐理由：** 支持多AI平台的浏览器扩展，内置提示词管理
 
 ---
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 8,026
+- **⭐ 星标：** 8,037
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `automation`, `tencent`
-- **推荐理由：** AI Agent无缝浏览器自动化，支持真实登录态
+- **标签：** `browser-use`, `dsh-plugin`, `automation`
+- **推荐理由：** 让AI代理安全使用真实登录浏览器的CLI+扩展工具
 
 ---
 
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+### [antibrow/dsh-antibrow](https://github.com/antibrow/dsh-antibrow)
 
-- **⭐ 星标：** 3,374
-- **语言：** Python
-- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **标签：** `content-discovery`, `browser`, `cross-platform`, `local-first`
-- **推荐理由：** 跨平台AI内容发现代理，覆盖B站、YouTube、小红书等
+- **⭐ 星标：** 688
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
+- **标签：** `browser`, `automation`, `fingerprint`
+- **推荐理由：** 浏览器指纹伪装与持久身份管理，支持代理轮换。
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 101
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser-automation`, `playwright`, `dsh-plugin`
-- **推荐理由：** 基于Playwright在DeepSeek Harness中实现浏览器自动化
+- **标签：** `browser-automation`, `playwright`
+- **推荐理由：** Tabbit浏览器自动化插件，专为DSH设计。
 
 ---
 
