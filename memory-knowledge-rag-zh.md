@@ -10,51 +10,51 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 39,160
+- **⭐ 星标：** 39,164
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `dsh-plugin`, `agentic-rag`
-- **推荐理由：** 自进化上下文数据库，统一智能体记忆与RAG知识。
+- **标签：** `agent-memory`, `rag`, `dsh-plugin`
+- **推荐理由：** 自进化上下文数据库，统一记忆与RAG。
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 31,867
+- **⭐ 星标：** 31,882
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `dsh-plugin`, `vector-search`
-- **推荐理由：** 腾讯开源LLM知识平台，支持RAG检索与语义搜索。
+- **标签：** `rag`, `knowledge-base`, `dsh-plugin`
+- **推荐理由：** 腾讯开源知识库平台，支持RAG与自维护Wiki。
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 13,331
+- **⭐ 星标：** 13,335
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `rag`, `local-first`, `memory-management`
-- **推荐理由：** 本地优先的可移植记忆层，Markdown原生支持
+- **标签：** `agent-memory`, `rag`, `mcp`, `dsh-plugin`, `long-term-memory`
+- **推荐理由：** 本地优先的可移植记忆层，支持跨应用长期记忆。
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 11,685
+- **⭐ 星标：** 11,689
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `agent-memory`, `rag`, `token-savings`, `self-evolving`
-- **推荐理由：** 自进化记忆系统，混合检索节省35%令牌消耗
+- **标签：** `agent-memory`, `rag`, `mcp`, `dsh-plugin`, `token-savings`
+- **推荐理由：** 自进化记忆系统，混合检索节省35%Token。
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,450
+- **⭐ 星标：** 7,451
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `agent-memory`, `stateful`, `continual-learning`
-- **推荐理由：** 专为构建有状态AI代理设计的记忆库
+- **标签：** `agent-memory`, `dsh-plugin`, `context-engineering`, `continual-learning`
+- **推荐理由：** 轻量级记忆库，帮助构建有状态AI代理。
 
 ---
 
@@ -63,8 +63,18 @@
 - **⭐ 星标：** 3,548
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `agent`
-- **推荐理由：** 智能体记忆管理套件，支持记忆存储与优化。
+- **标签：** `memory`, `rag`, `agent`, `hermes-plugin`
+- **推荐理由：** 智能体记忆管理套件，支持记忆精炼与知识持久化。
+
+---
+
+### [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
+
+- **⭐ 星标：** 3,103
+- **语言：** Rust
+- **描述：** Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
+- **标签：** `deepwiki`, `dsh-plugin`, `openwiki`
+- **推荐理由：** 快速生成精准技术文档，打造AI可用上下文
 
 ---
 
@@ -73,8 +83,8 @@
 - **⭐ 星标：** 2,710
 - **语言：** Python
 - **描述：** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **标签：** `memory`, `rag`, `dsh-plugin`
-- **推荐理由：** 基于Milvus的持久记忆层，支持所有AI Agent长期记忆。
+- **标签：** `rag`, `memory`, `dsh-plugin`
+- **推荐理由：** 持久统一记忆层，Milvus+Markdown支持多Agent
 
 ---
 
@@ -83,28 +93,28 @@
 - **⭐ 星标：** 675
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skill-management`, `rag`, `vector-search`
-- **推荐理由：** 将分散的技能文件转化为可检索的知识库，提升Agent能力。
+- **标签：** `agent-memory`, `skill-md`, `vector-search`, `embeddings`
+- **推荐理由：** 将碎片化技能文件转为可检索的Agent知识库。
 
 ---
 
-### [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j)
+### [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins)
 
-- **⭐ 星标：** 433
+- **⭐ 星标：** 261
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com
+- **标签：** `marketplace`, `plugin-catalog`, `registry`
+- **推荐理由：** 海量插件市场，超11000个插件可检索。
+
+---
+
+### [leenkcool/Blue-Whale-Harness](https://github.com/leenkcool/Blue-Whale-Harness)
+
+- **⭐ 星标：** 198
 - **语言：** HTML
-- **描述：** Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...),unified AI service(image/video/audio...), Tool Calling, MCP, RAG, SKILLS,Agent Runtime, A2A, agent blueprint, agent harness, and a built-in Coding Agent CLI/TUI/ACP.
-- **标签：** `java`, `sdk`, `mcp`, `rag`, `embedding`
-- **推荐理由：** Java智能体SDK，支持统一LLM访问、MCP与RAG
-
----
-
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
-
-- **⭐ 星标：** 188
-- **语言：** Python
-- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **标签：** `finance`, `database`, `mcp`, `agent`
-- **推荐理由：** 基于Tushare的本地财经数据库，支持多Agent分析与IM盯盘
+- **描述：** 🐋 DeepSeek Harness 插件总目录 · The catalog of DSH plugins：1958 个仓库 / 1819 个真插件（Skills · MCP · Tools · UI · Orchestration），中英文搜索、分类筛选、STAR 排序 → leenkcool.github.io
+- **标签：** `catalog`, `directory`, `plugin-marketplace`
+- **推荐理由：** 收录1958个仓库的全量插件目录与筛选。
 
 ---
 
@@ -113,18 +123,8 @@
 - **⭐ 星标：** 92
 - **语言：** JavaScript
 - **描述：** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **标签：** `memory`, `context`, `dsh`
-- **推荐理由：** 三层自动整合记忆，主动上下文召回。
-
----
-
-### [yuc16/PatentRadar](https://github.com/yuc16/PatentRadar)
-
-- **⭐ 星标：** 65
-- **语言：** Python
-- **描述：** 专利侵权分析系统 —— 输入专利公开号，产出竞品侵权分析报告；同时打包成 skill，可被任意 agent（dsh, codex, claudecode 等） 调用。
-- **标签：** `patent`, `rag`, `legal-tech`
-- **推荐理由：** 专利侵权分析系统，自动生成竞品报告。
+- **标签：** `memory`, `context`, `rag`
+- **推荐理由：** 主动联想记忆系统，支持三层自动合并与技能固化。
 
 ---
 
