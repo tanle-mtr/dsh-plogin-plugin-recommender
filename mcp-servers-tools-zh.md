@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 4 个插件
+> 本分类共 6 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,23 +8,43 @@
 
 ## 插件列表
 
-### [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j)
+### [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
 
-- **⭐ 星标：** 433
-- **语言：** HTML
-- **描述：** Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...),unified AI service(image/video/audio...), Tool Calling, MCP, RAG, SKILLS,Agent Runtime, A2A, agent blueprint, agent harness, and a built-in Coding Agent CLI/TUI/ACP.
-- **标签：** `sdk`, `mcp`, `rag`, `java`
-- **推荐理由：** Java统一SDK，支持MCP、RAG及多模型接入。
+- **⭐ 星标：** 43,728
+- **语言：** TypeScript
+- **描述：** A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- **标签：** `mcp-server`, `self-hosted`, `resume-builder`
+- **推荐理由：** 隐私优先的简历生成器，支持MCP自托管
 
 ---
 
-### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ 星标：** 359
-- **语言：** TypeScript
-- **描述：** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
-- **标签：** `provider`, `llm`, `dsh-plugin`
-- **推荐理由：** 新增Command Code模型提供商，支持实时目录。
+- **⭐ 星标：** 4,095
+- **语言：** Python
+- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **标签：** `mcp`, `credentials`, `registry`, `dsh-plugin`
+- **推荐理由：** Agent工具与凭据管理的OpenRouter式注册中心
+
+---
+
+### [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill)
+
+- **⭐ 星标：** 429
+- **语言：** Python
+- **描述：** Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.
+- **标签：** `mcp`, `computer-vision`, `multimodal`, `agent-observability`
+- **推荐理由：** 赋予AI视听能力，通过MCP实现视频音频屏幕分析
+
+---
+
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+
+- **⭐ 星标：** 188
+- **语言：** Python
+- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **标签：** `mcp`, `finance`, `data-source`
+- **推荐理由：** 基于Tushare的MCP金融数据源，支持自动HTTP接口生成
 
 ---
 
@@ -33,18 +53,18 @@
 - **⭐ 星标：** 65
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huaweicloud`, `deepseek-harness`
-- **推荐理由：** 华为云官方MCP工具，含安全护栏和云端沙箱，适合AI代理开发部署。
+- **标签：** `cloud`, `mcp`, `sdk`, `terraform`
+- **推荐理由：** 官方华为云MCP工具包，含技能、安全护栏和沙箱，适合云端Agent开发部署。
 
 ---
 
-### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
 
-- **⭐ 星标：** 29
-- **语言：** TypeScript
-- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp`, `config-sync`, `multi-agent`
-- **推荐理由：** 一键同步MCP/Skills/规则到7种AI Agent平台
+- **⭐ 星标：** 3
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `dsh-plugin`, `chatgpt`, `oauth`
+- **推荐理由：** OAuth绑定ChatGPT账号，在DSH内使用ChatGPT模型
 
 ---
 
