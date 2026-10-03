@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 1 个插件
+> 本分类共 3 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,13 +8,33 @@
 
 ## 插件列表
 
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+
+- **⭐ 星标：** 4,086
+- **语言：** Python
+- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **标签：** `proxy`, `registry`, `api-keys`, `mcp`
+- **推荐理由：** 社区驱动的智能体API密钥注册与代理服务。
+
+---
+
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ 星标：** 65
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huaweicloud`
-- **推荐理由：** 华为云官方MCP工具，含沙箱和安全护栏，适合AI代理云操作
+- **标签：** `mcp`, `cloud`, `huaweicloud`, `skills`
+- **推荐理由：** 华为官方插件，集成MCP工具与云端沙箱，适合AI代理部署生产环境
+
+---
+
+### [miniLV/Plexus](https://github.com/miniLV/Plexus)
+
+- **⭐ 星标：** 29
+- **语言：** TypeScript
+- **描述：** 一键配置各类 AI Agent 工具的 MCP���Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
+- **标签：** `mcp`, `config`, `multi-agent`
+- **推荐理由：** 一键跨Agent工具MCP配置同步，支持DSH
 
 ---
 
