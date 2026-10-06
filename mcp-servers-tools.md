@@ -8,13 +8,23 @@
 
 ## Plugins
 
-### [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 43,847
+- **⭐ Stars:** 4,201
+- **Language:** Python
+- **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **Tags:** `api-keys`, `credentials`, `mcp`
+- **Why use it:** OpenRouter-style registry for agent tool API keys and credentials
+
+---
+
+### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
+
+- **⭐ Stars:** 85
 - **Language:** TypeScript
-- **Description:** A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- **Tags:** `mcp-server`, `self-hosted`, `resume-builder`, `dsh-plugin`
-- **Why use it:** Privacy-focused resume builder with MCP server integration.
+- **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
+- **Tags:** `mcp`, `web-search`, `agent-skills`
+- **Why use it:** You.com skills for web search, research, and integration discovery
 
 ---
 
@@ -23,8 +33,8 @@
 - **⭐ Stars:** 70
 - **Language:** TypeScript
 - **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `mcp`, `api`, `documentation`
-- **Why use it:** Search 65,600+ API docs from 20 Chinese open platforms with zero config.
+- **Tags:** `api-documentation`, `mcp`, `deepseek-harness`
+- **Why use it:** Searches 65,600+ Chinese platform API docs with zero configuration
 
 ---
 
@@ -33,18 +43,8 @@
 - **⭐ Stars:** 65
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `ai-coding`
-- **Why use it:** Official Huawei Cloud MCP tools and skills for AI agent cloud operations
-
----
-
-### [miniLV/Plexus](https://github.com/miniLV/Plexus)
-
-- **⭐ Stars:** 29
-- **Language:** TypeScript
-- **Description:** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **Tags:** `mcp`, `config`, `cross-tool`, `dsh-skill`
-- **Why use it:** One-click MCP and skill config sync across 7+ AI agent tools
+- **Tags:** `mcp`, `cloud`, `huaweicloud`
+- **Why use it:** Official Huawei Cloud MCP tools and skills for agent cloud operations.
 
 ---
 

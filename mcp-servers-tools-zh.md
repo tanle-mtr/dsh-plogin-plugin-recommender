@@ -8,13 +8,23 @@
 
 ## 插件列表
 
-### [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume)
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ 星标：** 43,847
+- **⭐ 星标：** 4,201
+- **语言：** Python
+- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **标签：** `api-keys`, `credentials`, `mcp`
+- **推荐理由：** 类OpenRouter的Agent工具API密钥注册中��
+
+---
+
+### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
+
+- **⭐ 星标：** 85
 - **语言：** TypeScript
-- **描述：** A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- **标签：** `mcp-server`, `self-hosted`, `resume-builder`, `dsh-plugin`
-- **推荐理由：** 隐私优先的简历构建器，集成MCP服务。
+- **描述：** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
+- **标签：** `mcp`, `web-search`, `agent-skills`
+- **推荐理由：** Web搜索研究与集成发现的You.com技能
 
 ---
 
@@ -23,8 +33,8 @@
 - **⭐ 星标：** 70
 - **语言：** TypeScript
 - **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **标签：** `mcp`, `api`, `documentation`
-- **推荐理由：** 零配置搜索20个中国开放平台6.5万+API文档。
+- **标签：** `api-documentation`, `mcp`, `deepseek-harness`
+- **推荐理由：** 零配置搜索6.5万+中国平台API文档
 
 ---
 
@@ -33,18 +43,8 @@
 - **⭐ 星标：** 65
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huaweicloud`, `ai-coding`
-- **推荐理由：** 华为云官方MCP工具集，支持AI Agent云部署运维
-
----
-
-### [miniLV/Plexus](https://github.com/miniLV/Plexus)
-
-- **⭐ 星标：** 29
-- **语言：** TypeScript
-- **描述：** 一键配置各类 AI Agent 工具的 MCP、Skills 和规则；支持 Claude Code、Codex、DeepSeek Harness、OpenCode、Cursor、Gemini CLI、Qwen Code 等。 One-click local setup for MCP servers, skills, and rules across AI coding agents.
-- **标签：** `mcp`, `config`, `cross-tool`, `dsh-skill`
-- **推荐理由：** 一键同步MCP/Skills配置，支持7种主流Agent工具
+- **标签：** `mcp`, `cloud`, `huaweicloud`
+- **推荐理由：** 华为云官方MCP工具集，支持Agent云端构建部署运维。
 
 ---
 

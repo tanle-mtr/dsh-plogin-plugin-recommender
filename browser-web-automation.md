@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 6 plugins in this category
+> 7 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,11 +10,11 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 8,167
+- **⭐ Stars:** 8,181
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser`, `automation`, `tencent`
-- **Why use it:** Connect agents to your real logged-in browser seamlessly.
+- **Tags:** `browser`, `automation`, `browser-use`
+- **Why use it:** Let AI agents control your real logged-in browser seamlessly
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 3,388
 - **Language:** Python
 - **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `browser`, `content`, `discovery`, `cross-platform`
-- **Why use it:** Cross-platform self-evolving AI content discovery agent from B站, YouTube, Reddit and more
+- **Tags:** `content-discovery`, `ai-agent`, `cross-platform`
+- **Why use it:** Self-evolving cross-platform AI content discovery agent
 
 ---
 
@@ -33,38 +33,48 @@
 - **⭐ Stars:** 692
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **Tags:** `browser`, `automation`, `playwright`
-- **Why use it:** Browser automation with persistent identity and fingerprint spoofing.
+- **Tags:** `browser`, `fingerprint`, `automation`, `playwright`
+- **Why use it:** Persistent browser identity with engine-level fingerprint spoofing
+
+---
+
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ Stars:** 596
+- **Language:** TypeScript
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（��索、抓取、引用）。
+- **Tags:** `web-search`, `free`, `no-signup`, `bridge`
+- **Why use it:** Best free web search bridge for models without native access
 
 ---
 
 ### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
 
-- **⭐ Stars:** 314
+- **⭐ Stars:** 315
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios`, `automation`, `mobile`, `ui-automation`
-- **Why use it:** Provides 22 agent tools for live iOS Simulator and iPhone automation within conversation.
+- **Tags:** `ios`, `webdriveragent`, `mobile-automation`, `mcp`
+- **Why use it:** 22 agent tools for iOS simulator and iPhone automation via WebDriverAgent
 
 ---
 
 ### [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)
 
-- **⭐ Stars:** 228
+- **⭐ Stars:** 229
 - **Language:** JavaScript
 - **Description:** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **Tags:** `browser`, `web-login`, `llm-provider`, `automation`
-- **Why use it:** Use chat.deepseek.com web models as LLM provider via browser-login capture.
+- **Tags:** `web-login`, `browser-automation`, `sse`
+- **Why use it:** Web login capture, PoW solving and SSE streaming for chat.deepseek.com
 
 ---
 
 ### [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)
 
-- **⭐ Stars:** 101
+- **⭐ Stars:** 102
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser-automation`, `playwright`, `browser`
-- **Why use it:** Tabbit browser automation plugins powered by Playwright for DSH.
+- **Tags:** `browser-automation`, `playwright`, `deepseek-harness`
+- **Why use it:** Tabbit browser automation plugins for DeepSeek Harness
 
 ---
 
