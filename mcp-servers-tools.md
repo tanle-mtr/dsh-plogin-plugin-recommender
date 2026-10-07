@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 5 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,23 @@
 
 ## Plugins
 
-### [morluto/rea](https://github.com/morluto/rea)
+### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
 
-- **⭐ Stars:** 8,446
+- **⭐ Stars:** 369
 - **Language:** TypeScript
-- **Description:** Reverse engineer anything with agents, from app behavior down to native binaries.
-- **Tags:** `reverse-engineering`, `mcp`, `ghidra`, `binary-analysis`
-- **Why use it:** Powerful reverse engineering via Ghidra/Hopper with MCP integration
+- **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+- **Tags:** `provider`, `model-access`
+- **Why use it:** Adds Command Code model access with live catalog and plan-aware selection to DSH.
+
+---
+
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ Stars:** 70
+- **Language:** TypeScript
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `mcp-server`, `api-documentation`, `search`, `integration`
+- **Why use it:** Search 65,600+ Chinese platform API docs directly in any harness.
 
 ---
 
@@ -23,8 +33,8 @@
 - **⭐ Stars:** 65
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `sdk`
-- **Why use it:** Official Huawei Cloud MCP tools, skills and cloud sandbox for AI agents.
+- **Tags:** `mcp`, `cloud`, `huaweicloud`
+- **Why use it:** Official Huawei Cloud plugin with MCP tools and guardrails
 
 ---
 
@@ -33,28 +43,8 @@
 - **⭐ Stars:** 37
 - **Language:** JavaScript
 - **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **Tags:** `mcp`, `ocr`, `vision`
-- **Why use it:** Brings image OCR and visual analysis to text-only models
-
----
-
-### [Tencent/skillhub](https://github.com/Tencent/skillhub)
-
-- **⭐ Stars:** 36
-- **Language:** TypeScript
-- **Description:** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
-- **Tags:** `mcp`, `official`, `skillhub`
-- **Why use it:** Official SkillHub API with rich documentation and examples
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ Stars:** 3
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `models`
-- **Why use it:** Bind ChatGPT account via OAuth and use ChatGPT models in DSH.
+- **Tags:** `image-reading`, `ocr`, `vision`
+- **Why use it:** Enables image reading for text-only models via OCR tools
 
 ---
 
