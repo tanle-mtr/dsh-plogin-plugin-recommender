@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+### [seolhw/dsh-guild](https://github.com/seolhw/dsh-guild)
 
-- **⭐ Stars:** 3,392
-- **Language:** Python
-- **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `cross-platform`, `social`, `privacy-first`
-- **Why use it:** Local-first cross-platform AI content discovery from Bilibili, YouTube, X, Reddit and more
+- **⭐ Stars:** 2
+- **Language:** JavaScript
+- **Description:** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
+- **Tags:** `deepseek-harness`, `dsh-guild`, `dsh-plugin`
+- **Why use it:** Brings Discord-like real-time chat, @mentions, and file sharing directly into the DSH panel.
 
 ---
 

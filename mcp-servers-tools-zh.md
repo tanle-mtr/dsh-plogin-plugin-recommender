@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 3 个插件
+> 本分类共 2 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,33 +8,23 @@
 
 ## 插件列表
 
-### [superdesigndev/treg](https://github.com/superdesigndev/treg)
-
-- **⭐ 星标：** 4,528
-- **语言：** Python
-- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **标签：** `mcp`, `api-keys`, `registry`, `proxy`
-- **推荐理由：** Agent工具OpenRouter，统一API密钥与凭证管理
-
----
-
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
-
-- **⭐ 星标：** 180
-- **语言：** JavaScript
-- **描述：** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **标签：** `deepseek`, `dsh`, `mcp`, `skills`
-- **推荐理由：** Web界面统一管理Skill与MCP服务。
-
----
-
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ 星标：** 65
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
 - **标签：** `mcp`, `cloud`, `huaweicloud`
-- **推荐理由：** 华为云官方MCP工具与云端沙箱，一站式AI部署
+- **推荐理由：** 华为云官方MCP工具与技能，支持Agent云端部署与运维。
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ 星标：** 3
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `oauth`, `mcp`
+- **推荐理由：** OAuth绑定ChatGPT账号，无缝接入DSH
 
 ---
 
