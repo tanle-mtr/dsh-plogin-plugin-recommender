@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 7 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,21 +10,21 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 8,317
+- **⭐ Stars:** 8,379
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser`, `automation`, `tencent`, `cli`
-- **Why use it:** Seamless logged-in browser automation via CLI + extension without interrupting your workflow
+- **Tags:** `browser-use`, `automation`, `agent`
+- **Why use it:** Seamless browser automation for AI agents with real sessions
 
 ---
 
 ### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ Stars:** 3,396
+- **⭐ Stars:** 3,397
 - **Language:** Python
-- **Description:** 本地私有、开源的自进化跨��台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `bilibili`, `cross-platform`, `privacy-first`
-- **Why use it:** Cross-platform AI content discovery agent across Bilibili, YouTube, Xiaohongshu etc.
+- **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **Tags:** `content-discovery`, `local-first`, `privacy-first`
+- **Why use it:** Proactive cross-platform content discovery agent with local-first privacy.
 
 ---
 
@@ -33,18 +33,8 @@
 - **⭐ Stars:** 698
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.
-- **Tags:** `browser-automation`, `anti-detect`, `mcp`
-- **Why use it:** Persistent-agent browser with fingerprint spoofing and unlimited local profiles.
-
----
-
-### [liustack/modsearch](https://github.com/liustack/modsearch)
-
-- **⭐ Stars:** 602
-- **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `agent-tools`, `free`
-- **Why use it:** Strongest free web search bridge for DSH — no signup, no API key needed.
+- **Tags:** `browser-automation`, `anti-detect`, `playwright`
+- **Why use it:** Anti-detect browser with persistent identity, fingerprint spoofing, Android emulation
 
 ---
 
@@ -53,8 +43,8 @@
 - **⭐ Stars:** 235
 - **Language:** JavaScript
 - **Description:** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **Tags:** `browser-automation`, `web-login`, `llm-provider`
-- **Why use it:** Use chat.deepseek.com as LLM provider via browser login
+- **Tags:** `browser-automation`, `web-login`, `sso`, `llm-provider`
+- **Why use it:** Use chat.deepseek.com web models via browser login capture and PoW solving.
 
 ---
 
@@ -63,18 +53,8 @@
 - **⭐ Stars:** 103
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser-automation`, `playwright`, `browser-use`
-- **Why use it:** Playwright-based browser automation for DSH agents
-
----
-
-### [cooljser/dsh-plugin-portal](https://github.com/cooljser/dsh-plugin-portal)
-
-- **⭐ Stars:** 2
-- **Language:** JavaScript
-- **Description:** DSH Plugin Portal — a zero-dependency static web portal for the awesome-dsh-plugin curated list. Discover, filter and install 227+ DeepSeek Harness (dsh) plugins.
-- **Tags:** `web`, `portal`, `github-pages`
-- **Why use it:** Static web portal for plugin discovery and filtering
+- **Tags:** `browser`, `playwright`, `automation`
+- **Why use it:** Tabbit Browser plugins enabling powerful browser automation in DSH
 
 ---
 

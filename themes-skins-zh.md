@@ -10,31 +10,31 @@
 
 ### [crafter-station/petdex](https://github.com/crafter-station/petdex)
 
-- **⭐ 星标：** 4,206
+- **⭐ 星标：** 4,208
 - **语言：** TypeScript
 - **描述：** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **标签：** `mascot`, `pixel-art`, `sprites`, `claude-code`
-- **推荐理由：** 为编程Agent添加个性的像素宠物画廊
+- **标签：** `mascot`, `pixel-art`, `sprites`
+- **推荐理由：** 多Agent通用像素宠物装饰画廊
 
 ---
 
 ### [WYH66666666/DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
 
-- **⭐ 星标：** 414
+- **⭐ 星标：** 413
 - **语言：** JavaScript
-- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，��改 DSH 任何一行源码。
-- **标签：** `theme`, `deepseek-harness-plugin`, `dsh`
-- **推荐理由：** 高自由度磨砂玻璃质感主题，支持自定义壁纸和模糊度
+- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **标签：** `theme`, `glassmorphism`, `ui-customization`, `dsh-plugin`
+- **推荐理由：** 高自由度磨砂玻璃质感主题，视觉效果出色
 
 ---
 
 ### [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin)
 
-- **⭐ 星标：** 387
+- **⭐ 星标：** 389
 - **语言：** JavaScript
 - **描述：** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **标签：** `animated-background`, `deepseek-theme`, `skin`
-- **推荐理由：** 海洋动态皮肤，可调波浪日落和玻璃质感效果
+- **标签：** `skin`, `animated`, `ocean`, `threejs`, `webgpu`
+- **推荐理由：** 动态海洋主题，实时波浪效果，视觉体验极佳
 
 ---
 
