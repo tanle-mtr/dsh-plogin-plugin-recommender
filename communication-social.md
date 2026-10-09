@@ -13,8 +13,8 @@
 - **⭐ Stars:** 2
 - **Language:** JavaScript
 - **Description:** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **Tags:** `awesome-dsh-plugin`, `deepseek-harness`, `dsh-guild`, `communication`, `community`
-- **Why use it:** Discord-like community features inside DSH panel
+- **Tags:** `awesome-dsh-plugin`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-guild`, `dsh-plugin`
+- **Why use it:** Discord-like community chat with real-time messaging, mentions, file sharing and permissions built into DSH.
 
 ---
 
