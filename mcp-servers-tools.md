@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 4 plugins in this category
+> 6 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,33 @@
 
 ## Plugins
 
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+### [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j)
 
-- **⭐ Stars:** 193
-- **Language:** JavaScript
-- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **Tags:** `dsh-plugin`, `mcp`, `skill-management`
-- **Why use it:** Web UI for managing both skills and MCP servers in one interface.
+- **⭐ Stars:** 436
+- **Language:** HTML
+- **Description:** Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...),unified AI service(image/video/audio...), Tool Calling, MCP, RAG, SKILLS,Agent Runtime, A2A, agent blueprint, agent harness, and a built-in Coding Agent CLI/TUI/ACP.
+- **Tags:** `java`, `mcp`, `sdk`, `llm`
+- **Why use it:** Unified Java SDK for multiple LLMs with MCP, tool calling, and RAG support out of the box
+
+---
+
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+
+- **⭐ Stars:** 88
+- **Language:** TypeScript
+- **Description:** 一个面向 DeepSeek Harness 的统一能力管理插件，为 Tools/Skills 提供常驻、按需、禁用三档暴露策略，以减少上下文占用并支持运行时动态发现与执行。
+- **Tags:** `mcp`, `skills`, `capability-management`
+- **Why use it:** Unified capability menu with persistent/on-demand/disabled exposure strategies for tools and skills.
 
 ---
 
 ### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ Stars:** 71
+- **⭐ Stars:** 72
 - **Language:** TypeScript
 - **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `mcp`, `api-documentation`, `chinese-api`
-- **Why use it:** Search 65,600+ API docs from 20 Chinese platforms with zero config
+- **Tags:** `mcp`, `api`, `documentation`
+- **Why use it:** Search 65,600+ API docs from 20 Chinese open platforms directly within DSH and other coding agents.
 
 ---
 
@@ -34,17 +44,27 @@
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
 - **Tags:** `mcp`, `cloud`, `huaweicloud`
-- **Why use it:** Official Huawei Cloud MCP tools, skills, and sandbox for AI agents
+- **Why use it:** Official Huawei Cloud MCP tools and cloud sandbox for agents.
 
 ---
 
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
+### [Tencent/skillhub](https://github.com/Tencent/skillhub)
 
-- **⭐ Stars:** 36
+- **⭐ Stars:** 35
+- **Language:** TypeScript
+- **Description:** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
+- **Tags:** `api`, `skillhub`, `official`
+- **Why use it:** Official SkillHub Open API with docs and plugin support
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ Stars:** 11
 - **Language:** JavaScript
-- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **Tags:** `ocr`, `vision`, `image-reading`
-- **Why use it:** Image-to-text OCR and pixel analysis for text-only LLMs.
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `ai-agent`
+- **Why use it:** Connect ChatGPT via OAuth and use its models directly in DSH.
 
 ---
 
