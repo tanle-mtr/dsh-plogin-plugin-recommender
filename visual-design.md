@@ -1,6 +1,6 @@
 # Visual & Design
 
-> 8 plugins in this category
+> 9 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,23 @@
 
 ## Plugins
 
-### [nexu-io/open-design](https://github.com/nexu-io/open-design)
-
-- **⭐ Stars:** 100,380
-- **Language:** TypeScript
-- **Description:** 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTML/PDF/PPTX/MP4 export. 🤖 Claude Code / Codex / Cursor / DeepSeek Harness / OpenCode & 20+ CLIs via BYOK.
-- **Tags:** `ai-design`, `figma-alternative`, `ui-generator`
-- **Why use it:** Open-source design system with Figma-like prototyping
-
----
-
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ Stars:** 81,597
+- **⭐ Stars:** 81,646
 - **Language:** JavaScript
 - **Description:** Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-- **Tags:** `architecture-diagram`, `mermaid`, `diagrams-as-code`
-- **Why use it:** Turns ideas and codebases into interactive diagrams
+- **Tags:** `diagrams`, `mermaid`, `architecture-diagram`
+- **Why use it:** Turn ideas and codebases into beautiful interactive diagrams.
 
 ---
 
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ Stars:** 34,264
+- **⭐ Stars:** 34,266
 - **Language:** JavaScript
 - **Description:** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-- **Tags:** `image-generation`, `prompt-engineering`, `skills`
-- **Why use it:** 530+ image prompts with industrial-grade templates
+- **Tags:** `image-generation`, `prompts`, `skills`
+- **Why use it:** 530+ GPT Image prompt cases and 20+ industrial templates.
 
 ---
 
@@ -43,8 +33,8 @@
 - **⭐ Stars:** 6,119
 - **Language:** Rust
 - **Description:** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **Tags:** `design`, `mcp`, `vibedesign`, `ui`
-- **Why use it:** AI-native vector design tool with concurrent Agent Teams for Design-as-Code.
+- **Tags:** `design-tool`, `vibecoding`, `ui`
+- **Why use it:** AI-native vector design tool with concurrent agent teams
 
 ---
 
@@ -53,18 +43,8 @@
 - **⭐ Stars:** 1,444
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **Tags:** `design`, `visual`, `PPT`
-- **Why use it:** AI-powered design studio with visual editor, templates and PPT generation
-
----
-
-### [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)
-
-- **⭐ Stars:** 887
-- **Language:** TypeScript
-- **Description:** [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.
-- **Tags:** `vision`, `ocr`, `plugin`
-- **Why use it:** Adds powerful vision capabilities to text-only models with one-line install
+- **Tags:** `design`, `prototyping`, `ppt`, `visual-editor`, `ipollowork`
+- **Why use it:** AI-generated editable design system with PPT and prototyping tools
 
 ---
 
@@ -73,8 +53,8 @@
 - **⭐ Stars:** 541
 - **Language:** TypeScript
 - **Description:** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
-- **Tags:** `gui`, `ui`, `components`
-- **Why use it:** Generates interactive UI components like charts and forms rendered inline in assistant replies
+- **Tags:** `ui-components`, `visual`, `charts`, `interactive`
+- **Why use it:** Generates interactive UI components rendered inline in assistant replies
 
 ---
 
@@ -83,8 +63,38 @@
 - **⭐ Stars:** 207
 - **Language:** Python
 - **Description:** DSH x Blender direct realtime plugin v1.0 — let an AI model drive Blender over a direct TCP channel: viewport frames, custom-angle renders, inner-loop search, render profiling, safe decimation, headless offload, one-call GUI launch (15 tools + blender_rt_plan: 28 families / 183 ops). 配套 skill：sixtysevenlf/dsh-skill-blender-modeling
-- **Tags:** `blender`, `3d-modeling`, `automation`
-- **Why use it:** Direct TCP plugin driving Blender viewport, renders and AI inner-loop workflow
+- **Tags:** `3d-modeling`, `blender`, `dsh-plugin`
+- **Why use it:** Realtime AI-driven Blender via TCP: viewport frames and custom renders
+
+---
+
+### [MiaoQichuan/new-litigation-visualization](https://github.com/MiaoQichuan/new-litigation-visualization)
+
+- **⭐ Stars:** 115
+- **Language:** Python
+- **Description:** 把法律画出来 · Make the Law Visible —— 给法律人的诉讼可视化工具集：把凌乱的诉讼图重画成能进材料的图，直接读案件材料画准一张时间轴，并提供庭前三大法宝（大事记表、庭审对抗图、法律关系图）。Claude Skill / DeepSeek Harness 通用。
+- **Tags:** `legal`, `visualization`, `timeline`, `litigation`
+- **Why use it:** Legal litigation timeline and relationship visualization tool.
+
+---
+
+### [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh)
+
+- **⭐ Stars:** 72
+- **Language:** TypeScript
+- **Description:** 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。
+- **Tags:** `video`, `remotion`, `motion-design`
+- **Why use it:** 152 lens cards and Remotion templates for cinematic video
+
+---
+
+### [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards)
+
+- **⭐ Stars:** 2
+- **Language:** JavaScript
+- **Description:** A plugin of Deepseek Harness(DSH),transform your recent chat history into beautifully designed knowledge cards, ready to download and share.
+- **Tags:** `ui`, `knowledge-cards`, `visual`
+- **Why use it:** Transforms chat history into shareable visual knowledge cards
 
 ---
 
