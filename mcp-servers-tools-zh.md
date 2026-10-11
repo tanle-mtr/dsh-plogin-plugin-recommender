@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [morluto/rea](https://github.com/morluto/rea)
+### [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
 
-- **⭐ 星标：** 81,445
-- **语言：** TypeScript
-- **描述：** Reverse engineer anything with agents, from app behavior down to native binaries.
-- **标签：** `reverse-engineering`, `mcp`, `ghidra`
-- **推荐理由：** 用AI驱动的反编译和静态分析进行二进制逆向工程。
+- **⭐ 星标：** 7,019
+- **语言：** JavaScript
+- **描述：** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
+- **标签：** `routing`, `mcp`, `injector`
+- **推荐理由：** 任务感知推理模式路由，提升Agent决策质量
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 66
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huaweicloud`
-- **推荐理由：** 华为云官方MCP工具集，含沙箱与部署能力
+- **标签：** `mcp`, `cloud`, `huaweicloud`, `sdk`
+- **推荐理由：** 华为云官方MCP工具集，含云沙箱与安全护栏
 
 ---
 

@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [morluto/rea](https://github.com/morluto/rea)
+### [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite)
 
-- **⭐ Stars:** 81,445
-- **Language:** TypeScript
-- **Description:** Reverse engineer anything with agents, from app behavior down to native binaries.
-- **Tags:** `reverse-engineering`, `mcp`, `ghidra`
-- **Why use it:** Reverse-engineer binaries and apps with AI-powered static analysis and decompilation.
+- **⭐ Stars:** 7,019
+- **Language:** JavaScript
+- **Description:** dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).
+- **Tags:** `routing`, `mcp`, `injector`
+- **Why use it:** Task-aware reasoning-mode router with runtime injector
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 66
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`
-- **Why use it:** Official Huawei Cloud MCP tools, skills, and sandbox for AI agent cloud operations
+- **Tags:** `mcp`, `cloud`, `huaweicloud`, `sdk`
+- **Why use it:** Official Huawei Cloud MCP tools and cloud sandbox for agents
 
 ---
 
