@@ -1,6 +1,6 @@
 # Memory & Knowledge (RAG)
 
-> 11 plugins in this category
+> 12 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,21 +10,21 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 39,608
+- **⭐ Stars:** 39,614
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `rag`, `self-evolving`
-- **Why use it:** Self-evolving context database unifying agent memory and RAG.
+- **Tags:** `agent-memory`, `rag`, `context-database`
+- **Why use it:** Self-evolving context database for AI agents.
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 33,031
+- **⭐ Stars:** 33,038
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `knowledge-base`, `wiki`
-- **Why use it:** Turn documents into RAG, reasoning agents, and self-maintaining wiki.
+- **Tags:** `knowledge-base`, `rag`, `wiki`
+- **Why use it:** Open-source LLM knowledge platform with RAG.
 
 ---
 
@@ -33,28 +33,28 @@
 - **⭐ Stars:** 13,396
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `memory`, `rag`, `agent-memory`
-- **Why use it:** Portable local-first memory layer for AI agents
+- **Tags:** `memory`, `rag`, `local-first`
+- **Why use it:** Portable local-first memory layer with Markdown-native storage
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 11,795
+- **⭐ Stars:** 11,796
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory`, `rag`, `token-savings`
-- **Why use it:** Self-evolving memory OS with 35% token savings
+- **Tags:** `memory`, `rag`, `self-evolving`
+- **Why use it:** Self-evolving memory OS with hybrid retrieval and 35% token savings
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ Stars:** 7,560
+- **⭐ Stars:** 7,563
 - **Language:** Python
 - **Description:**  Memory library for building stateful agents
-- **Tags:** `memory`, `stateful-agents`
-- **Why use it:** Memory library for building stateful AI agents
+- **Tags:** `memory`, `library`, `stateful`
+- **Why use it:** Memory library for building persistent stateful agents
 
 ---
 
@@ -63,38 +63,48 @@
 - **⭐ Stars:** 3,573
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **Tags:** `memory`, `rag`, `context`
-- **Why use it:** Memory management kit — Remember Me, Refine Me for persistent agent context
+- **Tags:** `memory`, `rag`, `agent-memory`, `knowledge`
+- **Why use it:** Dedicated memory management kit enabling persistent agent recall and refinement.
+
+---
+
+### [sopaco/deepwiki-rs](https://github.com/sopaco/deepwiki-rs)
+
+- **⭐ Stars:** 3,116
+- **Language:** Rust
+- **Description:** Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
+- **Tags:** `deepwiki`, `documentation`, `rag`, `technical-docs`
+- **Why use it:** Turns codebases into accurate structured technical docs and AI-ready context for teams and agents
 
 ---
 
 ### [zilliztech/memsearch](https://github.com/zilliztech/memsearch)
 
-- **⭐ Stars:** 2,734
+- **⭐ Stars:** 2,735
 - **Language:** Python
 - **Description:** A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.
-- **Tags:** `agent-memory`, `rag`, `milvus`, `long-term-memory`, `semantic-search`
-- **Why use it:** Persistent unified memory layer with Milvus-backed semantic search
+- **Tags:** `agent-memory`, `milvus`, `embeddings`, `long-term-memory`
+- **Why use it:** Persistent unified memory layer for all AI agents, backed by Markdown and Milvus vector database
 
 ---
 
-### [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)
+### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
 
-- **⭐ Stars:** 1,159
-- **Language:** Python
-- **Description:** DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
-- **Tags:** `curated-list`, `awesome-list`, `ecosystem`, `reference`
-- **Why use it:** Curated reference collection of DSH ecosystem plugins and tools
+- **⭐ Stars:** 1,968
+- **Language:** TypeScript
+- **Description:** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。
+- **Tags:** `context-management`, `dashboard`, `browser`, `insight`
+- **Why use it:** Best context insight and management plugin with dashboard, browser sidebar, and command integration
 
 ---
 
 ### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ Stars:** 686
+- **⭐ Stars:** 687
 - **Language:** Python
 - **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `rag`, `skill-corpus`, `semantic-search`, `retrieval`
-- **Why use it:** Curates scattered SKILL.md files into retrieval-ready agent skill corpora
+- **Tags:** `agent-memory`, `embeddings`, `vector-search`, `skill-md`
+- **Why use it:** Turns scattered SKILL.md files into curated, retrieval-ready agent skill corpora.
 
 ---
 
@@ -103,18 +113,18 @@
 - **⭐ Stars:** 109
 - **Language:** JavaScript
 - **Description:** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **Tags:** `memory`, `context`, `rag`
-- **Why use it:** Proactive memory consolidation before model speaks
+- **Tags:** `memory`, `context`, `dsh-plugin`
+- **Why use it:** Proactive associative memory with three-layer auto-consolidation and skill crystallization.
 
 ---
 
-### [Sev7eEn7/dsh-sieve](https://github.com/Sev7eEn7/dsh-sieve)
+### [Contexera/dsh-agent-team](https://github.com/Contexera/dsh-agent-team)
 
-- **⭐ Stars:** 72
+- **⭐ Stars:** 57
 - **Language:** TypeScript
-- **Description:** dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。
-- **Tags:** `context`, `sieve`, `optimization`
-- **Why use it:** Context pruning and token optimization for DSH
+- **Description:** dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members with their own memory, notes, and skills across sessions, rollovers, and restarts. You set the direction; agents coordinate through Channels and Tasks.
+- **Tags:** `memory`, `multi-agent`, `durable-state`
+- **Why use it:** Durable agent memory across sessions — notes, skills persist globally
 
 ---
 
