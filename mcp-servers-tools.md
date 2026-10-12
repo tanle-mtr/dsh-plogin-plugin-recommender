@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 5 plugins in this category
+> 6 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,33 @@
 
 ## Plugins
 
+### [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions)
+
+- **⭐ Stars:** 448
+- **Language:** TypeScript
+- **Description:** Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys
+- **Tags:** `llm-provider`, `oauth`, `subscription`
+- **Why use it:** Use ChatGPT/Claude/Grok subscriptions as DSH LLM providers via OAuth
+
+---
+
 ### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
 
 - **⭐ Stars:** 379
 - **Language:** TypeScript
 - **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
-- **Tags:** `llm-provider`, `command-code`, `deepseek-harness`, `plugin`
-- **Why use it:** Command Code model provider with live catalog and plan-aware selection
+- **Tags:** `llm-provider`, `command-code`, `model-access`
+- **Why use it:** Adds Command Code model provider with live catalog and reasoning features
 
 ---
 
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
 
-- **⭐ Stars:** 194
-- **Language:** JavaScript
-- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
-- **Tags:** `mcp`, `skill`, `web-ui`
-- **Why use it:** Web UI plugin for managing skills and MCP configurations directly.
-
----
-
-### [VDERR/dsh-echocat-skill-panel](https://github.com/VDERR/dsh-echocat-skill-panel)
-
-- **⭐ Stars:** 149
-- **Language:** JavaScript
-- **Description:** DSH 技能调用审计 + 应用内 skill 管理器
-- **Tags:** `audit`, `skill`, `management`
-- **Why use it:** Skill invocation auditing and in-app skill management panel for DSH.
+- **⭐ Stars:** 88
+- **Language:** TypeScript
+- **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
+- **Tags:** `agent-skills`, `mcp`, `web-search`
+- **Why use it:** You.com web search, research, and integration discovery skills for agents.
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 72
 - **Language:** TypeScript
 - **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `mcp`, `api-documentation`, `deepseek-harness`
-- **Why use it:** Search 65,600+ API docs across 20 Chinese open platforms, zero config
+- **Tags:** `api-documentation`, `mcp`, `dsh-plugin`
+- **Why use it:** Search 65,600+ Chinese platform API docs across multiple AI coding tools.
 
 ---
 
@@ -54,7 +54,17 @@
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
 - **Tags:** `mcp`, `cloud`, `huaweicloud`
-- **Why use it:** Official Huawei Cloud MCP tools with sandbox and guardrails for agents
+- **Why use it:** Official Huawei Cloud plugin with MCP tools, skills, and cloud sandbox for agents.
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ Stars:** 17
+- **Language:** JavaScript
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `ai-agents`, `chatgpt`, `codex`, `oauth`, `subscription`
+- **Why use it:** Bind your ChatGPT Plus account via OAuth to use ChatGPT models directly in DSH.
 
 ---
 
