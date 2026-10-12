@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 4 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,43 @@
 
 ## Plugins
 
-### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
 
-- **⭐ Stars:** 4,982
-- **Language:** Python
-- **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **Tags:** `registry`, `secrets`, `mcp`
-- **Why use it:** OpenRouter-style registry for agent tool distribution
+- **⭐ Stars:** 379
+- **Language:** TypeScript
+- **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+- **Tags:** `llm-provider`, `command-code`, `deepseek-harness`, `plugin`
+- **Why use it:** Command Code model provider with live catalog and plan-aware selection
+
+---
+
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+
+- **⭐ Stars:** 194
+- **Language:** JavaScript
+- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
+- **Tags:** `mcp`, `skill`, `web-ui`
+- **Why use it:** Web UI plugin for managing skills and MCP configurations directly.
+
+---
+
+### [VDERR/dsh-echocat-skill-panel](https://github.com/VDERR/dsh-echocat-skill-panel)
+
+- **⭐ Stars:** 149
+- **Language:** JavaScript
+- **Description:** DSH 技能调用审计 + 应用内 skill 管理器
+- **Tags:** `audit`, `skill`, `management`
+- **Why use it:** Skill invocation auditing and in-app skill management panel for DSH.
+
+---
+
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ Stars:** 72
+- **Language:** TypeScript
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `mcp`, `api-documentation`, `deepseek-harness`
+- **Why use it:** Search 65,600+ API docs across 20 Chinese open platforms, zero config
 
 ---
 
@@ -24,27 +54,7 @@
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
 - **Tags:** `mcp`, `cloud`, `huaweicloud`
-- **Why use it:** Official Huawei Cloud MCP tools and skills for AI agents to deploy and manage cloud resources
-
----
-
-### [jing-hy/picturereader](https://github.com/jing-hy/picturereader)
-
-- **⭐ Stars:** 36
-- **Language:** JavaScript
-- **Description:** DSH plugin: pixel-to-text image reading for text-only models. image_scan/image_ocr/image_sample tools + image-reading skill (34-image trained methodology). Pure local, optional PaddleOCR.
-- **Tags:** `ocr`, `vision`, `image-reading`, `tool`
-- **Why use it:** Enables text-only models to read images via OCR and pixel analysis.
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ Stars:** 15
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `plugin`, `integration`
-- **Why use it:** OAuth integration to use ChatGPT Plus models directly in DSH.
+- **Why use it:** Official Huawei Cloud MCP tools with sandbox and guardrails for agents
 
 ---
 
