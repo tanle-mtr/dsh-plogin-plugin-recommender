@@ -1,6 +1,6 @@
 # Themes & Skins
 
-> 1 plugins in this category
+> 2 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,23 @@
 
 ## Plugins
 
+### [WYH66666666/DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
+
+- **⭐ Stars:** 412
+- **Language:** JavaScript
+- **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **Tags:** `theme`, `glassmorphism`, `dsh-plugin`
+- **Why use it:** Frosted glassmorphism theme with fully customizable opacity and background
+
+---
+
 ### [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin)
 
 - **⭐ Stars:** 390
 - **Language:** JavaScript
 - **Description:** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **Tags:** `theme`, `animated-background`, `ocean`
-- **Why use it:** Real-time ocean-themed animated background with glass effects
+- **Tags:** `skin`, `animated-background`, `threejs`
+- **Why use it:** Real-time ocean-themed animated skin with adjustable waves and glass effects
 
 ---
 
