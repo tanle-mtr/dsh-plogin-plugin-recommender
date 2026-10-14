@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 6 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,31 +10,11 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 8,871
+- **⭐ Stars:** 8,875
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 - **Tags:** `browser`, `automation`, `tencent`
-- **Why use it:** Let AI agents control your real logged-in browser seamlessly via CLI.
-
----
-
-### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
-
-- **⭐ Stars:** 3,688
-- **Language:** TypeScript
-- **Description:** The World's First Virtual Terminal for AI Agents
-- **Tags:** `virtual-terminal`, `vfs`, `sandbox`
-- **Why use it:** World's first virtual terminal and filesystem for AI agents with SSH and VFS support
-
----
-
-### [liustack/modsearch](https://github.com/liustack/modsearch)
-
-- **⭐ Stars:** 686
-- **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `search`, `web`, `free`, `no-api-key`
-- **Why use it:** Free, no-signup web search bridge for models lacking native web access
+- **Why use it:** Let AI agents automate real logged-in browser sessions.
 
 ---
 
@@ -43,8 +23,8 @@
 - **⭐ Stars:** 323
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios`, `mobile-automation`, `mcp`, `dsh-plugin`
-- **Why use it:** Live iOS Simulator and USB iPhone control inside DSH conversations with 22 automation tools.
+- **Tags:** `ios`, `mobile-automation`, `ui-automation`
+- **Why use it:** 22 agent tools for live iOS Simulator control and USB iPhone automation inside DSH.
 
 ---
 
@@ -53,8 +33,8 @@
 - **⭐ Stars:** 269
 - **Language:** JavaScript
 - **Description:** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **Tags:** `browser-automation`, `llm-provider`, `web-login`
-- **Why use it:** Uses web models via browser auth capture and PoW solving
+- **Tags:** `browser-automation`, `web-login`, `llm-provider`
+- **Why use it:** Access chat.deepseek.com models via browser automation and PoW solving
 
 ---
 
@@ -63,7 +43,7 @@
 - **⭐ Stars:** 108
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser-automation`, `playwright`, `dsh-plugin-desktop`
+- **Tags:** `browser-automation`, `playwright`, `desktop`
 - **Why use it:** Playwright-based browser automation for DSH desktop
 
 ---

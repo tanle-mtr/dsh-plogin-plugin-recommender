@@ -1,6 +1,6 @@
 # Visual & Design
 
-> 7 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,53 +8,23 @@
 
 ## Plugins
 
-### [nexu-io/open-design](https://github.com/nexu-io/open-design)
-
-- **⭐ Stars:** 101,156
-- **Language:** TypeScript
-- **Description:** The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
-- **Tags:** `ui-generator`, `design-systems`, `prototyping`
-- **Why use it:** Local-first collaborative AI design workspace
-
----
-
-### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-
-- **⭐ Stars:** 83,477
-- **Language:** JavaScript
-- **Description:** Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-- **Tags:** `diagrams`, `mermaid`, `agent-skills`
-- **Why use it:** Turn codebases into beautiful interactive diagrams
-
----
-
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ Stars:** 34,478
+- **⭐ Stars:** 34,479
 - **Language:** JavaScript
 - **Description:** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-- **Tags:** `image-generation`, `prompt-engineering`, `skills`
-- **Why use it:** 530+ image prompts and industrial-grade templates
+- **Tags:** `ai-image-generation`, `prompt-engineering`, `skills`
+- **Why use it:** 530+ GPT Image prompt cases with 20+ industrial templates and workflow skills.
 
 ---
 
 ### [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
 
-- **⭐ Stars:** 6,155
+- **⭐ Stars:** 6,156
 - **Language:** Rust
 - **Description:** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **Tags:** `design`, `vector`, `ui`, `agent-team`
-- **Why use it:** AI-native vector design tool with concurrent Agent Teams and Design-as-Code workflow
-
----
-
-### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
-
-- **⭐ Stars:** 1,460
-- **Language:** JavaScript
-- **Description:** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **Tags:** `design`, `visual-editor`, `ppt`
-- **Why use it:** AI-generated designs with visual editor and PPT studio
+- **Tags:** `figma`, `vibedesign`, `mcp`, `ui`
+- **Why use it:** AI-native vector design tool with concurrent Agent Teams
 
 ---
 
@@ -63,18 +33,28 @@
 - **⭐ Stars:** 75
 - **Language:** TypeScript
 - **Description:** 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。
-- **Tags:** `video`, `remotion`, `motion-design`, `agent-skills`
-- **Why use it:** Cinematic product video generation with 152 shot recipe cards
+- **Tags:** `visual`, `video`, `remotion`
+- **Why use it:** Cinematic product video skill with 152 camera shot templates
 
 ---
 
-### [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards)
+### [alienzhou/html-workbench](https://github.com/alienzhou/html-workbench)
 
-- **⭐ Stars:** 2
+- **⭐ Stars:** 40
+- **Language:** HTML
+- **Description:** Local visual editor for existing HTML, with interactive previews and AI collaboration. Available as a DeepSeek Harness plugin and agent skill. 本地 HTML 可视化编辑、交互预览与 AI 协作，支持 DeepSeek Harness 插件和 Agent Skill。
+- **Tags:** `html-editor`, `visual-editor`, `ai-collaboration`, `grapesjs`
+- **Why use it:** Local visual HTML editor with AI collaboration
+
+---
+
+### [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx)
+
+- **⭐ Stars:** 35
 - **Language:** JavaScript
-- **Description:** A plugin of Deepseek Harness(DSH),transform your recent chat history into beautifully designed knowledge cards, ready to download and share.
-- **Tags:** `visual`, `knowledge-cards`, `ui`, `sharing`
-- **Why use it:** Transforms chat history into beautiful downloadable and shareable knowledge cards
+- **Description:** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
+- **Tags:** `ai-video`, `ai-image`, `directorx`, `text-to-video`
+- **Why use it:** AI video/image/audio generation with DirectorX
 
 ---
 
