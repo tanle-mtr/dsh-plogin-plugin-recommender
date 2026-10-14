@@ -13,8 +13,8 @@
 - **⭐ 星标：** 66
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `cloud`, `mcp`, `huaweicloud`, `plugin`
-- **推荐理由：** 华为云官方插件，MCP工具+云沙箱一站式接入。
+- **标签：** `huaweicloud`, `mcp`, `cloud`, `sdk`
+- **推荐理由：** 华为云官方MCP工具集，含技能、安全护栏和云端沙箱
 
 ---
 
