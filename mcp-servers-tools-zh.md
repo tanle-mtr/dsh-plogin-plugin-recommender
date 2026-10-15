@@ -8,13 +8,23 @@
 
 ## 插件列表
 
-### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
+### [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
 
-- **⭐ 星标：** 90
+- **⭐ 星标：** 17,749
+- **语言：** JavaScript
+- **描述：** 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+- **标签：** `free-model`, `openai-compatible`, `access`
+- **推荐理由：** 无需API Key即可免费使用DeepSeek等前沿模型
+
+---
+
+### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
+
+- **⭐ 星标：** 325
 - **语言：** TypeScript
-- **描述：** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
-- **标签：** `web-search`, `mcp`, `skills`, `research`
-- **推荐理由：** You.com网页搜索、内容提取、研究及金融技能，支持多平台。
+- **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
+- **标签：** `mcp`, `ios`, `mobile-automation`, `webdriveragent`
+- **推荐理由：** 22个MCP工具控制iOS模拟器及真机，直接在DSH对话中使用
 
 ---
 
@@ -23,18 +33,8 @@
 - **⭐ 星标：** 66
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huaweicloud`
-- **推荐理由：** 华为官方MCP工具集，支持AI代理云端开发部署运维
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ 星标：** 19
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `subscription`, `deepseek-harness`, `javascript`
-- **推荐理由：** 通过OAuth绑定ChatGPT，在DSH内直接使用
+- **标签：** `cloud`, `mcp`, `ai-coding`, `terraform`
+- **推荐理由：** 华为云官方插件，提供MCP工具、云端沙箱和安全护栏。
 
 ---
 

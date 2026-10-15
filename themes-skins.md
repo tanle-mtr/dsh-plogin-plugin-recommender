@@ -1,6 +1,6 @@
 # Themes & Skins
 
-> 5 plugins in this category
+> 3 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,41 +10,21 @@
 
 ### [crafter-station/petdex](https://github.com/crafter-station/petdex)
 
-- **⭐ Stars:** 4,240
+- **⭐ Stars:** 4,242
 - **Language:** TypeScript
 - **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **Tags:** `pet`, `mascot`, `pixel-art`
-- **Why use it:** Public animated pet gallery for Codex, Claude Code, DSH and other agent platforms.
-
----
-
-### [WYH66666666/DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin)
-
-- **⭐ Stars:** 413
-- **Language:** JavaScript
-- **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `theme`, `ui`
-- **Why use it:** Frosted glass theme with highly customizable DSH UI
-
----
-
-### [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin)
-
-- **⭐ Stars:** 393
-- **Language:** JavaScript
-- **Description:** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **Tags:** `theme`, `animated`
-- **Why use it:** Animated ocean theme with ThreeJS and WebGPU effects
+- **Tags:** `mascot`, `pixel-art`, `sprites`
+- **Why use it:** Public gallery of animated mascots for multiple AI coding tools, fully customizable
 
 ---
 
 ### [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin)
 
-- **⭐ Stars:** 239
+- **⭐ Stars:** 240
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。
-- **Tags:** `theme`, `skin`, `wallpaper`
-- **Why use it:** 8 Mirage themes with per-user accent colors, wallpaper 2.0 and theme sharing via pure tokens
+- **Tags:** `dsh-plugin-theme`, `skin`, `wallpaper`
+- **Why use it:** 8 Mirage themes with wallpaper support and per-user accent color theming
 
 ---
 
@@ -52,9 +32,9 @@
 
 - **⭐ Stars:** 5
 - **Language:** JavaScript
-- **Description:** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
-- **Tags:** `dsh-plugin`, `webui`, `theme`
-- **Why use it:** Customizable background themes with real-time preview and auto-save.
+- **Description:** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种��设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
+- **Tags:** `dsh-plugin-market`, `webui`, `background`, `theme`
+- **Why use it:** Customizable DSH web background with image upload, presets, and real-time preview.
 
 ---
 

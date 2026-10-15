@@ -8,13 +8,23 @@
 
 ## Plugins
 
-### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
+### [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
 
-- **⭐ Stars:** 90
+- **⭐ Stars:** 17,749
+- **Language:** JavaScript
+- **Description:** 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+- **Tags:** `free-model`, `openai-compatible`, `access`
+- **Why use it:** Free access to top models like DeepSeek V4.1 Flash without API keys
+
+---
+
+### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
+
+- **⭐ Stars:** 325
 - **Language:** TypeScript
-- **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
-- **Tags:** `web-search`, `mcp`, `skills`, `research`
-- **Why use it:** You.com web search, content extraction, research and finance skills for AI agents.
+- **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
+- **Tags:** `mcp`, `ios`, `mobile-automation`, `webdriveragent`
+- **Why use it:** 22 MCP tools for live iOS Simulator and USB iPhone control directly within DSH conversations
 
 ---
 
@@ -23,18 +33,8 @@
 - **⭐ Stars:** 66
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`
-- **Why use it:** Official Huawei Cloud MCP tools and skills for AI agent cloud operations
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ Stars:** 19
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `subscription`, `deepseek-harness`, `javascript`
-- **Why use it:** Bind ChatGPT via OAuth to chat models inside DSH directly
+- **Tags:** `cloud`, `mcp`, `ai-coding`, `terraform`
+- **Why use it:** Official Huawei Cloud plugin with MCP tools, cloud sandbox, and safety guardrails for AI agents.
 
 ---
 
