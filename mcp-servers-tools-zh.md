@@ -8,23 +8,13 @@
 
 ## 插件列表
 
-### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
 
-- **⭐ 星标：** 5,309
-- **语言：** Python
-- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **标签：** `mcp`, `api-keys`, `registry`, `secrets`
-- **推荐理由：** Agent工具版OpenRouter，统一API密钥和凭证管理
-
----
-
-### [liustack/modlens](https://github.com/liustack/modlens)
-
-- **⭐ 星标：** 4,262
+- **⭐ 星标：** 90
 - **语言：** TypeScript
-- **描述：** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **标签：** `vision`, `ocr`, `multimodal`, `image-to-text`
-- **推荐理由：** DSH首个视觉插件，图片输入转结构化OCR JSON
+- **描述：** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
+- **标签：** `web-search`, `mcp`, `skills`, `research`
+- **推荐理由：** You.com网页搜索、内容提取、研究及金融技能，支持多平台。
 
 ---
 
@@ -33,8 +23,18 @@
 - **⭐ 星标：** 66
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `ai-coding`
-- **推荐理由：** 华为云官方MCP工具包，助力AI代理云端操作
+- **标签：** `mcp`, `cloud`, `huaweicloud`
+- **推荐理由：** 华为官方MCP工具集，支持AI代理云端开发部署运维
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ 星标：** 19
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `oauth`, `subscription`, `deepseek-harness`, `javascript`
+- **推荐理由：** 通过OAuth绑定ChatGPT，在DSH内直接使用
 
 ---
 
