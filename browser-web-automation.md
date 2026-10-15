@@ -10,11 +10,11 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 8,875
+- **⭐ Stars:** 8,893
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser`, `automation`, `tencent`
-- **Why use it:** Let AI agents automate real logged-in browser sessions.
+- **Tags:** `browser`, `automation`, `agent-tools`
+- **Why use it:** CLI + extension for AI agents to use real logged-in browsers
 
 ---
 
@@ -23,28 +23,28 @@
 - **⭐ Stars:** 323
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios`, `mobile-automation`, `ui-automation`
-- **Why use it:** 22 agent tools for live iOS Simulator control and USB iPhone automation inside DSH.
+- **Tags:** `ios`, `mobile-automation`, `webdriveragent`
+- **Why use it:** Live iOS Simulator and USB iPhone integration with 22 agent tools for mobile automation
 
 ---
 
 ### [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)
 
-- **⭐ Stars:** 269
+- **⭐ Stars:** 270
 - **Language:** JavaScript
 - **Description:** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **Tags:** `browser-automation`, `web-login`, `llm-provider`
-- **Why use it:** Access chat.deepseek.com models via browser automation and PoW solving
+- **Tags:** `browser-automation`, `deepseek-harness`, `llm-provider`
+- **Why use it:** Use chat.deepseek.com web models via browser login with PoW solving and SSE streaming
 
 ---
 
 ### [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)
 
-- **⭐ Stars:** 108
+- **⭐ Stars:** 107
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser-automation`, `playwright`, `desktop`
-- **Why use it:** Playwright-based browser automation for DSH desktop
+- **Tags:** `browser-automation`, `playwright`, `web`
+- **Why use it:** Playwright-based browser automation for DSH
 
 ---
 
