@@ -1,6 +1,6 @@
 # Memory & Knowledge (RAG)
 
-> 11 plugins in this category
+> 9 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,23 @@
 
 ## Plugins
 
-### [zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)
-
-- **⭐ Stars:** 47,415
-- **Language:** Python
-- **Description:** Open-source personal AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-agent, multi-model, multi-channel. Lightweight, extensible, one-line install.
-- **Tags:** `personal-agent`, `memory`, `dsh-plugin`
-- **Why use it:** Self-evolving personal agent with memory and knowledge
-
----
-
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 40,008
+- **⭐ Stars:** 40,012
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `vector-database`, `dsh-plugin`
-- **Why use it:** Self-evolving context database unifying agent memory and RAG
+- **Tags:** `vector-database`, `rag`, `memory`, `knowledge-base`
+- **Why use it:** Self-evolving vector database unifying agent memory, RAG, and skills.
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 34,186
+- **⭐ Stars:** 34,197
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `knowledge-base`, `dsh-plugin`
-- **Why use it:** Enterprise-grade RAG platform with wiki and reasoning agent
+- **Tags:** `rag`, `knowledge-base`, `semantic-search`, `embeddings`
+- **Why use it:** Open-source LLM knowledge platform with RAG, semantic search, and Wiki.
 
 ---
 
@@ -43,38 +33,38 @@
 - **⭐ Stars:** 13,438
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `memory`, `local-first`, `markdown`
-- **Why use it:** Portable local-first memory layer with Markdown-native cross-app persistence
+- **Tags:** `agent-memory`, `rag`, `markdown`
+- **Why use it:** Portable Markdown-native memory layer for persistent agent memory.
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 11,875
+- **⭐ Stars:** 11,880
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory`, `rag`, `token-saving`
-- **Why use it:** Self-evolving memory with hybrid retrieval and 35% token savings
+- **Tags:** `memory`, `rag`, `token-savings`
+- **Why use it:** Self-evolving memory OS with hybrid retrieval and 35% token savings.
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ Stars:** 7,634
+- **⭐ Stars:** 7,636
 - **Language:** Python
 - **Description:**  Memory library for building stateful agents
-- **Tags:** `memory`, `library`, `stateful`
-- **Why use it:** Dedicated memory library for building stateful persistent agents
+- **Tags:** `agent-memory`, `context-engineering`, `rag`
+- **Why use it:** Memory library for building stateful, self-evolving AI agents.
 
 ---
 
 ### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ Stars:** 3,597
+- **⭐ Stars:** 3,600
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **Tags:** `memory`, `rag`
-- **Why use it:** Dedicated memory management kit enabling agents to remember, refine, and recall across sessions
+- **Tags:** `memory`, `rag`, `agent`, `ai-agents`
+- **Why use it:** Memory management kit for agents with recall, refinement and RAG support
 
 ---
 
@@ -83,8 +73,8 @@
 - **⭐ Stars:** 3,129
 - **Language:** Rust
 - **Description:** Turn code into clarity. Generate accurate technical docs and AI-ready context in minutes—perfectly structured for human teams and intelligent agents.
-- **Tags:** `deepwiki`, `docs`, `rag`
-- **Why use it:** Generates structured technical docs and AI-ready context from codebases quickly.
+- **Tags:** `deepwiki`, `documentation`, `code-clarity`
+- **Why use it:** Generates accurate technical docs and AI-ready context fast.
 
 ---
 
@@ -92,9 +82,9 @@
 
 - **⭐ Stars:** 2,161
 - **Language:** TypeScript
-- **Description:** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。
-- **Tags:** `context`, `dashboard`, `insight`
-- **Why use it:** Best context insight tool — dashboard, browser sidebar and context commands.
+- **Description:** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧��、命令，透视上下文组成、演进、压缩、多 Agent等。
+- **Tags:** `context-management`, `dashboard`, `dsh-plugin`
+- **Why use it:** Best context dashboard and management for DSH users.
 
 ---
 
@@ -103,18 +93,8 @@
 - **⭐ Stars:** 686
 - **Language:** Python
 - **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `agent-memory`, `vector-search`, `skill-md`
-- **Why use it:** Turns scattered SKILL.md files into curated, retrievable agent-skill corpora.
-
----
-
-### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
-
-- **⭐ Stars:** 124
-- **Language:** JavaScript
-- **Description:** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **Tags:** `memory`, `rag`, `context`
-- **Why use it:** Proactive associative memory with auto-consolidation and skill crystallization
+- **Tags:** `skill-corpus`, `vector-search`, `embeddings`, `rag`
+- **Why use it:** Turns scattered SKILL.md files into retrieval-ready corpora with vector search and evaluation
 
 ---
 

@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 4 个插件
+> 本分类共 5 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,21 +10,31 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 8,977
+- **⭐ 星标：** 8,976
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser`, `automation`, `tencent`
-- **推荐理由：** 让AI代理使用真实登录浏览器进行自动化操作
+- **标签：** `browser-use`, `automation`, `agent`
+- **推荐理由：** 让AI代理无缝控制已登录的真实浏览器。
 
 ---
 
 ### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ 星标：** 3,451
+- **⭐ 星标：** 3,452
 - **语言：** Python
 - **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
 - **标签：** `ai-agent`, `content-discovery`, `cross-platform`
-- **推荐理由：** 本地优先，自动从多平台发现内容，隐私保护好。
+- **推荐理由：** 跨平台AI内容发现Agent，覆盖多社交平台
+
+---
+
+### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
+
+- **⭐ 星标：** 325
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
+- **标签：** `ios`, `mobile-automation`, `webdriveragent`, `mcp`
+- **推荐理由：** 内嵌iOS模拟器和真机控制，22个Agent自动化工具
 
 ---
 
@@ -33,8 +43,8 @@
 - **⭐ 星标：** 274
 - **语言：** JavaScript
 - **描述：** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **标签：** `browser-automation`, `deepseek-harness`, `llm-provider`
-- **推荐理由：** 浏览器登录捕获使用Web模型，PoW求解实现
+- **标签：** `browser-automation`, `llm-provider`
+- **推荐理由：** 浏览器登录调用DeepSeek Web模型，支持SSE流式
 
 ---
 
@@ -43,8 +53,8 @@
 - **⭐ 星标：** 107
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser-automation`, `playwright`, `desktop`
-- **推荐理由：** Tabbit浏览器集成，Playwright驱动自动化
+- **标签：** `browser-automation`, `playwright`, `dsh-plugin`
+- **推荐理由：** 基于Playwright的浏览器自动化插件
 
 ---
 
