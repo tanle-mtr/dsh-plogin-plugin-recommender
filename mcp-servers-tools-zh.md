@@ -8,33 +8,23 @@
 
 ## 插件列表
 
-### [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions)
+### [Q00/ouroboros](https://github.com/Q00/ouroboros)
 
-- **⭐ 星标：** 472
-- **语言：** TypeScript
-- **描述：** Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys
-- **标签：** `llm-provider`, `oauth`, `dsh-plugin`
-- **推荐理由：** 无需API密钥即可使用ChatGPT/Claude订阅作为LLM提供者。
-
----
-
-### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
-
-- **⭐ 星标：** 394
-- **语言：** TypeScript
-- **描述：** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
-- **标签：** `llm-provider`, `command-code`, `dsh-plugin`
-- **推荐理由：** 添加Command Code模型支持，提供实时目录与智能选择。
-
----
-
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
-
-- **⭐ 星标：** 190
+- **⭐ 星标：** 6,233
 - **语言：** Python
-- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **标签：** `finance`, `mcp`, `database`
-- **推荐理由：** 基于Tushare的本地财经数据库，支持多Agent和MCP
+- **描述：** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+- **标签：** `agent-os`, `mcp`, `llm-orchestration`
+- **推荐理由：** 自进化Agent OS，��置MCP和分阶段评估
+
+---
+
+### [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j)
+
+- **⭐ 星标：** 435
+- **语言：** Java
+- **描述：** Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...),unified AI service(image/video/audio...), Tool Calling, MCP, RAG, SKILLS,Agent Runtime, A2A, agent blueprint, agent harness, and a built-in Coding Agent CLI/TUI/ACP.
+- **标签：** `sdk`, `mcp`, `rag`, `agent`
+- **推荐理由：** 统一Java智能SDK，支持MCP、工具调用、RAG和多模型LLM接入。
 
 ---
 
@@ -43,8 +33,18 @@
 - **⭐ 星标：** 66
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huaweicloud`, `terraform`
-- **推荐理由：** 华为云官方MCP工具与沙箱，含安全护栏
+- **标签：** `mcp`, `cloud`, `huaweicloud`
+- **推荐理由：** 华为云官方MCP工具集，支持云端沙箱部署
+
+---
+
+### [Tencent/skillhub](https://github.com/Tencent/skillhub)
+
+- **⭐ 星标：** 36
+- **语言：** TypeScript
+- **描述：** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
+- **标签：** `skillhub`, `api`, `official`
+- **推荐理由：** 官方 SkillHub Open API 及插件集成文档
 
 ---
 
