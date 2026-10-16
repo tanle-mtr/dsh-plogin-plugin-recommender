@@ -8,23 +8,33 @@
 
 ## Plugins
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [V1ki/dsh-plugin-subscriptions](https://github.com/V1ki/dsh-plugin-subscriptions)
 
-- **⭐ Stars:** 707
+- **⭐ Stars:** 472
 - **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `free`, `no-signup`
-- **Why use it:** Free zero-signup web search bridge, works with any model without native web access
+- **Description:** Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys
+- **Tags:** `llm-provider`, `oauth`, `dsh-plugin`
+- **Why use it:** Use ChatGPT/Claude/Grok subscriptions as DSH LLM providers without API keys.
 
 ---
 
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
 
-- **⭐ Stars:** 71
+- **⭐ Stars:** 394
 - **Language:** TypeScript
-- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `api-docs`, `chinese-platforms`, `search`
-- **Why use it:** Search 65,600+ Chinese platform API docs across 20 open platforms
+- **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+- **Tags:** `llm-provider`, `command-code`, `dsh-plugin`
+- **Why use it:** Adds Command Code model provider with live catalog and plan-aware selection.
+
+---
+
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+
+- **⭐ Stars:** 190
+- **Language:** Python
+- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **Tags:** `finance`, `mcp`, `database`
+- **Why use it:** Local financial database via Tushare with multi-agent and MCP support
 
 ---
 
@@ -33,18 +43,8 @@
 - **⭐ Stars:** 66
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `ai-coding`
-- **Why use it:** Official Huawei Cloud MCP tools and skills for AI agent cloud operations
-
----
-
-### [Tencent/skillhub](https://github.com/Tencent/skillhub)
-
-- **⭐ Stars:** 36
-- **Language:** TypeScript
-- **Description:** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
-- **Tags:** `skillhub`, `api`, `official`
-- **Why use it:** Official SkillHub Open API plugin with docs and examples.
+- **Tags:** `mcp`, `cloud`, `huaweicloud`, `terraform`
+- **Why use it:** Official Huawei Cloud MCP tools, sandbox, and guardrails.
 
 ---
 
