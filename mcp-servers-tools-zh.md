@@ -10,31 +10,31 @@
 
 ### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ 星标：** 5,568
+- **⭐ 星标：** 5,615
 - **语言：** Python
 - **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 - **标签：** `registry`, `mcp`
-- **推荐理由：** 智能体工具API密钥统一管理的注册中心
+- **推荐理由：** Agent工具注册中心，类似OpenRouter的API管理
 
 ---
 
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ 星标：** 88
+- **⭐ 星标：** 73
 - **语言：** TypeScript
-- **描述：** 管理 DeepSeek Harness 中工具与技能的暴露策略，支持按需检索与调用。Manage tool and skill exposure in DeepSeek Harness with on-demand discovery and invocation. 
-- **标签：** `mcp`, `skills`, `tool-management`
-- **推荐理由：** 按需管理工具和技能暴露，支持MCP发现与调用
+- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **标签：** `mcp`, `api`, `chinese-platforms`, `search`
+- **推荐理由：** 一键检索20个中国平台65,600+篇API文档
 
 ---
 
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
-- **⭐ 星标：** 22
+- **⭐ 星标：** 66
 - **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `mcp`
-- **推荐理由：** OAuth绑定ChatGPT账户，在DSH中使用付费模型
+- **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **标签：** `mcp`, `cloud`, `huaweicloud`, `sdk`
+- **推荐理由：** 华为云官方MCP工具包，含云端沙箱部署能力
 
 ---
 

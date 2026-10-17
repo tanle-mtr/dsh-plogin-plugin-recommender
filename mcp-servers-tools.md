@@ -10,31 +10,31 @@
 
 ### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 5,568
+- **⭐ Stars:** 5,615
 - **Language:** Python
 - **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
 - **Tags:** `registry`, `mcp`
-- **Why use it:** OpenRouter-style registry for managing agent tool credentials and APIs
+- **Why use it:** OpenRouter-style registry for agent tool and API key management
 
 ---
 
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ Stars:** 88
+- **⭐ Stars:** 73
 - **Language:** TypeScript
-- **Description:** 管理 DeepSeek Harness 中工具与技能的暴露策略，支持按需检索与调用。Manage tool and skill exposure in DeepSeek Harness with on-demand discovery and invocation. 
-- **Tags:** `mcp`, `skills`, `tool-management`
-- **Why use it:** Manages tool and skill exposure with on-demand MCP discovery — clean interface for control
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `mcp`, `api`, `chinese-platforms`, `search`
+- **Why use it:** Search 65,600+ APIs across 20 Chinese platforms instantly
 
 ---
 
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
-- **⭐ Stars:** 22
+- **⭐ Stars:** 66
 - **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `mcp`
-- **Why use it:** Connect ChatGPT via OAuth to use subscription models inside DSH
+- **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **Tags:** `mcp`, `cloud`, `huaweicloud`, `sdk`
+- **Why use it:** Official Huawei Cloud MCP toolset with cloud sandbox
 
 ---
 
