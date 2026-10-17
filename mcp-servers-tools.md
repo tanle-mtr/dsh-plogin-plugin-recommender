@@ -8,23 +8,23 @@
 
 ## Plugins
 
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
-- **⭐ Stars:** 73
-- **Language:** TypeScript
-- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `api-documentation`, `mcp`, `chinese-api`
-- **Why use it:** Search 65K+ Chinese platform API docs directly in AI tools
+- **⭐ Stars:** 67
+- **Language:** JavaScript
+- **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **Tags:** `mcp`, `cloud`, `huaweicloud`, `sdk`
+- **Why use it:** Official Huawei Cloud plugin with MCP tools and cloud sandbox
 
 ---
 
-### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
 
-- **⭐ Stars:** 66
+- **⭐ Stars:** 23
 - **Language:** JavaScript
-- **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`
-- **Why use it:** Official Huawei Cloud plugin with MCP tools and cloud sandbox
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `mcp`
+- **Why use it:** Bind ChatGPT account via OAuth to chat with GPT models in DSH
 
 ---
 

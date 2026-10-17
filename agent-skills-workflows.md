@@ -1,6 +1,6 @@
 # Agent Skills & Workflows
 
-> 43 plugins in this category
+> 51 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,31 +10,31 @@
 
 ### [ruvnet/ruflo](https://github.com/ruvnet/ruflo)
 
-- **⭐ Stars:** 75,905
+- **⭐ Stars:** 75,956
 - **Language:** TypeScript
 - **Description:** 🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated
-- **Tags:** `multi-agent`, `agent-skills`, `swarm`
-- **Why use it:** Original multi-agent swarm harness with autonomous workflows
+- **Tags:** `multi-agent`, `swarm`, `workflow`
+- **Why use it:** Original multi-agent swarm orchestration framework
 
 ---
 
 ### [titanwings/distilly](https://github.com/titanwings/distilly)
 
-- **⭐ Stars:** 25,717
+- **⭐ Stars:** 25,720
 - **Language:** Python
 - **Description:** Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
-- **Tags:** `agent-skills`, `knowledge-distillation`, `meta-skill`
-- **Why use it:** Distill expert thinking patterns into reusable agent skills
+- **Tags:** `knowledge-distillation`, `skills`, `agent`
+- **Why use it:** Distills thinking patterns into reusable agent skills
 
 ---
 
 ### [anbeime/skill](https://github.com/anbeime/skill)
 
-- **⭐ Stars:** 8,220
+- **⭐ Stars:** 8,228
 - **Language:** Python
 - **Description:** 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains.
-- **Tags:** `skills`, `store`, `workflows`
-- **Why use it:** Largest skills store covering docs, coding, finance, and automation workflows
+- **Tags:** `skills`, `marketplace`, `workflows`
+- **Why use it:** Largest skills marketplace with auto-categorized ready-to-install packages
 
 ---
 
@@ -44,27 +44,47 @@
 - **Language:** Python
 - **Description:** 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
 - **Tags:** `writing`, `webnovel`, `creative`
-- **Why use it:** Long-form web novel writing assistant solving AI forgetting and hallucination
+- **Why use it:** Specialized skill for long-form web novel writing with 2M+ character support
 
 ---
 
-### [YuJunZhiXue/dsh-purge](https://github.com/YuJunZhiXue/dsh-purge)
+### [Devin-AXIS/iPolloWork](https://github.com/Devin-AXIS/iPolloWork)
 
-- **⭐ Stars:** 6,641
-- **Language:** JavaScript
-- **Description:** DeepSeek Harness 破甲：让所有模型都能破甲，���同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model �� swap prompts per model. 求 Star 收藏 ⭐ 如要二开，请查看署名要求部分
-- **Tags:** `jailbreak`, `deepseek-harness`
-- **Why use it:** Jailbreak plugin enabling cross-model prompt swapping per model
+- **⭐ Stars:** 7,034
+- **Language:** TypeScript
+- **Description:** Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.
+- **Tags:** `enterprise`, `multi-agent`, `workspace`
+- **Why use it:** Enterprise-grade local-first multi-agent workspace with visual editor
+
+---
+
+### [loopx-project/loopx](https://github.com/loopx-project/loopx)
+
+- **⭐ Stars:** 6,351
+- **Language:** Python
+- **Description:** A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
+- **Tags:** `agent-control-plane`, `workflow-automation`
+- **Why use it:** Control plane with durable state for long-horizon agents.
+
+---
+
+### [Q00/ouroboros](https://github.com/Q00/ouroboros)
+
+- **⭐ Stars:** 6,237
+- **Language:** Python
+- **Description:** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+- **Tags:** `agent-os`, `llm-orchestration`
+- **Why use it:** Self-improving Agent OS with staged evaluation loops.
 
 ---
 
 ### [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard)
 
-- **⭐ Stars:** 3,752
+- **⭐ Stars:** 3,751
 - **Language:** JavaScript
 - **Description:** Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)
-- **Tags:** `preset`, `deepseek-harness`
-- **Why use it:** Two-phase preset: minimal bootstrap then full Standard tools deployment
+- **Tags:** `preset`, `llm-agent`
+- **Why use it:** Two-phase preset for minimal bootstrap and full Standard tools.
 
 ---
 
@@ -74,27 +94,17 @@
 - **Language:** Python
 - **Description:** Intelligent Skill routing and workflow orchestration for AI agents — +21.12 pp reward, −29.6% tokens on SkillsBench with DeepSeekV4Flash-VE.
 - **Tags:** `skills`, `workflow-automation`
-- **Why use it:** Intelligent skill routing and workflow orchestration reducing tokens by 29.6%
+- **Why use it:** Intelligent skill routing with workflow orchestration.
 
 ---
 
 ### [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html)
 
-- **⭐ Stars:** 3,584
+- **⭐ Stars:** 3,601
 - **Language:** JavaScript
 - **Description:** Answer me with HTML — an agent skill that answers hard questions with a one-page HTML you can actually read. 让 AI Agent 用一页 HTML 回答复杂问题。
-- **Tags:** `agent-skill`, `explainer`, `html`
-- **Why use it:** Answers complex questions with readable HTML pages
-
----
-
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
-
-- **⭐ Stars:** 3,468
-- **Language:** Python
-- **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `ai-agent`, `content-discovery`, `cross-platform`
-- **Why use it:** Cross-platform AI content discovery agent
+- **Tags:** `agent-skill`, `html`, `dsh-plugin`
+- **Why use it:** Transforms complex AI answers into readable one-page HTML visualizations
 
 ---
 
@@ -103,28 +113,28 @@
 - **⭐ Stars:** 2,974
 - **Language:** Python
 - **Description:** J-Space Cognition Suite — a model-agnostic inference-time control suite for deep reasoning, long-horizon work, verification, and recovery. Based on Anthropic's J-space global workspace research.
-- **Tags:** `cognitive-enhancement`, `inference-control`, `reasoning`
-- **Why use it:** Inference-time control for deep reasoning
+- **Tags:** `agent-skills`, `cognitive-enhancement`, `dsh-plugin`
+- **Why use it:** Model-agnostic inference-time control suite for deep reasoning and recovery workflows
 
 ---
 
 ### [NanmiCoder/dsh-agent-teams](https://github.com/NanmiCoder/dsh-agent-teams)
 
-- **⭐ Stars:** 2,212
+- **⭐ Stars:** 2,216
 - **Language:** JavaScript
-- **Description:** DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组成团队，协同完成复杂任务，实现任务分配、并行执行��成员通信与团队协作。 AgentTeams plugin for DeepSeek Harness
-- **Tags:** `agent-teams`, `collaboration`, `multi-agent`
-- **Why use it:** Multi-agent collaboration with task distribution
+- **Description:** DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组成团队，协同完成复杂任务，实现任务分配、并行执行、成员通信与团队协作。 AgentTeams plugin for DeepSeek Harness
+- **Tags:** `agent-teams`, `dsh-plugin`, `multi-agent`
+- **Why use it:** Multi-agent collaboration plugin enabling task distribution and parallel execution
 
 ---
 
 ### [EthanYoQ/AI-Novel-Writer](https://github.com/EthanYoQ/AI-Novel-Writer)
 
-- **⭐ Stars:** 1,588
+- **⭐ Stars:** 1,589
 - **Language:** TypeScript
 - **Description:** AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.
-- **Tags:** `creative-writing`, `novel`, `worldbuilding`
-- **Why use it:** Organized novel writing with worldbuilding
+- **Tags:** `ai-writing`, `dsh-plugin`, `long-form-fiction`
+- **Why use it:** Complete AI novel writing pipeline with worldbuilding, chapter drafting and revision tools
 
 ---
 
@@ -133,38 +143,28 @@
 - **⭐ Stars:** 896
 - **Language:** TypeScript
 - **Description:** [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.
-- **Tags:** `vision`, `ocr`, `gui-automation`
-- **Why use it:** Vision toolkit for text-only LLM agents
-
----
-
-### [liustack/modsearch](https://github.com/liustack/modsearch)
-
-- **⭐ Stars:** 736
-- **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `skill`, `free`
-- **Why use it:** Strongest free web search bridge — no signup or API key required
+- **Tags:** `agent-vision-toolkit`, `dsh-plugin`, `computer-vision`
+- **Why use it:** Powerful vision toolkit for text-only models: image Q&A, long screenshot OCR support
 
 ---
 
 ### [zenstory-ai/oh-story-dsh](https://github.com/zenstory-ai/oh-story-dsh)
 
-- **⭐ Stars:** 532
+- **⭐ Stars:** 534
 - **Language:** Python
 - **Description:** DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.
-- **Tags:** `writing`, `novel`, `creative`, `workflow`
-- **Why use it:** Dedicated workflows for novel, short-drama, game and video-recap writing
+- **Tags:** `creative-writing`, `workflow`
+- **Why use it:** Built-in workflows for novel, short-drama, game and video script writing.
 
 ---
 
 ### [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill)
 
-- **⭐ Stars:** 496
+- **⭐ Stars:** 497
 - **Language:** Python
 - **Description:** Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.
-- **Tags:** `multimodal`, `video`, `OCR`, `observability`
-- **Why use it:** Gives agents vision and hearing — video/audio into timestamped searchable evidence
+- **Tags:** `multimodal`, `OCR`, `video-analysis`
+- **Why use it:** Gives AI agents vision and audio capabilities with verifiable timestamped results.
 
 ---
 
@@ -172,9 +172,9 @@
 
 - **⭐ Stars:** 434
 - **Language:** TypeScript
-- **Description:** 🚀 Writing Agent：开源多智能体对话写作助手。独立 Windows 客户端，无需 Claude Code，配置模型 API 即可使用。写作导演协同主笔、读者审校及“去 AI 味”等专家，从选题到成稿逐步共创，通过自然对话确认与修改。工程化 Harness 管理阶段确认、版本保存与中断恢复。内置 99 项模型连接预设，支持 DeepSeek、智谱 GLM、MiniMax 等及自定义接口；可选 Parallel 免费搜索与 Tavily 辅助事实核查，支持本地项目、版本追溯和排版导出。目前为公开 RC 测试版，原版 Claude Code Skills + Subagents 仍保留，部分能力尚在迁移，欢迎体验反馈。
-- **Tags:** `writing`, `agent`, `workflow`, `content-generation`
-- **Why use it:** Multi-agent writing assistant with version control and flow management
+- **Description:** 🚀 Writing Agent：开源多智能体对话写作助手。独立 Windows 客户端，无需 Claude Code，配置模型 API 即可使用。写作导演协同主笔、读者审校及“去 AI 味”等专家，从选题到成稿逐步共创，通过自然���话确认与修改。工程化 Harness 管理阶段确认、版本保存与中断恢复。内置 99 项模型连接预设，支持 DeepSeek、智谱 GLM、MiniMax 等及自定义接口；可选 Parallel 免费搜索与 Tavily 辅助事实核查，支持本地项目、版本追溯和排版导出。目前为公开 RC 测试版，原版 Claude Code Skills + Subagents 仍保留，部分能力尚在迁移，欢迎体验反馈。
+- **Tags:** `writing`, `multi-agent`, `content-generation`
+- **Why use it:** Multi-agent writing assistant with role-based collaboration — director, reviewer, and anti-AI-voice expert.
 
 ---
 
@@ -183,8 +183,8 @@
 - **⭐ Stars:** 336
 - **Language:** TypeScript
 - **Description:** Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.
-- **Tags:** `task-management`, `sqlite`, `native-ui`, `agent`
-- **Why use it:** Native SQLite taskboard for DSH agent project management
+- **Tags:** `task-management`, `sqlite`, `native-ui`
+- **Why use it:** Native local Taskboard with SQLite projects, agent claim/review flow, and zero iframe overhead.
 
 ---
 
@@ -193,8 +193,8 @@
 - **⭐ Stars:** 261
 - **Language:** PowerShell
 - **Description:** Complete reverse-skill (88 SKILL.md) as a DeepSeek Harness (dsh) Cordis plugin — reverse engineering, authorized pentesting and security research skill pack.
-- **Tags:** `security`, `skill`, `pentest`
-- **Why use it:** 88 SKILL.md files for reverse engineering, pentesting, and security research
+- **Tags:** `ctf`, `reverse-engineering`, `security`
+- **Why use it:** Comprehensive reverse engineering and pentesting skill with 88 SKILL.md
 
 ---
 
@@ -203,18 +203,48 @@
 - **⭐ Stars:** 259
 - **Language:** Python
 - **Description:** 全栈式自动数学建模竞赛Skill，支持 Claude Code / Codex / opencode / DeepSeek Harness。AI 担任 Autopilot，人类担任 Copilot；国赛/美赛通用，GitOps 流水线 + 强制代码自证，可选 addons 模块。
-- **Tags:** `skill`, `competition`, `workflow`
-- **Why use it:** Full-stack auto math modeling competition skill with GitOps pipeline and self-verification
+- **Tags:** `agent-skills`, `math-modeling`
+- **Why use it:** Full-stack math modeling competition autopilot with GitOps pipeline and self-proof
 
 ---
 
 ### [xuanyuanzhifeng/dsh-plugin-agent-workflow](https://github.com/xuanyuanzhifeng/dsh-plugin-agent-workflow)
 
-- **⭐ Stars:** 257
+- **⭐ Stars:** 258
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness Agent Workflow
-- **Tags:** `workflow`, `agent`
-- **Why use it:** Structured agent workflow plugin for organizing DSH agent tasks
+- **Tags:** `agent-workflow`, `deepseek-harness`
+- **Why use it:** Dedicated agent workflow plugin for orchestrating multi-step DSH tasks
+
+---
+
+### [Devin-AXIS/jev-dsh-decision](https://github.com/Devin-AXIS/jev-dsh-decision)
+
+- **⭐ Stars:** 256
+- **Language:** JavaScript
+- **Description:** Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。
+- **Tags:** `decision-engine`, `agent-harness`
+- **Why use it:** Structured decision engine for agents, natively supports DSH and OpenCode
+
+---
+
+### [PerryLink/dsh-industry-research](https://github.com/PerryLink/dsh-industry-research)
+
+- **⭐ Stars:** 214
+- **Language:** TypeScript
+- **Description:** Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tracking, company research cards, and auditable research reports. Research only - not investment advice.
+- **Tags:** `industry-research`, `workflow-automation`, `dsh-plugin`
+- **Why use it:** Comprehensive industry research skills with methodology, chain mapping and news tracking
+
+---
+
+### [MichengAI/dsh-skills-manager](https://github.com/MichengAI/dsh-skills-manager)
+
+- **⭐ Stars:** 208
+- **Language:** JavaScript
+- **Description:** DSH Skills Manager — 在 DeepSeek Harness 中统一加载并安全管理本机 Agent Skills · Load and safely manage local Agent Skills in DSH
+- **Tags:** `skills`, `management`, `dsh-plugin`
+- **Why use it:** Centralized manager for loading and safely orchestrating local Agent Skills in DSH
 
 ---
 
@@ -223,8 +253,8 @@
 - **⭐ Stars:** 201
 - **Language:** Python
 - **Description:** 88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.
-- **Tags:** `agent-skills`, `research`, `workflow`
-- **Why use it:** 88 cross-platform agent skills for research and business workflows
+- **Tags:** `agent-skills`, `research`, `marketing`
+- **Why use it:** 88 versatile open-source agent skills covering research, social intel, and marketing
 
 ---
 
@@ -233,8 +263,28 @@
 - **⭐ Stars:** 196
 - **Language:** Shell
 - **Description:** 💡 Turn experience into repeatable execution.
-- **Tags:** `skills`, `agent`, `workflow`
-- **Why use it:** Turn experience into repeatable AI execution patterns
+- **Tags:** `skills`, `agent`, `execution`
+- **Why use it:** Turn experience into repeatable agent execution patterns across multiple AI platforms
+
+---
+
+### [xiincs/claude-code-vision-skill](https://github.com/xiincs/claude-code-vision-skill)
+
+- **⭐ Stars:** 167
+- **Language:** Python
+- **Description:** 为 Claude Code 赋能多模态视觉能力，适配 纯文本 LLM 底座，用于截图 / UI / 图表分析；搭配 browser-harness 可做前端布局自动化检查。
+- **Tags:** `vision`, `multimodal`, `skills`
+- **Why use it:** Adds multimodal vision capability to pure-text LLMs for screenshot and UI layout analysis
+
+---
+
+### [jaccen/Awesome-Gaussian-Skills](https://github.com/jaccen/Awesome-Gaussian-Skills)
+
+- **⭐ Stars:** 162
+- **Language:** TypeScript
+- **Description:** 900 arXiv-verified 3DGS methods · 15 AI agent skills · MCP server (34 tools) · open ebook — the AI-native entry to 3D Gaussian Splatting research
+- **Tags:** `3dgs`, `research`, `mcp-server`
+- **Why use it:** 900 arXiv-verified 3DGS research methods with agent skills and MCP server for 3D vision
 
 ---
 
@@ -244,7 +294,17 @@
 - **Language:** TypeScript
 - **Description:** 安装即自带mattpocock/skills v1.3.1的27个工程与效率技能，无需手动装技能。400亿token打造本插件，在原始技能之上提供10倍的开发效率，也能帮助新手更快上手该技能套件。全力支持GitHub issue；Markdown为预览版；GitLab暂不支持。感谢您的使用和支持💗
 - **Tags:** `skills`, `engineering`, `productivity`
-- **Why use it:** 27 pre-installed engineering skills powered by 40B tokens
+- **Why use it:** 27 production-ready engineering skills from mattpocock on first install, 10x dev efficiency
+
+---
+
+### [yzlnew/infra-skills](https://github.com/yzlnew/infra-skills)
+
+- **⭐ Stars:** 150
+- **Language:** Python
+- **Description:** A collection of specialized agent skills for AI infrastructure development, enabling Claude Code to write, optimize, and debug high-performance systems.
+- **Tags:** `infra`, `skills`, `performance`
+- **Why use it:** Specialized agent skills for writing, optimizing and debugging high-performance AI systems
 
 ---
 
@@ -253,8 +313,8 @@
 - **⭐ Stars:** 110
 - **Language:** JavaScript
 - **Description:** Superpowers skills for DeepSeek Harness: TDD, debugging, planning, and collaboration skills adapted from obra/superpowers
-- **Tags:** `superpowers`, `skills`, `coding-agent`
-- **Why use it:** TDD, debugging, planning skills for DSH agents
+- **Tags:** `skills`, `tdd`, `debugging`
+- **Why use it:** TDD, debugging and planning skills adapted from superpowers
 
 ---
 
@@ -263,8 +323,8 @@
 - **⭐ Stars:** 110
 - **Language:** TypeScript
 - **Description:** Automatically turn successful DeepSeek Harness sessions into reusable, reviewable Agent Skills.
-- **Tags:** `agent-learning`, `skill-generator`, `run-to-skill`
-- **Why use it:** Auto-convert sessions into reusable agent skills
+- **Tags:** `agent-skills`, `skill-generator`
+- **Why use it:** Auto-convert successful sessions into reusable agent skills
 
 ---
 
@@ -273,8 +333,8 @@
 - **⭐ Stars:** 102
 - **Language:** JavaScript
 - **Description:** Superpowers skill port to Reasonix coding harness.
-- **Tags:** `superpowers`, `reasonix`, `skills`
-- **Why use it:** Superpowers skills ported to Reasonix harness
+- **Tags:** `skills`, `reasonix`
+- **Why use it:** Superpowers skills ported to Reasonix coding harness
 
 ---
 
@@ -283,8 +343,8 @@
 - **⭐ Stars:** 91
 - **Language:** TypeScript
 - **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
-- **Tags:** `agent-skills`, `web-search`, `integration`
-- **Why use it:** Web search, research and integration skills
+- **Tags:** `agent-skills`, `web-search`
+- **Why use it:** Web search, content extraction and research skills for agents
 
 ---
 
@@ -293,8 +353,18 @@
 - **⭐ Stars:** 82
 - **Language:** Python
 - **Description:** 公文全流程处理工具——基于 GB/T 9704《党政机关公文格式》 国家标准，面向公文写作、企事业单位材料编制场景，支持 格式检查与修复、内容生成优化（Word 原生修订+批注/差异对比版）、模板生成、Markdown 转公文、版头版记页码注入、事实核验、风格增强 等完整能力。原生支持 DeepSeek Harness (DSH) 技能系统，打包为可被 AI Agent 直接调用的 Skill，完全自包含，克隆即用。
-- **Tags:** `gongwen`, `docx`, `wps-office`
-- **Why use it:** Official document writing and formatting skill
+- **Tags:** `gongwen`, `docx`
+- **Why use it:** Chinese official document processing skill following national standard
+
+---
+
+### [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh)
+
+- **⭐ Stars:** 78
+- **Language:** TypeScript
+- **Description:** 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。
+- **Tags:** `video`, `remotion`
+- **Why use it:** Cinematic product video skill with 152 shot cards and Remotion templates
 
 ---
 
@@ -303,8 +373,8 @@
 - **⭐ Stars:** 77
 - **Language:** TypeScript
 - **Description:** ProMentor 是一个 AI Coding Agent Skill。装上它，你的 AI 编程助手立刻化身为导师——扫描项目架构、生成阶梯式 Chapter、带你手写核心逻辑、自动判题、AI Code Review。
-- **Tags:** `mentor`, `skill`, `coding-agent`
-- **Why use it:** AI coding tutor: architecture scan, step-by-step guidance
+- **Tags:** `mentor`, `code-review`
+- **Why use it:** AI coding mentor skill guiding users through architecture and code review
 
 ---
 
@@ -313,8 +383,8 @@
 - **⭐ Stars:** 68
 - **Language:** TypeScript
 - **Description:** dsh-agent-team gives DeepSeek Harness agents that don't reset: durable Members with their own memory, notes, and skills across sessions, rollovers, and restarts. You set the direction; agents coordinate through Channels and Tasks.
-- **Tags:** `agent-orchestration`, `multi-agent`
-- **Why use it:** Durable multi-agent memory across sessions with notes and skills
+- **Tags:** `multi-agent`, `agent-orchestration`, `dsh-plugin`
+- **Why use it:** Durable multi-agent teams with cross-session memory and skills
 
 ---
 
@@ -323,8 +393,8 @@
 - **⭐ Stars:** 64
 - **Language:** Python
 - **Description:** 专利侵权分析系统 —— 输入专利公开号，产出竞品侵权分析报告；同时打包成 skill，可被任意 agent（dsh, codex, claudecode 等） 调用。
-- **Tags:** `patent`, `rag`, `legal-tech`
-- **Why use it:** Patent infringement analysis skill with RAG and multimodal support
+- **Tags:** `patent`, `rag`, `legal-tech`, `skill`
+- **Why use it:** Patent infringement analysis with RAG-powered skill for any agent
 
 ---
 
@@ -333,8 +403,8 @@
 - **⭐ Stars:** 55
 - **Language:** TypeScript
 - **Description:** 中华传统智慧（玄枢）AI Agent 技能包的 DeepSeek Harness（dsh）Cordis 插件：八字/紫微/六爻/梅花/奇门/风水/五运六气/体质全融合，本地确定性引擎 + 可视化 Dashboard，一行 dsh plugin add 安装。
-- **Tags:** `chinese-traditional-wisdom`, `skill`
-- **Why use it:** Bazi/Fengshui/IChing skill with local deterministic engine and dashboard
+- **Tags:** `chinese-traditional-wisdom`, `skill`, `dashboard`
+- **Why use it:** Comprehensive Chinese traditional wisdom AI skill with local engine
 
 ---
 
@@ -343,18 +413,8 @@
 - **⭐ Stars:** 54
 - **Language:** Python
 - **Description:** 受控中文技术写作技能：ASD-STE100 的中文对应物，含 stdlib-only 确定性 linter。Controlled Chinese technical writing skill for agents.
-- **Tags:** `technical-writing`, `skill`
-- **Why use it:** Controlled Chinese technical writing skill with stdlib-only linter
-
----
-
-### [jsChen-biostat/math-modelCN](https://github.com/jsChen-biostat/math-modelCN)
-
-- **⭐ Stars:** 48
-- **Language:** Python
-- **Description:** 数学建模资源，包含辅助建模、数据预处理、编程、论文写作、降aigc、查重、科研绘图等关键skill。创建者使用skill的大模型为deepseek harness v4.1 pro，但并非仅有dsh适配，skill内涵skill.md文件、README.md文件，reference文件夹及所需依赖，可以利用各种大模型agent进行安装，此外，库内还上传了数学建模workbench的自定义agent，涵盖着数学建模建模手，编程手，论文手三者分工流程及其他要点，使用该agent便于减少数学建模相关提示词的输入，配合各类skill能完成较为高质量的数学建模论文
-- **Tags:** `math-model`, `research`
-- **Why use it:** Math modeling resource with data processing, coding and paper writing skills
+- **Tags:** `technical-writing`, `skill`, `stdlib`
+- **Why use it:** Controlled Chinese technical writing skill with deterministic linter
 
 ---
 
@@ -363,18 +423,8 @@
 - **⭐ Stars:** 46
 - **Language:** Python
 - **Description:** 让 AI 像资深测试工程师一样工作：面向 AI Agent 的测试工程 Skill 框架——11 Skills + 共享知识库 + 类型决策矩阵（Claude Code / dsh 等 Agent 可用）
-- **Tags:** `qa`, `testing`
-- **Why use it:** QA engineering skill framework with 11 skills and shared knowledge base
-
----
-
-### [limuyang2/agent-team](https://github.com/limuyang2/agent-team)
-
-- **⭐ Stars:** 42
-- **Language:** TypeScript
-- **Description:** Multi-agent team collaboration for DeepSeek Harness, with independent models, skills, MCP tools, contexts, and a shared workspace.
-- **Tags:** `multi-agent`, `collaboration`
-- **Why use it:** Multi-agent collaboration with independent models, skills and shared workspace
+- **Tags:** `qa`, `testing`, `skill`, `playwright`
+- **Why use it:** 11 QA engineering skills with shared knowledge base and decision matrix
 
 ---
 
@@ -383,8 +433,8 @@
 - **⭐ Stars:** 41
 - **Language:** JavaScript
 - **Description:** Godot Engine 4.x 全栈游戏开发技能插件 for DeepSeek Harness (DSH) — registers the godot-4-development skill at runtime
-- **Tags:** `game-development`, `godot`, `agent-skill`
-- **Why use it:** Godot 4.x full-stack game dev skill, integrates DSH natively.
+- **Tags:** `godot`, `game-development`, `gdscript`
+- **Why use it:** Enables full-stack Godot 4.x game dev skills for DSH agents
 
 ---
 
@@ -393,8 +443,8 @@
 - **⭐ Stars:** 40
 - **Language:** Unknown
 - **Description:** DSH skill v1.0 · Blender 建模与装配流程：多 Agent 分工范式（冻结 spec/写作用域/接口表）、参考图形体还原、六条必踩的坑、十道数值门装配审计；23 条配方；配套插件 dsh-blender-plugin v1.0.0
-- **Tags:** `3d-modeling`, `blender`, `agent-skill`
-- **Why use it:** Multi-agent Blender workflow with 23 ready-to-use recipes.
+- **Tags:** `blender`, `3d-modeling`, `agent-skill`
+- **Why use it:** Multi-agent Blender workflow with 23 recipes for 3D modeling
 
 ---
 
@@ -403,8 +453,8 @@
 - **⭐ Stars:** 39
 - **Language:** Unknown
 - **Description:** Portable Agent Skill for repository-native Spec programming, informed by public DeepSeek Harness engineering patterns.
-- **Tags:** `spec-programming`, `agent-skill`, `ai-coding`
-- **Why use it:** Portable spec-driven development skill for DSH agents.
+- **Tags:** `spec-programming`, `agent-skills`, `dsh-plugin`
+- **Why use it:** Portable spec-driven development skill following DSH patterns
 
 ---
 
@@ -413,18 +463,38 @@
 - **⭐ Stars:** 39
 - **Language:** Unknown
 - **Description:** 先议后行——AI 协作变更任务的议行分离机制 skill（Claude Code / DeepSeek Harness / ZCode 通用）
-- **Tags:** `ai-collaboration`, `agent-skill`, `workflow`
-- **Why use it:** Separates discussion from execution for AI collaboration tasks.
+- **Tags:** `agent-skills`, `ai-collaboration`, `planning`
+- **Why use it:** Separate planning from execution for AI collaboration tasks
 
 ---
 
-### [thissensen/dsh-agent-studio](https://github.com/thissensen/dsh-agent-studio)
+### [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx)
 
-- **⭐ Stars:** 38
+- **⭐ Stars:** 37
+- **Language:** JavaScript
+- **Description:** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
+- **Tags:** `ai-video`, `ai-image`, `directorx`
+- **Why use it:** AI video/image/audio generation skills with configurable models
+
+---
+
+### [Tencent/skillhub](https://github.com/Tencent/skillhub)
+
+- **⭐ Stars:** 36
 - **Language:** TypeScript
-- **Description:** 可视化地自定义配置 Agent 的提示词（prompt）、工具（tools）、可见技能（skills）、子代理、备用模型，轻松创建团队。
-- **Tags:** `agent-config`, `dsh-plugin`, `prompt-engineering`
-- **Why use it:** Visually configure agent prompts, tools, skills, and sub-agents.
+- **Description:** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
+- **Tags:** `skillhub`, `api`, `official`
+- **Why use it:** Official SkillHub API docs and examples for DSH plugin
+
+---
+
+### [zimodzh/dsh-plugin-dev-skills](https://github.com/zimodzh/dsh-plugin-dev-skills)
+
+- **⭐ Stars:** 15
+- **Language:** Unknown
+- **Description:** An Agent Skills skill for developing DeepSeek Harness (DSH) plugins（开发 DSH 插件的 Agent Skill）——插件/服务/事件/工具/LLM 适配器/打包安装的标准。Works with Claude Code, Codex, DSH, VS Code Copilot & any compatible agent.
+- **Tags:** `agent-skill`, `plugin-dev`, `workflow`
+- **Why use it:** Build DSH plugins with standardized agent skill workflows
 
 ---
 
@@ -434,7 +504,17 @@
 - **Language:** TypeScript
 - **Description:** Engineering workflow plugin for DeepSeek Harness: task stages, verification records, commit checks, and skill and rule management.
 - **Tags:** `workflow`, `task-management`, `engineering`
-- **Why use it:** Engineering workflow plugin with task stages and verification
+- **Why use it:** Engineering workflow with task stages, commits and verification
+
+---
+
+### [777-Zen/dsh-capability-index](https://github.com/777-Zen/dsh-capability-index)
+
+- **⭐ Stars:** 2
+- **Language:** JavaScript
+- **Description:** 给 DSH agent 的插件库"起飞前检查单"——任务型请求时自动预检插件库并注入 Top-K 适用插件提示，让插件库利用率可预期、不靠运气。Pre-flight plugin-library check for DSH agents — task-type requests trigger a Top-K hint of suitable plugins injected into the runtime context, making plugin usage predictable instead of opportunistic.
+- **Tags:** `agent-tools`, `ai-agents`, `awesome-dsh-plugin`, `cordis`, `dsh`, `dsh-plugin`, `llm-agents`
+- **Why use it:** Pre-flight check for plugin library, improves agent task success rate predictably
 
 ---
 
