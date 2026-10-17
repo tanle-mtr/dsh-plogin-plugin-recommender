@@ -8,23 +8,23 @@
 
 ## Plugins
 
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+
+- **⭐ Stars:** 5,688
+- **Language:** Python
+- **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **Tags:** `mcp`, `registry`, `secrets`
+- **Why use it:** OpenRouter-style registry for agent tools with proxy and secret management.
+
+---
+
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ Stars:** 67
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `sdk`
-- **Why use it:** Official Huawei Cloud plugin with MCP tools and cloud sandbox
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ Stars:** 23
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `mcp`
-- **Why use it:** Bind ChatGPT account via OAuth to chat with GPT models in DSH
+- **Tags:** `cloud`, `mcp`, `huawei`
+- **Why use it:** Official Huawei Cloud MCP plugin with cloud sandbox and guardrails
 
 ---
 

@@ -10,11 +10,11 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 9,107
+- **⭐ Stars:** 9,109
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser`, `automation`, `tencent`
-- **Why use it:** Let AI agents use your real logged-in browser for seamless automation
+- **Tags:** `browser`, `automation`, `agent`
+- **Why use it:** Let AI agents control your real logged-in browser seamlessly
 
 ---
 
@@ -23,18 +23,18 @@
 - **⭐ Stars:** 3,469
 - **Language:** Python
 - **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `ai-agent`, `content-discovery`, `dsh-plugin`
-- **Why use it:** Local-first cross-platform content discovery agent across B站, YouTube, Reddit and more
+- **Tags:** `bilibili`, `content-discovery`, `cross-platform`
+- **Why use it:** Cross-platform content discovery across Bilibili, YouTube, Reddit and more
 
 ---
 
 ### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ Stars:** 736
+- **⭐ Stars:** 737
 - **Language:** TypeScript
 - **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `agent-skills`
-- **Why use it:** Strongest free web search plugin with no signup or API required.
+- **Tags:** `web-search`, `free`, `no-signup`
+- **Why use it:** Strongest free web search plugin with no signup or API key required for any model
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 283
 - **Language:** JavaScript
 - **Description:** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **Tags:** `browser-automation`, `deepseek`
-- **Why use it:** Uses chat.deepseek.com via browser auth, supports PoW solving and streaming
+- **Tags:** `browser-automation`, `cordis`, `deepseek-harness`
+- **Why use it:** Use chat.deepseek.com models via browser login and PoW solving
 
 ---
 
@@ -54,7 +54,7 @@
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
 - **Tags:** `browser-automation`, `playwright`
-- **Why use it:** Tabbit browser automation integration for DSH agents
+- **Why use it:** Tabbit browser automation plugin with Playwright for DSH.
 
 ---
 

@@ -8,23 +8,23 @@
 
 ## 插件列表
 
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+
+- **⭐ 星标：** 5,688
+- **语言：** Python
+- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **标签：** `mcp`, `registry`, `secrets`
+- **推荐理由：** Agent工具注册中心，代理和密钥管理。
+
+---
+
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ 星标：** 67
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huaweicloud`, `sdk`
-- **推荐理由：** 华为云官方插件，提供MCP工具和云沙箱
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ 星标：** 23
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `mcp`
-- **推荐理由：** 通过OAuth绑定ChatGPT账号在DSH中对话
+- **标签：** `cloud`, `mcp`, `huawei`
+- **推荐理由：** 华为云官方MCP插件，含云沙箱与安全护栏
 
 ---
 
