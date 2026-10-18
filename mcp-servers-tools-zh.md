@@ -8,33 +8,23 @@
 
 ## 插件列表
 
-### [Q00/ouroboros](https://github.com/Q00/ouroboros)
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ 星标：** 6,241
+- **⭐ 星标：** 5,726
 - **语言：** Python
-- **描述：** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
-- **标签：** `agent-os`, `mcp`, `loop-engineering`
-- **推荐理由：** 自进化 Agent OS，带分阶段评估进化循环
+- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **标签：** `registry`, `proxy`, `mcp`, `api-keys`
+- **推荐理由：** Agent工具API密钥的注册中心与代理层。
 
 ---
 
-### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
+### [pax-beehive/dsh-hub-cli](https://github.com/pax-beehive/dsh-hub-cli)
 
-- **⭐ 星标：** 92
+- **⭐ 星标：** 391
 - **语言：** TypeScript
-- **描述：** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
-- **标签：** `agent-skills`, `web-search`, `mcp-server`, `integration-discovery`
-- **推荐理由：** You.com网络搜索与研究MCP技能插件
-
----
-
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
-
-- **⭐ 星标：** 73
-- **语言：** TypeScript
-- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **标签：** `api-documentation`, `mcp-server`, `chinese-api`, `integration-discovery`
-- **推荐理由：** 零配置搜索20个中国开放平台6.5万篇API文档
+- **描述：** Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub
+- **标签：** `cli`, `plugin-manager`
+- **推荐理由：** DSH插件枢纽的CLI与Agent工具，含模式解析与插件管理。
 
 ---
 
@@ -43,8 +33,18 @@
 - **⭐ 星标：** 67
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `mcp`, `cloud`, `huaweicloud`, `sdk`
-- **推荐理由：** 华为云官方工具包，含MCP工具和云沙箱
+- **标签：** `mcp`, `cloud`, `huaweicloud`
+- **推荐理由：** 华为云官方MCP工具集与云端沙箱
+
+---
+
+### [Tencent/skillhub](https://github.com/Tencent/skillhub)
+
+- **⭐ 星标：** 37
+- **语言：** TypeScript
+- **描述：** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
+- **标签：** `skillhub`, `api`, `tencent`, `documentation`
+- **推荐理由：** SkillHub官方Open API，含文档与DSH插件集成
 
 ---
 
