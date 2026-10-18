@@ -8,33 +8,33 @@
 
 ## Plugins
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [Q00/ouroboros](https://github.com/Q00/ouroboros)
 
-- **⭐ Stars:** 739
-- **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `free`
-- **Why use it:** Strongest free web search plugin, no signup or API key required.
-
----
-
-### [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)
-
-- **⭐ Stars:** 285
-- **Language:** JavaScript
-- **Description:** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **Tags:** `browser-automation`, `mcp`, `llm-provider`
-- **Why use it:** Use chat.deepseek.com web models via browser login as LLM provider
-
----
-
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
-
-- **⭐ Stars:** 191
+- **⭐ Stars:** 6,241
 - **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `finance`, `mcp`, `database`, `multi-agent`
-- **Why use it:** Tushare-based financial DB with MCP server and multi-agent support
+- **Description:** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+- **Tags:** `agent-os`, `mcp`, `loop-engineering`
+- **Why use it:** Self-evolving Agent OS with staged evaluation loop
+
+---
+
+### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
+
+- **⭐ Stars:** 92
+- **Language:** TypeScript
+- **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
+- **Tags:** `agent-skills`, `web-search`, `mcp-server`, `integration-discovery`
+- **Why use it:** You.com skills for web search and research MCP
+
+---
+
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ Stars:** 73
+- **Language:** TypeScript
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `api-documentation`, `mcp-server`, `chinese-api`, `integration-discovery`
+- **Why use it:** Search 65,600+ Chinese platform API docs with zero config
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 67
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `terraform`
-- **Why use it:** Official Huawei Cloud MCP tools with safety guardrails and sandbox for AI agents.
+- **Tags:** `mcp`, `cloud`, `huaweicloud`, `sdk`
+- **Why use it:** Official Huawei Cloud toolkit with MCP tools, skills and cloud sandbox
 
 ---
 
