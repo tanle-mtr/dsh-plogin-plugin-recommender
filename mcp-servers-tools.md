@@ -8,43 +8,43 @@
 
 ## Plugins
 
-### [Q00/ouroboros](https://github.com/Q00/ouroboros)
+### [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
 
-- **⭐ Stars:** 6,242
-- **Language:** Python
-- **Description:** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
-- **Tags:** `agent-os`, `mcp`, `llm-evaluation`
-- **Why use it:** Self-improving Agent OS with staged evaluation and MCP support
+- **⭐ Stars:** 24,649
+- **Language:** JavaScript
+- **Description:** 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+- **Tags:** `free-model`, `llm`, `model-provider`
+- **Why use it:** Unlock free access to cutting-edge models like DeepSeek V4.1 Flash in DSH
 
 ---
 
 ### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 5,739
+- **⭐ Stars:** 5,748
 - **Language:** Python
 - **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **Tags:** `mcp`, `api-keys`, `registry`
-- **Why use it:** OpenRouter-style registry for agent tool API key management
+- **Tags:** `mcp`, `secrets`, `dsh-plugin`
+- **Why use it:** OpenRouter for agent tools — unified credential and API key registry.
 
 ---
 
-### [imsai-sh/awesome-deepseek-harness-plugins](https://github.com/imsai-sh/awesome-deepseek-harness-plugins)
+### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
 
-- **⭐ Stars:** 297
+- **⭐ Stars:** 407
+- **Language:** TypeScript
+- **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+- **Tags:** `provider`, `llm-provider`, `command-code`
+- **Why use it:** Adds Command Code provider with plan-aware model selection and live catalog.
+
+---
+
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+
+- **⭐ Stars:** 210
 - **Language:** JavaScript
-- **Description:** DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com
-- **Tags:** `marketplace`, `dsh-plugin-market`, `registry`
-- **Why use it:** 11000+ plugin marketplace with search, rankings and free public API
-
----
-
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
-
-- **⭐ Stars:** 191
-- **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `finance`, `mcp`, `database`
-- **Why use it:** Local financial DB with auto MCP server generation
+- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
+- **Tags:** `mcp`, `skills`, `web-ui`
+- **Why use it:** Web UI tool for managing skills and MCPs
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ Stars:** 67
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `terraform`
-- **Why use it:** Official Huawei Cloud MCP tools with skills and safety guardrails
+- **Tags:** `mcp`, `cloud`, `huaweicloud`, `sdk`
+- **Why use it:** Official Huawei Cloud MCP tools with sandbox and guardrails
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ Stars:** 26
 - **Language:** JavaScript
 - **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `subscription`
-- **Why use it:** OAuth integration to chat with ChatGPT models via DSH
+- **Tags:** `chatgpt`, `oauth`, `model-access`
+- **Why use it:** Connect ChatGPT via OAuth to use their models inside DSH directly
 
 ---
 
