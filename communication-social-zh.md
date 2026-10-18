@@ -10,11 +10,11 @@
 
 ### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
 
-- **⭐ 星标：** 25
+- **⭐ 星标：** 26
 - **语言：** JavaScript
 - **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `ai-agents`, `awesome-dsh-plugin`, `chatgpt`, `codex`, `deepseek-harness`, `dsh`, `dsh-plugin`, `dsh-plugins`, `javascript`, `oauth`, `plugin`, `subscription`
-- **推荐理由：** OAuth集成，在DSH内与ChatGPT模型聊天。
+- **标签：** `chatgpt`, `oauth`, `subscription`
+- **推荐理由：** 通过 OAuth 绑定 ChatGPT 账号，在 DSH 中直接对话
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 2
 - **语言：** JavaScript
 - **描述：** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **标签：** `awesome-dsh-plugin`, `deepseek-harness`, `dsh-guild`, `dsh-plugin`
-- **推荐理由：** 在DSH内构建Discord风格社区聊天功能
+- **标签：** `awesome-dsh-plugin`, `dsh-plugin`, `dsh-guild`
+- **推荐理由：** 在DSH内实现类Discord社区：聊天、传文件、权限管理
 
 ---
 

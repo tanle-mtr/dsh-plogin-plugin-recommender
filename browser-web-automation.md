@@ -10,11 +10,11 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 9,110
+- **⭐ Stars:** 9,120
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-use`, `dsh-plugin`
-- **Why use it:** Real browser automation for AI agents with login state
+- **Tags:** `browser`, `automation`, `web`
+- **Why use it:** Let agents use your real logged-in browser without work interruption.
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 110
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser-automation`, `playwright`
-- **Why use it:** Tabbit browser automation plugins powered by Playwright
+- **Tags:** `browser`, `playwright`, `automation`, `web`
+- **Why use it:** Browser automation via Playwright for DSH agent workflows
 
 ---
 

@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 6 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,23 @@
 
 ## Plugins
 
-### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ Stars:** 5,691
-- **Language:** Python
-- **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **Tags:** `mcp`, `registry`, `secrets`
-- **Why use it:** OpenRouter-style registry for agent tools and credentials
+- **⭐ Stars:** 739
+- **Language:** TypeScript
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `web-search`, `free`
+- **Why use it:** Strongest free web search plugin, no signup or API key required.
+
+---
+
+### [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)
+
+- **⭐ Stars:** 285
+- **Language:** JavaScript
+- **Description:** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
+- **Tags:** `browser-automation`, `mcp`, `llm-provider`
+- **Why use it:** Use chat.deepseek.com web models via browser login as LLM provider
 
 ---
 
@@ -23,18 +33,8 @@
 - **⭐ Stars:** 191
 - **Language:** Python
 - **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `stock`, `financial`, `mcp`, `datasource`
-- **Why use it:** Local financial database with Tushare, auto-generates HTTP and MCP interfaces for agents.
-
----
-
-### [jaccen/Awesome-Gaussian-Skills](https://github.com/jaccen/Awesome-Gaussian-Skills)
-
-- **⭐ Stars:** 162
-- **Language:** TypeScript
-- **Description:** 900 arXiv-verified 3DGS methods · 15 AI agent skills · MCP server (34 tools) · open ebook — the AI-native entry to 3D Gaussian Splatting research
-- **Tags:** `gaussian-splatting`, `mcp-server`, `3dgs`, `research`
-- **Why use it:** MCP server with 34 tools plus 15 agent skills for 3D Gaussian Splatting research.
+- **Tags:** `finance`, `mcp`, `database`, `multi-agent`
+- **Why use it:** Tushare-based financial DB with MCP server and multi-agent support
 
 ---
 
@@ -44,27 +44,7 @@
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
 - **Tags:** `mcp`, `cloud`, `huaweicloud`, `terraform`
-- **Why use it:** Official Huawei Cloud MCP tools and cloud sandbox for AI agents
-
----
-
-### [cxdyun/dsh-skills-marketplace](https://github.com/cxdyun/dsh-skills-marketplace)
-
-- **⭐ Stars:** 3
-- **Language:** TypeScript
-- **Description:** DeepSeek Harness 版本的类 CodeX 插件市场
-- **Tags:** `dsh-plugin`, `marketplace`, `skills`, `bundle`
-- **Why use it:** CodeX-style plugin marketplace for DeepSeek Harness
-
----
-
-### [realguan/dsh-plugin-market](https://github.com/realguan/dsh-plugin-market)
-
-- **⭐ Stars:** 2
-- **Language:** JavaScript
-- **Description:** DSH plugin market index generated from awesome-dsh-plugin, served over jsDelivr
-- **Tags:** `dsh-plugin`, `market`, `jsdelivr`, `index`
-- **Why use it:** JSDelivr-served plugin market index from awesome-dsh-plugin
+- **Why use it:** Official Huawei Cloud MCP tools with safety guardrails and sandbox for AI agents.
 
 ---
 
