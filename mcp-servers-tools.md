@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 3 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,43 @@
 
 ## Plugins
 
-### [morluto/rea](https://github.com/morluto/rea)
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 325,866
-- **Language:** TypeScript
-- **Description:** Reverse engineer anything with agents, from app behavior down to native binaries.
-- **Tags:** `reverse-engineering`, `mcp`, `agents`, `binary-analysis`
-- **Why use it:** Powerful reverse engineering agent with MCP integration for binary analysis
-
----
-
-### [Q00/ouroboros](https://github.com/Q00/ouroboros)
-
-- **⭐ Stars:** 6,246
+- **⭐ Stars:** 5,821
 - **Language:** Python
-- **Description:** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
-- **Tags:** `agent-os`, `mcp`, `llm-orchestration`
-- **Why use it:** Self-evolving Agent OS with staged evaluation loop
+- **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **Tags:** `mcp`, `registry`, `api-keys`, `python`
+- **Why use it:** OpenRouter for agent tools — community registry with secrets
 
 ---
 
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
 
-- **⭐ Stars:** 89
-- **Language:** TypeScript
-- **Description:** 管理 DeepSeek Harness 中工具与技能的暴露策略，支持按需检索与调用。Manage tool and skill exposure in DeepSeek Harness with on-demand discovery and invocation. 
-- **Tags:** `mcp`, `tools`, `skills`, `capability`
-- **Why use it:** Manage tool and skill exposure with on-demand discovery and invocation
+- **⭐ Stars:** 216
+- **Language:** JavaScript
+- **Description:** DSH Web UI plugin: skill and MCP management（Web界面的skill/MCP管理工具）
+- **Tags:** `mcp`, `skills`, `dsh-plugin`
+- **Why use it:** Web UI plugin for managing skills and MCP servers
+
+---
+
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+
+- **⭐ Stars:** 192
+- **Language:** Python
+- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **Tags:** `financial`, `mcp-server`, `tushare`
+- **Why use it:** Local financial DB with Tushare + MCP server integration
+
+---
+
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+
+- **⭐ Stars:** 67
+- **Language:** JavaScript
+- **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **Tags:** `huaweicloud`, `mcp`, `cloud`
+- **Why use it:** Official Huawei Cloud MCP tools with skills and guardrails
 
 ---
 
