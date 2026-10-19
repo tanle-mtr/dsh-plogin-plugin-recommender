@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 3 个插件
+> 本分类共 4 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,21 +10,31 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 9,216
+- **⭐ 星标：** 9,219
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `automation`, `agent`
-- **推荐理由：** 让AI代理无缝自动化真实登录浏览器
+- **标签：** `browser-use`, `automation`, `cli`, `agent`
+- **推荐理由：** 让AI Agent无缝使用已登录的真实浏览器
+
+---
+
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+
+- **⭐ 星标：** 3,495
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `ai-agent`, `content-discovery`, `privacy-first`, `deepseek-harness`
+- **推荐理由：** 跨平台内容发现Agent，本地隐私优先
 
 ---
 
 ### [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)
 
-- **⭐ 星标：** 291
+- **⭐ 星标：** 292
 - **语言：** JavaScript
 - **描述：** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **标签：** `browser-automation`, `deepseek`, `llm-provider`
-- **推荐理由：** 通过浏览器自动化登录获取DeepSeek网页模型接入
+- **标签：** `browser-automation`, `llm-provider`, `web-login`
+- **推荐理由：** 浏览器登录使用DeepSeek网页模型，支持PoW验证
 
 ---
 
@@ -34,7 +44,7 @@
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
 - **标签：** `browser`, `playwright`, `automation`
-- **推荐理由：** Tabbit浏览器自动化插件
+- **推荐理由：** 基于Playwright的完整浏览器自动化方案
 
 ---
 
