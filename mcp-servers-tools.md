@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 1 plugins in this category
+> 3 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,33 @@
 
 ## Plugins
 
-### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+### [morluto/rea](https://github.com/morluto/rea)
 
-- **⭐ Stars:** 67
-- **Language:** JavaScript
-- **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `dsh-plugin`
-- **Why use it:** Official Huawei Cloud plugin with MCP tools and cloud sandbox
+- **⭐ Stars:** 325,866
+- **Language:** TypeScript
+- **Description:** Reverse engineer anything with agents, from app behavior down to native binaries.
+- **Tags:** `reverse-engineering`, `mcp`, `agents`, `binary-analysis`
+- **Why use it:** Powerful reverse engineering agent with MCP integration for binary analysis
+
+---
+
+### [Q00/ouroboros](https://github.com/Q00/ouroboros)
+
+- **⭐ Stars:** 6,246
+- **Language:** Python
+- **Description:** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
+- **Tags:** `agent-os`, `mcp`, `llm-orchestration`
+- **Why use it:** Self-evolving Agent OS with staged evaluation loop
+
+---
+
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
+
+- **⭐ Stars:** 89
+- **Language:** TypeScript
+- **Description:** 管理 DeepSeek Harness 中工具与技能的暴露策略，支持按需检索与调用。Manage tool and skill exposure in DeepSeek Harness with on-demand discovery and invocation. 
+- **Tags:** `mcp`, `tools`, `skills`, `capability`
+- **Why use it:** Manage tool and skill exposure with on-demand discovery and invocation
 
 ---
 
