@@ -1,6 +1,6 @@
 # 主题与皮肤
 
-> 本分类共 4 个插件
+> 本分类共 5 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,13 +8,23 @@
 
 ## 插件列表
 
+### [MeteorNOX/DeepSeek-Balance-Whale-Widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget)
+
+- **⭐ 星标：** 5,441
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装
+- **标签：** `floating-widget`, `mascot`, `dsh-plugins`
+- **推荐理由：** 可爱浮动鲸鱼小部件，实时查看账户余额。
+
+---
+
 ### [crafter-station/petdex](https://github.com/crafter-station/petdex)
 
-- **⭐ 星标：** 4,256
+- **⭐ 星标：** 4,257
 - **语言：** TypeScript
 - **描述：** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **标签：** `pets`, `theme`, `gallery`
-- **推荐理由：** 多平台编码智能体动画宠物公共画廊
+- **标签：** `mascot`, `pixel-art`, `sprites`
+- **推荐理由：** 主流编码Agent平台的动画宠物画廊。
 
 ---
 
@@ -23,8 +33,8 @@
 - **⭐ 星标：** 416
 - **语言：** JavaScript
 - **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **标签：** `theme`, `glassmorphism`, `ui-customization`
-- **推荐理由：** 高自由度磨砂玻璃主题，背景可自定义
+- **标签：** `theme`, `glassmorphism`, `ui`
+- **推荐理由：** 磨砂玻璃质感主题，全面定制DSH网页界面外观
 
 ---
 
@@ -33,8 +43,8 @@
 - **⭐ 星标：** 400
 - **语言：** JavaScript
 - **描述：** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **标签：** `skin`, `theme`, `animated`, `ocean`
-- **推荐理由：** 动态海洋主题，可调波浪与日���效果
+- **标签：** `skin`, `animated`, `theme`
+- **推荐理由：** 动态海洋主题，含实时海浪、日落与玻璃特效
 
 ---
 
@@ -43,8 +53,8 @@
 - **⭐ 星标：** 5
 - **语言：** JavaScript
 - **描述：** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
-- **标签：** `deepseek`, `deepseek-harness`, `dsh-plugin`
-- **推荐理由：** 支持自定义背景图片及多种预设氛围主题，所见即所得。
+- **标签：** `background`, `theme`, `webui`
+- **推荐理由：** 支持自定义上传和多种预设背景，所见即所得。
 
 ---
 
