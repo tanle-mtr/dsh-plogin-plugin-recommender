@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 5 plugins in this category
+> 7 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,43 +8,53 @@
 
 ## Plugins
 
+### [morluto/rea](https://github.com/morluto/rea)
+
+- **⭐ Stars:** 346,353
+- **Language:** TypeScript
+- **Description:** Reverse engineer anything with agents, from app behavior down to native binaries.
+- **Tags:** `mcp`, `reverse-engineering`, `binary-analysis`
+- **Why use it:** Powerful reverse engineering MCP for binary analysis
+
+---
+
+### [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+
+- **⭐ Stars:** 30,758
+- **Language:** JavaScript
+- **Description:** 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+- **Tags:** `free-model`, `llm`, `model-provider`
+- **Why use it:** Free access to frontier models without API keys
+
+---
+
 ### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 5,876
+- **⭐ Stars:** 5,887
 - **Language:** Python
 - **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **Tags:** `registry`, `api-keys`, `proxy`, `mcp`
-- **Why use it:** OpenRouter-style community registry and proxy for agent tool credentials and API keys
+- **Tags:** `mcp`, `secrets`, `registry`, `proxy`
+- **Why use it:** OpenRouter for agent tools — centralized credential and secret registry
 
 ---
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh)
 
-- **⭐ Stars:** 777
+- **⭐ Stars:** 302
 - **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `mcp`
-- **Why use it:** Strongest free web search bridge for models without native web access
+- **Description:** DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key
+- **Tags:** `free-api`, `llm`, `mcp`
+- **Why use it:** Free LLM access via OpenCode Zen without API key
 
 ---
 
-### [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)
+### [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)
 
-- **⭐ Stars:** 335
-- **Language:** Python
-- **Description:** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。
-- **Tags:** `mcp`, `research`, `academic`
-- **Why use it:** Multi-source academic search via MCP with citation graph support
-
----
-
-### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
-
-- **⭐ Stars:** 93
-- **Language:** TypeScript
-- **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
-- **Tags:** `mcp`, `web-search`, `content-extraction`
-- **Why use it:** Web search, content extraction, and MCP integration skills
+- **⭐ Stars:** 292
+- **Language:** JavaScript
+- **Description:** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
+- **Tags:** `browser-automation`, `llm-provider`, `mcp`
+- **Why use it:** Use DeepSeek web models via browser login capture
 
 ---
 
@@ -53,8 +63,18 @@
 - **⭐ Stars:** 67
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `huaweicloud`, `mcp`, `cloud`
-- **Why use it:** Official Huawei Cloud MCP tools and cloud sandbox
+- **Tags:** `cloud`, `mcp`, `huaweicloud`, `sdk`
+- **Why use it:** Official Huawei Cloud plugin with MCP tools and cloud sandbox.
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ Stars:** 26
+- **Language:** JavaScript
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `integration`
+- **Why use it:** Bind ChatGPT account via OAuth to chat with ChatGPT models inside DSH
 
 ---
 
