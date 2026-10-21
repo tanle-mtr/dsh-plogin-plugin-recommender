@@ -14,7 +14,7 @@
 - **语言：** JavaScript
 - **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
 - **标签：** `chatgpt`, `oauth`, `subscription`
-- **推荐理由：** 通过OAuth连接ChatGPT订阅并在DSH中使用。
+- **推荐理由：** 通过OAuth绑定ChatGPT订阅，在DSH内直接对话
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 2
 - **语言：** JavaScript
 - **描述：** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **标签：** `awesome-dsh-plugin`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-guild`, `dsh-plugin`
-- **推荐理由：** 类Discord社区插件，支持实时聊天、@提醒和文件传输。
+- **标签：** `awesome-dsh-plugin`, `dsh-guild`, `communication`
+- **推荐理由：** 类Discord社区插件，支持聊天@提醒和文件共享
 
 ---
 
