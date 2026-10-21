@@ -8,33 +8,33 @@
 
 ## Plugins
 
+### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+
+- **⭐ Stars:** 9,348
+- **Language:** TypeScript
+- **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+- **Tags:** `browser`, `automation`, `agent`
+- **Why use it:** Browser automation for logged-in AI agents
+
+---
+
 ### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ Stars:** 3,528
+- **⭐ Stars:** 3,530
 - **Language:** Python
 - **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `cross-platform`, `ai-agent`
-- **Why use it:** Cross-platform content discovery agent scraping B站、抖音、YouTube and more.
+- **Tags:** `bilibili`, `content-discovery`, `privacy-first`
+- **Why use it:** Cross-platform content discovery agent with privacy focus
 
 ---
 
-### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
+### [urzeye/ophel](https://github.com/urzeye/ophel)
 
-- **⭐ Stars:** 334
+- **⭐ Stars:** 987
 - **Language:** TypeScript
-- **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios`, `mobile-automation`, `ui-testing`
-- **Why use it:** Live iOS Simulator inside DSH with 22 agent automation tools for mobile testing
-
----
-
-### [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)
-
-- **⭐ Stars:** 294
-- **Language:** JavaScript
-- **Description:** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **Tags:** `browser-automation`, `web-login`, `free-api`
-- **Why use it:** Browser-login capture for chat.deepseek.com web models, free LLM access
+- **Description:** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
+- **Tags:** `browser-extension`, `chatgpt`, `workflow`
+- **Why use it:** Turns AI conversations into reusable cross-platform workflows
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 113
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser-automation`, `playwright`, `web`
-- **Why use it:** Tabbit Browser integration with Playwright for DSH automation.
+- **Tags:** `browser-automation`, `playwright`, `tabbit`
+- **Why use it:** Tabbit Browser automation plugin powered by Playwright.
 
 ---
 
