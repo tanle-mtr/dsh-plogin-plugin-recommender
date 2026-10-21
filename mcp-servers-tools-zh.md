@@ -8,43 +8,43 @@
 
 ## 插件列表
 
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+### [liustack/modlens](https://github.com/liustack/modlens)
 
-- **⭐ 星标：** 192
+- **⭐ 星标：** 4,367
+- **语言：** TypeScript
+- **描述：** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
+- **标签：** `vision`, `multimodal`, `mcp`
+- **推荐理由：** 首个视觉插件，让纯文本Agent支持图片理解能力。
+
+---
+
+### [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)
+
+- **⭐ 星标：** 336
 - **语言：** Python
-- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **标签：** `mcp`, `finance`, `database`
-- **推荐理由：** 基于tushare的金融数据库，自动生成MCP接口。
+- **描述：** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。
+- **标签：** `mcp`, `academic-search`, `research`
+- **推荐理由：** 多源学术搜索MCP，支持引文核验与图谱构建
 
 ---
 
-### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ 星标：** 93
+- **⭐ 星标：** 73
 - **语言：** TypeScript
-- **描述：** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
-- **标签：** `mcp`, `web-search`, `agent-skills`
-- **推荐理由：** You.com提供的网页搜索与研究MCP技能
-
----
-
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
-
-- **⭐ 星标：** 91
-- **语言：** TypeScript
-- **描述：** 管理 DeepSeek Harness 中工具与技能的暴露策略，支持按需检索与调用。Manage tool and skill exposure in DeepSeek Harness with on-demand discovery and invocation. 
-- **标签：** `mcp`, `skills`, `cordis`
-- **推荐理由：** 按需管理工具与技能暴露策略
+- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **标签：** `api-documentation`, `chinese-api`, `multi-agent`
+- **推荐理由：** 在CLI Agent中直接搜索20个中国平台6.5万篇API文档。
 
 ---
 
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
-- **⭐ 星标：** 67
+- **⭐ 星标：** 68
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `huaweicloud`, `mcp`, `deepseek-harness`
-- **推荐理由：** 华为云官方插件，含MCP工具和云沙箱能力。
+- **标签：** `huaweicloud`, `mcp`, `cloud`, `terraform`
+- **推荐理由：** 华为云官方插件，含MCP工具、技能与云端沙箱。
 
 ---
 
