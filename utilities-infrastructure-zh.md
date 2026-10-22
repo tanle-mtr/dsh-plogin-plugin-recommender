@@ -1,6 +1,6 @@
 # 实用工具与基础设施
 
-> 本分类共 7 个插件
+> 本分类共 14 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,53 +8,93 @@
 
 ## 插件列表
 
-### [Unclecheng-li/DeepSec](https://github.com/Unclecheng-li/DeepSec)
+### [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)
 
-- **⭐ 星标：** 492
-- **语言：** Python
-- **描述：** DeepSec — AI Security Offense & Defense Platform. Shield audits AI-generated code for hallucinated packages, missing safeguards & AI pattern errors in real time. Spear automates authorized penetration testing with 40+ skill packs, from recon to PoC. 
-- **标签：** `security`, `cybersecurity`, `vulnerabilities`
-- **推荐理由：** AI安全攻防审计平台
+- **⭐ 星标：** 27,398
+- **语言：** TypeScript
+- **描述：** :rocket: The Ultimate Image Uploader for Efficient Creators. Supports Obsidian, Typora, VS Code etc. and 60+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+- **标签：** `image-uploader`, `s3`, `cloud-storage`
+- **推荐理由：** 支持60+图床的终极图片上传工具
 
 ---
 
-### [oh-my-dsh/dsh-plugin-upgrade-skill](https://github.com/oh-my-dsh/dsh-plugin-upgrade-skill)
+### [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)
 
-- **⭐ 星标：** 297
+- **⭐ 星标：** 8,235
+- **语言：** TypeScript
+- **描述：** The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
+- **标签：** `marketplace`, `plugin-management`, `dsh`
+- **推荐理由：** DSH内置可视化插件市场，一键安装体验极佳
+
+---
+
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+
+- **⭐ 星标：** 5,981
+- **语言：** Python
+- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **标签：** `api-keys`, `mcp`, `registry`, `dsh-plugin`
+- **推荐理由：** Agent工具API密钥的统一注册中心
+
+---
+
+### [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops)
+
+- **⭐ 星标：** 3,851
 - **语言：** JavaScript
-- **描述：** 帮助插件自动随着dsh版本升级的skill
-- **标签：** `upgrade`, `automation`, `utility`
-- **推荐理由：** 插件自动版本升级skill
+- **描述：** A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时
+- **标签：** `dsh-plugin`, `ops`, `developer-tools`
+- **推荐理由：** DSH底层操作工具，降低Token消耗与任务耗时
+
+---
+
+### [edison7009/EchoBird](https://github.com/edison7009/EchoBird)
+
+- **⭐ 星标：** 3,419
+- **语言：** Rust
+- **描述：** Manage ChatGPT, Codex CLI, and Claude Code accounts and track quota in one place. Use multi-model smart routing with priority and automatic failover. Install AI tools and deploy local LLMs in one click.
+- **标签：** `multi-model`, `quota`, `routing`
+- **推荐理由：** 统一管理ChatGPT/Codex/Claude账户，支持智能路由与自动故障转移。
+
+---
+
+### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
+
+- **⭐ 星标：** 3,395
+- **语言：** TypeScript
+- **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。
+- **标签：** `context`, `dashboard`, `insight`
+- **推荐理由：** 最佳上下文看板与侧边栏，提供深度上下文洞察与管理能力。
+
+---
+
+### [dream-num/dsh-univer-office](https://github.com/dream-num/dsh-univer-office)
+
+- **⭐ 星标：** 584
+- **语言：** TypeScript
+- **描述：** Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.
+- **标签：** `office`, `document`, `utility`
+- **推荐理由：** 将电子表格、文档、幻灯片引入Harness
 
 ---
 
 ### [xiajiajun516/dsh-config-manager](https://github.com/xiajiajun516/dsh-config-manager)
 
-- **⭐ 星标：** 226
+- **⭐ 星标：** 227
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness (DSH) backup & restore plugin — export, import, migrate and sync your complete DSH configuration, plugins, MCP servers, skills and workspace. One-click migration to another machine.
-- **标签：** `config`, `backup`, `mcp`, `migration`
-- **推荐理由：** DSH配置、插件和MCP服务器的备份恢复工具，迁移同步无忧。
+- **标签：** `backup`, `config`, `migration`
+- **推荐理由：** DSH配置与插件的备份恢复同步必备工具
 
 ---
 
-### [Nagi-ovo/dsh-find-plugins](https://github.com/Nagi-ovo/dsh-find-plugins)
+### [Sev7eEn7/dsh-sieve](https://github.com/Sev7eEn7/dsh-sieve)
 
-- **⭐ 星标：** 180
-- **语言：** JavaScript
-- **描述：** 帮 DSH 搜索、安装并验证插件的 Skill｜A DSH skill that finds, installs, and verifies GitHub plugins
-- **标签：** `plugin-discovery`, `automation`, `utility`
-- **推荐理由：** 一键搜索安装验证GitHub上的DSH插件，发现利器。
-
----
-
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
-
-- **⭐ 星标：** 91
+- **⭐ 星标：** 103
 - **语言：** TypeScript
-- **描述：** 管理 DeepSeek Harness 中工具与技能的暴露策略，支持按需检索与调用。Manage tool and skill exposure in DeepSeek Harness with on-demand discovery and invocation. 
-- **标签：** `mcp`, `skills`, `dsh-plugin`
-- **推荐理由：** 按需管理DeepSeek Harness工具与技能的暴露策略
+- **描述：** dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。
+- **标签：** `context`, `token-optimization`, `utility`
+- **推荐理由：** 上下文工程与Token优化，支持智能过滤与剪枝。
 
 ---
 
@@ -63,18 +103,48 @@
 - **⭐ 星标：** 59
 - **语言：** JavaScript
 - **描述：** DSH 插件生态基建：薄控制台（浏览器面板管理官方 repository 插件，0 patch）+ make-dsh-plugin skill 官方插件开发引导
-- **标签：** `plugin-management`, `ui`, `dsh-plugin`
-- **推荐理由：** 官方插件控制台，零补丁管理DSH生态
+- **标签：** `plugin-management`, `infrastructure`, `dsh-plugin`
+- **推荐理由：** 插件生态基建，浏览器控制台加官方开发引导
 
 ---
 
-### [tanle-mtr/dsh-plogin-plugin-recommender](https://github.com/tanle-mtr/dsh-plogin-plugin-recommender)
+### [NanmiCoder/dsh-skills-hub](https://github.com/NanmiCoder/dsh-skills-hub)
 
-- **⭐ 星标：** 2
+- **⭐ 星标：** 38
 - **语言：** JavaScript
-- **描述：** The most comprehensive AI-curated list of DeepSeek Harness (DSH) plugins - 190+ plugins, 12 categories, updated hourly by AI.
-- **标签：** `awesome-list`, `plugin-recommender`, `mcp`
-- **推荐理由：** AI策展的190+插件综合推荐列表
+- **描述：** Skills Hub for DeepSeek Harness: browse, preview, install and remove third-party skills from ClawHub and SkillHub inside the DSH Web GUI.
+- **标签：** `skills`, `hub`, `manager`
+- **推荐理由：** 在DSH中浏览安装第三方技能
+
+---
+
+### [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins)
+
+- **⭐ 星标：** 23
+- **语言：** JavaScript
+- **描述：** Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles, and skills. 
+- **标签：** `registry`, `awesome-list`, `plugins`
+- **推荐理由：** 去垃圾插件注册表与目录
+
+---
+
+### [diegosouzapw/awesome-omni-dsh-plugins](https://github.com/diegosouzapw/awesome-omni-dsh-plugins)
+
+- **⭐ 星标：** 19
+- **语言：** TypeScript
+- **描述：** Unofficial community catalog for DeepSeek Harness plugins.
+- **标签：** `catalog`, `awesome-list`, `community`
+- **推荐理由：** 社区整理的DSH插件目录
+
+---
+
+### [white-sand-grand/dsh-plugin-doctor](https://github.com/white-sand-grand/dsh-plugin-doctor)
+
+- **⭐ 星标：** 5
+- **语言：** TypeScript
+- **描述：** 致力于解决各插件之间也与版本之��可能存在的冲突问题并提供解决方案
+- **标签：** `diagnostic`, `conflict-resolution`, `utility`
+- **推荐理由：** 自动诊断并解决插件间版本冲突问题
 
 ---
 
