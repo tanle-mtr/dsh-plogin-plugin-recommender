@@ -10,11 +10,11 @@
 
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
-- **⭐ Stars:** 68
+- **⭐ Stars:** 69
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `huaweicloud`, `cloud`, `dsh-plugin`
-- **Why use it:** Official Huawei Cloud MCP tools with safety guardrails and sandbox
+- **Tags:** `huaweicloud`, `mcp`, `cloud`, `dsh-plugin`
+- **Why use it:** Official Huawei Cloud toolkit with MCP tools and cloud sandbox access.
 
 ---
 
