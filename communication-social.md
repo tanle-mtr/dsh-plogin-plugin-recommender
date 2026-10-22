@@ -1,6 +1,6 @@
 # Communication & Social
 
-> 4 plugins in this category
+> 3 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [zhaoolee/notes](https://github.com/zhaoolee/notes)
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ Stars:** 310
-- **Language:** TypeScript
-- **Description:** 开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片
-- **Tags:** `dsh-plugin`, `notes`, `smartisan`
-- **Why use it:** Smartisan-style notes plugin with Docker deployment and WeChat export
+- **⭐ Stars:** 3,551
+- **Language:** Python
+- **Description:** 本地私有、开源的自进��跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **Tags:** `content-discovery`, `cross-platform`, `local-first`, `bilibili`, `dsh-plugin`
+- **Why use it:** Local-first cross-platform content discovery agent across major Chinese platforms
 
 ---
 
@@ -23,18 +23,8 @@
 - **⭐ Stars:** 295
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **Tags:** `dsh-plugin`, `meme`, `qq-bot`, `semantic-search`
+- **Tags:** `meme`, `communication`, `sticker`
 - **Why use it:** One-click meme picker with AI auto-learning and sticker market
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ Stars:** 27
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `subscription`
-- **Why use it:** Bind ChatGPT account via OAuth for model access
 
 ---
 
@@ -43,8 +33,8 @@
 - **⭐ Stars:** 2
 - **Language:** JavaScript
 - **Description:** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **Tags:** `dsh-guild`, `dsh-plugin`, `communication`
-- **Why use it:** Discord-style community features inside DSH panel with chat and file sharing
+- **Tags:** `communication`, `social`, `dsh-plugin`
+- **Why use it:** Brings Discord-like community features directly into DSH panel
 
 ---
 

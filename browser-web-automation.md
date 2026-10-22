@@ -8,33 +8,33 @@
 
 ## Plugins
 
+### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
+
+- **⭐ Stars:** 34,899
+- **Language:** JavaScript
+- **Description:** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
+- **Tags:** `image-generation`, `prompts`, `workflow`
+- **Why use it:** 530+ GPT Image prompt templates with industrial-grade reusable skills
+
+---
+
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 9,397
+- **⭐ Stars:** 9,399
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-use`, `automation`, `agent`
-- **Why use it:** Let AI agents control your logged-in browser seamlessly
+- **Tags:** `agent`, `browser-use`
+- **Why use it:** Connect AI agents to your real logged-in browser seamlessly
 
 ---
 
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
 
-- **⭐ Stars:** 3,551
-- **Language:** Python
-- **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `cross-platform`, `bilibili`
-- **Why use it:** Local-first open-source cross-platform content discovery agent covering major platforms.
-
----
-
-### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
-
-- **⭐ Stars:** 336
+- **⭐ Stars:** 3,715
 - **Language:** TypeScript
-- **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios`, `ios-simulator`, `mcp`, `ui-automation`, `webdriveragent`
-- **Why use it:** Live iOS Simulator automation inside DSH with 22 agent tools
+- **Description:** The World's First Virtual Terminal for AI Agents
+- **Tags:** `agent-sandbox`, `agent-tools`, `dsh-plugin`, `vfs`, `bash`
+- **Why use it:** World's first virtual terminal for AI agents with sandbox, bash, SSH
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 297
 - **Language:** JavaScript
 - **Description:** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **Tags:** `browser-automation`, `cordis-plugin`, `deepseek-harness`, `llm-provider`
-- **Why use it:** Use chat.deepseek.com web models via browser login and PoW solving
+- **Tags:** `browser-automation`, `llm-provider`, `deepseek`
+- **Why use it:** Use chat.deepseek.com via browser login as free LLM provider
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ Stars:** 113
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser`, `automation`, `playwright`
-- **Why use it:** Tabbit browser automation plugins for DeepSeek Harness.
+- **Tags:** `browser-automation`, `playwright`, `dsh-plugin`
+- **Why use it:** Tabbit Browser automation plugins powered by Playwright for DSH.
 
 ---
 
