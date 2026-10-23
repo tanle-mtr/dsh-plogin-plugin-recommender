@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 2 plugins in this category
+> 1 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -13,18 +13,8 @@
 - **⭐ Stars:** 69
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `huawei-cloud`, `mcp`, `cloud`
-- **Why use it:** Official Huawei Cloud toolkit with skills, MCP tools, and cloud sandbox for AI agents
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ Stars:** 27
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `subscription`
-- **Why use it:** Bind ChatGPT account via OAuth to use ChatGPT models inside DSH
+- **Tags:** `huawei-cloud`, `MCP`, `cloud`
+- **Why use it:** Official Huawei Cloud integration with MCP tools, skills, and cloud sandbox for AI agents.
 
 ---
 

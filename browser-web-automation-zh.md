@@ -10,21 +10,21 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 9,432
+- **⭐ 星标：** 9,446
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser`, `automation`, `cli`
-- **推荐理由：** CLI+扩展实现跨AI代理的浏览器自动化
+- **标签：** `browser-automation`, `cli`, `extension`
+- **推荐理由：** 让AI代理无缝使用真实已登录浏览器
 
 ---
 
-### [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ 星标：** 303
-- **语言：** JavaScript
-- **描述：** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **标签：** `browser-automation`, `llm-provider`, `deepseek-web`
-- **推荐理由：** 浏览器登录捕获DeepSeek Web模型作为DSH提供商
+- **⭐ 星标：** 3,557
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `content-discovery`, `browser`, `cross-platform`
+- **推荐理由：** 本地优先AI内容发现智能体，支持B站、YouTube等平台
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ 星标：** 113
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser-automation`, `playwright`, `dsh`
-- **推荐理由：** Tabbit浏览器插件与DeepSeek Harness集成
+- **标签：** `browser`, `automation`, `playwright`
+- **推荐理由：** Tabbit浏览器自动化插件，深度集成DeepSeek Harness。
 
 ---
 
