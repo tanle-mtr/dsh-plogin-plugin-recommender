@@ -1,6 +1,6 @@
 # Communication & Social
 
-> 3 plugins in this category
+> 1 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,13 @@
 
 ## Plugins
 
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
-
-- **⭐ Stars:** 3,551
-- **Language:** Python
-- **Description:** 本地私有、开源的自进��跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `cross-platform`, `local-first`, `bilibili`, `dsh-plugin`
-- **Why use it:** Local-first cross-platform content discovery agent across major Chinese platforms
-
----
-
-### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
-
-- **⭐ Stars:** 295
-- **Language:** JavaScript
-- **Description:** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **Tags:** `meme`, `communication`, `sticker`
-- **Why use it:** One-click meme picker with AI auto-learning and sticker market
-
----
-
 ### [seolhw/dsh-guild](https://github.com/seolhw/dsh-guild)
 
 - **⭐ Stars:** 2
 - **Language:** JavaScript
 - **Description:** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **Tags:** `communication`, `social`, `dsh-plugin`
-- **Why use it:** Brings Discord-like community features directly into DSH panel
+- **Tags:** `awesome-dsh-plugin`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-guild`, `dsh-plugin`
+- **Why use it:** Brings Discord-like community features directly inside DSH panel with chat, mentions, and file sharing.
 
 ---
 
