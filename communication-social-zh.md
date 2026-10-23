@@ -10,11 +10,11 @@
 
 ### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
 
-- **⭐ 星标：** 317
+- **⭐ 星标：** 320
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **标签：** `meme`, `communication`, `social`
-- **推荐理由：** 一键表情包插入，AI自动学图斗图插件
+- **标签：** `meme`, `sticker`, `social`
+- **推荐理由：** 一键表情包选择，支持 AI 自动学图与图���市场。
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 2
 - **语言：** JavaScript
 - **描述：** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **标签：** `dsh-guild`, `deepseek-harness`
-- **推荐理由：** DSH 内嵌 Discord 式社区，支持聊天和权限管理。
+- **标签：** `community`, `chat`, `social`
+- **推荐理由：** 类 Discord 社区功能，内置 DSH 面板中
 
 ---
 
