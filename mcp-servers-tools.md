@@ -8,23 +8,13 @@
 
 ## Plugins
 
-### [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ Stars:** 39,120
-- **Language:** JavaScript
-- **Description:** 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
-- **Tags:** `deepseek`, `free-model`, `model-provider`
-- **Why use it:** Free model provider for DSH — no API key or login required.
-
----
-
-### [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)
-
-- **⭐ Stars:** 8,474
+- **⭐ Stars:** 820
 - **Language:** TypeScript
-- **Description:** The plugin market inside DeepSeek Harness — browse, search, one-click install · DSH 可视化插件市场
-- **Tags:** `marketplace`, `dsh-plugin`, `tools`
-- **Why use it:** Built-in plugin marketplace with visual browsing and one-click install
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `web-search`, `agent-skills`, `free`, `no-signup`
+- **Why use it:** Strongest free web search plugin, works as search bridge for all models without native web access.
 
 ---
 
@@ -32,9 +22,9 @@
 
 - **⭐ Stars:** 192
 - **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `finance`, `database`, `mcp-server`, `stock`
-- **Why use it:** Tushare-based local financial DB with auto HTTP interface and MCP server generation
+- **Description:** 基于tushare构建本地财经数据库��AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **Tags:** `finance`, `stock`, `mcp`, `database`
+- **Why use it:** Tushare-based financial DB with MCP and multi-Agent support
 
 ---
 
@@ -43,8 +33,18 @@
 - **⭐ Stars:** 69
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `cloud`, `mcp`, `huaweicloud`
-- **Why use it:** Official Huawei Cloud toolkit with MCP tools and cloud sandbox.
+- **Tags:** `cloud`, `mcp`, `huaweicloud`, `dsh-plugin`
+- **Why use it:** Official Huawei Cloud toolkit with MCP tools, skills, and cloud sandbox
+
+---
+
+### [Tencent/skillhub](https://github.com/Tencent/skillhub)
+
+- **⭐ Stars:** 39
+- **Language:** TypeScript
+- **Description:** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
+- **Tags:** `skillhub`, `api`, `official`
+- **Why use it:** Official SkillHub API docs and DSH integration
 
 ---
 
