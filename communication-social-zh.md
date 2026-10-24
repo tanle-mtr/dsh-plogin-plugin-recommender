@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+### [LJH-snow/dsh-tool-slack](https://github.com/LJH-snow/dsh-tool-slack)
 
-- **⭐ 星标：** 28
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `subscription`
-- **推荐理由：** 通过OAuth绑定ChatGPT到DSH
+- **⭐ 星标：** 2
+- **语言：** TypeScript
+- **描述：** Slack tools for DeepSeek Harness
+- **标签：** `awesome-dsh-plugin`, `dsh-plugin`
+- **推荐理由：** 将Slack工具集成至DSH进行团队消息。
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 2
 - **语言：** JavaScript
 - **描述：** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **标签：** `awesome-dsh-plugin`, `deepseek-harness`, `dsh-guild`, `dsh-plugin`
-- **推荐理由：** 在DSH面板内集成类Discord社区功能。
+- **标签：** `awesome-dsh-plugin`, `deepseek-harness`, `dsh-plugin`, `dsh-guild`
+- **推荐理由：** 在DSH内嵌入Discord式社区实时聊天。
 
 ---
 
