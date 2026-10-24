@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
 
-- **⭐ 星标：** 336
+- **⭐ 星标：** 28
 - **语言：** JavaScript
-- **描述：** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **标签：** `meme`, `communication`, `selfloom`
-- **推荐理由：** 一键表情包选择加AI自动学图，社交娱乐功能丰富
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `oauth`, `subscription`
+- **推荐理由：** 通过OAuth绑定ChatGPT到DSH
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 2
 - **语言：** JavaScript
 - **描述：** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **标签：** `community`, `chat`, `social`
-- **推荐理由：** 类Discord社区插件，支持实时聊天与权限管理。
+- **标签：** `awesome-dsh-plugin`, `deepseek-harness`, `dsh-guild`, `dsh-plugin`
+- **推荐理由：** 在DSH面板内集成类Discord社区功能。
 
 ---
 

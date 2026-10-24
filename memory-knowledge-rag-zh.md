@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 13 个插件
+> 本分类共 12 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,51 +10,51 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 40,721
+- **⭐ 星标：** 40,736
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - **标签：** `agent-memory`, `rag`, `vector-database`
-- **推荐理由：** 自我进化的 Agent 上下文数据库，整合记忆与 RAG。
+- **推荐理由：** 自演进上下文数据库，统一Agent记忆与RAG。
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 35,266
+- **⭐ 星标：** 35,283
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `semantic-search`
-- **推荐理由：** 开源 RAG 知识库平台，支持语义搜索与 Wiki。
+- **标签：** `rag`, `knowledge-base`, `wiki`
+- **推荐理由：** 将文档转化为可查询RAG与自维护知识库。
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 13,584
+- **⭐ 星标：** 13,586
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `memory`, `rag`, `long-term-memory`, `self-evolving`
-- **推荐理由：** 可移植的Markdown原生记忆层，实现跨应用持久化记忆。
+- **标签：** `memory`, `rag`, `agent-memory`
+- **推荐理由：** 可移植的Markdown原生记忆层，支持跨应用持久化
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 12,065
+- **⭐ 星标：** 12,067
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `rag`, `token-savings`, `skills`
-- **推荐理由：** 自进化记忆系统，混合检索降低35%Token消耗。
+- **标签：** `memory`, `rag`, `token-optimization`
+- **推荐理由：** 自进化记忆OS，混合检索节省35%令牌
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,754
+- **⭐ 星标：** 7,758
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `memory`, `context-engineering`, `agent-memory`
-- **推荐理由：** 构建有状态、持续学习的自进化智能体记忆库。
+- **标签：** `memory`, `agent`, `stateful`
+- **推荐理由：** 构建有状态代理的内存库，支持持续学习
 
 ---
 
@@ -63,38 +63,28 @@
 - **⭐ 星标：** 3,679
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `management`
-- **推荐理由：** 记忆管理工具：记住并精炼代理记忆
+- **标签：** `memory`, `rag`, `agent`
+- **推荐理由：** Agent记忆管理套件，支持记忆存储与优化。
 
 ---
 
-### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
+### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ 星标：** 3,504
-- **语言：** TypeScript
-- **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。
-- **标签：** `context`, `dashboard`, `management`
-- **推荐理由：** 上下文仪表板与管理工具，支持侧边栏
+- **⭐ 星标：** 691
+- **语言：** Python
+- **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
+- **标签：** `agent-memory`, `skill-rag`, `embeddings`
+- **推荐理由：** 将SKILL.md聚合为可检索技能库，支持语义检索。
 
 ---
 
 ### [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)
 
-- **⭐ 星标：** 685
+- **⭐ 星标：** 690
 - **语言：** TypeScript
 - **描述：** Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.
-- **标签：** `memory`, `rag`, `context`, `pluggable`
-- **推荐理由：** 可组合分层记忆，支持可插拔源和自演化技能
-
----
-
-### [liangmianya/dsh-synapse](https://github.com/liangmianya/dsh-synapse)
-
-- **⭐ 星标：** 578
-- **语言：** JavaScript
-- **描述：** A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.
-- **标签：** `deepseek-harness`, `dsh-plugin`
-- **推荐理由：** 可视化非线性会话画布，支持分支工作空间探索与管理。
+- **标签：** `agent-memory`, `context-management`, `dsh-plugin`
+- **推荐理由：** 跨会话记忆编排，即插即用，支持自进化技能。
 
 ---
 
@@ -104,7 +94,17 @@
 - **语言：** JavaScript
 - **描述：** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
 - **标签：** `memory`, `context`, `dsh-plugin`
-- **推荐理由：** 智能体主动关联记忆与自动整合功能
+- **推荐理由：** 主动关联记忆，三层自动整合，适合长期知识存储
+
+---
+
+### [Sev7eEn7/dsh-sieve](https://github.com/Sev7eEn7/dsh-sieve)
+
+- **⭐ 星标：** 103
+- **语言：** TypeScript
+- **描述：** dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。
+- **标签：** `context-engineering`, `token-optimization`, `dsh-plugin`
+- **推荐理由：** 上下文工程与Token优化，渐进式修剪减少消耗
 
 ---
 
@@ -113,8 +113,8 @@
 - **⭐ 星标：** 47
 - **语言：** TypeScript
 - **描述：** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
-- **标签：** `context`, `dsh-plugin`, `ui`
-- **推荐理由：** 审计上下文Token，检测指令重复与冲突。
+- **标签：** `context`, `audit`, `memory`
+- **推荐理由：** 审计上下文和指令token成本
 
 ---
 
@@ -123,18 +123,8 @@
 - **⭐ 星标：** 32
 - **语言：** TypeScript
 - **描述：** Local-first cross-session long-term memory for DeepSeek Harness — 22 narrow tools, hybrid FTS5 + local-vector retrieval, evidence gate, provenance audit, SM-2 review. Zero external services, zero API keys.
-- **标签：** `memory`, `rag`, `vector-search`
-- **推荐理由：** 本地优先长期记忆，混合FTS5+向量检索。
-
----
-
-### [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards)
-
-- **⭐ 星标：** 2
-- **语言：** JavaScript
-- **描述：** A plugin of Deepseek Harness(DSH),transform your recent chat history into beautifully designed knowledge cards, ready to download and share.
-- **标签：** `knowledge-cards`, `chat`, `visualization`
-- **推荐理由：** 将聊天记录转化为可分享的知识卡片。
+- **标签：** `memory`, `enigram`, `rag`
+- **推荐理由：** DSH代理的长期记忆
 
 ---
 
