@@ -8,23 +8,23 @@
 
 ## Plugins
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
-
-- **⭐ Stars:** 829
-- **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `agent-skills`, `dsh-plugin`
-- **Why use it:** Strongest free web search bridge for models without native web access, no signup needed
-
----
-
 ### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
 - **⭐ Stars:** 69
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `cloud`, `mcp`, `huawei`
-- **Why use it:** Official Huawei Cloud MCP tools with cloud sandbox integration
+- **Tags:** `huaweicloud`, `mcp`, `deepseek-harness`
+- **Why use it:** Official Huawei Cloud plugin with MCP tools, skills, and cloud sandbox integration.
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ Stars:** 28
+- **Language:** JavaScript
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `integration`
+- **Why use it:** OAuth-based ChatGPT integration — access ChatGPT models via DSH
 
 ---
 

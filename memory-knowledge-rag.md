@@ -1,6 +1,6 @@
 # Memory & Knowledge (RAG)
 
-> 10 plugins in this category
+> 11 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,31 +10,31 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 40,745
+- **⭐ Stars:** 40,749
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `vector-database`, `rag`
-- **Why use it:** Self-evolving vector database unifying agent memory and RAG
+- **Tags:** `agent-memory`, `rag`
+- **Why use it:** Self-evolving context database unifying memory, RAG, and skills
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 35,304
+- **⭐ Stars:** 35,308
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `knowledge-base`, `semantic-search`
-- **Why use it:** Transform documents into RAG knowledge base with autonomous wiki
+- **Tags:** `knowledge-base`, `rag`
+- **Why use it:** Open-source RAG platform turning documents into queryable knowledge base
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ Stars:** 13,590
+- **⭐ Stars:** 13,591
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `memory`, `rag`, `markdown`, `portable`
-- **Why use it:** Portable local-first Markdown memory layer for all AI agents
+- **Tags:** `agent-memory`, `rag`, `mcp`, `skills`, `llm`
+- **Why use it:** Portable local-first memory layer for all AI agents, markdown-native and self-evolving
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 12,073
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory`, `rag`, `token-optimization`, `skills`
-- **Why use it:** Self-evolving memory OS with 35% token savings and hybrid retrieval
+- **Tags:** `long-term-memory`, `rag`, `mcp`, `skills`, `token-savings`
+- **Why use it:** Self-evolving memory OS with hybrid retrieval achieving 35%+ token savings for agents
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ Stars:** 7,761
 - **Language:** Python
 - **Description:**  Memory library for building stateful agents
-- **Tags:** `memory`, `library`, `stateful`, `agents`
-- **Why use it:** Memory library for building stateful long-running AI agents
+- **Tags:** `agent-memory`, `agentic-rag`, `continual-learning`, `mcp`
+- **Why use it:** Lightweight memory library for building persistent stateful agents with RAG capabilities
 
 ---
 
@@ -64,17 +64,17 @@
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - **Tags:** `memory`, `rag`, `dsh-plugin`
-- **Why use it:** Durable agent memory kit with recall, refinement, and multi-framework support.
+- **Why use it:** Dedicated memory management kit for agents with refine capabilities.
 
 ---
 
 ### [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)
 
-- **⭐ Stars:** 693
+- **⭐ Stars:** 694
 - **Language:** TypeScript
 - **Description:** Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.
-- **Tags:** `agent-memory`, `cross-session-memory`, `dsh-plugin`
-- **Why use it:** Composable plug-and-play memory with semantic recall and self-evolving skills
+- **Tags:** `agent-memory`, `long-term-memory`, `r ag`
+- **Why use it:** Composable cross-session memory with pluggable sources and semantic recall
 
 ---
 
@@ -83,8 +83,18 @@
 - **⭐ Stars:** 691
 - **Language:** Python
 - **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `agent-skills`, `long-term-memory`, `dsh-plugin`
-- **Why use it:** Turns scattered SKILL.md files into curated, retrieval-ready agent skill corpora
+- **Tags:** `agent-memory`, `semantic-search`, `skill-corpus`
+- **Why use it:** Turns scattered SKILL.md files into searchable, eval-ready corpora
+
+---
+
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+
+- **⭐ Stars:** 192
+- **Language:** Python
+- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **Tags:** `finance`, `stock`, `database`, `mcp`, `tushare`
+- **Why use it:** Local financial database via tushare with multi-agent stock analysis and MCP.
 
 ---
 
@@ -92,7 +102,7 @@
 
 - **⭐ Stars:** 148
 - **Language:** JavaScript
-- **Description:** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
+- **Description:** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交���账本与白板跨窗口续命/水位感知。
 - **Tags:** `memory`, `context`, `dsh-plugin`
 - **Why use it:** Three-layer auto-consolidation memory with system-prompt recall
 
@@ -103,8 +113,8 @@
 - **⭐ Stars:** 34
 - **Language:** TypeScript
 - **Description:** Local-first cross-session long-term memory for DeepSeek Harness — 22 narrow tools, hybrid FTS5 + local-vector retrieval, evidence gate, provenance audit, SM-2 review. Zero external services, zero API keys.
-- **Tags:** `memory`, `rag`, `local-first`, `vector-search`
-- **Why use it:** Local-first cross-session memory with hybrid retrieval.
+- **Tags:** `memory`, `rag`, `vector-search`, `fts5`
+- **Why use it:** Local-first long-term memory with hybrid FTS5 + vector retrieval
 
 ---
 

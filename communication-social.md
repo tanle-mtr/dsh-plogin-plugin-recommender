@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
+### [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot)
 
-- **⭐ Stars:** 347
+- **⭐ Stars:** 3,747
 - **Language:** JavaScript
-- **Description:** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **Tags:** `meme`, `sticker`, `communication`, `social`
-- **Why use it:** One-click sticker picker with AI auto-learning and token battles.
+- **Description:** A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
+- **Tags:** `bot`, `multi-agent`, `dsh-plugin`
+- **Why use it:** Long-lived multi-bot setup with group chat and inter-bot messaging.
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 2
 - **Language:** TypeScript
 - **Description:** Slack tools for DeepSeek Harness
-- **Tags:** `slack`, `communication`, `tools`
-- **Why use it:** Brings Slack integration tools to DSH agents
+- **Tags:** `awesome-dsh-plugin`, `dsh-plugin`
+- **Why use it:** Connects DeepSeek Harness with Slack for streamlined team communication.
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 2
 - **Language:** JavaScript
 - **Description:** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **Tags:** `community`, `discord`, `social`
-- **Why use it:** Discord-like community features built into DSH panel
+- **Tags:** `awesome-dsh-plugin`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-guild`
+- **Why use it:** Built-in Discord-like community inside DSH with chat, mentions, and file sharing.
 
 ---
 

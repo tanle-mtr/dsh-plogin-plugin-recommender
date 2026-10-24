@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
+### [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot)
 
-- **⭐ 星标：** 347
+- **⭐ 星标：** 3,747
 - **语言：** JavaScript
-- **描述：** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **标签：** `meme`, `sticker`, `communication`, `social`
-- **推荐理由：** 一键表情图库，AI自动学习，文字斗图玩法。
+- **描述：** A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
+- **标签：** `bot`, `multi-agent`, `dsh-plugin`
+- **推荐理由：** 持久多bot团队协作，支持群聊与bot间消息，社交能力强。
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 2
 - **语言：** TypeScript
 - **描述：** Slack tools for DeepSeek Harness
-- **标签：** `slack`, `communication`, `tools`
-- **推荐理由：** Slack工具集成，扩展DSH通信能力
+- **标签：** `awesome-dsh-plugin`, `dsh-plugin`
+- **推荐理由：** 将DeepSeek Harness与Slack集成，实现高效团队协作。
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ 星标：** 2
 - **语言：** JavaScript
 - **描述：** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **标签：** `community`, `discord`, `social`
-- **推荐理由：** 类Discord社区功能，内置实时聊天与权限管理
+- **标签：** `awesome-dsh-plugin`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-guild`
+- **推荐理由：** DSH内置类Discord社区，支持聊天、@提醒和传文件。
 
 ---
 
