@@ -10,11 +10,11 @@
 
 ### [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot)
 
-- **⭐ Stars:** 3,747
+- **⭐ Stars:** 3,756
 - **Language:** JavaScript
 - **Description:** A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
-- **Tags:** `bot`, `multi-agent`, `dsh-plugin`
-- **Why use it:** Long-lived multi-bot setup with group chat and inter-bot messaging.
+- **Tags:** `bot`, `multi-agent`, `communication`
+- **Why use it:** Long-lived multi-bot system with group chat support
 
 ---
 
@@ -24,7 +24,7 @@
 - **Language:** TypeScript
 - **Description:** Slack tools for DeepSeek Harness
 - **Tags:** `awesome-dsh-plugin`, `dsh-plugin`
-- **Why use it:** Connects DeepSeek Harness with Slack for streamlined team communication.
+- **Why use it:** Brings Slack integration directly into DSH agent workflows
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 2
 - **Language:** JavaScript
 - **Description:** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **Tags:** `awesome-dsh-plugin`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-guild`
-- **Why use it:** Built-in Discord-like community inside DSH with chat, mentions, and file sharing.
+- **Tags:** `awesome-dsh-plugin`, `deepseek-harness`, `dsh-guild`
+- **Why use it:** Discord-like community features embedded directly inside DSH panel
 
 ---
 
