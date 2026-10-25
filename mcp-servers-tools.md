@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 10 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -13,8 +13,18 @@
 - **⭐ Stars:** 4,460
 - **Language:** TypeScript
 - **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `ocr`, `multimodal`, `mcp`
-- **Why use it:** First vision plugin for DSH — paste images to get structured JSON evidence via OCR.
+- **Tags:** `vision`, `ocr`, `multimodal`, `dsh-plugin`
+- **Why use it:** First vision plugin for DSH enabling OCR and image-to-JSON for text-only coding agents.
+
+---
+
+### [strukto-ai/mirage](https://github.com/strukto-ai/mirage)
+
+- **⭐ Stars:** 3,724
+- **Language:** TypeScript
+- **Description:** The World's First Virtual Terminal for AI Agents
+- **Tags:** `agent-sandbox`, `virtual-terminal`, `dsh-plugin`
+- **Why use it:** Virtual terminal and filesystem sandbox for AI agents
 
 ---
 
@@ -23,88 +33,18 @@
 - **⭐ Stars:** 69
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `terraform`
-- **Why use it:** Official Huawei Cloud plugin with MCP tools, skills, guardrails, and cloud sandbox
+- **Tags:** `mcp`, `huaweicloud`, `api`, `cloud`, `sdk`
+- **Why use it:** Official Huawei Cloud SDK with MCP tools, guardrails, and cloud sandbox.
 
 ---
 
-### [dshworks/awesome-dsh-plugins](https://github.com/dshworks/awesome-dsh-plugins)
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
 
-- **⭐ Stars:** 27
+- **⭐ Stars:** 29
 - **Language:** JavaScript
-- **Description:** Spam-filtered, open-data registry of DeepSeek Harness (dsh) plugins, bundles, and skills. 
-- **Tags:** `registry`, `awesome-list`, `open-data`
-- **Why use it:** Open-data plugin registry with spam filter — best curated starting point
-
----
-
-### [diegosouzapw/awesome-omni-dsh-plugins](https://github.com/diegosouzapw/awesome-omni-dsh-plugins)
-
-- **⭐ Stars:** 19
-- **Language:** TypeScript
-- **Description:** Unofficial community catalog for DeepSeek Harness plugins.
-- **Tags:** `community`, `catalog`, `extension`
-- **Why use it:** Community catalog extension — fills gaps in official registry
-
----
-
-### [billLiao/awesome-dsh-plugin](https://github.com/billLiao/awesome-dsh-plugin)
-
-- **⭐ Stars:** 15
-- **Language:** Python
-- **Description:** A curated list of plugins for DeepSeek Harness (dsh) — 精选 DeepSeek Harness 插件列表
-- **Tags:** `curated-list`, `bilingual`
-- **Why use it:** Bilingual curated list — great for Chinese-speaking developers
-
----
-
-### [GordenSun/awesome-dsh-plugins](https://github.com/GordenSun/awesome-dsh-plugins)
-
-- **⭐ Stars:** 13
-- **Language:** Unknown
-- **Description:** 好用的DeepSeek Harness插件集合
-- **Tags:** `collection`, `practical`
-- **Why use it:** Plugin collection — practical and easy to browse
-
----
-
-### [Anil-matcha/awesome-dsh-plugin](https://github.com/Anil-matcha/awesome-dsh-plugin)
-
-- **⭐ Stars:** 13
-- **Language:** Python
-- **Description:** A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem
-- **Tags:** `ecosystem`, `discovery`, `cli`, `web-ui`
-- **Why use it:** Ecosystem discovery with CLI and web-ui references
-
----
-
-### [white0dew/awesome-dsh-plugins](https://github.com/white0dew/awesome-dsh-plugins)
-
-- **⭐ Stars:** 12
-- **Language:** TypeScript
-- **Description:** Awesome DSH Plugins: a public GitHub directory for DeepSeek Harness plugins, DSH plugins, install commands, and ecosystem discovery.
-- **Tags:** `directory`, `github`, `public`
-- **Why use it:** Public GitHub directory — transparent and discoverable
-
----
-
-### [cccakeee/awesome-dsh-plugins](https://github.com/cccakeee/awesome-dsh-plugins)
-
-- **⭐ Stars:** 7
-- **Language:** Python
-- **Description:** A curated, evidence-led directory of DeepSeek Harness (DSH) plugins: verified loadable extensions, skills, and permission-aware installation guidance.
-- **Tags:** `evidence-led`, `permission-aware`
-- **Why use it:** Evidence-led directory with permission-aware installation guidance
-
----
-
-### [Herdeny/awesome-dsh-plugins-2026](https://github.com/Herdeny/awesome-dsh-plugins-2026)
-
-- **⭐ Stars:** 7
-- **Language:** Python
-- **Description:** Curated list of DeepSeek Harness (DSH) plugins for 2026, with quality check.
-- **Tags:** `2026`, `quality-checked`, `forward-looking`
-- **Why use it:** 2026 quality-checked list — forward-looking curation
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `subscription`, `provider`
+- **Why use it:** Connect ChatGPT Plus accounts via OAuth to use premium models inside DSH
 
 ---
 
