@@ -1,6 +1,6 @@
 # 通信与社交
 
-> 本分类共 3 个插件
+> 本分类共 2 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,23 +8,13 @@
 
 ## 插件列表
 
-### [Fei2411/DeepSeek-Bot](https://github.com/Fei2411/DeepSeek-Bot)
-
-- **⭐ 星标：** 3,756
-- **语言：** JavaScript
-- **描述：** A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
-- **标签：** `bot`, `multi-agent`, `communication`
-- **推荐理由：** 持久多智能体团队，支持群聊与 bot 间通信
-
----
-
 ### [LJH-snow/dsh-tool-slack](https://github.com/LJH-snow/dsh-tool-slack)
 
 - **⭐ 星标：** 2
 - **语言：** TypeScript
 - **描述：** Slack tools for DeepSeek Harness
 - **标签：** `awesome-dsh-plugin`, `dsh-plugin`
-- **推荐理由：** 将Slack工具集成到DSH agent工作流中
+- **推荐理由：** 将Slack消息工具集成到DeepSeek Harness中。
 
 ---
 
@@ -33,8 +23,8 @@
 - **⭐ 星标：** 2
 - **语言：** JavaScript
 - **描述：** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **标签：** `awesome-dsh-plugin`, `deepseek-harness`, `dsh-guild`
-- **推荐理由：** 在DSH面板内嵌入类Discord社区功能
+- **标签：** `awesome-dsh-plugin`, `deepseek`, `deepseek-harness`, `dsh`, `dsh-guild`, `dsh-plugin`
+- **推荐理由：** 类Discord社区插件，支持聊天、@提醒和文件传输。
 
 ---
 
