@@ -10,71 +10,81 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 40,796
+- **⭐ 星标：** 40,820
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - **标签：** `memory`, `rag`, `vector-database`
-- **推荐理由：** 自进化向量数据库，统一代理记忆和RAG知识。
+- **推荐理由：** AI智能体自进化上下文数据库
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 35,387
+- **⭐ 星标：** 35,437
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `wiki`
-- **推荐理由：** 将文档转为RAG知识库，支持自主推理。
+- **标签：** `knowledge-base`, `rag`, `llm`
+- **推荐理由：** 开源LLM知识库+RAG平台
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 13,600
+- **⭐ 星标：** 13,614
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `agent-memory`, `rag`, `mcp`, `skills`
-- **推荐理由：** 跨AI应用的本地优先可移植记忆层
+- **标签：** `memory`, `rag`, `mcp`, `agent-memory`
+- **推荐理由：** 便携式本地优先记忆层，Markdown原生持久化跨Agent共享
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 12,091
+- **⭐ 星标：** 12,093
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `long-term-memory`, `rag`, `mcp`, `skills`
-- **推荐理由：** 自进化记忆OS，节省35%Token
+- **标签：** `memory`, `rag`, `self-evolving`, `token-savings`
+- **推荐理由：** 自进化记忆OS，混合检索节省35%Token，适合LLM Agent
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,768
+- **⭐ 星标：** 7,771
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `agent-memory`, `agentic-rag`, `context-engineering`, `dsh-plugin`
-- **推荐理由：** 支持状态记忆Agent的RAG记忆库
+- **标签：** `memory`, `agentic-rag`, `continual-learning`
+- **推荐理由：** 构建状态化Agent的内存库，支持Agentic RAG和持续学习
 
 ---
 
 ### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ 星标：** 3,685
+- **⭐ 星标：** 3,688
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `dsh-plugin`
-- **推荐理由：** Agent记忆管理套件，支持记忆存储与RAG精炼。
+- **标签：** `memory`, `rag`, `agent-memory`
+- **推荐理由：** 专为AI智能体打造的记忆管理套件
+
+---
+
+### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
+
+- **⭐ 星标：** 3,598
+- **语言：** TypeScript
+- **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。
+- **标签：** `context`, `dashboard`, `management`
+- **推荐理由：** 上下文洞察管理面板，可视化上下文状态
 
 ---
 
 ### [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)
 
-- **⭐ 星标：** 706
+- **⭐ 星标：** 712
 - **语言：** TypeScript
 - **描述：** Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.
-- **标签：** `memory`, `rag`, `context`
-- **推荐理由：** 可插拔跨会话记忆，支持语义检索回忆
+- **标签：** `memory`, `rag`, `context-management`
+- **推荐理由：** 可插拔长期记忆，支持语义��索、跨会话持久化与技能自演化。
 
 ---
 
@@ -83,38 +93,28 @@
 - **⭐ 星标：** 692
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skill-corpus`, `embedding`, `retrieval`
-- **推荐理由：** Agent技能语料库基础设施，支持检索评估
-
----
-
-### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
-
-- **⭐ 星标：** 496
-- **语言：** TypeScript
-- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `knowledge-base`, `encyclopedia`, `rag`
-- **推荐理由：** 全面AI百科：覆盖智能体、RAG、MCP、多模态等资源
-
----
-
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
-
-- **⭐ 星标：** 193
-- **语言：** Python
-- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **标签：** `finance`, `database`, `agent`
-- **推荐理由：** 本地财经数据库，多Agent金融分析与盯盘
+- **标签：** `skill-retrieval`, `embeddings`, `vector-search`
+- **推荐理由：** 将零散SKILL.md文件转为带嵌入和重排序的可检索技能库。
 
 ---
 
 ### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
 
-- **⭐ 星标：** 150
+- **⭐ 星标：** 151
 - **语言：** JavaScript
 - **描述：** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **标签：** `memory`, `context`, `dsh`, `auto-consolidation`
-- **推荐理由：** 系统提示回忆与三层自动整合的主动关联记忆。
+- **标签：** `memory`, `context`, `deepseek-harness`, `dsh-plugin`
+- **推荐理由：** 三层自动记忆系统，上下文智能召回与巩固
+
+---
+
+### [Sev7eEn7/dsh-sieve](https://github.com/Sev7eEn7/dsh-sieve)
+
+- **⭐ 星标：** 105
+- **语言：** TypeScript
+- **描述：** dsh-sieve: context engineering & token optimization plugin for DeepSeek Harness (DSH) — tool output filtering, context pruning, progressive skill disclosure. 36% smaller payload in offline replay. DSH 上下文管理与 token 优化节省插件。
+- **标签：** `context-engineering`, `token-optimization`, `prompt-compression`
+- **推荐理由：** 上下文剪枝与token优化，降低LLM成本
 
 ---
 
@@ -123,8 +123,8 @@
 - **⭐ 星标：** 47
 - **语言：** TypeScript
 - **描述：** DSH 上下文注入审计插件：统计 AGENTS.md 指令链/技能目录/工具 schema 的 token 成本，检测重复与冲突；Web UI 圆环面板 + context_audit 工具。Context Doctor for DeepSeek Harness: audit instruction-chain / skill catalog / tool schemas token cost.
-- **标签：** `context`, `audit`, `tool`
-- **推荐理由：** 审计上下文token成本，检测指令冲突。
+- **标签：** `context`, `memory`, `ui`, `tool`
+- **推荐理由：** 审计上下文注入token成本，检测重复与冲突
 
 ---
 
@@ -134,7 +134,7 @@
 - **语言：** TypeScript
 - **描述：** Local-first cross-session long-term memory for DeepSeek Harness — 22 narrow tools, hybrid FTS5 + local-vector retrieval, evidence gate, provenance audit, SM-2 review. Zero external services, zero API keys.
 - **标签：** `memory`, `rag`, `vector-search`, `local-first`
-- **推荐理由：** 本地优先的跨会话长期记忆，支持检索和溯源。
+- **推荐理由：** 本地优先长时记忆，混合FTS5与向量检索
 
 ---
 
