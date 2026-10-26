@@ -10,21 +10,21 @@
 
 ### [liustack/modlens](https://github.com/liustack/modlens)
 
-- **⭐ 星标：** 4,475
+- **⭐ 星标：** 4,488
 - **语言：** TypeScript
 - **描述：** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **标签：** `vision`, `mcp`, `ocr`, `multimodal`
-- **推荐理由：** DSH首款视觉插件，图片粘贴转结构化JSON，支持多引擎
+- **标签：** `vision`, `ocr`, `mcp`
+- **推荐理由：** DeepSeek Harness首个视觉插件，图片转结构化OCR JSON
 
 ---
 
-### [Tencent/skillhub](https://github.com/Tencent/skillhub)
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
 
-- **⭐ 星标：** 41
-- **语言：** TypeScript
-- **描述：** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
-- **标签：** `api`, `skillhub`, `official`, `tencent`
-- **推荐理由：** 官方SkillHub开放API，含示例与DSH插件集成。
+- **⭐ 星标：** 69
+- **语言：** JavaScript
+- **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **标签：** `huaweicloud`, `mcp`, `cloud`, `terraform`
+- **推荐理由：** 华为云官方MCP工具包，含云沙箱与技能
 
 ---
 

@@ -13,8 +13,8 @@
 - **⭐ 星标：** 424
 - **语言：** JavaScript
 - **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **标签：** `theme`, `glassmorphism`, `ui`, `visual`
-- **推荐理由：** 毛玻璃主题，可调模糊度/磨砂度与自定义壁纸
+- **标签：** `theme`, `ui`, `glassmorphism`
+- **推荐理由：** 高度自定义磨砂玻璃主题，侧边栏和输入框均可调节模糊度
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ 星标：** 384
 - **语言：** JavaScript
 - **描述：** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **标签：** `theme`, `skin`, `animated`, `ocean`
-- **推荐理由：** 实时海洋动态主题，毛玻璃玻璃效果
+- **标签：** `theme`, `skin`, `animated-background`, `glassmorphism`
+- **推荐理由：** 海洋主题动态皮肤，玻璃态效果惊艳。
 
 ---
 

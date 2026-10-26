@@ -1,6 +1,6 @@
 # Communication & Social
 
-> 3 plugins in this category
+> 2 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
+### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
 
-- **⭐ Stars:** 376
-- **Language:** JavaScript
-- **Description:** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **Tags:** `meme`, `communication`, `sticker`
-- **Why use it:** One-click meme picker, text-to-sticker battle, AI learns images
+- **⭐ Stars:** 333
+- **Language:** TypeScript
+- **Description:** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
+- **Tags:** `bot`, `agent-memory`, `multi-bot`, `social`
+- **Why use it:** Build personal bot teams with persistent memory across platforms.
 
 ---
 
@@ -23,18 +23,8 @@
 - **⭐ Stars:** 2
 - **Language:** TypeScript
 - **Description:** Slack tools for DeepSeek Harness
-- **Tags:** `slack`, `communication`
-- **Why use it:** Slack integration for DSH agent tools
-
----
-
-### [seolhw/dsh-guild](https://github.com/seolhw/dsh-guild)
-
-- **⭐ Stars:** 2
-- **Language:** JavaScript
-- **Description:** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **Tags:** `community`, `guild`, `social`
-- **Why use it:** Built-in Discord-like community for DSH
+- **Tags:** `slack`, `communication`, `dsh-plugin`
+- **Why use it:** Brings Slack integration capabilities directly into DeepSeek Harness.
 
 ---
 
