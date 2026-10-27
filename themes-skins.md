@@ -13,8 +13,8 @@
 - **⭐ Stars:** 427
 - **Language:** JavaScript
 - **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `theme`, `ui`
-- **Why use it:** Frosted glass theme with fully customizable visual effects
+- **Tags:** `theme`, `ui`, `glass-effect`, `visual`
+- **Why use it:** Frosted glass UI theme with fully customizable blur and background effects
 
 ---
 
@@ -23,8 +23,8 @@
 - **⭐ Stars:** 385
 - **Language:** JavaScript
 - **Description:** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **Tags:** `theme`, `skin`, `animated`
-- **Why use it:** Stunning real-time ocean theme with Three.js and WebGPU effects
+- **Tags:** `theme`, `deepseek-harness`, `dsh-plugin`
+- **Why use it:** Beautiful real-time ocean theme with glassmorphism effects
 
 ---
 
