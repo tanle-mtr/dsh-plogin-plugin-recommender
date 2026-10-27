@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 2 plugins in this category
+> 3 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,33 @@
 
 ## Plugins
 
-### [liustack/modlens](https://github.com/liustack/modlens)
+### [Tencent/skillhub](https://github.com/Tencent/skillhub)
 
-- **⭐ Stars:** 4,488
+- **⭐ Stars:** 41
 - **Language:** TypeScript
-- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `ocr`, `mcp`
-- **Why use it:** First vision plugin for DSH — paste images and get structured OCR evidence as JSON
+- **Description:** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
+- **Tags:** `api`, `official`, `documentation`
+- **Why use it:** Official SkillHub Open API with documentation and examples, enabling third-party skill integration.
 
 ---
 
-### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
 
-- **⭐ Stars:** 69
+- **⭐ Stars:** 34
 - **Language:** JavaScript
-- **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `huaweicloud`, `mcp`, `cloud`, `terraform`
-- **Why use it:** Official Huawei Cloud MCP toolkit with cloud sandbox, skills, and safety guardrails
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `mcp`
+- **Why use it:** Official OAuth integration for ChatGPT models inside DSH
+
+---
+
+### [LJH-snow/dsh-tool-slack](https://github.com/LJH-snow/dsh-tool-slack)
+
+- **⭐ Stars:** 2
+- **Language:** TypeScript
+- **Description:** Slack tools for DeepSeek Harness
+- **Tags:** `slack`, `dsh-plugin`
+- **Why use it:** Integrates Slack tools into DeepSeek Harness for messaging workflows.
 
 ---
 
