@@ -10,121 +10,121 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 40,926
+- **⭐ Stars:** 40,950
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `agent-memory`, `rag`, `vector-database`
-- **Why use it:** Self-evolving context database unifying agent memory, RAG, and skill management.
+- **Tags:** `memory`, `rag`, `vector-database`
+- **Why use it:** Self-evolving context database unifying agent memory, knowledge RAG and skills.
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 35,606
+- **⭐ Stars:** 35,634
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `rag`, `knowledge-base`, `semantic-search`
-- **Why use it:** Tencent's open-source RAG knowledge platform with wiki, semantic search, and reasoning.
+- **Tags:** `rag`, `knowledge-base`, `wiki`
+- **Why use it:** Open-source LLM knowledge platform with RAG, reasoning agent and self-maintaining wiki.
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ Stars:** 13,654
+- **⭐ Stars:** 13,660
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `memory`, `rag`, `persistent`
-- **Why use it:** Portable local-first memory layer with cross-app persistent recall
+- **Tags:** `memory`, `rag`, `agent-memory`
+- **Why use it:** Portable local-first memory layer for AI agents across apps and workflows.
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 12,117
+- **⭐ Stars:** 12,126
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory`, `rag`, `token-savings`
-- **Why use it:** Self-evolving memory OS with hybrid retrieval and 35% token savings
+- **Tags:** `memory`, `rag`, `token-saving`
+- **Why use it:** Self-evolving hybrid-retrieval memory with 35% token savings for agents.
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ Stars:** 7,783
+- **⭐ Stars:** 7,786
 - **Language:** Python
 - **Description:**  Memory library for building stateful agents
-- **Tags:** `memory`, `agent`, `library`
-- **Why use it:** Robust memory library for building stateful persistent agents
+- **Tags:** `memory`, `context-engineering`, `stateful-agents`
+- **Why use it:** Memory library for building stateful, context-aware AI agents.
 
 ---
 
 ### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ Stars:** 3,698
+- **⭐ Stars:** 3,701
 - **Language:** Python
 - **Description:** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **Tags:** `memory`, `rag`, `agent`
-- **Why use it:** Essential memory management kit for AI agents
+- **Tags:** `memory`, `rag`
+- **Why use it:** Comprehensive memory management kit enabling agent recall and refinement.
 
 ---
 
 ### [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)
 
-- **⭐ Stars:** 735
+- **⭐ Stars:** 740
 - **Language:** TypeScript
 - **Description:** Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.
-- **Tags:** `memory`, `rag`, `cross-session`
-- **Why use it:** Pluggable cross-session memory with semantic recall and self-evolving skills.
+- **Tags:** `memory`, `context-management`, `semantic-recall`
+- **Why use it:** Pluggable long-term memory system with semantic recall and self-evolving skills
 
 ---
 
-### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
+### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
 
-- **⭐ Stars:** 692
-- **Language:** Python
-- **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `skill-corpus`, `vector-search`, `memory`
-- **Why use it:** Turn scattered SKILL.md files into retrieval-ready vector corpora with evaluation tooling.
-
----
-
-### [Dominic789654/awesome-deepseek-harness](https://github.com/Dominic789654/awesome-deepseek-harness)
-
-- **⭐ Stars:** 400
+- **⭐ Stars:** 354
 - **Language:** TypeScript
-- **Description:** A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh
-- **Tags:** `awesome-list`, `plugin-catalog`
-- **Why use it:** Curated awesome list covering plugins, skills, MCP and more
+- **Description:** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
+- **Tags:** `bot-marketplace`, `agent-memory`, `multi-bot`
+- **Why use it:** Multi-bot platform with persistent memory and cross-platform.
 
 ---
 
-### [libukai/awesome-deepseek-harness](https://github.com/libukai/awesome-deepseek-harness)
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
 
-- **⭐ Stars:** 332
-- **Language:** Unknown
-- **Description:** DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit
-- **Tags:** `guide`, `awesome-list`, `resources`
-- **Why use it:** Ultimate DSH guide with quickstart, plugins and toolkit resources
+- **⭐ Stars:** 193
+- **Language:** Python
+- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **Tags:** `finance`, `database`, `stock`, `rag`
+- **Why use it:** Local Tushare-based financial DB with multi-agent analysis capabilities.
+
+---
+
+### [wpsnote/wpsnote-skills](https://github.com/wpsnote/wpsnote-skills)
+
+- **⭐ Stars:** 182
+- **Language:** Python
+- **Description:** WPS 笔记官方 AI Agent Skills 生态库：提供 30+ 场景化 Skill，通过 wpsnote-cli 与 MCP Server 让 DeepSeek Harness、灵犀、WorkBuddy���Claude Code、Codex、Cursor 直接驱动你的笔记知识库（读写、搜索、导入、排版与学习）。
+- **Tags:** `notes`, `knowledge`, `mcp`, `wps`
+- **Why use it:** WPS notes AI skills with 30+ scenarios via CLI and MCP server.
 
 ---
 
 ### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
 
-- **⭐ Stars:** 154
+- **⭐ Stars:** 157
 - **Language:** JavaScript
 - **Description:** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **Tags:** `memory`, `consolidation`, `context`
-- **Why use it:** Proactive associative memory with three-layer auto-consolidation for DSH
+- **Tags:** `memory`, `context`, `dsh-plugin`
+- **Why use it:** Proactive associative memory with auto-consolidation for DSH.
 
 ---
 
 ### [kenz1117/dsh-engram](https://github.com/kenz1117/dsh-engram)
 
-- **⭐ Stars:** 38
+- **⭐ Stars:** 40
 - **Language:** TypeScript
 - **Description:** Local-first cross-session long-term memory for DeepSeek Harness — 22 narrow tools, hybrid FTS5 + local-vector retrieval, evidence gate, provenance audit, SM-2 review. Zero external services, zero API keys.
-- **Tags:** `memory`, `rag`, `vector-search`, `local-first`
-- **Why use it:** Local-first cross-session memory with hybrid FTS5 + vector retrieval.
+- **Tags:** `memory`, `rag`, `local-first`
+- **Why use it:** Local-first cross-session memory with FTS5+vector retrieval, evidence gate, provenance.
 
 ---
 
