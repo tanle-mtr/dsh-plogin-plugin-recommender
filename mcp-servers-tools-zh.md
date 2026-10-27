@@ -8,33 +8,33 @@
 
 ## 插件列表
 
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+
+- **⭐ 星标：** 6,294
+- **语言：** Python
+- **描述：** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **标签：** `mcp`, `registry`, `api-keys`
+- **推荐理由：** 开放Agent工具注册中心，社区驱动API密钥管理
+
+---
+
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+
+- **⭐ 星标：** 69
+- **语言：** JavaScript
+- **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **标签：** `huawei-cloud`, `mcp`, `cloud`
+- **推荐理由：** 华为云官方插件，MCP工具+沙箱+安全护栏
+
+---
+
 ### [Tencent/skillhub](https://github.com/Tencent/skillhub)
 
 - **⭐ 星标：** 41
 - **语言：** TypeScript
 - **描述：** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
-- **标签：** `api`, `official`, `documentation`
-- **推荐理由：** 官方SkillHub Open API，含文档与示例，支持第三方技能集成。
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ 星标：** 34
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `mcp`
-- **推荐理由：** 通过OAuth接入ChatGPT模型，扩展DSH能力
-
----
-
-### [LJH-snow/dsh-tool-slack](https://github.com/LJH-snow/dsh-tool-slack)
-
-- **⭐ 星标：** 2
-- **语言：** TypeScript
-- **描述：** Slack tools for DeepSeek Harness
-- **标签：** `slack`, `dsh-plugin`
-- **推荐理由：** 将Slack集成至DSH，支持消息工作流。
+- **标签：** `api`, `documentation`, `skillhub`
+- **推荐理由：** 官方SkillHub API文档与示例，便于DSH集成开发。
 
 ---
 

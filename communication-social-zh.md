@@ -8,13 +8,13 @@
 
 ## 插件列表
 
-### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
 
-- **⭐ 星标：** 333
-- **语言：** TypeScript
-- **描述：** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
-- **标签：** `bot`, `agent-memory`, `multi-bot`, `social`
-- **推荐理由：** 多平台个人机器人团队，持久记忆。
+- **⭐ 星标：** 34
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `oauth`, `subscription`
+- **推荐理由：** OAuth绑定ChatGPT账号，在DSH内使用Plus��型对话。
 
 ---
 
@@ -24,7 +24,7 @@
 - **语言：** TypeScript
 - **描述：** Slack tools for DeepSeek Harness
 - **标签：** `slack`, `communication`, `dsh-plugin`
-- **推荐理由：** 为DSH提供Slack集成能力，便于团队协作。
+- **推荐理由：** Slack集成工具，连接DeepSeek Harness工作流
 
 ---
 

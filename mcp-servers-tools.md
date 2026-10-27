@@ -8,33 +8,33 @@
 
 ## Plugins
 
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
+
+- **⭐ Stars:** 6,294
+- **Language:** Python
+- **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **Tags:** `mcp`, `registry`, `api-keys`
+- **Why use it:** OpenRouter-style tool registry with community-driven API key management
+
+---
+
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+
+- **⭐ Stars:** 69
+- **Language:** JavaScript
+- **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **Tags:** `huawei-cloud`, `mcp`, `cloud`
+- **Why use it:** Official Huawei Cloud plugin with MCP tools, skills, sandbox, and guardrails
+
+---
+
 ### [Tencent/skillhub](https://github.com/Tencent/skillhub)
 
 - **⭐ Stars:** 41
 - **Language:** TypeScript
 - **Description:** SkillHub Open API documentation, examples, and DeepSeek Harness plugin
-- **Tags:** `api`, `official`, `documentation`
-- **Why use it:** Official SkillHub Open API with documentation and examples, enabling third-party skill integration.
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ Stars:** 34
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `mcp`
-- **Why use it:** Official OAuth integration for ChatGPT models inside DSH
-
----
-
-### [LJH-snow/dsh-tool-slack](https://github.com/LJH-snow/dsh-tool-slack)
-
-- **⭐ Stars:** 2
-- **Language:** TypeScript
-- **Description:** Slack tools for DeepSeek Harness
-- **Tags:** `slack`, `dsh-plugin`
-- **Why use it:** Integrates Slack tools into DeepSeek Harness for messaging workflows.
+- **Tags:** `api`, `documentation`, `skillhub`
+- **Why use it:** Official SkillHub Open API docs and examples for DSH integration.
 
 ---
 

@@ -10,11 +10,11 @@
 
 ### [crafter-station/petdex](https://github.com/crafter-station/petdex)
 
-- **⭐ Stars:** 4,287
+- **⭐ Stars:** 4,289
 - **Language:** TypeScript
 - **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **Tags:** `mascot`, `pixel-art`, `sprites`, `cli`
-- **Why use it:** Cute animated pets to personalize your AI coding tool interface.
+- **Tags:** `mascot`, `pixel-art`, `sprites`
+- **Why use it:** Animated pets gallery for various AI coding tools
 
 ---
 
@@ -22,9 +22,9 @@
 
 - **⭐ Stars:** 424
 - **Language:** JavaScript
-- **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `theme`, `ui`, `dsh-plugin`, `glass-morphism`
-- **Why use it:** Frosted glass aesthetic theme with full customizable blur and background options.
+- **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单���调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **Tags:** `theme`, `ui`, `transparent`, `glassmorphism`
+- **Why use it:** Glassmorphism transparent theme with fully adjustable frosted blur, background and per-element controls.
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 384
 - **Language:** JavaScript
 - **Description:** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **Tags:** `theme`, `skin`, `animation`
-- **Why use it:** Stunning animated ocean theme with real-time wave effects
+- **Tags:** `theme`, `skin`, `animated`
+- **Why use it:** Real-time animated ocean theme with glassmorphism effects
 
 ---
 
