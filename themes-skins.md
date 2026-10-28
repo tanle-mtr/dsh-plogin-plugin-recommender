@@ -1,6 +1,6 @@
 # Themes & Skins
 
-> 6 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -14,17 +14,17 @@
 - **Language:** TypeScript
 - **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
 - **Tags:** `mascot`, `pixel-art`, `dsh-plugin`
-- **Why use it:** Animated pixel-art pets gallery across multiple CLI tools.
+- **Why use it:** Animated pet gallery enhancing CLI tool interfaces with pixel art mascots.
 
 ---
 
 ### [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)
 
-- **⭐ Stars:** 3,655
+- **⭐ Stars:** 3,664
 - **Language:** JavaScript
 - **Description:** 把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Windows / macOS / Linux 三平台原生（同一个包、同一条命令）。
-- **Tags:** `wallpaper`, `theme`, `dsh-plugin`
-- **Why use it:** Brings Wallpaper Engine visuals into DSH via WebGL rendering.
+- **Tags:** `wallpaper`, `webgl`, `dsh-plugin`
+- **Why use it:** WebGL-powered dynamic wallpapers integrated into DSH web interface.
 
 ---
 
@@ -33,18 +33,8 @@
 - **⭐ Stars:** 428
 - **Language:** JavaScript
 - **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `theme`, `ui`, `transparent`
-- **Why use it:** Glass-morphism theme with fully customizable blur frosted effects
-
----
-
-### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
-
-- **⭐ Stars:** 424
-- **Language:** JavaScript
-- **Description:** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **Tags:** `meme`, `sticker`, `deepseek-harness`
-- **Why use it:** One-click meme picker with semantic search and auto-learning gallery.
+- **Tags:** `theme`, `ui`, `dsh-plugin`
+- **Why use it:** Glass-morphism theme with full customization for DSH web UI without source changes
 
 ---
 
@@ -53,8 +43,8 @@
 - **⭐ Stars:** 385
 - **Language:** JavaScript
 - **Description:** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **Tags:** `theme`, `skin`, `ocean`, `glassmorphism`
-- **Why use it:** Real-time animated ocean theme with adjustable glassmorphism effects.
+- **Tags:** `theme`, `skin`, `animated-background`
+- **Why use it:** Real-time ocean theme with Three.js waves and glassmorphism effects.
 
 ---
 
@@ -62,9 +52,9 @@
 
 - **⭐ Stars:** 5
 - **Language:** JavaScript
-- **Description:** DSH Web 背��个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
-- **Tags:** `theme`, `background`, `webui`, `customization`
-- **Why use it:** Customizable web background with presets; personalizes DSH UI.
+- **Description:** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
+- **Tags:** `dsh-plugin`, `webui`
+- **Why use it:** Personalized Web background with image upload and presets
 
 ---
 
