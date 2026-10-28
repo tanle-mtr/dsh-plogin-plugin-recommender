@@ -13,8 +13,8 @@
 - **⭐ Stars:** 2
 - **Language:** TypeScript
 - **Description:** Slack tools for DeepSeek Harness
-- **Tags:** `dsh-plugin`, `slack`, `awesome-dsh-plugin`
-- **Why use it:** Brings DeepSeek Harness AI capabilities directly into Slack workflows.
+- **Tags:** `slack`, `communication`, `dsh-plugin`
+- **Why use it:** Brings DSH agent capabilities to Slack channels
 
 ---
 

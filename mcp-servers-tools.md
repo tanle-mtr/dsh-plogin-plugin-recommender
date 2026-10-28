@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 2 plugins in this category
+> 3 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [liustack/modlens](https://github.com/liustack/modlens)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ Stars:** 4,548
+- **⭐ Stars:** 74
 - **Language:** TypeScript
-- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `mcp`, `ocr`
-- **Why use it:** First vision plugin for DSH — paste any image and get structured OCR evidence as JSON.
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个��国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `api-documentation`, `mcp`, `dsh-plugin`
+- **Why use it:** Search 65,600+ Chinese platform API docs, works as skill or MCP tool
 
 ---
 
@@ -23,8 +23,18 @@
 - **⭐ Stars:** 69
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `cloud`, `huawei`, `mcp`, `terraform`, `sdk`
-- **Why use it:** Official Huawei Cloud plugin with MCP tools and cloud sandbox
+- **Tags:** `huaweicloud`, `mcp`, `sdk`, `dsh-plugin`
+- **Why use it:** Official Huawei Cloud SDK with MCP tools, skills and safety guardrails
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ Stars:** 36
+- **Language:** JavaScript
+- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **Tags:** `chatgpt`, `oauth`, `mcp`, `subscription`
+- **Why use it:** Connect ChatGPT via OAuth to use premium models inside DSH directly
 
 ---
 

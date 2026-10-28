@@ -13,8 +13,8 @@
 - **⭐ 星标：** 2
 - **语言：** TypeScript
 - **描述：** Slack tools for DeepSeek Harness
-- **标签：** `dsh-plugin`, `slack`, `awesome-dsh-plugin`
-- **推荐理由：** 将DeepSeek Harness AI能力引入Slack工作流。
+- **标签：** `slack`, `communication`, `dsh-plugin`
+- **推荐理由：** 将DSH智能体能力带入Slack频道
 
 ---
 
