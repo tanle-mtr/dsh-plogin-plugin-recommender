@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 12 个插件
+> 本分类共 14 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,71 +10,81 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 41,130
+- **⭐ 星标：** 41,145
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - **标签：** `memory`, `rag`, `vector-database`
-- **推荐理由：** 统一记忆、知识与技能的自进化上下文数据库
+- **推荐理由：** 自进化上下文数据库，统一Agent记忆与RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 35,903
+- **⭐ 星标：** 35,914
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `vector-search`
-- **推荐理由：** 支持自主推理与自维护维基的开源RAG知识平台
+- **标签：** `rag`, `knowledge-base`, `wiki`
+- **推荐理由：** 腾讯开源LLM知识平台，支持RAG与知识库
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ 星标：** 13,703
+- **⭐ 星标：** 13,704
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `memory`, `rag`, `local-first`
-- **推荐理由：** 可移植本地优先内存层，实现跨工具持久记忆
+- **标签：** `memory`, `rag`, `markdown`, `long-term-memory`
+- **推荐理由：** 本地优先的跨应用Agent持久记忆层
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ 星标：** 12,178
+- **⭐ 星标：** 12,180
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `rag`, `token-savings`
-- **推荐理由：** 自进化记忆系统，混合检索节省35% token消耗
+- **标签：** `memory`, `rag`, `self-evolving`, `token-optimization`
+- **推荐理由：** 自进化记忆系统，混合检索节省35% Token
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,819
+- **⭐ 星标：** 7,823
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `memory`, `agents`, `stateful`
-- **推荐理由：** 构建有状态AI代理的记忆库，支持持续学习
+- **标签：** `memory`, `stateful-agents`, `continual-learning`
+- **推荐理由：** 构建有状态Agent的记忆库，支持持续学习
+
+---
+
+### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
+
+- **⭐ 星标：** 3,848
+- **语言：** TypeScript
+- **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。
+- **标签：** `context`, `management`, `dashboard`
+- **推荐理由：** 强大的上下文管���面板与侧边栏，洞察上下文状态。
 
 ---
 
 ### [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe)
 
-- **⭐ 星标：** 3,719
+- **⭐ 星标：** 3,720
 - **语言：** Python
 - **描述：** ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-- **标签：** `memory`, `rag`, `agent`, `dsh-plugin`
-- **推荐理由：** 智能体记忆管理套件，记住并优化知识
+- **标签：** `memory`, `rag`, `agent`
+- **推荐理由：** 智能记忆管理套件，跨会话持久化与精炼记忆。
 
 ---
 
 ### [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)
 
-- **⭐ 星标：** 772
+- **⭐ 星标：** 773
 - **语言：** TypeScript
 - **描述：** Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.
-- **标签：** `memory`, `rag`, `context-management`
-- **推荐理由：** 可组合插件化记忆系统，支持���会话语义检索。
+- **标签：** `agent-memory`, `long-term-memory`, `semantic-recall`
+- **推荐理由：** 可扩展的跨会话记忆系统，支持语义检索与分层记忆
 
 ---
 
@@ -83,8 +93,8 @@
 - **⭐ 星标：** 694
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skills`, `rag`, `agent-memory`
-- **推荐理由：** 将SKILL.md文件转化为可检索评估的技能知识库。
+- **标签：** `agent-memory`, `skill-routing`, `vector-search`
+- **推荐理由：** 将SKILL.md文件转为可检索的Agent技能知识库
 
 ---
 
@@ -93,8 +103,8 @@
 - **⭐ 星标：** 510
 - **语言：** TypeScript
 - **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `dsh-bundle`, `dsh-plugin`
-- **推荐理由：** AI百科大全，覆盖技能MCP知识库全维度资源
+- **标签：** `knowledge`, `rag`, `encyclopedia`
+- **推荐理由：** AI知识库百科，覆盖Agent/RAG/MLOps/学习路线大全。
 
 ---
 
@@ -103,8 +113,8 @@
 - **⭐ 星标：** 184
 - **语言：** Python
 - **描述：** WPS 笔记官方 AI Agent Skills 生态库：提供 30+ 场景化 Skill，通过 wpsnote-cli 与 MCP Server 让 DeepSeek Harness、灵犀、WorkBuddy、Claude Code、Codex、Cursor 直接驱动你的笔记知识库（读写、搜索、导入、排版与学习）。
-- **标签：** `notes`, `knowledge-management`, `mcp`
-- **推荐理由：** WPS官方笔记技能库，30+场景化知识管理。
+- **标签：** `knowledge`, `notes`, `mcp`
+- **推荐理由：** 30+场景技能，通过MCP连接WPS笔记与AI
 
 ---
 
@@ -113,8 +123,8 @@
 - **⭐ 星标：** 171
 - **语言：** JavaScript
 - **描述：** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **标签：** `memory`, `context`, `auto-consolidation`
-- **推荐理由：** 三层自动整合的主动关联记忆系统。
+- **标签：** `memory`, `context`, `consolidation`
+- **推荐理由：** 三层自动记忆巩固的智能记忆管理插件
 
 ---
 
@@ -123,8 +133,18 @@
 - **⭐ 星标：** 47
 - **语言：** TypeScript
 - **描述：** Local-first cross-session long-term memory for DeepSeek Harness — 22 narrow tools, hybrid FTS5 + local-vector retrieval, evidence gate, provenance audit, SM-2 review. Zero external services, zero API keys.
-- **标签：** `memory`, `rag`, `local-first`
-- **推荐理由：** 本地优先的长期记忆系统，混合检索技术支撑知识沉淀
+- **标签：** `memory`, `rag`, `local-first`, `vector-search`
+- **推荐理由：** 本地优先长期记忆，混合检索与证据追踪
+
+---
+
+### [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** A plugin of Deepseek Harness(DSH),transform your recent chat history into beautifully designed knowledge cards, ready to download and share.
+- **标签：** `knowledge-cards`, `ui`, `memory`
+- **推荐理由：** 将聊天记录转换为可分享的视觉知识卡片。
 
 ---
 
