@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 2 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,43 @@
 
 ## Plugins
 
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
 
-- **⭐ Stars:** 74
+- **⭐ Stars:** 9,761
 - **Language:** TypeScript
-- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `api-docs`, `chinese-platforms`, `mcp`
-- **Why use it:** Searches 65,600+ Chinese platform API docs across multiple CLI tools
+- **Description:** DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
+- **Tags:** `dsh-web`, `marketplace`, `ecosystem`
+- **Why use it:** Web-based plugin aggregation ecosystem for DSH
+
+---
+
+### [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market)
+
+- **⭐ Stars:** 9,624
+- **Language:** TypeScript
+- **Description:** The plugin market inside DeepSeek Harness ��� browse, search, one-click install · DSH 可视化插件市场
+- **Tags:** `marketplace`, `dsh-plugin`, `install`
+- **Why use it:** Built-in plugin marketplace with one-click install
+
+---
+
+### [liustack/modlens](https://github.com/liustack/modlens)
+
+- **⭐ Stars:** 4,611
+- **Language:** TypeScript
+- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
+- **Tags:** `vision`, `mcp`, `multimodal`
+- **Why use it:** First vision plugin for DSH; bridges image input to structured JSON for text-only agents.
+
+---
+
+### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
+
+- **⭐ Stars:** 97
+- **Language:** TypeScript
+- **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
+- **Tags:** `mcp-server`, `web-search`, `research`
+- **Why use it:** Web search, research and integration discovery MCP skills for agents
 
 ---
 
@@ -23,8 +53,8 @@
 - **⭐ Stars:** 69
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `huaweicloud`, `mcp`, `cloud-sdk`
-- **Why use it:** Official Huawei Cloud SDK with MCP tools, skills, and safety guardrails
+- **Tags:** `huawei-cloud`, `mcp`, `sdk`
+- **Why use it:** Official Huawei Cloud devkit with MCP tools, skills, and cloud sandbox
 
 ---
 
