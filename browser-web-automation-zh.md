@@ -10,31 +10,31 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 9,765
+- **⭐ 星标：** 9,778
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `automation`, `agent`
-- **推荐理由：** AI代理无缝调用已登录浏览器，非侵入式自动化
+- **标签：** `browser`, `automation`, `tencent`
+- **推荐理由：** 让AI代理操控已登录浏览器，实现真实任务自动化
 
 ---
 
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+### [urzeye/ophel](https://github.com/urzeye/ophel)
 
-- **⭐ 星标：** 3,619
-- **语言：** Python
-- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **标签：** `content-discovery`, `browser`, `cross-platform`
-- **推荐理由：** 自进化跨平台内容发现 Agent，覆盖主流平台
+- **⭐ 星标：** 1,002
+- **语言：** TypeScript
+- **描述：** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
+- **标签：** `browser-extension`, `workflow`, `ai-chat`
+- **推荐理由：** 浏览器扩展，将AI对话转为跨平台可复用工作流。
 
 ---
 
 ### [cv-superding/dsh-deepseek-web-login](https://github.com/cv-superding/dsh-deepseek-web-login)
 
-- **⭐ 星标：** 336
+- **⭐ 星标：** 337
 - **语言：** JavaScript
 - **描述：** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **标签：** `browser-automation`, `web-login`, `llm`
-- **推荐理由：** 通过浏览器登录使用DeepSeek网页模型
+- **标签：** `browser-automation`, `llm-provider`, `web-login`, `mcp`
+- **推荐理由：** 通过浏览器登录捕获，将Web模型接入DSH
 
 ---
 
@@ -44,7 +44,7 @@
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
 - **标签：** `browser-automation`, `playwright`, `tabbit`
-- **推荐理由：** 基于Playwright的浏览器自动化插件
+- **推荐理由：** 将Tabbit浏览器与DSH深度集成。
 
 ---
 
