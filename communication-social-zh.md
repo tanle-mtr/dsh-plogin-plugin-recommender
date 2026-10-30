@@ -13,28 +13,28 @@
 - **⭐ 星标：** 445
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **标签：** `meme`, `social`, `communication`
-- **推荐理由：** 表情包插件，一键选图、自动学图、文字斗图互动。
+- **标签：** `meme`, `sticker`, `communication`, `social`
+- **推荐理由：** 一键表情包选择器，支持自动学习、语义搜索与斗图功能。
 
 ---
 
 ### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
 
-- **⭐ 星标：** 388
+- **⭐ 星标：** 389
 - **语言：** TypeScript
 - **描述：** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
-- **标签：** `bot`, `multi-agent`, `social`
-- **推荐理由：** 构建多智能体机器人团队，支持持久化记忆
+- **标签：** `bot`, `communication`, `multi-agent`
+- **推荐理由：** 多平台机器人团队，持久记忆与身份管理
 
 ---
 
-### [rentaoyan0628-collab/dsh-qq-bot-playbook](https://github.com/rentaoyan0628-collab/dsh-qq-bot-playbook)
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
 
-- **⭐ 星标：** 45
-- **语言：** Unknown
-- **描述：** 在 DeepSeek Harness 上搭一只像人的 QQ bot——可复用的 skill 与设计笔记
-- **标签：** `qq-bot`, `communication`, `skill`
-- **推荐理由：** 构建拟人QQ机器人的技能与设计指南
+- **⭐ 星标：** 36
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `oauth`, `subscription`
+- **推荐理由：** OAuth绑定ChatGPT账号，在DSH内直接使用ChatGPT模型
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 2
 - **语言：** TypeScript
 - **描述：** Slack tools for DeepSeek Harness
-- **标签：** `slack`, `communication`, `tool`
-- **推荐理由：** 将Slack集成工具直接引入DeepSeek Harness。
+- **标签：** `slack`, `communication`, `integration`
+- **推荐理由：** 将Slack消息工具集成到DeepSeek Harness工作流
 
 ---
 
