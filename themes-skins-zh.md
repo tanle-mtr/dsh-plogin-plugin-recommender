@@ -13,18 +13,18 @@
 - **⭐ 星标：** 4,307
 - **语言：** TypeScript
 - **描述：** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **标签：** `pixel-art`, `mascot`, `cli`
-- **推荐理由：** 动画像素宠物画廊，为CLI增添个性化趣味。
+- **标签：** `mascot`, `pixel-art`, `sprites`, `developer-tools`
+- **推荐理由：** 多平台AI编码工具的动态宠物画廊，趣味性强
 
 ---
 
 ### [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)
 
-- **⭐ 星标：** 4,106
+- **⭐ 星标：** 4,161
 - **语言：** JavaScript
 - **描述：** 把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Windows / macOS / Linux 三平台原生（同一个包、同一条命令）。
-- **标签：** `wallpaper`, `theme`, `webgl`
-- **推荐理由：** 将Wallpaper Engine带入DSH，支持实时WebGL渲染。
+- **标签：** `wallpaper`, `theme`, `webgl`, `liquid-glass`
+- **推荐理由：** 将Wallpaper Engine壁纸带入DSH，支持实时WebGL渲染
 
 ---
 
@@ -32,9 +32,9 @@
 
 - **⭐ 星标：** 428
 - **语言：** JavaScript
-- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独���模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
 - **标签：** `theme`, `glassmorphism`, `ui`
-- **推荐理由：** 磨砂玻璃质感主题，高度自定义DSH网页界面
+- **推荐理由：** 磨砂玻璃质感主题，高度自定义视觉效果。
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ 星标：** 385
 - **语言：** JavaScript
 - **描述：** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **标签：** `theme`, `animated`, `ocean`
-- **推荐理由：** 动态海洋主题，波浪与磨砂玻璃效果可调
+- **标签：** `skin`, `theme`, `animated`
+- **推荐理由：** 动态海洋主题，可调节海浪与磨砂效果。
 
 ---
 
