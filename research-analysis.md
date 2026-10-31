@@ -1,6 +1,6 @@
 # Research & Analysis
 
-> 15 plugins in this category
+> 12 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,53 +8,13 @@
 
 ## Plugins
 
-### [walkinglabs/learn-harness-engineering](https://github.com/walkinglabs/learn-harness-engineering)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ Stars:** 22,653
+- **⭐ Stars:** 893
 - **Language:** TypeScript
-- **Description:** Harness engineering beginner tutorial, from 0 to 1
-- **Tags:** `tutorial`, `harness-engineering`, `learning`
-- **Why use it:** Comprehensive beginner tutorial for harness engineering from scratch
-
----
-
-### [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin)
-
-- **⭐ Stars:** 21,770
-- **Language:** JavaScript
-- **Description:** A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-- **Tags:** `awesome-list`, `dsh-plugin`, `curated`
-- **Why use it:** Curated collection of top DSH plugins, ideal for discovering quality tools
-
----
-
-### [liyupi/ai-guide](https://github.com/liyupi/ai-guide)
-
-- **⭐ Stars:** 21,769
-- **Language:** JavaScript
-- **Description:** 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档 aiguide，已升级为鱼皮 AI 导航网站
-- **Tags:** `ai-guide`, `resources`, `tutorials`
-- **Why use it:** All-in-one AI resource hub with tutorials, prompts, and industry coverage
-
----
-
-### [0xsline/awesome-deepseek-harness](https://github.com/0xsline/awesome-deepseek-harness)
-
-- **⭐ Stars:** 1,287
-- **Language:** Python
-- **Description:** DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.
-- **Tags:** `awesome-list`, `curated-list`, `dsh-plugins`
-- **Why use it:** Curated index of DSH plugins and tools — ideal starting point for ecosystem exploration
-
----
-
-### [hashgraph-online/awesome-ai-plugins](https://github.com/hashgraph-online/awesome-ai-plugins)
-
-- **⭐ Stars:** 942
-- **Language:** Python
-- **Description:** A curated list of the best awesome AI plugins for AI assistants including Claude Code, OpenAI Codex / ChatGPT, Gemini, Antigravity, Pi / Oh My Pi, Grok, OpenCodek DSH, Kimi and More. https://hol.org/plugins
-- **Tags:** `awesome-list`, `best-ai-plugins`
-- **Why use it:** Comprehensive curated list of top AI plugins for Claude, Codex, Grok, and more
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `web-search`, `research`, `free`
+- **Why use it:** Free web search bridge for models without native web access, no signup or API required.
 
 ---
 
@@ -63,8 +23,8 @@
 - **⭐ Stars:** 549
 - **Language:** TypeScript
 - **Description:** Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.
-- **Tags:** `research`, `LaTeX`, `arXiv`, `academic`
-- **Why use it:** All-in-one research workbench: LaTeX writing, arXiv management, experiment tracking, GPU SSH.
+- **Tags:** `research`, `academic`, `latex`
+- **Why use it:** All-in-one research workbench: LaTeX, arXiv, experiment tracking, GPU SSH orchestration.
 
 ---
 
@@ -73,8 +33,8 @@
 - **⭐ Stars:** 409
 - **Language:** TypeScript
 - **Description:** A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh
-- **Tags:** `awesome-list`, `plugins`, `deepseek-harness`
-- **Why use it:** Curated awesome list of DSH plugins, skills, MCP servers, patches and UIs.
+- **Tags:** `awesome-list`, `plugins`, `mcp`
+- **Why use it:** Curated awesome list covering plugins, MCP servers, and orchestrators.
 
 ---
 
@@ -83,8 +43,8 @@
 - **⭐ Stars:** 362
 - **Language:** Python
 - **Description:** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。
-- **Tags:** `academic-search`, `mcp`, `agent-skills`
-- **Why use it:** Academic paper search skill with cross-database retrieval, citation graph, and verification.
+- **Tags:** `research`, `academic`, `mcp`
+- **Why use it:** Academic search skill with MCP support across PubMed, arXiv, Crossref and more.
 
 ---
 
@@ -93,8 +53,8 @@
 - **⭐ Stars:** 345
 - **Language:** TypeScript
 - **Description:** DSH (DeepSeek Harness) 原理学习、插件市场与最佳实践 · Learn DSH principles, plugin marketplace & best practices
-- **Tags:** `deepseek-harness`, `dsh-plugin`, `documentation`
-- **Why use it:** DSH principles guide, plugin marketplace reference, and best practices resource.
+- **Tags:** `learning`, `documentation`, `guide`
+- **Why use it:** Learn DSH principles, plugin marketplace & best practices in one place.
 
 ---
 
@@ -104,7 +64,27 @@
 - **Language:** TypeScript
 - **Description:** Industry and company research domain pack for DeepSeek Harness: methodology skills, industry chain mapping, public-source policy/news tracking, company research cards, and auditable research reports. Research only - not investment advice.
 - **Tags:** `research`, `industry`, `report`
-- **Why use it:** Industry research domain pack with methodology skills, chain mapping, and policy tracking.
+- **Why use it:** Industry research skill pack: methodology, chain mapping, policy tracking and report generation.
+
+---
+
+### [sandbaseai/sandbase-skills](https://github.com/sandbaseai/sandbase-skills)
+
+- **⭐ Stars:** 204
+- **Language:** Python
+- **Description:** 88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness.
+- **Tags:** `research`, `social-intelligence`, `marketing`
+- **Why use it:** 88 open-source agent skills for deep research, social intelligence, marketing and business workflows.
+
+---
+
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+
+- **⭐ Stars:** 193
+- **Language:** Python
+- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **Tags:** `finance`, `stock`, `multi-agent`, `tushare`
+- **Why use it:** Tushare-based local financial database with multi-agent stock analysis and IM market alerts.
 
 ---
 
@@ -113,18 +93,8 @@
 - **⭐ Stars:** 176
 - **Language:** TypeScript
 - **Description:** 1000+ arXiv-verified 3DGS methods · 15 AI agent skills · MCP server (34 tools) · open ebook — the AI-native entry to 3D Gaussian Splatting research
-- **Tags:** `3d-gaussian-splatting`, `research-tools`, `mcp-server`
-- **Why use it:** 1000+ arXiv 3DGS methods with agent skills and MCP tools.
-
----
-
-### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
-
-- **⭐ Stars:** 98
-- **Language:** TypeScript
-- **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
-- **Tags:** `agent-skills`, `web-search`, `mcp`
-- **Why use it:** You.com web search and content extraction skills for AI agent research workflows.
+- **Tags:** `research-tools`, `3dgs`, `mcp-server`
+- **Why use it:** 1000+ verified 3DGS research methods with 15 agent skills and MCP tools
 
 ---
 
@@ -133,8 +103,8 @@
 - **⭐ Stars:** 67
 - **Language:** Python
 - **Description:** 专利侵权分析系统 —— 输入专利公开号，产出竞品侵权分析报告；同时打包成 skill，可被任意 agent（dsh, codex, claudecode 等） 调用。
-- **Tags:** `patent-analysis`, `legal-tech`, `rag`, `multi-agent`
-- **Why use it:** Patent infringement analysis system that generates competitor reports from patent IDs.
+- **Tags:** `patent`, `rag`, `legal-tech`
+- **Why use it:** Patent infringement analysis with RAG and multi-agent pipeline
 
 ---
 
@@ -143,18 +113,18 @@
 - **⭐ Stars:** 35
 - **Language:** Python
 - **Description:** 面向 DeepSeek Harness 的交互式 K 线分析插件，支持多市场行情、技术指标、支撑压力位、新闻与基本面分析，并在原生侧栏中直接展示。
-- **Tags:** `kline`, `finance`, `stock-analysis`
-- **Why use it:** Interactive K-line analysis with multi-market tech indicators and news integration
+- **Tags:** `finance`, `stock-analysis`, `plugin`
+- **Why use it:** Interactive K-line stock analysis with technical indicators and fundamentals.
 
 ---
 
-### [the-beating-light-of-the-nail/awesome-dsh-plugin-stock](https://github.com/the-beating-light-of-the-nail/awesome-dsh-plugin-stock)
+### [qrxf/dsh-workspace-graph](https://github.com/qrxf/dsh-workspace-graph)
 
-- **⭐ Stars:** 19
-- **Language:** Unknown
-- **Description:** Curated vertical list of stock/finance/quant plugins for DeepSeek Harness (dsh) — 24 verified entries, bilingual
-- **Tags:** `finance`, `quant`, `stock`, `trading`
-- **Why use it:** 24 verified stock/finance/quant plugins for DSH, bilingual.
+- **⭐ Stars:** 3
+- **Language:** TypeScript
+- **Description:** DeepSeek Harness 原生插件：可拖拽的工作区 / 会话图谱，气泡视图 + 筛选搜索 + 原生会话操作 | Draggable workspace & session graph plugin for DSH
+- **Tags:** `data-visualization`, `knowledge-graph`
+- **Why use it:** Draggable workspace/session graph with filtering and search.
 
 ---
 
