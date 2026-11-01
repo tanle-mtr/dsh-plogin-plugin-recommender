@@ -8,13 +8,23 @@
 
 ## 插件列表
 
+### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
+
+- **⭐ 星标：** 475
+- **语言：** TypeScript
+- **描述：** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
+- **标签：** `bot`, `multi-agent`, `communication`, `dsh-plugin`
+- **推荐理由：** 构建多Agent机器人团队，支持Discord微信等平台
+
+---
+
 ### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
 
-- **⭐ 星标：** 469
+- **⭐ 星标：** 472
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **标签：** `meme`, `dsh-plugin`, `selfloom`
-- **推荐理由：** 自带图库市场与AI自动学图，聊天斗图乐趣十足
+- **标签：** `meme`, `sticker`, `deepseek-harness`
+- **推荐理由：** 一键发图+情绪斗图+AI学图，聊天更有趣
 
 ---
 
@@ -23,18 +33,8 @@
 - **⭐ 星标：** 63
 - **语言：** Unknown
 - **描述：** 在 DeepSeek Harness 上搭一只像人的 QQ bot——可复用的 skill 与设计笔记
-- **标签：** `bot`, `qq`, `skill`
-- **推荐理由：** 在DSH上搭建拟人化QQ机器人的可复用技能与设计笔记
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ 星标：** 39
-- **语言：** JavaScript
-- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **标签：** `chatgpt`, `oauth`, `subscription`
-- **推荐理由：** OAuth绑定ChatGPT账号，在DSH内直接对话ChatGPT模型
+- **标签：** `qq-bot`, `dsh-plugin`, `communication`
+- **推荐理由：** 在DSH上构建拟人化QQ机器人的设计笔记
 
 ---
 
