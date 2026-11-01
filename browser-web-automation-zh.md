@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 4 个插件
+> 本分类共 6 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,23 +8,43 @@
 
 ## 插件列表
 
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 3,654
-- **语言：** Python
-- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **标签：** `content-discovery`, `browser`, `cross-platform`
-- **推荐理由：** 跨平台内容发现Agent，覆盖B站/小红书/YouTube等主流平台。
+- **⭐ 星标：** 9,876
+- **语言：** TypeScript
+- **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+- **标签：** `browser`, `automation`, `dsh-plugin`
+- **推荐理由：** AI智能体无缝使用真实登录浏览器
 
 ---
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ 星标：** 898
+- **⭐ 星标：** 3,661
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `content-discovery`, `browser`, `multi-platform`
+- **推荐理由：** 自进化跨平台内容发现Agent，覆盖B站、YouTube、X等主流平台。
+
+---
+
+### [urzeye/ophel](https://github.com/urzeye/ophel)
+
+- **⭐ 星标：** 1,006
 - **语言：** TypeScript
-- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **标签：** `web-search`, `free`
-- **推荐理由：** 免费网络搜索插件，无需注册即可为无联网模型提供搜索能力
+- **描述：** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
+- **标签：** `browser-extension`, `workflow`, `productivity`
+- **推荐理由：** 浏览器扩展，将AI对话转化为可复用���作流。
+
+---
+
+### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
+
+- **⭐ 星标：** 354
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
+- **标签：** `ios`, `automation`, `mcp`, `dsh-plugin`
+- **推荐理由：** 内置iOS模拟器，22个自动化测试工具
 
 ---
 
@@ -33,8 +53,8 @@
 - **⭐ 星标：** 346
 - **语言：** JavaScript
 - **描述：** Unofficial DSH (DeepSeek Harness) plugin: use chat.deepseek.com web models as an LLM provider - browser-login capture, PoW solving, SSE streaming, prompting-based tool calls.
-- **标签：** `browser-automation`, `llm-provider`, `deepseek`
-- **推荐理由：** 浏览器登录获取DeepSeek网页模型访问权限
+- **标签：** `browser-automation`, `llm-provider`, `dsh-plugin`
+- **推荐理由：** 浏览器登录调用网页模型，免API key
 
 ---
 
@@ -43,8 +63,8 @@
 - **⭐ 星标：** 121
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser`, `automation`, `playwright`, `web`
-- **推荐理由：** 基于Playwright的DSH浏览器自动化插件
+- **标签：** `browser-automation`, `playwright`, `dsh-plugin`
+- **推荐理由：** Tabbit浏览器自动化插件为DSH赋能
 
 ---
 

@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 9 个插件
+> 本分类共 11 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,51 +10,71 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 41,269
+- **⭐ 星标：** 41,295
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `agent-memory`, `rag`, `vector-database`
-- **推荐理由：** 自进化向量记忆库，统一RAG与技能。
+- **标签：** `rag`, `memory`, `knowledge-base`
+- **推荐理由：** 自进化上下文数据库，统一记忆、RAG和技能。
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 36,148
+- **⭐ 星标：** 36,175
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `vector-search`
-- **推荐理由：** 开源RAG知识平台，支持语义搜索。
+- **标签：** `rag`, `knowledge-base`, `wiki`
+- **推荐理由：** 将文档转为可查询RAG、智能体和自维护Wiki。
+
+---
+
+### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
+
+- **⭐ 星标：** 13,751
+- **语言：** Python
+- **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
+- **标签：** `memory`, `rag`, `dsh-plugin`
+- **推荐理由：** 本地优先的可迁移智能体记忆层
+
+---
+
+### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
+
+- **⭐ 星标：** 12,219
+- **语言：** TypeScript
+- **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
+- **标签：** `memory`, `rag`, `dsh-plugin`
+- **推荐理由：** 自进化记忆OS，混合检索节省35%Token
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,870
+- **⭐ 星标：** 7,873
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `agent-memory`, `agentic-rag`, `context-engineering`
-- **推荐理由：** 构建状态感知 Agent 的核心记忆库
+- **标签：** `agent-memory`, `agentic-rag`, `ai-memory`
+- **推荐理由：** 构建状态化智能体的核心记忆库，支持持续学习
 
 ---
 
 ### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
 
-- **⭐ 星标：** 3,942
+- **⭐ 星标：** 3,963
 - **语言：** TypeScript
 - **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。
-- **标签：** `context`, `management`, `r ag`
-- **推荐理由：** 最佳上下文管理工具，提供仪表��/浏览器/侧边栏全景视图。
+- **标签：** `context`, `management`, `dsh-plugin`
+- **推荐理由：** 上下文管理利器，内置仪表板和侧边栏，可视化洞察上下文。
 
 ---
 
 ### [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)
 
-- **⭐ 星标：** 819
+- **⭐ 星标：** 822
 - **语言：** TypeScript
 - **描述：** Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.
-- **标签：** `memory`, `context-management`, `rag`
-- **推荐理由：** 可插拔记忆编排，支持跨会话回忆与自演化技能
+- **标签：** `memory`, `RAG`, `cross-session`
+- **推荐理由：** 跨会话记忆管理，支持可插拔检索策略。
 
 ---
 
@@ -63,38 +83,38 @@
 - **⭐ 星标：** 694
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skill-corpus`, `embeddings`, `semantic-search`
-- **推荐理由：** 将分散技能文件转化为可检索语料库，含评估工具链
+- **标签：** `skills`, `RAG`, `semantic-search`
+- **推荐理由：** 将SKILL.md转化为可语义检索的技能库。
 
 ---
 
-### [Awesome-AI-Pedia/Awesome-AI-Pedia](https://github.com/Awesome-AI-Pedia/Awesome-AI-Pedia)
+### [wpsnote/wpsnote-skills](https://github.com/wpsnote/wpsnote-skills)
 
-- **⭐ 星标：** 516
-- **语言：** TypeScript
-- **描述：** AI skills大全 mcp ai知识库 Agent 全维度 AI 资源百科，DSH插件 收录大模型、智能 Agent、RAG 检索增强、多模态、MLOps、AI 应用工具、AI面试集、Vibe coding 大全、零基础学习路线，持续更新前沿 AI 开源项目，开发者一站式 AI 导航库
-- **标签：** `knowledge-base`, `rag`, `dsh-bundle`
-- **推荐理由：** 全面AI知识库，涵盖Agent、RAG、MLOps等
+- **⭐ 星标：** 184
+- **语言：** Python
+- **描述：** WPS 笔记官方 AI Agent Skills 生态库：提供 30+ 场景化 Skill，通过 wpsnote-cli 与 MCP Server 让 DeepSeek Harness、灵犀、WorkBuddy、Claude Code、Codex、Cursor 直接驱动你的笔记知识库（读写、搜索、导入、排版与学习）。
+- **标签：** `knowledge-management`, `mcp`, `skills`
+- **推荐理由：** 30+场景化Skill驱动笔记知识库，支持多AI工具
 
 ---
 
 ### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
 
-- **⭐ 星标：** 174
+- **⭐ 星标：** 176
 - **语言：** JavaScript
 - **描述：** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 事件驱动的主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **标签：** `memory`, `context`, `auto-consolidation`
-- **推荐理由：** 主动关联记忆，三层自动巩固与技能结晶
+- **标签：** `memory`, `context`, `dsh-plugin`
+- **推荐理由：** 三层自动记忆巩固，提升Agent上下文持久性
 
 ---
 
 ### [kenz1117/dsh-engram](https://github.com/kenz1117/dsh-engram)
 
-- **⭐ 星标：** 52
+- **⭐ 星标：** 53
 - **语言：** TypeScript
 - **描述：** Local-first cross-session long-term memory for DeepSeek Harness — 22 narrow tools, hybrid FTS5 + local-vector retrieval, evidence gate, provenance audit, SM-2 review. Zero external services, zero API keys.
-- **标签：** `agent-memory`, `fts5`, `rag`, `sqlite`, `vector-search`
-- **推荐理由：** 本地优先跨会话长期记忆，FTS5+向量检索带溯源。
+- **标签：** `memory`, `rag`, `vector-search`, `fts5`, `knowledge-graph`
+- **推荐理由：** 本地优先长期记忆，混合全文检索与向量检索
 
 ---
 
