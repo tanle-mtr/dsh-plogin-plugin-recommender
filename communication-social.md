@@ -8,13 +8,13 @@
 
 ## Plugins
 
-### [rentaoyan0628-collab/dsh-qq-bot-playbook](https://github.com/rentaoyan0628-collab/dsh-qq-bot-playbook)
+### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
 
-- **⭐ Stars:** 65
-- **Language:** Unknown
-- **Description:** 在 DeepSeek Harness 上搭一只像���的 QQ bot——可复用的 skill 与设计笔记
-- **Tags:** `qq-bot`, `dsh-plugin`
-- **Why use it:** Playbook for building a reusable QQ bot on DeepSeek Harness
+- **⭐ Stars:** 500
+- **Language:** TypeScript
+- **Description:** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
+- **Tags:** `bot`, `discord`, `wechat`
+- **Why use it:** Open-source GrokBot alternative — build multi-agent bot teams with persistent memory
 
 ---
 
