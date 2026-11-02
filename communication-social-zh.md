@@ -1,6 +1,6 @@
 # 通信与社交
 
-> 本分类共 1 个插件
+> 本分类共 2 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,11 +10,21 @@
 
 ### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
 
-- **⭐ 星标：** 500
+- **⭐ 星标：** 501
 - **语言：** TypeScript
 - **描述：** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
-- **标签：** `bot`, `discord`, `wechat`
-- **推荐理由：** 开源多Agent个人机器人团队持久记忆
+- **标签：** `bot`, `multi-agent`, `memory`, `communication`
+- **推荐理由：** 构建多Agent机器人团队，支持Discord/微信等平台。
+
+---
+
+### [rentaoyan0628-collab/dsh-qq-bot-playbook](https://github.com/rentaoyan0628-collab/dsh-qq-bot-playbook)
+
+- **⭐ 星标：** 66
+- **语言：** Unknown
+- **描述：** 在 DeepSeek Harness 上搭一只像人的 QQ bot——可复用的 skill 与设计笔记
+- **标签：** `qq-bot`, `dsh-plugin`
+- **推荐理由：** 用DSH技能搭建类人QQ机器人
 
 ---
 
