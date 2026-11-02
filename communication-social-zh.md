@@ -1,6 +1,6 @@
 # 通信与社交
 
-> 本分类共 1 个插件
+> 本分类共 2 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,13 +8,23 @@
 
 ## 插件列表
 
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+
+- **⭐ 星标：** 3,660
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `content-discovery`, `bilibili`, `privacy-first`
+- **推荐理由：** 本地优先跨平台AI内容发现Agent，覆盖B站/小红书/抖音等。
+
+---
+
 ### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
 
-- **⭐ 星标：** 518
+- **⭐ 星标：** 547
 - **语言：** TypeScript
 - **描述：** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
-- **标签：** `bot`, `multi-bot`, `agent-memory`
-- **推荐理由：** 跨平台构建带持久记忆的 bots 团队。
+- **标签：** `bot`, `multi-agent`, `communication`
+- **推荐理由：** 构建多平台持久记忆多Agent机器人团队
 
 ---
 

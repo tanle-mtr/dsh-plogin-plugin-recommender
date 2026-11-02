@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 4 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,23 @@
 
 ## Plugins
 
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
 
-- **⭐ Stars:** 194
-- **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `mcp`, `finance`, `dsh-plugin`
-- **Why use it:** Tushare-based local financial DB with auto HTTP/MCP interface generation
+- **⭐ Stars:** 94
+- **Language:** TypeScript
+- **Description:** 管理 DeepSeek Harness 中工具与技能的暴露策略，支持按需检索与调用。Manage tool and skill exposure in DeepSeek Harness with on-demand discovery and invocation. 
+- **Tags:** `mcp`, `skills`, `cordis`
+- **Why use it:** Manage tool/skill exposure in DSH
+
+---
+
+### [2026heshao/dsh-armory](https://github.com/2026heshao/dsh-armory)
+
+- **⭐ Stars:** 72
+- **Language:** JavaScript
+- **Description:** All-in-one board for DeepSeek Harness: MCP manager + Skills + WorkBuddy experts (attach/switch/detach any time) + tool-usage tailor + three direct markets (WorkBuddy connectors, SkillHub 190k+ skills) with one-click install · DSH 一体化看板：MCP/技能/专家随时挂换/工具账本/三大市场直连安装
+- **Tags:** `mcp`, `skill-manager`, `dashboard`
+- **Why use it:** All-in-one MCP/skill manager dashboard
 
 ---
 
@@ -23,8 +33,8 @@
 - **⭐ Stars:** 70
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `huaweicloud`, `mcp`, `cloud`
-- **Why use it:** Official Huawei Cloud SDK with MCP tools, safety guardrails and sandbox.
+- **Tags:** `cloud`, `mcp`, `huaweicloud`
+- **Why use it:** Official Huawei Cloud MCP tools for agents
 
 ---
 
@@ -33,18 +43,18 @@
 - **⭐ Stars:** 54
 - **Language:** JavaScript
 - **Description:** 番茄小说 MCP、独立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。
-- **Tags:** `mcp-server`, `novel-reading`, `dsh-plugin`
-- **Why use it:** MCP server for Fanqie novel reading with search, bookmark, and highlight features.
+- **Tags:** `mcp-server`, `novel`, `reading`
+- **Why use it:** Fanqie novel MCP server for book search, reading chapters, and managing your bookshelf
 
 ---
 
 ### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
 
-- **⭐ Stars:** 38
+- **⭐ Stars:** 39
 - **Language:** JavaScript
 - **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `dsh-plugin`
-- **Why use it:** Bind ChatGPT subscription via OAuth to access paid models inside DSH.
+- **Tags:** `chatgpt`, `oauth`, `mcp`
+- **Why use it:** OAuth binding for ChatGPT subscription — chat with GPT models inside DSH
 
 ---
 
