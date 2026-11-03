@@ -1,6 +1,6 @@
 # 视觉与设计
 
-> 本分类共 12 个插件
+> 本分类共 10 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,63 +8,33 @@
 
 ## 插件列表
 
-### [nexu-io/open-design](https://github.com/nexu-io/open-design)
-
-- **⭐ 星标：** 105,515
-- **语言：** TypeScript
-- **描述：** The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
-- **标签：** `design`, `figma-alternative`, `ui-generator`
-- **推荐理由：** 首款协作AI设计工作区，本地优先且开源
-
----
-
-### [tt-a1i/archify](https://github.com/tt-a1i/archify)
-
-- **⭐ 星标：** 92,676
-- **语言：** JavaScript
-- **描述：** Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-- **标签：** `diagrams`, `mermaid`, `visualization`
-- **推荐理由：** 将想法或代码库转换为交互式架构图和流程图
-
----
-
 ### [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 
-- **⭐ 星标：** 36,585
+- **⭐ 星标：** 36,591
 - **语言：** TypeScript
 - **描述：** Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - **标签：** `draw-io`, `diagrams`, `mcp-server`
-- **推荐理由：** AI驱动的draw.io集成，支持网页和桌面制图
-
----
-
-### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
-
-- **⭐ 星标：** 35,382
-- **语言：** JavaScript
-- **描述：** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-- **标签：** `image-generation`, `prompts`, `skills`
-- **推荐理由：** 530+ GPT图像提示词，含工业级模板和可复用技能
+- **推荐理由：** 聊天驱动AI绘图，支持网页桌面及MCP
 
 ---
 
 ### [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
 
-- **⭐ 星标：** 7,027
+- **⭐ 星标：** 7,029
 - **语言：** Rust
 - **描述：** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **标签：** `design`, `vibedesign`, `vibecoding`, `ui`
-- **推荐理由：** 开源AI原生矢量设计工具，支持并发Agent协作
+- **标签：** `design`, `ui`, `mcp`, `dsh-plugin`
+- **推荐理由：** 首个开源AI原生矢量设计工具，支持并发Agent团队协作
 
 ---
 
 ### [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)
 
-- **⭐ 星标：** 5,884
+- **⭐ 星标：** 5,889
 - **语言：** JavaScript
 - **描述：** Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude.
-- **标签：** `design`, `prototyping`, `ui-design`, `agent-skills`
-- **推荐理由：** 本地运行Claude Design生成UI原型和视觉稿
+- **标签：** `design`, `ui`, `agent-skills`, `dsh-plugin`
+- **推荐理由：** 通过Claude生成高质量UI原型和线框图，作为Agent技能运行
 
 ---
 
@@ -73,28 +43,38 @@
 - **⭐ 星标：** 1,680
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **标签：** `design`, `ppt`, `visual-editor`
-- **推荐理由：** AI生成可编辑设计系统，含可视化编辑器、模板市场与PPT。
-
----
-
-### [sixtysevenlf/dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin)
-
-- **⭐ 星标：** 1,565
-- **语言：** Python
-- **描述：** DSH × Blender 直连实时插件 v2.6.1：15 个模型工具让 AI 驱动 GUI Blender；支持 dsh-TUI（选中 chip / 页脚状态 / @ 提及 / /blender），活动状态置顶并可一键暂停 AI，原生选中/集合/子元素直送 DSH，随包建模 skill，支持 WSL / Windows / macOS。
-- **标签：** `blender`, `3d-modeling`, `automation`
-- **推荐理由：** DSH直连Blender，15个建模工具，支持TUI与一键暂停AI。
+- **标签：** `design`, `ppt`
+- **推荐理由：** DSH原生设计与PPT工作室，AI生成加可视化编辑
 
 ---
 
 ### [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design)
 
-- **⭐ 星标：** 251
+- **⭐ 星标：** 259
 - **语言：** HTML
 - **描述：** 歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案
-- **标签：** `design`, `ppt`, `cards`, `layout`
-- **推荐理由：** 网页PPT、图文卡片设计系统，去AI味内容生产
+- **标签：** `deepseek-harness`, `design-system`, `dsh-plugin`, `skills`
+- **推荐理由：** 归藏设计系统，网页PPT、卡片生成和去AI味工具
+
+---
+
+### [Akillll-DuoHe/fy-code-animation](https://github.com/Akillll-DuoHe/fy-code-animation)
+
+- **⭐ 星标：** 136
+- **语言：** TypeScript
+- **描述：** 把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。
+- **标签：** `animation`, `remotion`, `visual`
+- **推荐理由：** 中文文案转代码动画，341画风库支持。
+
+---
+
+### [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh)
+
+- **⭐ 星标：** 117
+- **语言：** TypeScript
+- **描述：** 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。
+- **标签：** `video`, `remotion`, `motion-design`
+- **推荐理由：** 152镜头配方+Remotion模板的视频制作技能。
 
 ---
 
@@ -103,18 +83,8 @@
 - **⭐ 星标：** 47
 - **语言：** JavaScript
 - **描述：** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- **标签：** `ai-video`, `ai-image`, `directorx`
-- **推荐理由：** AI视频/图像/音频技能套件，支持视觉与生成模型工具配置
-
----
-
-### [Max-Samson/dsh-usage-chart](https://github.com/Max-Samson/dsh-usage-chart)
-
-- **⭐ 星标：** 9
-- **语言：** TypeScript
-- **描述：** A DeepSeek Harness Web plugin for real-time Token usage, cost estimates, per-round charts, and DeepSeek API balance.
-- **标签：** `data-visualization`, `token-usage`, `cost-tracking`
-- **推荐理由：** 实时Token用量和费用可视化图表
+- **标签：** `ai-video`, `image-gen`, `storyboard`
+- **推荐理由：** AI视频/图像/音频生成及可视化工作流工具。
 
 ---
 
@@ -123,8 +93,18 @@
 - **⭐ 星标：** 3
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness 原生插件：可拖拽的工作区 / 会话图谱，气泡视图 + 筛选搜索 + 原生会话操作 | Draggable workspace & session graph plugin for DSH
-- **标签：** `visualization`, `graph`, `ui`
-- **推荐理由：** 可拖拽工作区/会话图谱，气泡视图筛选。
+- **标签：** `visualization`, `knowledge-graph`, `react`
+- **推荐理由：** 可拖拽的工作区与会话知识图谱可视化插件。
+
+---
+
+### [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards)
+
+- **⭐ 星标：** 2
+- **语言：** JavaScript
+- **描述：** A plugin of Deepseek Harness(DSH),transform your recent chat history into beautifully designed knowledge cards, ready to download and share.
+- **标签：** `knowledge-cards`, `ui`, `dsh-plugin`
+- **推荐理由：** 将聊天记录转化为可分享的精美知识卡片
 
 ---
 

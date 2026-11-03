@@ -1,6 +1,6 @@
 # Communication & Social
 
-> 2 plugins in this category
+> 3 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,33 @@
 
 ## Plugins
 
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
 
-- **⭐ Stars:** 3,660
-- **Language:** Python
-- **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `bilibili`, `privacy-first`
-- **Why use it:** Local-first cross-platform AI content discovery agent across major Chinese and global platforms.
+- **⭐ Stars:** 548
+- **Language:** TypeScript
+- **Description:** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
+- **Tags:** `bot`, `multi-agent`, `dsh-plugin`, `wechat-bot`
+- **Why use it:** Build personal multi-agent bots with persistent memory.
 
 ---
 
-### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
+### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
 
-- **⭐ Stars:** 547
-- **Language:** TypeScript
-- **Description:** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
-- **Tags:** `bot`, `multi-agent`, `communication`
-- **Why use it:** Build multi-agent bot teams with persistent memory across platforms
+- **⭐ Stars:** 488
+- **Language:** JavaScript
+- **Description:** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗���、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
+- **Tags:** `meme`, `dsh-plugin`, `qq-bot`
+- **Why use it:** One-click meme picker with AI-auto learning sticker market.
+
+---
+
+### [rentaoyan0628-collab/dsh-qq-bot-playbook](https://github.com/rentaoyan0628-collab/dsh-qq-bot-playbook)
+
+- **⭐ Stars:** 73
+- **Language:** Unknown
+- **Description:** 在 DeepSeek Harness 上搭一只像人的 QQ bot——可复用的 skill 与设计笔记
+- **Tags:** `qq-bot`, `dsh-plugin`, `skills`
+- **Why use it:** Build a human-like QQ bot on DSH with reusable skills and design notes
 
 ---
 

@@ -10,21 +10,31 @@
 
 ### [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)
 
-- **⭐ 星标：** 4,662
+- **⭐ 星标：** 4,674
 - **语言：** JavaScript
 - **描述：** 把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Windows / macOS / Linux 三平台原生（同一个包、同一条命令）。
-- **标签：** `wallpaper`, `theme`, `webgl`
-- **推荐理由：** 将Wallpaper Engine壁纸引入DSH，WebGL实时渲染，支持降级。
+- **标签：** `wallpaper`, `theme`
+- **推荐理由：** 通过WebGL实时渲染Wallpaper Engine壁纸
 
 ---
 
 ### [crafter-station/petdex](https://github.com/crafter-station/petdex)
 
-- **⭐ 星标：** 4,317
+- **⭐ 星标：** 4,316
 - **语言：** TypeScript
 - **描述：** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
-- **标签：** `mascot`, `pixel-art`, `theme`
-- **推荐理由：** 多平台AI编码Agent的动画宠物画廊，像素风趣味装饰。
+- **标签：** `mascot`, `pixel-art`
+- **推荐理由：** 多平台AI编程助手的萌宠动画展示库
+
+---
+
+### [6shenhonghong9/dsh-startup-screen](https://github.com/6shenhonghong9/dsh-startup-screen)
+
+- **⭐ 星标：** 694
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness 的启动界面与启动动画插件
+- **标签：** `dsh`, `dsh-plugin`, `startup-animation`
+- **推荐理由：** 自定义DeepSeek Harness启动动画与界面。
 
 ---
 
@@ -32,29 +42,19 @@
 
 - **⭐ 星标：** 430
 - **语言：** JavaScript
-- **描述：** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成��磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **标签：** `theme`, `ui`, `glassmorphism`
-- **推荐理由：** 玻璃质感主题，可调磨砂度、背景模糊。
+- **描述：** 是一层高自由度��玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
+- **标签：** `theme`, `glassmorphism`, `ui`, `deepseek-harness`
+- **推荐理由：** 磨砂玻璃质感主题，自由调节模糊度、背景、壁纸等参数
 
 ---
 
 ### [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin)
 
-- **⭐ 星标：** 387
+- **⭐ 星标：** 386
 - **语言：** JavaScript
 - **描述：** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **标签：** `skin`, `ocean`, `animated`, `theme`
-- **推荐理由：** 海洋主题皮肤，实时波浪、日落效果。
-
----
-
-### [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin)
-
-- **⭐ 星标：** 5
-- **语言：** JavaScript
-- **描述：** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
-- **标签：** `ui`, `background`, `theme`
-- **推荐理由：** DSH Web背景个性化，支持上传与预设主题。
+- **标签：** `theme`, `animated-background`, `glassmorphism`, `ocean`
+- **推荐理由：** 动态海洋主题，实时波浪、日落效果，可调节磨砂透明度
 
 ---
 
