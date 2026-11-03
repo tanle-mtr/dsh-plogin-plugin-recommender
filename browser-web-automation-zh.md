@@ -8,23 +8,23 @@
 
 ## 插件列表
 
-### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
 
-- **⭐ 星标：** 9,965
+- **⭐ 星标：** 10,019
 - **语言：** TypeScript
-- **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `dsh-plugin`, `browser-use`, `agent`
-- **推荐理由：** AI智能体无缝控制已登录的真实浏览器
+- **描述：** DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
+- **标签：** `web`, `aggregation`, `workshop`
+- **推荐理由：** 万物皆插件，通过创意工坊分发，Web端聚合生态
 
 ---
 
-### [urzeye/ophel](https://github.com/urzeye/ophel)
+### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 1,009
+- **⭐ 星标：** 9,968
 - **语言：** TypeScript
-- **描述：** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
-- **标签：** `chrome-extension`, `browser`, `workflow`, `productivity`
-- **推荐理由：** Chrome扩展，AI对话转可复用工作流
+- **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+- **标签：** `browser-use`, `automation`, `tencent`
+- **推荐理由：** AI代理接管真实浏览器，保持登录状态无缝操作
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ 星标：** 122
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser-automation`, `playwright`, `dsh-plugin`
-- **推荐理由：** Tabbit浏览器自动化与DSH集成
+- **标签：** `browser`, `automation`, `playwright`
+- **推荐理由：** Tabbit浏览器自动化插件，深度集成DSH
 
 ---
 

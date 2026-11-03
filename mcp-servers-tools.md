@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 8 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,63 +8,33 @@
 
 ## Plugins
 
-### [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
-
-- **⭐ Stars:** 58,755
-- **Language:** JavaScript
-- **Description:** 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
-- **Tags:** `deepseek`, `free-model`, `llm`
-- **Why use it:** Free DeepSeek/Kimi models without login or API key
-
----
-
-### [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
-
-- **⭐ Stars:** 36,639
-- **Language:** TypeScript
-- **Description:** Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
-- **Tags:** `mcp-server`, `diagram-generator`, `drawio`
-- **Why use it:** AI-powered draw.io editor with MCP server for multiple tools
-
----
-
 ### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 7,090
+- **⭐ Stars:** 7,103
 - **Language:** Python
 - **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **Tags:** `mcp`, `api-keys`, `credentials`
-- **Why use it:** Community-driven registry for agent tools and MCP servers
+- **Tags:** `mcp`, `api-keys`, `secrets`, `registry`
+- **Why use it:** OpenRouter-style unified tool registry with MCP support and secret management
 
 ---
 
-### [Q00/ouroboros](https://github.com/Q00/ouroboros)
+### [liustack/modlens](https://github.com/liustack/modlens)
 
-- **⭐ Stars:** 6,308
-- **Language:** Python
-- **Description:** Agent OS: the agent gets smarter on its own. We just hold the line: Interview-gated, staged evaluation, budgeted evolution loop. MCP server, 14 runtimes: Claude Code, Codex CLI, Gemini CLI, OpenCode, Copilot, Kiro and more.
-- **Tags:** `mcp`, `agent-os`, `llm-evaluation`
-- **Why use it:** Self-evolving agent OS with staged evaluation loops
-
----
-
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
-
-- **⭐ Stars:** 76
+- **⭐ Stars:** 4,737
 - **Language:** TypeScript
-- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `chinese-api`, `mcp`, `api-documentation`
-- **Why use it:** Searches 65,600+ API docs from 20 Chinese platforms with zero config.
+- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
+- **Tags:** `vision`, `mcp`, `image-to-text`
+- **Why use it:** First vision plugin bridging text-only agents to image understanding
 
 ---
 
-### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
 
-- **⭐ Stars:** 71
-- **Language:** JavaScript
-- **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `mcp`, `cloud`, `huaweicloud`, `sdk`
-- **Why use it:** Official Huawei Cloud SDK with MCP tools, skills and cloud sandbox for agents.
+- **⭐ Stars:** 194
+- **Language:** Python
+- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对��deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **Tags:** `finance`, `mcp`, `database`, `agent`
+- **Why use it:** Tushare-based local financial DB with auto HTTP/MCP APIs for multi-agent stock analysis and monitoring
 
 ---
 
@@ -73,18 +43,8 @@
 - **⭐ Stars:** 54
 - **Language:** JavaScript
 - **Description:** 番茄小说 MCP、独立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。
-- **Tags:** `mcp`, `novel`, `reading`
-- **Why use it:** MCP server for Fanqie novel reading with book search and bookmarks
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ Stars:** 39
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `oauth`, `chatgpt`, `subscription`
-- **Why use it:** OAuth-based ChatGPT subscription integration within DSH
+- **Tags:** `mcp`, `novel-reading`, `entertainment`
+- **Why use it:** Tomato novel MCP server for search, reading, and personal library/bookmark management.
 
 ---
 

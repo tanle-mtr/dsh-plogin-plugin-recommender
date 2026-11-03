@@ -8,23 +8,23 @@
 
 ## Plugins
 
-### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
 
-- **⭐ Stars:** 9,965
+- **⭐ Stars:** 10,019
 - **Language:** TypeScript
-- **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `dsh-plugin`, `browser-use`, `agent`
-- **Why use it:** Let AI agents control your real logged-in browser seamlessly
+- **Description:** DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
+- **Tags:** `web`, `aggregation`, `workshop`
+- **Why use it:** Web-based plugin aggregation ecosystem via creative workshop distribution
 
 ---
 
-### [urzeye/ophel](https://github.com/urzeye/ophel)
+### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 1,009
+- **⭐ Stars:** 9,968
 - **Language:** TypeScript
-- **Description:** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
-- **Tags:** `chrome-extension`, `browser`, `workflow`, `productivity`
-- **Why use it:** Chrome extension turning AI conversations into organized reusable workflows
+- **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+- **Tags:** `browser-use`, `automation`, `tencent`
+- **Why use it:** Let AI agents control your real logged-in browser without interruptions
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 122
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser-automation`, `playwright`, `dsh-plugin`
-- **Why use it:** Tabbit browser automation integration for DeepSeek Harness
+- **Tags:** `browser`, `automation`, `playwright`
+- **Why use it:** Tabbit browser automation plugins integrated with DeepSeek Harness
 
 ---
 
