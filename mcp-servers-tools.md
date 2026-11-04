@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 4 plugins in this category
+> 7 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,31 +10,41 @@
 
 ### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 7,103
+- **⭐ Stars:** 7,111
 - **Language:** Python
 - **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-- **Tags:** `mcp`, `api-keys`, `secrets`, `registry`
-- **Why use it:** OpenRouter-style unified tool registry with MCP support and secret management
+- **Tags:** `api-keys`, `secrets`, `mcp`
+- **Why use it:** OpenRouter-like tool for managing agent API keys and secrets
 
 ---
 
-### [liustack/modlens](https://github.com/liustack/modlens)
+### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
 
-- **⭐ Stars:** 4,737
+- **⭐ Stars:** 454
 - **Language:** TypeScript
-- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **Tags:** `vision`, `mcp`, `image-to-text`
-- **Why use it:** First vision plugin bridging text-only agents to image understanding
+- **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+- **Tags:** `llm-provider`, `model`, `dsh-plugin`
+- **Why use it:** Adds Command Code model access with live catalog and plan-aware selection.
 
 ---
 
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+### [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh)
 
-- **⭐ Stars:** 194
-- **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对��deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `finance`, `mcp`, `database`, `agent`
-- **Why use it:** Tushare-based local financial DB with auto HTTP/MCP APIs for multi-agent stock analysis and monitoring
+- **⭐ Stars:** 388
+- **Language:** TypeScript
+- **Description:** DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key
+- **Tags:** `llm-provider`, `free-model`, `dsh-plugin`
+- **Why use it:** Free OpenCode Zen model access for DSH without requiring API keys.
+
+---
+
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+
+- **⭐ Stars:** 71
+- **Language:** JavaScript
+- **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **Tags:** `mcp`, `cloud`, `huaweicloud`, `terraform`, `sdk`
+- **Why use it:** Official Huawei Cloud plugin: MCP tools, cloud sandbox, safety guardrails for AI agents.
 
 ---
 
@@ -42,9 +52,29 @@
 
 - **⭐ Stars:** 54
 - **Language:** JavaScript
-- **Description:** 番茄小说 MCP、独立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。
-- **Tags:** `mcp`, `novel-reading`, `entertainment`
-- **Why use it:** Tomato novel MCP server for search, reading, and personal library/bookmark management.
+- **Description:** 番茄小说 MCP、��立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。
+- **Tags:** `mcp`, `novel-reader`, `entertainment`
+- **Why use it:** Fanqie novel reader via MCP — search, read chapters, and manage bookmarks.
+
+---
+
+### [cxdyun/dsh-skills-marketplace](https://github.com/cxdyun/dsh-skills-marketplace)
+
+- **⭐ Stars:** 4
+- **Language:** TypeScript
+- **Description:** DeepSeek Harness 版本的类 CodeX 插件市场
+- **Tags:** `marketplace`, `skills`
+- **Why use it:** DeepSeek Harness version plugin marketplace.
+
+---
+
+### [realguan/dsh-plugin-market](https://github.com/realguan/dsh-plugin-market)
+
+- **⭐ Stars:** 3
+- **Language:** JavaScript
+- **Description:** DSH plugin market index generated from awesome-dsh-plugin, served over jsDelivr
+- **Tags:** `market`, `cdn`
+- **Why use it:** DSH plugin market index served via jsDelivr CDN.
 
 ---
 

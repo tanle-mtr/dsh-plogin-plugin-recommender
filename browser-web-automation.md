@@ -8,33 +8,33 @@
 
 ## Plugins
 
-### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
-
-- **⭐ Stars:** 10,019
-- **Language:** TypeScript
-- **Description:** DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
-- **Tags:** `web`, `aggregation`, `workshop`
-- **Why use it:** Web-based plugin aggregation ecosystem via creative workshop distribution
-
----
-
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 9,968
+- **⭐ Stars:** 9,973
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-use`, `automation`, `tencent`
-- **Why use it:** Let AI agents control your real logged-in browser without interruptions
+- **Tags:** `browser-use`, `automation`, `dsh-plugin`
+- **Why use it:** Let AI agents control your real logged-in browser seamlessly
 
 ---
 
-### [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)
+### [urzeye/ophel](https://github.com/urzeye/ophel)
 
-- **⭐ Stars:** 122
+- **⭐ Stars:** 1,009
 - **Language:** TypeScript
-- **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser`, `automation`, `playwright`
-- **Why use it:** Tabbit browser automation plugins integrated with DeepSeek Harness
+- **Description:** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
+- **Tags:** `browser-extension`, `ai-workflow`, `productivity`
+- **Why use it:** Chrome extension turning AI chats into organized reusable workflows
+
+---
+
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ Stars:** 918
+- **Language:** TypeScript
+- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **Tags:** `dsh-plugin`, `web-search`, `agent-skills`
+- **Why use it:** Strongest free web search bridge for models without native access
 
 ---
 

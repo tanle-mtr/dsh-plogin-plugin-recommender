@@ -1,6 +1,6 @@
 # Themes & Skins
 
-> 4 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,11 +10,21 @@
 
 ### [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine)
 
-- **⭐ Stars:** 4,865
+- **⭐ Stars:** 4,876
 - **Language:** JavaScript
 - **Description:** 把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Windows / macOS / Linux 三平台原生（同一个包、同一条命令）。
-- **Tags:** `theme`, `wallpaper`, `webgl`
-- **Why use it:** Brings Wallpaper Engine to DSH with real-time WebGL rendering
+- **Tags:** `wallpaper`, `theme`, `webgl`
+- **Why use it:** Ports Wallpaper Engine into DSH with WebGL real-time rendering.
+
+---
+
+### [crafter-station/petdex](https://github.com/crafter-station/petdex)
+
+- **⭐ Stars:** 4,322
+- **Language:** TypeScript
+- **Description:** A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.
+- **Tags:** `mascot`, `pixel-art`, `animation`
+- **Why use it:** Public gallery of animated pets to customize your DSH interface.
 
 ---
 
@@ -23,8 +33,8 @@
 - **⭐ Stars:** 717
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness 的启动界面与启动动画插件
-- **Tags:** `startup`, `theme`, `animation`
-- **Why use it:** Customizes DSH startup screen and animation experience.
+- **Tags:** `dsh-plugin`, `startup-animation`, `theme`
+- **Why use it:** Customizes DSH startup screen and splash animation
 
 ---
 
@@ -33,8 +43,8 @@
 - **⭐ Stars:** 432
 - **Language:** JavaScript
 - **Description:** 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。
-- **Tags:** `theme`, `glassmorphism`, `ui-customization`
-- **Why use it:** Frosted glass theme with full customization for DSH web UI elements
+- **Tags:** `theme`, `glassmorphism`, `ui`
+- **Why use it:** Frosted glass theme with full customization for DSH web interface.
 
 ---
 
@@ -43,8 +53,8 @@
 - **⭐ Stars:** 387
 - **Language:** JavaScript
 - **Description:** 🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.
-- **Tags:** `theme`, `animated`, `glassmorphism`, `threejs`
-- **Why use it:** Animated ocean theme with adjustable waves, sunset and glass opacity effects
+- **Tags:** `theme`, `animation`, `ocean`
+- **Why use it:** Real-time ocean-themed animated skin with adjustable wave effects.
 
 ---
 

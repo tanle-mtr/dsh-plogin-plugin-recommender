@@ -8,33 +8,33 @@
 
 ## 插件列表
 
-### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
-
-- **⭐ 星标：** 10,019
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
-- **标签：** `web`, `aggregation`, `workshop`
-- **推荐理由：** 万物皆插件，通过创意工坊分发，Web端聚合生态
-
----
-
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 9,968
+- **⭐ 星标：** 9,973
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `automation`, `tencent`
-- **推荐理由：** AI代理接管真实浏览器，保持登录状态无缝操作
+- **标签：** `browser-use`, `automation`, `dsh-plugin`
+- **推荐理由：** 让AI代理无缝操控已登录的真实浏览器
 
 ---
 
-### [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)
+### [urzeye/ophel](https://github.com/urzeye/ophel)
 
-- **⭐ 星标：** 122
+- **⭐ 星标：** 1,009
 - **语言：** TypeScript
-- **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser`, `automation`, `playwright`
-- **推荐理由：** Tabbit浏览器自动化插件，深度集成DSH
+- **描述：** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
+- **标签：** `browser-extension`, `ai-workflow`, `productivity`
+- **推荐理由：** 浏览器扩展将AI对话转为可复用工作流
+
+---
+
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ 星标：** 918
+- **语言：** TypeScript
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `dsh-plugin`, `web-search`, `agent-skills`
+- **推荐理由：** 最强免费网页搜索插件，无需API即可联网
 
 ---
 

@@ -1,6 +1,6 @@
 # Visual & Design
 
-> 13 plugins in this category
+> 12 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,123 +8,113 @@
 
 ## Plugins
 
+### [nexu-io/open-design](https://github.com/nexu-io/open-design)
+
+- **⭐ Stars:** 105,764
+- **Language:** TypeScript
+- **Description:** The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
+- **Tags:** `agent-skills`, `design-systems`, `figma-alternative`, `prototyping`, `ui-generator`
+- **Why use it:** Collaborative AI design workspace with local-first architecture
+
+---
+
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ Stars:** 93,122
+- **⭐ Stars:** 93,151
 - **Language:** JavaScript
 - **Description:** Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-- **Tags:** `agent-skills`, `diagrams`, `architecture`, `mermaid`, `visualization`
-- **Why use it:** Generate interactive architecture diagrams from code and ideas
+- **Tags:** `architecture-diagram`, `diagrams-as-code`, `mermaid`, `visualization`, `developer-tools`
+- **Why use it:** Turn ideas and codebases into beautiful interactive diagrams
 
 ---
 
 ### [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 
-- **⭐ Stars:** 36,648
+- **⭐ Stars:** 36,652
 - **Language:** TypeScript
 - **Description:** Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
-- **Tags:** `diagram-generator`, `draw-io`, `mcp-server`, `flowchart`, `visualization`
-- **Why use it:** Create draw.io diagrams through natural language AI chat
+- **Tags:** `architecture-diagram`, `draw-io`, `mcp-server`, `electron`, `nextjs`
+- **Why use it:** AI-powered draw.io integration via chat for easy diagram editing
 
 ---
 
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ Stars:** 35,423
+- **⭐ Stars:** 35,428
 - **Language:** JavaScript
 - **Description:** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-- **Tags:** `image-generation`, `prompt-engineering`, `skills`, `workflow-automation`
-- **Why use it:** 530+ image prompt templates and industrial-grade generation workflows
+- **Tags:** `ai-image-generation`, `prompt-engineering`, `skills`, `workflow-automation`, `image-prompts`
+- **Why use it:** 530+ GPT image prompts with industrial templates and skill workflows
 
 ---
 
 ### [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil)
 
-- **⭐ Stars:** 7,038
+- **⭐ Stars:** 7,043
 - **Language:** Rust
 - **Description:** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **Tags:** `fimga`, `vibedesign`, `agent-team`, `ui`
-- **Why use it:** First open-source AI-native vector design tool with concurrent agent teams
+- **Tags:** `design`, `ui`, `vibedesign`
+- **Why use it:** AI-native vector design tool with concurrent agent teams
 
 ---
 
 ### [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)
 
-- **⭐ Stars:** 5,973
+- **⭐ Stars:** 5,983
 - **Language:** JavaScript
 - **Description:** Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude.
-- **Tags:** `design`, `prototyping`, `ui-design`, `agent-skills`
-- **Why use it:** Run Claude Design locally as an agent skill — generates polished UI mockups
+- **Tags:** `design`, `prototyping`, `ui-design`
+- **Why use it:** Run Claude Design locally as agent skill for UI mockups
 
 ---
 
 ### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
 
-- **⭐ Stars:** 1,691
+- **⭐ Stars:** 1,694
 - **Language:** JavaScript
 - **Description:** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
-- **Tags:** `design`, `visual`, `ppt`
-- **Why use it:** Editable design system with AI generation, templates, and PPT studio
+- **Tags:** `design`, `ppt`, `visual-editor`
+- **Why use it:** AI-generated native design system and PPT studio with visual editor.
 
 ---
 
-### [Anionex/dsh-vision-toolkit](https://github.com/Anionex/dsh-vision-toolkit)
+### [sixtysevenlf/dsh-blender-plugin](https://github.com/sixtysevenlf/dsh-blender-plugin)
 
-- **⭐ Stars:** 923
+- **⭐ Stars:** 1,598
+- **Language:** Python
+- **Description:** DSH × Blender 直连实时插件 v2.6.1：15 个模型工具让 AI 驱动 GUI Blender；支持 dsh-TUI（选中 chip / 页脚状态 / @ 提及 / /blender），活动状态置顶并可一键暂停 AI，原生选中/集合/子元素直送 DSH，随包建模 skill，支持 WSL / Windows / macOS。
+- **Tags:** `3d-modeling`, `blender`, `automation`
+- **Why use it:** Direct Blender integration with 15 AI-driven 3D modeling tools.
+
+---
+
+### [omdsh-dev/dsh-genui](https://github.com/omdsh-dev/dsh-genui)
+
+- **⭐ Stars:** 852
 - **Language:** TypeScript
-- **Description:** [dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.
-- **Tags:** `vision`, `ocr`, `computer-vision`
-- **Why use it:** Vision toolkit for text-only models: image Q&A, OCR, screenshot UI restoration.
-
----
-
-### [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design)
-
-- **⭐ Stars:** 354
-- **Language:** HTML
-- **Description:** 歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案
-- **Tags:** `design-system`, `skills`, `workflow`
-- **Why use it:** Design system with PPT, cards, layout skills for polished content production
-
----
-
-### [Akillll-DuoHe/fy-code-animation](https://github.com/Akillll-DuoHe/fy-code-animation)
-
-- **⭐ Stars:** 168
-- **Language:** TypeScript
-- **Description:** 把中文文案、画风提示词和声音做成前后连贯的代码动画（Remotion / Canvas / HTML）的 DeepSeek Harness 技能。341 画风库检索、语义分镜、镜头转场、角色表演、四案音乐与音效、检查返修。
-- **Tags:** `animation`, `visual`, `remotion`
-- **Why use it:** Generates code animations from Chinese scripts with 341 style library
-
----
-
-### [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh)
-
-- **⭐ Stars:** 122
-- **Language:** TypeScript
-- **Description:** 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。
-- **Tags:** `video`, `design`, `remotion`
-- **Why use it:** Film-style video production with 152 shot recipe cards and Remotion templates
+- **Description:** GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.
+- **Tags:** `dsh-plugin`, `visual`, `design`
+- **Why use it:** Generates interactive inline UI: charts, forms, quizzes in replies
 
 ---
 
 ### [LaplaceYoung/dsh-directorx](https://github.com/LaplaceYoung/dsh-directorx)
 
-- **⭐ Stars:** 47
+- **⭐ Stars:** 48
 - **Language:** JavaScript
 - **Description:** DirectorX as a DeepSeek Harness plugin: AI video/image/audio skills, knowledge corpus, and configurable vision/image/video/audio model tools.
-- **Tags:** `ai-video`, `image-generation`, `storyboard`
-- **Why use it:** AI video/image/audio pipeline: storyboard, text-to-video, configurable vision and media models.
+- **Tags:** `video`, `image`, `ai-creative`
+- **Why use it:** AI video/image/audio creation suite with configurable vision models.
 
 ---
 
-### [Max-Samson/dsh-usage-chart](https://github.com/Max-Samson/dsh-usage-chart)
+### [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin)
 
-- **⭐ Stars:** 9
-- **Language:** TypeScript
-- **Description:** A DeepSeek Harness Web plugin for real-time Token usage, cost estimates, per-round charts, and DeepSeek API balance.
-- **Tags:** `visualization`, `token-usage`, `cost`
-- **Why use it:** Real-time token usage charts, cost estimates, and API balance visualization.
+- **⭐ Stars:** 5
+- **Language:** JavaScript
+- **Description:** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
+- **Tags:** `ui`, `personalization`, `background`
+- **Why use it:** Web UI background personalization with live preview.
 
 ---
 
@@ -132,9 +122,9 @@
 
 - **⭐ Stars:** 3
 - **Language:** TypeScript
-- **Description:** DeepSeek Harness 原生插件：可拖拽的���作区 / 会话图谱，气泡视图 + 筛选搜索 + 原生会话操作 | Draggable workspace & session graph plugin for DSH
+- **Description:** DeepSeek Harness 原生插件：可拖拽的工作区 / 会话图谱，气泡视图 + 筛选搜索 + 原生会话操作 | Draggable workspace & session graph plugin for DSH
 - **Tags:** `visualization`, `graph`, `workspace`
-- **Why use it:** Draggable workspace and session graph visualization.
+- **Why use it:** Draggable workspace/session graph with bubble view.
 
 ---
 
