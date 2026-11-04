@@ -8,43 +8,43 @@
 
 ## Plugins
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [superdesigndev/treg](https://github.com/superdesigndev/treg)
 
-- **⭐ Stars:** 924
-- **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `agent-skills`, `dsh-plugin`
-- **Why use it:** Free web search plugin for DSH, no signup or API key required
-
----
-
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
-
-- **⭐ Stars:** 251
-- **Language:** JavaScript
-- **Description:** DSH plugin: skill and MCP management（skill/MCP管理工具）
-- **Tags:** `mcp`, `skill`, `management`
-- **Why use it:** Centralized skill and MCP management panel for DSH.
-
----
-
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
-
-- **⭐ Stars:** 196
+- **⭐ Stars:** 7,148
 - **Language:** Python
-- **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `finance`, `database`, `mcp`, `stock`
-- **Why use it:** Local financial database via Tushare with MCP/HTTP API generation for multi-agent finance analysis.
+- **Description:** OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
+- **Tags:** `mcp`, `registry`, `dsh-plugin`
+- **Why use it:** OpenRouter-style registry for community agent tools and MCPs
 
 ---
 
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+### [Mars-Sea/dsh-commandcode-provider](https://github.com/Mars-Sea/dsh-commandcode-provider)
 
-- **⭐ Stars:** 76
+- **⭐ Stars:** 456
 - **Language:** TypeScript
-- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
-- **Tags:** `ai-agents`, `chinese-api`, `dsh-plugin`, `mcp`
-- **Why use it:** Searches 65,600+ API docs across 20 major Chinese open platforms.
+- **Description:** Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.
+- **Tags:** `provider`, `mcp`, `model`
+- **Why use it:** Adds Command Code model access with plan-aware selection
+
+---
+
+### [FishBottle7/opencode2dsh](https://github.com/FishBottle7/opencode2dsh)
+
+- **⭐ Stars:** 389
+- **Language:** TypeScript
+- **Description:** DSH plugin — free OpenCode Zen models for DeepSeek Harness (DSH). Free LLM API, no API key needed. 在 DSH 中使用 OpenCode Zen 免费模型，无需 API key
+- **Tags:** `mcp`, `free`, `provider`
+- **Why use it:** Free OpenCode Zen models for DSH without API key
+
+---
+
+### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
+
+- **⭐ Stars:** 98
+- **Language:** TypeScript
+- **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
+- **Tags:** `agent-skills`, `mcp-server`, `web-search`
+- **Why use it:** Web search, content extraction and research skills across multiple AI agent platforms
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ Stars:** 71
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `cloud`, `mcp`, `deepseek-harness`, `terraform`
-- **Why use it:** Official Huawei Cloud MCP tools with sandbox and guardrails.
+- **Tags:** `deepseek-harness`, `dsh-plugin`, `mcp`, `cloud`
+- **Why use it:** Official Huawei Cloud plugin: skills, MCP tools and cloud sandbox for AI agents
 
 ---
 
@@ -63,8 +63,8 @@
 - **⭐ Stars:** 54
 - **Language:** JavaScript
 - **Description:** 番茄小说 MCP、独立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。
-- **Tags:** `mcp-server`, `reading`, `novel`
-- **Why use it:** Fanqie novel reading MCP server with search, read, and bookshelf support
+- **Tags:** `mcp-server`, `novel`, `reading`
+- **Why use it:** MCP server for Tomato Novel: search, read chapters, and manage bookmarks
 
 ---
 
@@ -73,8 +73,8 @@
 - **⭐ Stars:** 40
 - **Language:** JavaScript
 - **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `mcp-tool`
-- **Why use it:** OAuth integration to use ChatGPT Plus models directly inside DSH
+- **Tags:** `chatgpt`, `oauth`, `subscription`
+- **Why use it:** OAuth binding for ChatGPT Plus/Codex subscription access within DSH
 
 ---
 
