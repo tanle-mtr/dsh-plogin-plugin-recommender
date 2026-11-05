@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 5 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,41 +10,31 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 10,015
+- **⭐ Stars:** 10,030
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-use`, `agent`, `dsh-plugin`
-- **Why use it:** Real browser automation with login sessions
+- **Tags:** `dsh-plugin`, `browser-use`, `agent`, `automation`
+- **Why use it:** Lets AI agents use your real logged-in browser for seamless cross-platform automation
 
 ---
 
 ### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ Stars:** 3,679
+- **⭐ Stars:** 3,682
 - **Language:** Python
 - **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `bilibili`, `cross-platform`
-- **Why use it:** Local-first AI agent that discovers and summarizes content from 8+ platforms.
-
----
-
-### [urzeye/ophel](https://github.com/urzeye/ophel)
-
-- **⭐ Stars:** 1,012
-- **Language:** TypeScript
-- **Description:** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
-- **Tags:** `browser-extension`, `workflow`, `productivity`, `prompt-management`
-- **Why use it:** Chrome extension turning AI conversations into reusable cross-platform workflows
+- **Tags:** `browser`, `content-discovery`, `cross-platform`
+- **Why use it:** Self-evolving cross-platform content discovery agent from B站, YouTube, etc.
 
 ---
 
 ### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
 
-- **⭐ Stars:** 359
+- **⭐ Stars:** 360
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios`, `mobile-automation`, `webdriveragent`, `ui-automation`
-- **Why use it:** 22 tools for iOS simulator & USB iPhone automation inside conversation.
+- **Tags:** `ios`, `automation`, `ui-automation`
+- **Why use it:** Full iOS simulator automation suite with 22 agent tools right in chat
 
 ---
 
@@ -53,8 +43,8 @@
 - **⭐ Stars:** 122
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser`, `automation`, `playwright`
-- **Why use it:** Playwright-based browser automation plugins for DSH
+- **Tags:** `browser-automation`, `playwright`
+- **Why use it:** Tabbit browser automation plugin for DeepSeek Harness
 
 ---
 
