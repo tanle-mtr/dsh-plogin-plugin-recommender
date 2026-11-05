@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 4 个插件
+> 本分类共 3 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,21 +10,21 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 10,057
+- **⭐ 星标：** 10,067
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `agent`, `browser-use`, `dsh-plugin`
-- **推荐理由：** CLI+扩展实现已登录浏览器自动化，无缝对接AI代理
+- **标签：** `browser-use`, `agent`, `automation`
+- **推荐理由：** AI代理控制真实浏览器，不影响日常使用
 
 ---
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [urzeye/ophel](https://github.com/urzeye/ophel)
 
-- **⭐ 星标：** 929
+- **⭐ 星标：** 1,011
 - **语言：** TypeScript
-- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **标签：** `web-search`, `agent-skills`, `free`
-- **推荐理由：** 免费网页搜索插件，无需注册即可为无搜索能力的模型提供搜索。
+- **描述：** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
+- **标签：** `browser-extension`, `workflow`, `productivity`
+- **推荐理由：** 浏览器扩展将AI对话转化为可复用工作流
 
 ---
 
@@ -33,18 +33,8 @@
 - **⭐ 星标：** 361
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **标签：** `ios`, `automation`, `webdriveragent`, `mcp`
-- **推荐理由：** 内置22个工具，支持iOS模拟器和真机自动化操作。
-
----
-
-### [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)
-
-- **⭐ 星标：** 123
-- **语言：** TypeScript
-- **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser-automation`, `playwright`
-- **推荐理由：** 基于Playwright的Tabbit浏览器自动化插件
+- **标签：** `ios`, `automation`, `mobile-automation`, `mcp`
+- **推荐理由：** 22个iOS模拟器与真机自动化Agent工具
 
 ---
 
