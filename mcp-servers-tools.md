@@ -8,13 +8,23 @@
 
 ## Plugins
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [LnYo-Cly/ai4j](https://github.com/LnYo-Cly/ai4j)
 
-- **⭐ Stars:** 948
-- **Language:** TypeScript
-- **Description:** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **Tags:** `web-search`, `mcp`, `agent-skills`
-- **Why use it:** Free web search bridge plugin with no signup or API required.
+- **⭐ Stars:** 438
+- **Language:** Java
+- **Description:** Java 8+ agentic SDK: unified LLM access (OpenAI/Anthropic/DashScope/Doubao/DeepSeek...),unified AI service(image/video/audio...), Tool Calling, MCP, RAG, SKILLS,Agent Runtime, A2A, agent blueprint, agent harness, and a built-in Coding Agent CLI/TUI/ACP.
+- **Tags:** `sdk`, `java`, `mcp`, `rag`
+- **Why use it:** Java SDK with unified LLM access, Tool Calling, MCP and RAG support
+
+---
+
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+
+- **⭐ Stars:** 259
+- **Language:** JavaScript
+- **Description:** DSH plugin: skill and MCP management（skill/MCP管理工具）
+- **Tags:** `mcp`, `skills`, `management`, `dsh-plugin`
+- **Why use it:** Unified management panel for DSH skills and MCP servers in one place.
 
 ---
 
@@ -23,18 +33,8 @@
 - **⭐ Stars:** 197
 - **Language:** Python
 - **Description:** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **Tags:** `finance`, `mcp`, `database`, `agent`
-- **Why use it:** Financial data DB with MCP server and multi-agent support for real-time monitoring
-
----
-
-### [PKUfudawei/dsh-capability-menu](https://github.com/PKUfudawei/dsh-capability-menu)
-
-- **⭐ Stars:** 102
-- **Language:** TypeScript
-- **Description:** 管理 DeepSeek Harness 中工具与技能的暴露策略，支持按需检索与调用。Manage tool and skill exposure in DeepSeek Harness with on-demand discovery and invocation. 
-- **Tags:** `mcp`, `skills`, `cordis`
-- **Why use it:** Manage tool and skill exposure with on-demand discovery
+- **Tags:** `mcp-server`, `finance`, `agent-skills`
+- **Why use it:** Local financial DB with MCP server for multi-agent trading analysis
 
 ---
 
@@ -43,8 +43,8 @@
 - **⭐ Stars:** 70
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `cloud`, `mcp`, `sdk`, `terraform`
-- **Why use it:** Official Huawei Cloud plugin with MCP tools, skills, and sandbox support.
+- **Tags:** `mcp`, `cloud`, `ai-coding`, `huaweicloud`
+- **Why use it:** Official Huawei Cloud MCP tools with guardrails for safe AI agent cloud operations
 
 ---
 
@@ -53,8 +53,8 @@
 - **⭐ Stars:** 55
 - **Language:** JavaScript
 - **Description:** 番茄小说 MCP、独立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。
-- **Tags:** `mcp`, `dsh-plugin`
-- **Why use it:** MCP server for Fanqie novel reading, search, and personal shelf management.
+- **Tags:** `mcp`, `reading`, `dsh-plugin`
+- **Why use it:** Fanqie novel reading MCP server with search, reading, and bookshelf features
 
 ---
 
