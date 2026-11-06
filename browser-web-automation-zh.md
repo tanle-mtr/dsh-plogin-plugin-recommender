@@ -10,21 +10,11 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 10,067
+- **⭐ 星标：** 10,076
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `agent`, `automation`
-- **推荐理由：** AI代理控制真实浏览器，不影响日常使用
-
----
-
-### [urzeye/ophel](https://github.com/urzeye/ophel)
-
-- **⭐ 星标：** 1,011
-- **语言：** TypeScript
-- **描述：** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
-- **标签：** `browser-extension`, `workflow`, `productivity`
-- **推荐理由：** 浏览器扩展将AI对话转化为可复用工作流
+- **标签：** `browser-use`, `agent`
+- **推荐理由：** 让AI代理无缝控制真实已登录浏览器
 
 ---
 
@@ -33,8 +23,18 @@
 - **⭐ 星标：** 361
 - **语言：** TypeScript
 - **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **标签：** `ios`, `automation`, `mobile-automation`, `mcp`
-- **推荐理由：** 22个iOS模拟器与真机自动化Agent工具
+- **标签：** `ios`, `automation`, `mcp`, `ui-automation`
+- **推荐理由：** 22 tools for iOS Simulator and device automation. iOS模拟器与设备自动化工具集
+
+---
+
+### [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)
+
+- **⭐ 星标：** 124
+- **语言：** TypeScript
+- **描述：** Tabbit Browser plugins for Deepseek Harness
+- **标签：** `browser`, `automation`, `playwright`
+- **推荐理由：** Tabbit浏览器自动化插件，支持Playwright
 
 ---
 
