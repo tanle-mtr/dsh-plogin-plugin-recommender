@@ -1,6 +1,6 @@
 # 视觉与设计
 
-> 本分类共 7 个插件
+> 本分类共 12 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,41 +10,51 @@
 
 ### [nexu-io/open-design](https://github.com/nexu-io/open-design)
 
-- **⭐ 星标：** 106,210
+- **⭐ 星标：** 106,281
 - **语言：** TypeScript
 - **描述：** The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create motion, prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work, exchange feedback, and iterate together in one workspace.
-- **标签：** `design`, `figma-alternative`, `ui-generator`
-- **推荐理由：** 首个本地优先的协作AI设计工作空间
+- **标签：** `design`, `prototyping`, `local-first`
+- **推荐理由：** 本地优先的协作式AI设计工作区，支持原型制作
 
 ---
 
 ### [tt-a1i/archify](https://github.com/tt-a1i/archify)
 
-- **⭐ 星标：** 94,048
+- **⭐ 星标：** 94,143
 - **语言：** JavaScript
 - **描述：** Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-- **标签：** `diagrams`, `mermaid`, `visualization`
-- **推荐理由：** 将代码库转化为精美的交互式 diagrams
+- **标签：** `diagrams`, `visualization`, `architecture`
+- **推荐理由：** 将代码库和想法转化为精美交互式架构图
 
 ---
 
 ### [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 
-- **⭐ 星标：** 36,735
+- **⭐ 星标：** 36,740
 - **语言：** TypeScript
 - **描述：** Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
-- **标签：** `draw-io`, `diagrams`, `mcp-server`
-- **推荐理由：** AI辅助聊天式draw.io图表编辑
+- **标签：** `diagram`, `draw-io`, `mcp`
+- **推荐理由：** 通过AI对话绘制draw.io图表，支持Web和桌面端
 
 ---
 
 ### [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)
 
-- **⭐ 星标：** 35,515
+- **⭐ 星标：** 35,526
 - **语言：** JavaScript
 - **描述：** Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
-- **标签：** `image-generation`, `prompts`, `templates`
-- **推荐理由：** 530+图像生成提示词与工业级模板
+- **标签：** `image-generation`, `prompts`, `visual`
+- **推荐理由：** 530+ GPT图像提示词模板，工业级可复用
+
+---
+
+### [alchaincyf/huashu-design](https://github.com/alchaincyf/huashu-design)
+
+- **⭐ 星标：** 28,883
+- **语言：** HTML
+- **描述：** Huashu Design 3.0 · 在 agent 里打一句话，拿回能交付的设计：网页 / App 原型 / 可编辑 PPTX / 动画 / 信息图 · 六个候选挑三个方向 · 84 种带样张的风格库 · 越用越懂你的外观账本与设计体检 · HTML-native design skill for Claude Code, Codex, Cursor & any agent
+- **标签：** `agent-skills`, `ai-design`, `dsh-plugin`
+- **推荐理由：** 一句话生成网页/APP原型/PPT/信息图，高效设计交付。
 
 ---
 
@@ -53,28 +63,68 @@
 - **⭐ 星标：** 7,091
 - **语言：** Rust
 - **描述：** The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
-- **标签：** `design`, `vector`, `UI`, `AI-native`
-- **推荐理由：** 首个开源AI原生矢量设计工具，多Agent协作直接生成UI
+- **标签：** `design`, `vector`, `ui`, `agent-team`
+- **推荐理由：** 首个开源AI矢量设计工具，Agent团队协作
+
+---
+
+### [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design)
+
+- **⭐ 星标：** 6,159
+- **语言：** JavaScript
+- **描述：** Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude.
+- **标签：** `design`, `prototyping`, `ui-design`
+- **推荐理由：** 本地运行Claude Design��能生成UI原型
+
+---
+
+### [Devin-AXIS/deepseek-design](https://github.com/Devin-AXIS/deepseek-design)
+
+- **⭐ 星标：** 1,735
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.
+- **标签：** `ai-design`, `deepseek`, `design-studio`, `ppt`
+- **推荐理由：** AI设计系统，支持可视化编辑和PPT模板生成。
 
 ---
 
 ### [op7418/dsh-guizang-design](https://github.com/op7418/dsh-guizang-design)
 
-- **⭐ 星标：** 522
+- **⭐ 星标：** 545
 - **语言：** HTML
 - **描述：** 歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案
-- **标签：** `design`, `ppt`, `layout`, `skills`
-- **推荐理由：** 网页PPT图文卡片排版设计系统与去AI味技能
+- **标签：** `design-system`, `skills`, `dsh-plugin`
+- **推荐理由：** 网页PPT图文卡片排版设计系统插件。
 
 ---
 
-### [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin)
+### [kingselyjoe/video-shotcraft-dsh](https://github.com/kingselyjoe/video-shotcraft-dsh)
 
-- **⭐ 星标：** 5
-- **语言：** JavaScript
-- **描述：** DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。
-- **标签：** `dsh-plugin`, `webui`, `visual`
-- **推荐理由：** 个性化DSH Web背景，支持图片与预设氛围。
+- **⭐ 星标：** 134
+- **语言：** TypeScript
+- **描述：** 面向 DeepSeek Harness 的电影感产品视频 Agent Skill，包含 152 张镜头配方卡、Remotion 模板、代码组件和音频资产。
+- **标签：** `video`, `motion-design`, `remotion`, `visual`
+- **推荐理由：** 152张镜头配方卡与Remotion模板，电影感产品视频生成
+
+---
+
+### [alienzhou/html-workbench](https://github.com/alienzhou/html-workbench)
+
+- **⭐ 星标：** 52
+- **语言：** HTML
+- **描述：** Local visual editor for existing HTML, with interactive previews and AI collaboration. Available as a DeepSeek Harness plugin and agent skill. 本地 HTML 可视化编辑、交互预览与 AI 协作，支持 DeepSeek Harness 插件和 Agent Skill。
+- **标签：** `html-editor`, `visual-editor`, `wysiwyg`
+- **推荐理由：** 本地优先的可视化HTML编辑器，支持AI协作。
+
+---
+
+### [qrxf/dsh-workspace-graph](https://github.com/qrxf/dsh-workspace-graph)
+
+- **⭐ 星标：** 3
+- **语言：** TypeScript
+- **描述：** DeepSeek Harness 原生插件：可拖拽的工作区 / 会话图谱，气泡视图 + 筛选搜索 + 原生会话操作 | Draggable workspace & session graph plugin for DSH
+- **标签：** `visualization`, `graph`, `ui`
+- **推荐理由：** 原生工作区/会话图谱，拖拽气泡视图可视化。
 
 ---
 

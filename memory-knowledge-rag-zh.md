@@ -1,6 +1,6 @@
 # 记忆与知识（RAG）
 
-> 本分类共 4 个插件
+> 本分类共 10 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,41 +10,101 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 41,680
+- **⭐ 星标：** 41,697
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `memory`, `rag`, `vector-database`
-- **推荐理由：** 统一记忆与RAG的自我进化上下文数据库
+- **标签：** `memory`, `rag`, `knowledge-base`
+- **推荐理由：** 自进化上下文数据库，统一智能体记忆与RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 36,661
+- **⭐ 星标：** 36,678
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
 - **标签：** `rag`, `knowledge-base`, `wiki`
-- **推荐理由：** 带RAG、搜索与Wiki的LLM知识平台
+- **推荐理由：** 腾讯开源知识库平台，支持RAG与智能问答
+
+---
+
+### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
+
+- **⭐ 星标：** 13,839
+- **语言：** Python
+- **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
+- **标签：** `agent-memory`, `rag`, `dsh-plugin`
+- **推荐理由：** 本地优先的跨Agent通用记忆层，Markdown原生可自演进。
+
+---
+
+### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
+
+- **⭐ 星标：** 12,302
+- **语言：** TypeScript
+- **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
+- **标签：** `memory`, `rag`, `dsh-plugin`
+- **推荐理由：** 自演进记忆系统，混合检索节省35%Token，支持Agent跨任务复用。
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ 星标：** 7,967
+- **⭐ 星标：** 7,979
 - **语言：** Python
 - **描述：**  Memory library for building stateful agents
-- **标签：** `memory`, `RAG`, `stateful-agent`
-- **推荐理由：** 为Agent提供持久化记忆，支持持续学习与状态保持
+- **标签：** `memory`, `rag`, `stateful-agents`
+- **推荐理由：** 构建有状态Agent的核心记忆库
+
+---
+
+### [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)
+
+- **⭐ 星标：** 910
+- **语言：** TypeScript
+- **描述：** Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.
+- **标签：** `agent-memory`, `semantic-recall`, `long-term-memory`
+- **推荐理由：** 可组合记忆系统，支持语义检索和跨会话记忆。
 
 ---
 
 ### [EverMind-AI/SkillCorpus](https://github.com/EverMind-AI/SkillCorpus)
 
-- **⭐ 星标：** 698
+- **⭐ 星标：** 699
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `memory`, `skill`, `rag`, `retrieval`
-- **推荐理由：** 将SKILL.md转化为可检索的Agent技能知识库
+- **标签：** `agent-memory`, `embeddings`, `vector-search`, `dsh-plugin`
+- **推荐理由：** 将SKILL文件转为可检索、可评估的Agent技能知识库。
+
+---
+
+### [Phant0Meow/dsh-meow-memory](https://github.com/Phant0Meow/dsh-meow-memory)
+
+- **⭐ 星标：** 373
+- **语言：** TypeScript
+- **描述：** Cross-session memory plugin for DeepSeek Harness: seven-layer SQLite store (soul/user/project/fact/lesson/topic/rules), BM25 retrieval, per-window dream consolidation. 跨会话七层长期记忆插件。
+- **标签：** `memory`, `rag`, `sqlite`
+- **推荐理由：** 七层SQLite跨会话记忆，支持BM25检索持久化
+
+---
+
+### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
+
+- **⭐ 星标：** 189
+- **语言：** JavaScript
+- **描述：** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 事件驱动的主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
+- **标签：** `memory`, `consolidation`, `auto-memory`
+- **推荐理由：** 三层自动记忆巩固与技能结晶的主动关联记忆系统
+
+---
+
+### [kenz1117/dsh-engram](https://github.com/kenz1117/dsh-engram)
+
+- **⭐ 星标：** 65
+- **语言：** TypeScript
+- **描述：** Local-first cross-session long-term memory for DeepSeek Harness — 22 narrow tools, hybrid FTS5 + local-vector retrieval, evidence gate, provenance audit, SM-2 review. Zero external services, zero API keys.
+- **标签：** `memory`, `rag`, `vector-search`, `local-first`
+- **推荐理由：** 本地优先的长期记忆系统，混合检索与溯源审计。
 
 ---
 
