@@ -1,6 +1,6 @@
 # MCP 服务器与工具
 
-> 本分类共 3 个插件
+> 本分类共 4 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,23 +8,33 @@
 
 ## 插件列表
 
-### [liustack/modsearch](https://github.com/liustack/modsearch)
+### [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
 
-- **⭐ 星标：** 952
-- **语言：** TypeScript
-- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
-- **标签：** `web-search`, `mcp`, `free`, `no-signup`
-- **推荐理由：** 免费无注册的跨模型Web搜索桥接插件。
+- **⭐ 星标：** 65,212
+- **语言：** JavaScript
+- **描述：** 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
+- **标签：** `free-models`, `llm-provider`, `access`
+- **推荐理由：** 无需API密钥即可免费使用前沿大模型。
 
 ---
 
-### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
 
-- **⭐ 星标：** 197
-- **语言：** Python
-- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
-- **标签：** `mcp`, `finance`, `agent`
-- **推荐理由：** 基于tushare的财经数据库，支持MCP调用和多Agent金融分析
+- **⭐ 星标：** 76
+- **语言：** TypeScript
+- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **标签：** `api-documentation`, `mcp`
+- **推荐理由：** 零配置搜索20平台6万+中国API文档，覆盖主流AI编程工具。
+
+---
+
+### [huaweicloud/huaweicloud-devkit](https://github.com/huaweicloud/huaweicloud-devkit)
+
+- **⭐ 星标：** 70
+- **语言：** JavaScript
+- **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
+- **标签：** `cloud`, `mcp`, `devops`
+- **推荐理由：** 华为云官方MCP工具包，含技能、安全护栏与云端沙箱。
 
 ---
 
@@ -33,8 +43,8 @@
 - **⭐ 星标：** 55
 - **语言：** JavaScript
 - **描述：** 番茄小说 MCP、独立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。
-- **标签：** `mcp`, `novel`, `reading`
-- **推荐理由：** 番茄小说MCP服务，支持搜书阅读书架管理。
+- **标签：** `mcp`, `reading`, `novel`
+- **推荐理由：** 番茄小说MCP服务，支持搜书阅读与书架划线收藏管理。
 
 ---
 

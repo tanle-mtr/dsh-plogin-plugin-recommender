@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 3 个插件
+> 本分类共 2 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,23 +8,13 @@
 
 ## 插件列表
 
-### [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+### [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill)
 
-- **⭐ 星标：** 27,402
-- **语言：** TypeScript
-- **描述：** Let's use AI to Earn!
-- **标签：** `auto-publish`, `mcp`, `social-media`
-- **推荐理由：** AI自动化多平台内容发布到抖音、小红书等。
-
----
-
-### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
-
-- **⭐ 星标：** 10,142
-- **语言：** TypeScript
-- **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `agent-automation`
-- **推荐理由：** AI智能体无缝操控真实浏览器，CLI+扩展方案
+- **⭐ 星标：** 558
+- **语言：** Python
+- **描述：** Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.
+- **标签：** `multimodal`, `ocr`, `observability`
+- **推荐理由：** 赋予Agent视听能力，生成可验证时间戳证据。
 
 ---
 
@@ -34,7 +24,7 @@
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
 - **标签：** `browser`, `playwright`, `automation`
-- **推荐理由：** 集成Playwright的浏览器自动化插件，功能强大
+- **推荐理由：** 基于Playwright的Tabbit浏览器自动化插件。
 
 ---
 

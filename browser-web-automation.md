@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 3 plugins in this category
+> 2 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,23 +8,13 @@
 
 ## Plugins
 
-### [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+### [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill)
 
-- **⭐ Stars:** 27,402
-- **Language:** TypeScript
-- **Description:** Let's use AI to Earn!
-- **Tags:** `auto-publish`, `mcp`, `social-media`
-- **Why use it:** Automates cross-platform content publishing to Douyin, Xiaohongshu and more via AI.
-
----
-
-### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
-
-- **⭐ Stars:** 10,142
-- **Language:** TypeScript
-- **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-use`, `agent-automation`
-- **Why use it:** Enables AI agents to use real logged-in browsers without interruption
+- **⭐ Stars:** 558
+- **Language:** Python
+- **Description:** Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.
+- **Tags:** `multimodal`, `ocr`, `observability`
+- **Why use it:** Eyes and ears for agents — converts video, audio, screen into timestamped evidence.
 
 ---
 
@@ -34,7 +24,7 @@
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
 - **Tags:** `browser`, `playwright`, `automation`
-- **Why use it:** Tabbit Browser integration with Playwright for powerful web automation
+- **Why use it:** Tabbit browser automation plugins powered by Playwright for DSH.
 
 ---
 
