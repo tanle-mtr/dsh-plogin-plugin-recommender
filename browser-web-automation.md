@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 2 plugins in this category
+> 3 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,23 @@
 
 ## Plugins
 
+### [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+
+- **⭐ Stars:** 27,402
+- **Language:** TypeScript
+- **Description:** Let's use AI to Earn!
+- **Tags:** `auto-publish`, `mcp`, `social-media`
+- **Why use it:** Automates cross-platform content publishing to Douyin, Xiaohongshu and more via AI.
+
+---
+
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 10,128
+- **⭐ Stars:** 10,142
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `browser-automation`, `agent`
-- **Why use it:** Let AI agents use your real logged-in browser seamlessly via CLI and extension
+- **Tags:** `browser-use`, `agent-automation`
+- **Why use it:** Enables AI agents to use real logged-in browsers without interruption
 
 ---
 
@@ -24,7 +34,7 @@
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
 - **Tags:** `browser`, `playwright`, `automation`
-- **Why use it:** Tabbit browser automation plugin using Playwright
+- **Why use it:** Tabbit Browser integration with Playwright for powerful web automation
 
 ---
 
