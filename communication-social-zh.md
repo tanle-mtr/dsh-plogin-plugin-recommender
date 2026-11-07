@@ -10,31 +10,31 @@
 
 ### [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
 
-- **⭐ 星标：** 27,373
+- **⭐ 星标：** 27,384
 - **语言：** TypeScript
 - **描述：** Let's use AI to Earn!
-- **标签：** `auto-publish`, `mcp`, `douyin`, `xiaohongshu`
-- **推荐理由：** AI一键自动发布到抖音小红书快手等平台
+- **标签：** `auto-publish`, `mcp-server`, `social-media`
+- **推荐理由：** AI自动发布内容到抖音、快手、小红书等社交平台
 
 ---
 
-### [rentaoyan0628-collab/dsh-qq-bot-playbook](https://github.com/rentaoyan0628-collab/dsh-qq-bot-playbook)
+### [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot)
 
-- **⭐ 星标：** 77
-- **语言：** Unknown
-- **描述：** 在 DeepSeek Harness 上搭一只像人的 QQ bot——可复用的 skill 与设计笔记
-- **标签：** `qq-bot`, `skill`
-- **推荐理由：** 构建类人QQ机器人的可复用技能与设计笔记
-
----
-
-### [seolhw/dsh-guild](https://github.com/seolhw/dsh-guild)
-
-- **⭐ 星标：** 3
+- **⭐ 星标：** 5,994
 - **语言：** JavaScript
-- **描述：** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **标签：** `community`, `chat`
-- **推荐理由：** 类Discord社区插件，支持聊天和文件共享。
+- **描述：** A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
+- **标签：** `multi-agent`, `bot`
+- **推荐理由：** 持久化多代理团队，支持群聊与互通
+
+---
+
+### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
+
+- **⭐ 星标：** 527
+- **语言：** JavaScript
+- **描述：** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
+- **标签：** `meme`, `communication`, `sticker`
+- **推荐理由：** 一键表情包选择，支持自动学习和主动情绪发图。
 
 ---
 
