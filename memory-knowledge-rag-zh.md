@@ -10,21 +10,31 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ 星标：** 41,740
+- **⭐ 星标：** 41,746
 - **语言：** Python
 - **描述：** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **标签：** `memory`, `rag`, `context-database`
-- **推荐理由：** 自进化上下文数据库，统一记忆与知识检索。
+- **标签：** `memory`, `RAG`, `vector-database`
+- **推荐理由：** 自进化上下文数据库，统一智能体记忆与知识RAG
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ 星标：** 36,733
+- **⭐ 星标：** 36,744
 - **语言：** Go
 - **描述：** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **标签：** `rag`, `knowledge-base`, `wiki`
-- **推荐理由：** 将文档转化为可查询的RAG知识库与Wiki。
+- **标签：** `RAG`, `knowledge-base`, `wiki`
+- **推荐理由：** 生产级LLM知识平台，支持RAG、推理和维基功能
+
+---
+
+### [titanwings/distilly](https://github.com/titanwings/distilly)
+
+- **⭐ 星标：** 26,427
+- **语言：** Python
+- **描述：** Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
+- **标签：** `agent-skills`, `knowledge-distillation`, `dsh-plugin`
+- **推荐理由：** 将思考方式提炼为可复用的技能，跨Agent共享。
 
 ---
 
@@ -33,8 +43,8 @@
 - **⭐ 星标：** 13,845
 - **语言：** Python
 - **描述：** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **标签：** `memory`, `markdown-native`, `self-evolving`
-- **推荐理由：** 可移植的Markdown原生记忆层，跨Agent共享知识。
+- **标签：** `memory`, `rag`, `long-term-memory`
+- **推荐理由：** 可移植的Markdown原生记忆层，跨应用自我进化。
 
 ---
 
@@ -43,28 +53,28 @@
 - **⭐ 星标：** 12,314
 - **语言：** TypeScript
 - **描述：** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **标签：** `memory`, `token-savings`, `hybrid-retrieval`
-- **推荐理由：** 自演进记忆系统，混合检索节省35%Token消耗。
+- **标签：** `memory`, `rag`, `token-savings`
+- **推荐理由：** 自演进记忆系统，混合检索节省35% Token。
+
+---
+
+### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
+
+- **⭐ 星标：** 8,003
+- **语言：** Python
+- **描述：**  Memory library for building stateful agents
+- **标签：** `memory`, `rag`, `stateful`
+- **推荐理由：** 构建有状态Agent必备的记忆库
 
 ---
 
 ### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
 
-- **⭐ 星标：** 4,532
+- **⭐ 星标：** 4,548
 - **语言：** TypeScript
 - **描述：** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。
-- **标签：** `context`, `memory`, `dashboard`
-- **推荐理由：** 最佳上下文管理与仪表盘插件。
-
----
-
-### [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)
-
-- **⭐ 星标：** 918
-- **语言：** TypeScript
-- **描述：** Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.
-- **标签：** `memory`, `context-management`, `semantic-recall`
-- **推荐理由：** 支持语义回忆的可组合记忆编排系统。
+- **标签：** `context`, `dashboard`, `management`, `dsh-plugin`
+- **推荐理由：** 强大的上下文仪表盘与管理工具，提升信息整合。
 
 ---
 
@@ -73,28 +83,18 @@
 - **⭐ 星标：** 699
 - **语言：** Python
 - **描述：** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **标签：** `skill-management`, `rag`, `embeddings`
-- **推荐理由：** 将零散SKILL文件转化为可检索的知识库。
+- **标签：** `rag`, `skill`, `retrieval`, `embeddings`
+- **推荐理由：** 将分散的技能文档转化为可检索的知识库。
 
 ---
 
 ### [Phant0Meow/dsh-meow-memory](https://github.com/Phant0Meow/dsh-meow-memory)
 
-- **⭐ 星标：** 376
+- **⭐ 星标：** 377
 - **语言：** TypeScript
 - **描述：** Cross-session memory plugin for DeepSeek Harness: seven-layer SQLite store (soul/user/project/fact/lesson/topic/rules), BM25 retrieval, per-window dream consolidation. 跨会话七层长期记忆插件。
-- **标签：** `memory`, `rag`, `sqlite`, `cross-session`
-- **推荐理由：** 七层SQLite跨会话记忆系统，BM25检索持久知识。
-
----
-
-### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
-
-- **⭐ 星标：** 191
-- **语言：** JavaScript
-- **描述：** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 事件驱动的主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
-- **标签：** `memory`, `context`, `dsh`
-- **推荐理由：** 三层自动整合的联想记忆系统，提升AI上下文连续性。
+- **标签：** `memory`, `rag`, `sqlite`, `bm25`
+- **推荐理由：** 七层SQLite记忆存储，BM25检索，跨窗口去重与持久化。
 
 ---
 
@@ -103,8 +103,8 @@
 - **⭐ 星标：** 65
 - **语言：** TypeScript
 - **描述：** Local-first cross-session long-term memory for DeepSeek Harness — 22 narrow tools, hybrid FTS5 + local-vector retrieval, evidence gate, provenance audit, SM-2 review. Zero external services, zero API keys.
-- **标签：** `memory`, `rag`, `local-first`
-- **推荐理由：** 本地优先的跨会话长期记忆，混合FTS5与向量检索。
+- **标签：** `memory`, `rag`, `embeddings`, `local-first`
+- **推荐理由：** 本地优先的跨会话长期记忆，混合检索保障证据可追溯。
 
 ---
 
