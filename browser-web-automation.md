@@ -10,21 +10,21 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 10,157
+- **⭐ Stars:** 10,163
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 - **Tags:** `browser-use`, `agent`, `automation`
-- **Why use it:** Let agents use your logged-in browser seamlessly without interrupting work.
+- **Why use it:** Controls real logged-in browsers safely for AI agents without interruption
 
 ---
 
-### [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
+### [liustack/modlens](https://github.com/liustack/modlens)
 
-- **⭐ Stars:** 4,631
-- **Language:** Swift
-- **Description:** Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
-- **Tags:** `iot`, `automation`, `esp32`
-- **Why use it:** Lets AI control a real iPhone via ESP32 — no Mac or developer account needed.
+- **⭐ Stars:** 4,846
+- **Language:** TypeScript
+- **Description:** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
+- **Tags:** `vision`, `ocr`, `multimodal`
+- **Why use it:** First vision bridge for text-only agents; paste images and get structured JSON evidence
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ Stars:** 124
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser`, `automation`, `playwright`
-- **Why use it:** Tabbit Browser integration for DeepSeek Harness with Playwright-based automation
+- **Tags:** `browser`, `playwright`, `automation`
+- **Why use it:** Playwright-based browser automation for DeepSeek Harness.
 
 ---
 

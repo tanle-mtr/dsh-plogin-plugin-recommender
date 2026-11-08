@@ -10,21 +10,21 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 10,157
+- **⭐ 星标：** 10,163
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 - **标签：** `browser-use`, `agent`, `automation`
-- **推荐理由：** 让AI无缝操作已登录浏览器，不中断工作。
+- **推荐理由：** 让AI安全操控真实登录态浏览器，不影响用户正常工作
 
 ---
 
-### [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
+### [liustack/modlens](https://github.com/liustack/modlens)
 
-- **⭐ 星标：** 4,631
-- **语言：** Swift
-- **描述：** Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
-- **标签：** `iot`, `automation`, `esp32`
-- **推荐理由：** 用ESP32让AI控制真实iPhone，无需Mac或开发者账号。
+- **⭐ 星标：** 4,846
+- **语言：** TypeScript
+- **描述：** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
+- **标签：** `vision`, `ocr`, `multimodal`
+- **推荐理由：** 首个文本代理视觉桥接插件，图片输入转结构化JSON证据
 
 ---
 
@@ -33,8 +33,8 @@
 - **⭐ 星标：** 124
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
-- **标签：** `browser`, `automation`, `playwright`
-- **推荐理由：** 基于Playwright的浏览器自动化插件，深度集成Tabbit
+- **标签：** `browser`, `playwright`, `automation`
+- **推荐理由：** 基于Playwright的浏览器自动化插件。
 
 ---
 
