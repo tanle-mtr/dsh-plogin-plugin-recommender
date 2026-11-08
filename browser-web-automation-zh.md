@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 3 个插件
+> 本分类共 5 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,23 +8,43 @@
 
 ## 插件列表
 
-### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
+### [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go)
 
-- **⭐ 星标：** 10,163
-- **语言：** TypeScript
-- **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `agent`, `automation`
-- **推荐理由：** 让AI安全操控真实登录态浏览器，不影响用户正常工作
+- **⭐ 星标：** 15,608
+- **语言：** Dart
+- **描述：** dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
+- **标签：** `android`, `mobile`, `remote-control`
+- **推荐理由：** 手机装下DSH，本机运行并远程遥控你的电脑。
 
 ---
 
-### [liustack/modlens](https://github.com/liustack/modlens)
+### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 4,846
+- **⭐ 星标：** 10,179
 - **语言：** TypeScript
-- **描述：** The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。
-- **标签：** `vision`, `ocr`, `multimodal`
-- **推荐理由：** 首个文本代理视觉桥接插件，图片输入转结构化JSON证据
+- **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
+- **标签：** `agent`, `browser-use`, `dsh-plugin`
+- **推荐理由：** 让AI代理使用你真实登录的浏览器，无缝自动化
+
+---
+
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+
+- **⭐ 星标：** 3,714
+- **语言：** Python
+- **描述：** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **标签：** `content-discovery`, `bilibili`, `youtube`, `cross-platform`
+- **推荐理由：** 本地私有的跨平台内容发现Agent，覆盖B站/YouTube等平台。
+
+---
+
+### [liustack/modsearch](https://github.com/liustack/modsearch)
+
+- **⭐ 星标：** 958
+- **语言：** TypeScript
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `web-search`, `free`, `no-signup`
+- **推荐理由：** 最强免费搜索插件，为所有模型提供网页搜索桥接。
 
 ---
 
@@ -34,7 +54,7 @@
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
 - **标签：** `browser`, `playwright`, `automation`
-- **推荐理由：** 基于Playwright的浏览器自动化插件。
+- **推荐理由：** 基于Playwright的浏览器自动化
 
 ---
 

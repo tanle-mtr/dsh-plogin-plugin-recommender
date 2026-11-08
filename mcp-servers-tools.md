@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 7 plugins in this category
+> 5 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,43 +8,33 @@
 
 ## Plugins
 
-### [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model)
+### [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 
-- **⭐ Stars:** 65,737
-- **Language:** JavaScript
-- **Description:** 在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.
-- **Tags:** `free-model`, `llm-provider`, `openai-compatible`
-- **Why use it:** Free unlimited access to top-tier models including DeepSeek V4.1 Flash.
-
----
-
-### [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill)
-
-- **⭐ Stars:** 561
-- **Language:** Python
-- **Description:** Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.
-- **Tags:** `multimodal`, `ocr`, `observability`
-- **Why use it:** Provides agents eyes ears via video audio OCR and timestamped verifiable evidence
-
----
-
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
-
-- **⭐ Stars:** 262
-- **Language:** JavaScript
-- **Description:** DSH plugin: skill and MCP management（skill/MCP管理工具）
-- **Tags:** `mcp`, `management`, `panel`
-- **Why use it:** Unified management panel for browsing and configuring DSH skills and MCP servers
-
----
-
-### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
-
-- **⭐ Stars:** 100
+- **⭐ Stars:** 36,787
 - **Language:** TypeScript
-- **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
-- **Tags:** `mcp`, `web-search`, `agent-skills`
-- **Why use it:** You.com powered MCP skills for web search, research, and finance.
+- **Description:** Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
+- **Tags:** `mcp-server`, `diagram-generator`, `draw-io`
+- **Why use it:** Chat-driven draw.io diagram editor with full MCP server support
+
+---
+
+### [wp-a/nature-academic-search](https://github.com/wp-a/nature-academic-search)
+
+- **⭐ Stars:** 378
+- **Language:** Python
+- **Description:** Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。
+- **Tags:** `research`, `academic`, `mcp`, `agent-skills`
+- **Why use it:** Cross-source academic search with citation verification and MeSH support
+
+---
+
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ Stars:** 76
+- **Language:** TypeScript
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `api-documentation`, `mcp`, `chinese-api`
+- **Why use it:** Searches 65k+ Chinese platform API docs directly in DSH/Cursor/Claude.
 
 ---
 
@@ -53,28 +43,18 @@
 - **⭐ Stars:** 70
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `huaweicloud`, `mcp`, `cloud`, `dsh-plugin`
-- **Why use it:** Official Huawei Cloud MCP toolkit — skills, guardrails, sandbox for deployment.
+- **Tags:** `huaweicloud`, `mcp`, `cloud`
+- **Why use it:** Official Huawei Cloud plugin with MCP tools, skills, and cloud sandbox.
 
 ---
 
 ### [fysh1010/mcp-server-fanqie](https://github.com/fysh1010/mcp-server-fanqie)
 
-- **⭐ Stars:** 55
+- **⭐ Stars:** 56
 - **Language:** JavaScript
 - **Description:** 番茄小说 MCP、独立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。
-- **Tags:** `mcp`, `reading`, `novel`, `dsh-plugins`
-- **Why use it:** Fanqie novel MCP + skill — search, read chapters, manage bookmarks and highlights.
-
----
-
-### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
-
-- **⭐ Stars:** 41
-- **Language:** JavaScript
-- **Description:** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
-- **Tags:** `chatgpt`, `oauth`, `plugin`
-- **Why use it:** OAuth integration lets you chat with ChatGPT models directly inside DSH seamlessly.
+- **Tags:** `mcp`, `novel`, `reading`
+- **Why use it:** Tomato Novel MCP server for book search, reading, and favorites management.
 
 ---
 
