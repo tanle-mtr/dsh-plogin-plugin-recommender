@@ -1,6 +1,6 @@
 # Memory & Knowledge (RAG)
 
-> 10 plugins in this category
+> 9 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,71 +10,61 @@
 
 ### [volcengine/OpenViking](https://github.com/volcengine/OpenViking)
 
-- **⭐ Stars:** 41,746
+- **⭐ Stars:** 41,748
 - **Language:** Python
 - **Description:** Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
-- **Tags:** `memory`, `RAG`, `vector-database`
-- **Why use it:** Self-evolving context database unifying agent memory and knowledge RAG
+- **Tags:** `rag`, `knowledge-base`, `vector-database`
+- **Why use it:** Self-evolving context database unifying agent memory, RAG, and knowledge management.
 
 ---
 
 ### [Tencent/WeKnora](https://github.com/Tencent/WeKnora)
 
-- **⭐ Stars:** 36,744
+- **⭐ Stars:** 36,745
 - **Language:** Go
 - **Description:** Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-- **Tags:** `RAG`, `knowledge-base`, `wiki`
-- **Why use it:** Production-grade LLM knowledge platform with RAG, reasoning and wiki features
-
----
-
-### [titanwings/distilly](https://github.com/titanwings/distilly)
-
-- **⭐ Stars:** 26,427
-- **Language:** Python
-- **Description:** Distilly — Distill how they think into reusable Skills for any Agent or Bot. Formerly Colleague Skill（原同事 Skill）.
-- **Tags:** `agent-skills`, `knowledge-distillation`, `dsh-plugin`
-- **Why use it:** Distill thinking patterns into reusable skills for any agent or bot.
+- **Tags:** `rag`, `knowledge-base`, `semantic-search`
+- **Why use it:** Enterprise-grade RAG knowledge platform with semantic search and self-maintaining wiki.
 
 ---
 
 ### [EverMind-AI/EverOS](https://github.com/EverMind-AI/EverOS)
 
-- **⭐ Stars:** 13,845
+- **⭐ Stars:** 13,846
 - **Language:** Python
 - **Description:** One portable memory layer for every AI agent: local-first, Markdown-native, user-owned, and self-evolving across apps, tools, and workflows.
-- **Tags:** `memory`, `rag`, `long-term-memory`
-- **Why use it:** Portable markdown-native memory layer that evolves across apps and workflows.
+- **Tags:** `memory-management`, `long-term-memory`, `rag`
+- **Why use it:** Portable, self-evolving memory layer for every AI agent.
 
 ---
 
 ### [MemTensor/MemOS](https://github.com/MemTensor/MemOS)
 
-- **⭐ Stars:** 12,314
+- **⭐ Stars:** 12,316
 - **Language:** TypeScript
 - **Description:** Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
-- **Tags:** `memory`, `rag`, `token-savings`
-- **Why use it:** Self-evolving memory OS with hybrid retrieval and 35% token savings for agents.
+- **Tags:** `memory-os`, `token-savings`, `skill-reuse`
+- **Why use it:** Self-evolving memory OS with hybrid retrieval and token savings.
 
 ---
 
 ### [plastic-labs/honcho](https://github.com/plastic-labs/honcho)
 
-- **⭐ Stars:** 8,003
+- **⭐ Stars:** 8,005
 - **Language:** Python
 - **Description:**  Memory library for building stateful agents
-- **Tags:** `memory`, `rag`, `stateful`
-- **Why use it:** Essential memory library for building stateful agents
+- **Tags:** `memory`, `continual-learning`, `stateful`
+- **Why use it:** Robust memory library enabling continual learning for stateful agents.
 
 ---
 
-### [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context)
+### [omdsh-dev/dsh-mnemon](https://github.com/omdsh-dev/dsh-mnemon)
 
-- **⭐ Stars:** 4,548
+- **⭐ Stars:** 919
 - **Language:** TypeScript
-- **Description:** The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。
-- **Tags:** `context`, `dashboard`, `management`, `dsh-plugin`
-- **Why use it:** Comprehensive context dashboard, browser, and management tools.
+- **Description:** Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.
+- **Tags:** `memory`, `context-management`, `semantic-recall`
+- **Why use it:** Composable long-term memory with pluggable sources and semantic recall.
 
 ---
 
@@ -83,8 +73,8 @@
 - **⭐ Stars:** 699
 - **Language:** Python
 - **Description:** Open-source infrastructure that turns scattered SKILL.md files into curated, retrieval-ready agent-skill corpora—with retrieval and evaluation tooling included.
-- **Tags:** `rag`, `skill`, `retrieval`, `embeddings`
-- **Why use it:** Transforms scattered SKILL.md files into curated, searchable agent-skill corpora.
+- **Tags:** `rag`, `skill-retrieval`, `knowledge`
+- **Why use it:** Turns scattered SKILL.md files into searchable, eval-ready corpora.
 
 ---
 
@@ -93,18 +83,18 @@
 - **⭐ Stars:** 377
 - **Language:** TypeScript
 - **Description:** Cross-session memory plugin for DeepSeek Harness: seven-layer SQLite store (soul/user/project/fact/lesson/topic/rules), BM25 retrieval, per-window dream consolidation. 跨会话七层长期记忆插件。
-- **Tags:** `memory`, `rag`, `sqlite`, `bm25`
-- **Why use it:** Seven-layer SQLite memory store with BM25 retrieval and per-window deduplication.
+- **Tags:** `memory`, `rag`
+- **Why use it:** Seven-layer SQLite cross-session memory with BM25 retrieval for persistent context
 
 ---
 
-### [kenz1117/dsh-engram](https://github.com/kenz1117/dsh-engram)
+### [Aik358/dsh-auto-memory](https://github.com/Aik358/dsh-auto-memory)
 
-- **⭐ Stars:** 65
-- **Language:** TypeScript
-- **Description:** Local-first cross-session long-term memory for DeepSeek Harness — 22 narrow tools, hybrid FTS5 + local-vector retrieval, evidence gate, provenance audit, SM-2 review. Zero external services, zero API keys.
-- **Tags:** `memory`, `rag`, `embeddings`, `local-first`
-- **Why use it:** Local-first cross-session memory with hybrid FTS5 + vector retrieval.
+- **⭐ Stars:** 191
+- **Language:** JavaScript
+- **Description:** Proactive associative memory for DSH: system-prompt recall before the model speaks, three-layer auto-consolidation, skill crystallization, and Astra-style context management - handoff ledgers, PLAN whiteboard, water-level sensing. Local-first, model-agnostic, zero deps. 事件驱动的主动联想记忆+Astra 式上下文管理：自动唤回/自动沉淀/技能固化/交接账本与白板跨窗口续命/水位感知。
+- **Tags:** `memory`, `context`, `knowledge`
+- **Why use it:** Proactive associative memory with three-layer auto-consolidation and skill crystallization
 
 ---
 

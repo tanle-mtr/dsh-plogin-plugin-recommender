@@ -8,33 +8,33 @@
 
 ## 插件列表
 
-### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
-
-- **⭐ 星标：** 10,205
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
-- **标签：** `web`, `marketplace`, `dsh-plugin`
-- **推荐理由：** DSH网页端插件聚合生态，创意工坊分发模式。
-
----
-
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 10,158
+- **⭐ 星标：** 10,157
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 - **标签：** `browser-use`, `agent`, `automation`
-- **推荐理由：** 让AI代理无缝使用真实登录浏览器
+- **推荐理由：** 让AI无缝操作已登录浏览器，不中断工作。
 
 ---
 
-### [guzhou079-arch/deepseek-harness-android](https://github.com/guzhou079-arch/deepseek-harness-android)
+### [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent)
 
-- **⭐ 星标：** 79
-- **语言：** Java
-- **描述：** 把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配电脑，读屏/点按/虚拟屏/定时任务和整套技能都随包；它还能在手机上自己编译、打包、签名、发布。 Android APK for DeepSeek Harness — no Termux, no root, no PC. Screen control, virtual display, scheduled tasks and bundled skills out of the box; it builds, signs and releases itself on the phone.
-- **标签：** `android`, `apk`, `screen-automation`
-- **推荐理由：** 无需root的DSH安卓APK，支持读屏点按自动化
+- **⭐ 星标：** 4,631
+- **语言：** Swift
+- **描述：** Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.
+- **标签：** `iot`, `automation`, `esp32`
+- **推荐理由：** 用ESP32让AI控制真实iPhone，无需Mac或开发者账号。
+
+---
+
+### [Tabbit-Browser/dsh-tabbit](https://github.com/Tabbit-Browser/dsh-tabbit)
+
+- **⭐ 星标：** 124
+- **语言：** TypeScript
+- **描述：** Tabbit Browser plugins for Deepseek Harness
+- **标签：** `browser`, `automation`, `playwright`
+- **推荐理由：** 基于Playwright的浏览器自动化插件，深度集成Tabbit
 
 ---
 
