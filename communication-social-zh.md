@@ -1,6 +1,6 @@
 # 通信与社交
 
-> 本分类共 4 个插件
+> 本分类共 6 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -8,33 +8,53 @@
 
 ## 插件列表
 
+### [yikart/AiToEarn](https://github.com/yikart/AiToEarn)
+
+- **⭐ 星标：** 27,530
+- **语言：** TypeScript
+- **描述：** Let's use AI to Earn!
+- **标签：** `auto-publish`, `social-media`, `dsh-plugin`
+- **推荐理由：** AI自动发布到抖音、快手、小红书等主流社交平台。
+
+---
+
 ### [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot)
 
-- **⭐ 星标：** 6,413
+- **⭐ 星标：** 6,570
 - **语言：** JavaScript
 - **描述：** A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
-- **标签：** `bots`, `multi-agent`, `communication`
-- **推荐理由：** 多代理团队，支持持久存在和群组聊天通信
+- **标签：** `bot`, `multi-agent`, `dsh-plugin`
+- **推荐理由：** 持久化多代理机器人团队，支持群聊。
+
+---
+
+### [BotHarness/DeepSeekBot](https://github.com/BotHarness/DeepSeekBot)
+
+- **⭐ 星标：** 754
+- **语言：** TypeScript
+- **描述：** Open-source GrokBot alternative built on DeepSeek Harness. Build your personal bot team: multiple personal agents with persistent memory, identities and permissions, extensible through DSH plugins.｜基于 DeepSeek Harness 的开源 GrokBot 平替：有长期记忆的个人 AI Bot 团队，支持多 Bot 协作、身份权限与插件生态扩展。MIT.
+- **标签：** `bot-marketplace`, `multi-agent`, `wechat-bot`
+- **推荐理由：** 支持多平台建队，持久记忆的个人 bot 团队
 
 ---
 
 ### [yyh-001/dsh-meme](https://github.com/yyh-001/dsh-meme)
 
-- **⭐ 星标：** 542
+- **⭐ 星标：** 545
 - **语言：** JavaScript
 - **描述：** DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.
-- **标签：** `meme`, `communication`, `social`, `qq-bot`
-- **推荐理由：** 一键表情包选择器，支持自动学习和情绪触发发送。
+- **标签：** `meme`, `qq-bot`, `selfloom`
+- **推荐理由：** 一键发图斗图，表情包自动生成与图库市场
 
 ---
 
 ### [rentaoyan0628-collab/dsh-qq-bot-playbook](https://github.com/rentaoyan0628-collab/dsh-qq-bot-playbook)
 
-- **⭐ 星标：** 78
+- **⭐ 星标：** 79
 - **语言：** Unknown
 - **描述：** 在 DeepSeek Harness 上搭一只像人的 QQ bot——可复用的 skill 与设计笔记
-- **标签：** `qq-bot`, `communication`, `skill`, `playbook`
-- **推荐理由：** 基于 DSH 搭建拟人化 QQ 机器人的经验与笔记。
+- **标签：** `qq-bot`, `communication`, `playbook`
+- **推荐理由：** 基于可复用技能的拟人化QQ机器人设计与实现指南
 
 ---
 
@@ -43,8 +63,8 @@
 - **⭐ 星标：** 3
 - **语言：** JavaScript
 - **描述：** 把「社区」装进 DSH：一个类 Discord 的社区插件 —— 在 DeepSeek Harness 面板内实时聊天、@ 提醒、贴图传文件、管理成员与权限。
-- **标签：** `awesome-dsh-plugin`, `deepseek-harness`, `dsh-guild`
-- **推荐理由：** 在DSH面板内实现类Discord社区聊天功能
+- **标签：** `community`, `chat`, `dsh-plugin`
+- **推荐理由：** DSH内实时聊天、@提醒和文件共享的类Discord社区插件。
 
 ---
 
