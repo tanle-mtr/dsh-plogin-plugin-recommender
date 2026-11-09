@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 3 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,21 +10,31 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 10,189
+- **⭐ Stars:** 10,202
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
 - **Tags:** `browser-use`, `agent`, `automation`
-- **Why use it:** Seamlessly connects AI agents to your logged-in browser without disruption.
+- **Why use it:** Lets AI agents use your real logged-in browser seamlessly
+
+---
+
+### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+
+- **⭐ Stars:** 3,716
+- **Language:** Python
+- **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **Tags:** `content-discovery`, `cross-platform`, `privacy-first`
+- **Why use it:** Self-evolving cross-platform content discovery agent covering Bilibili, YouTube, Reddit, Xiaohongshu etc.
 
 ---
 
 ### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
 
-- **⭐ Stars:** 377
+- **⭐ Stars:** 393
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios`, `automation`, `simulator`
-- **Why use it:** Live iOS Simulator + USB iPhone automation with 22 agent tools — no separate Xcode session needed.
+- **Tags:** `ios`, `automation`, `webdriveragent`
+- **Why use it:** Live iOS Simulator inside DSH with 22 automation tools.
 
 ---
 
@@ -33,8 +43,8 @@
 - **⭐ Stars:** 124
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser`, `playwright`, `auto mation`
-- **Why use it:** Playwright-based browser automation plugin pack for DSH
+- **Tags:** `browser`, `playwright`, `automation`
+- **Why use it:** Playwright-based browser automation plugin for DeepSeek Harness
 
 ---
 
