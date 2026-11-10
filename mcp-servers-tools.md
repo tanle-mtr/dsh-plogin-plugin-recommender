@@ -1,6 +1,6 @@
 # MCP Servers & Tools
 
-> 3 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,13 +8,33 @@
 
 ## Plugins
 
+### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
+
+- **⭐ Stars:** 267
+- **Language:** JavaScript
+- **Description:** DSH plugin: skill and MCP management（skill/MCP管理工具）
+- **Tags:** `dsh-plugin`, `mcp`, `plugin`, `skills`
+- **Why use it:** Centralized skill and MCP server management dashboard for DSH.
+
+---
+
 ### [youdotcom-oss/agent-skills](https://github.com/youdotcom-oss/agent-skills)
 
 - **⭐ Stars:** 101
 - **Language:** TypeScript
 - **Description:** You.com skills and plugins for web search, content extraction, research, finance, and integration discovery, helping AI agents build with up-to-date web context.
-- **Tags:** `mcp-server`, `web-search`, `integration-discovery`
-- **Why use it:** You.com web search and integration discovery skills for agents
+- **Tags:** `web-search`, `mcp`, `research`
+- **Why use it:** Provides web search, finance, and research MCP skills backed by You.com data integrations.
+
+---
+
+### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
+
+- **⭐ Stars:** 77
+- **Language:** TypeScript
+- **Description:** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配置，支持 Skill 与 DSH 原生插件。
+- **Tags:** `api-docs`, `mcp`, `chinese-api`
+- **Why use it:** Zero-config search for 65K+ Chinese platform API docs in any agent.
 
 ---
 
@@ -23,18 +43,8 @@
 - **⭐ Stars:** 70
 - **Language:** JavaScript
 - **Description:**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **Tags:** `huaweicloud`, `mcp`, `cloud`
-- **Why use it:** Official Huawei Cloud toolkit providing MCP tools, skills, and cloud sandbox.
-
----
-
-### [fysh1010/mcp-server-fanqie](https://github.com/fysh1010/mcp-server-fanqie)
-
-- **⭐ Stars:** 56
-- **Language:** JavaScript
-- **Description:** 番茄小说 MCP、独立 Skill 与 DeepSeek Harness 阅读插件，支持搜书、阅读官网可见章节，以及查看本人书架和收藏划线。
-- **Tags:** `mcp`, `novel`, `reading`
-- **Why use it:** Fanqie novel reading MCP with book search, chapter access, and personal library features.
+- **Tags:** `huawei-cloud`, `mcp`, `official-plugin`
+- **Why use it:** Official Huawei Cloud plugin with skills, MCP tools & sandbox.
 
 ---
 
