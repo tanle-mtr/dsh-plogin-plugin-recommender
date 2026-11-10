@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 5 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -8,33 +8,33 @@
 
 ## Plugins
 
-### [zhu1090093659/dsh-web](https://github.com/zhu1090093659/dsh-web)
-
-- **⭐ Stars:** 10,280
-- **Language:** TypeScript
-- **Description:** DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop
-- **Tags:** `web`, `marketplace`, `dsh-plugin`
-- **Why use it:** Web-based DSH plugin ecosystem — browse community plugins distributed via creative workshop.
-
----
-
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 10,236
+- **⭐ Stars:** 10,260
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `agent`, `browser-use`
-- **Why use it:** Seamless browser automation for AI agents without interrupting your workflow.
+- **Tags:** `browser-use`, `automation`, `agent`
+- **Why use it:** Connects AI agents to your logged-in browser seamlessly.
 
 ---
 
 ### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
 
-- **⭐ Stars:** 3,723
+- **⭐ Stars:** 3,728
 - **Language:** Python
-- **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `bilibili`, `cross-platform`
-- **Why use it:** Cross-platform AI content discovery from Bilibili, YouTube, Reddit etc.
+- **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web ���找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
+- **Tags:** `content-discovery`, `cross-platform`, `ai-agent`
+- **Why use it:** Local-first cross-platform content discovery agent from Bilibili, YouTube, X etc.
+
+---
+
+### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
+
+- **⭐ Stars:** 454
+- **Language:** TypeScript
+- **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
+- **Tags:** `ios`, `mobile-automation`, `webdriveragent`
+- **Why use it:** Live iOS Simulator + USB phone automation via 22 agent tools inside DSH.
 
 ---
 
@@ -43,18 +43,8 @@
 - **⭐ Stars:** 124
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser`, `playwright`, `automation`
-- **Why use it:** Tabbit Browser automation plugins for DSH agents.
-
----
-
-### [guzhou079-arch/deepseek-harness-android](https://github.com/guzhou079-arch/deepseek-harness-android)
-
-- **⭐ Stars:** 86
-- **Language:** Java
-- **Description:** 把 DeepSeek Harness 打包成能直接装的安卓 APK：不用 Termux、不用 root、不用配电脑，读屏/点按/虚拟屏/定时任务和整套技能都随包；它还能在手机上自己编译、打包、签名、发布。 Android APK for DeepSeek Harness — no Termux, no root, no PC. Screen control, virtual display, scheduled tasks and bundled skills out of the box; it builds, signs and releases itself on the phone.
-- **Tags:** `android`, `mobile`, `screen-automation`, `local-first`
-- **Why use it:** Packages DSH as a no-root Android APK with screen automation and local-on-device AI execution.
+- **Tags:** `browser`, `automation`, `playwright`, `web`
+- **Why use it:** Tabbit browser automation plugins with Playwright integration for DSH
 
 ---
 
