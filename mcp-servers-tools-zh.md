@@ -8,43 +8,33 @@
 
 ## 插件列表
 
-### [oxbshw/watch-skill](https://github.com/oxbshw/watch-skill)
+### [iflytek/skillhub](https://github.com/iflytek/skillhub)
 
-- **⭐ 星标：** 566
-- **语言：** Python
-- **描述：** Give AI agents eyes, ears, and verifiable results. Watch Skill turns video, audio and screen activity into searchable, timestamped evidence and proves work with deterministic contracts, not model opinion. DeepWatch is the agent workspace built on DeepSeek Harness. Python + npm, MCP, CLI, REST, Web.
-- **标签：** `computer-vision`, `mcp`, `video-analysis`, `ocr`
-- **推荐理由：** 计算机视觉MCP技能，将音视频和屏幕活动转为可检索的时间戳证据
-
----
-
-### [Fishquito7/dsh-skill-mcp-panel](https://github.com/Fishquito7/dsh-skill-mcp-panel)
-
-- **⭐ 星标：** 267
-- **语言：** JavaScript
-- **描述：** DSH plugin: skill and MCP management（skill/MCP管理工具）
-- **标签：** `mcp`, `skill-management`, `dashboard`
-- **推荐理由：** 统一的Skill和MCP服务器管理面板
+- **⭐ 星标：** 5,388
+- **语言：** Java
+- **描述：** Self-hosted, open-source agent skill registry for enterprises. Publish & version skill packages, govern with RBAC and audit logs, deploy   on-premise with Docker or Kubernetes.
+- **标签：** `skill-registry`, `enterprise`, `rbac`
+- **推荐理由：** 企业级自托管技能注册中心，支持RBAC和审计日志
 
 ---
 
-### [2026heshao/dsh-armory](https://github.com/2026heshao/dsh-armory)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ 星标：** 105
-- **语言：** JavaScript
-- **描述：** All-in-one board for DeepSeek Harness: MCP manager + Skills + WorkBuddy experts (attach/switch/detach any time) + tool-usage tailor + three direct markets (WorkBuddy connectors, SkillHub 190k+ skills) with one-click install · DSH 一体化看板：MCP/技能/专家随时挂换/工具账本/���大市场直连安装
-- **标签：** `dashboard`, `mcp-market`, `plugin-manager`, `skill-manager`
-- **推荐理由：** 一站式仪表盘，统一管理MCP、技能和WorkBuddy专家。
-
----
-
-### [wxkingstar/SpecFusion](https://github.com/wxkingstar/SpecFusion)
-
-- **⭐ 星标：** 77
+- **⭐ 星标：** 967
 - **语言：** TypeScript
-- **描述：** 在 DeepSeek Harness / Claude Code / Cursor / Codex / Gemini CLI 里直接搜索 20 个中国开放平台的 65,600+ 篇 API 文档；零配��，支持 Skill 与 DSH 原生插件。
-- **标签：** `dsh-plugin`, `api-documentation`
-- **推荐理由：** IDE内直搜6万+中国开放平台API文档
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（��索、抓取、引用）。
+- **标签：** `web-search`, `free`, `no-signup`
+- **推荐理由：** 免费网络搜索桥接，无需注册或API。
+
+---
+
+### [Yourdaylight/stock_datasource](https://github.com/Yourdaylight/stock_datasource)
+
+- **⭐ 星标：** 198
+- **语言：** Python
+- **描述：** 基于tushare构建本地财经数据库。AI原生的多Agent金融分析系统，支持skill拓展Agent能力并自适应生成http接口与mcp调用。支持本地数据库访问的skill对接deepseek-harness/openclaw等通用智能体与微信/QQ/飞书等IM通道盯盘
+- **标签：** `finance`, `mcp`, `database`, `multi-agent`
+- **推荐理由：** 本地财经数据源，支持MCP多Agent金融分析
 
 ---
 
@@ -53,8 +43,18 @@
 - **⭐ 星标：** 70
 - **语言：** JavaScript
 - **描述：**  Official Huawei Cloud plugin for AI agents — skills, MCP tools, safety guardrails, and cloud sandbox to help AI agents build, deploy, and operate on Huawei Cloud securely.
-- **标签：** `dsh-plugin`, `cloud`, `mcp`
-- **推荐理由：** 华为云官方插件，含MCP工具和云端沙箱
+- **标签：** `cloud`, `mcp`, `huawei`, `terraform`
+- **推荐理由：** 华为云官方插件，提供技能、MCP工具与云端沙箱。
+
+---
+
+### [songoao25/dsh-chatgpt-sub](https://github.com/songoao25/dsh-chatgpt-sub)
+
+- **⭐ 星标：** 46
+- **语言：** JavaScript
+- **描述：** ChatGPT Subscription - a DeepSeek Harness plugin: bind your ChatGPT account via official OAuth and chat with ChatGPT models inside DSH, using your Plus/Pro subscription quota
+- **标签：** `chatgpt`, `oauth`, `subscription`, `javascript`
+- **推荐理由：** OAuth绑定ChatGPT账户，在DSH中直接使用其模型。
 
 ---
 
