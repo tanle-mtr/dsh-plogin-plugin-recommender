@@ -1,6 +1,6 @@
 # Browser & Web Automation
 
-> 5 plugins in this category
+> 4 plugins in this category
 
 *Auto-generated from [DSH Plugin Recommender](README.md) — updated hourly by AI*
 
@@ -10,31 +10,21 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ Stars:** 10,285
+- **⭐ Stars:** 10,288
 - **Language:** TypeScript
 - **Description:** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **Tags:** `agent`, `browser-use`, `dsh-plugin`
-- **Why use it:** Seamless logged-in browser automation for AI agents across any shell.
+- **Tags:** `browser-use`, `agent`, `dsh-plugin`
+- **Why use it:** Log in browser for agents without interrupting your workflow. Very practical.
 
 ---
 
-### [whiteguo233/OpenBiliClaw](https://github.com/whiteguo233/OpenBiliClaw)
+### [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote)
 
-- **⭐ Stars:** 3,731
-- **Language:** Python
-- **Description:** 本地私有、开源的自进化跨平台 AI 内容发现 Agent：先理解你，再主动从 B站、小红书、抖音、YouTube、X、知乎、Reddit、微博等平台与开放 Web 寻找内容。（支持 deepseek harness 插件） | Local-first open-source cross-platform AI content discovery agent: understands you, then proactively finds content across Bilibili, Xiaohongshu, Douyin, YouTube, X, Zhihu, Reddit, Weibo and the open web.（support deepseek harness plugin）
-- **Tags:** `content-discovery`, `browser`, `multi-platform`
-- **Why use it:** Cross-platform content discovery from B站, YouTube, Reddit and more
-
----
-
-### [urzeye/ophel](https://github.com/urzeye/ophel)
-
-- **⭐ Stars:** 1,023
+- **⭐ Stars:** 2,532
 - **Language:** TypeScript
-- **Description:** Turn AI conversations into organized, reusable workflows — across major AI platforms. | 把 AI 对话转化为可组织、可复用的工作流，适用于主流 AI 平台
-- **Tags:** `browser-extension`, `workflow`, `productivity`
-- **Why use it:** Chrome extension turning AI chats into organized reusable workflows.
+- **Description:** 基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web ��时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)
+- **Tags:** `remote-access`, `p2p`, `encryption`
+- **Why use it:** Low-latency encrypted P2P access to DSH workspaces from any device remotely.
 
 ---
 
@@ -43,8 +33,8 @@
 - **⭐ Stars:** 454
 - **Language:** TypeScript
 - **Description:** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **Tags:** `ios-simulator`, `mobile-automation`, `webdriveragent`, `ui-automation`
-- **Why use it:** Live iOS Simulator integration with 22 device control tools
+- **Tags:** `ios`, `automation`, `mcp`
+- **Why use it:** Live iOS Simulator with 22 agent tools for building and driving apps in-chat
 
 ---
 
@@ -53,7 +43,7 @@
 - **⭐ Stars:** 126
 - **Language:** TypeScript
 - **Description:** Tabbit Browser plugins for Deepseek Harness
-- **Tags:** `browser-automation`, `playwright`, `tabbit`
+- **Tags:** `browser-automation`, `playwright`
 - **Why use it:** Playwright-based browser automation for DSH with Tabbit integration.
 
 ---
