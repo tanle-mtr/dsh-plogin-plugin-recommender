@@ -1,6 +1,6 @@
 # 浏览器与 Web 自动化
 
-> 本分类共 4 个插件
+> 本分类共 3 个插件
 
 *由 AI 自动生成，每小时更新 · 来源：[DSH 插件推荐列表](README-zh.md)*
 
@@ -10,31 +10,21 @@
 
 ### [Tencent/BrowserSkill](https://github.com/Tencent/BrowserSkill)
 
-- **⭐ 星标：** 10,288
+- **⭐ 星标：** 10,294
 - **语言：** TypeScript
 - **描述：** Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-- **标签：** `browser-use`, `agent`, `dsh-plugin`
-- **推荐理由：** 让AI代理使用已登录浏览器，不打断用户工作，实用性强。
+- **标签：** `browser-use`, `automation`, `agent`
+- **推荐理由：** 让AI代理无缝操控你的已登录浏览器，无需中断工作。
 
 ---
 
-### [liguobao/ds-harness-remote](https://github.com/liguobao/ds-harness-remote)
+### [liustack/modsearch](https://github.com/liustack/modsearch)
 
-- **⭐ 星标：** 2,532
+- **⭐ 星标：** 969
 - **语言：** TypeScript
-- **描述：** 基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web ��时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)
-- **标签：** `remote-access`, `p2p`, `encryption`
-- **推荐理由：** 低延迟端到端加密P2P远程访问，多端协同。
-
----
-
-### [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios)
-
-- **⭐ 星标：** 454
-- **语言：** TypeScript
-- **描述：** DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.
-- **标签：** `ios`, `automation`, `mcp`
-- **推荐理由：** 对话内运行iOS模拟器，22个自动化控制工具
+- **描述：** 🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。
+- **标签：** `web-search`, `free`, `utility`
+- **推荐理由：** 最强免费网络搜索桥接插件，无需注册
 
 ---
 
@@ -44,7 +34,7 @@
 - **语言：** TypeScript
 - **描述：** Tabbit Browser plugins for Deepseek Harness
 - **标签：** `browser-automation`, `playwright`
-- **推荐理由：** 基于 Playwright 的浏览器自动化工具，支持 Tabbit 集成。
+- **推荐理由：** 基于Playwright的浏览器自动化插件，适合网页操作场景。
 
 ---
 
